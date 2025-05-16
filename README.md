@@ -28,10 +28,8 @@ conda activate matuq
 ```
 
 ## Data Processing and Preparation
-MatUQ leverages datasets from six materials databases. To prepare datasets:
-1. Download the datasets as specified in the paper.
-2. Preprocess the datasets using provided utilities:
-```bash
+MatUQ leverages datasets from six materials databases. 
+
 ```
 
 ## Running Experiments
