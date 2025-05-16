@@ -1,4 +1,4 @@
-name: omumbdmn
+name: matuq
 channels:
   - nvidia
   - conda-forge
@@ -121,4 +121,3 @@ dependencies:
       - werkzeug==3.0.6
       - wrapt==1.17.2
       - zipp==3.20.2
-prefix: /home/tanliqin/anaconda3/envs/omumbdmn
