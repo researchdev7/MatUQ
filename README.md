@@ -3,13 +3,6 @@
 ## Overview
 MatUQ is a comprehensive benchmark framework designed for evaluating Graph Neural Networks (GNNs) on out-of-distribution (OOD) materials property prediction tasks with uncertainty quantification (UQ). This repository provides implementations and evaluation scripts described in the MatUQ paper.
 
-## Paper Abstract
-We present **MatUQ**, a benchmark framework for evaluating graph neural networks (GNNs) on out-of-distribution (OOD) materials property prediction with uncertainty quantification (UQ). MatUQ comprises 1,375 OOD prediction tasks constructed from six materials datasets using five OFM-based and a newly proposed structure-aware splitting strategy, SOAP-LOCO, which captures local atomic environments more effectively. We evaluated 12 representative GNN models under a unified uncertainty-aware training protocol combining Monte Carlo Dropout (MCD) and Deep Evidential Regression (DER). We further introduce a novel uncertainty metric, D-EviU, which shows the strongest correlation with prediction errors in most tasks. Our experiments yield two key findings:
-- The uncertainty-aware training approach significantly improves model prediction accuracy, reducing errors by up to \[70.6\%\] across challenging OOD scenarios.
-- No single model universally dominates: earlier models like SchNet and ALIGNN remain competitive, while newer models like CrystalFramer and SODNet demonstrate superior performance on specific material properties.
-
-These results provide practical insights for selecting reliable models under distribution shifts in materials discovery.
-
 ## Repository Structure
 ```
 MatUQ/
