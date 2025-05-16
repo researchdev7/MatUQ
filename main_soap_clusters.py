@@ -514,7 +514,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="OOD MatBench with UQ")
     parser.add_argument("--task", default="dielectric", type=str, help="dielectric, elasticity, perovskites, jdft2d, supercon3d, mp_gap")
     parser.add_argument("--feature", default="soap", type=str, help="soap, ofm")
-    parser.add_argument("--n_cluster", default=50, type=int, help="5,10,20,30,40,50")
+    parser.add_argument("--n_cluster", default=40, type=int, help="5,10,20,30,40,50")
     parser.add_argument("--data_path", default="./data", type=str, help="path to data")
     parser.add_argument("--config_path", default="config.yml", type=str, help="path to config file")
     parser.add_argument("--model", default="CGCNN", type=str, help="CGCNN, SchNet, MEGNet, DeeperGATGNN,"
