@@ -14,6 +14,7 @@ MatUQ/
 ├── main_soap_clusters_tf.py    # Tensor-based SOAP-LOCO implementation
 ├── config.yml                  # Configuration file for experiment settings
 ├── environment.yml             # Conda environment file for dependency management
+...
 ```
 
 ## Installation
