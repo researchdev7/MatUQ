@@ -19,11 +19,6 @@ MatUQ/
 
 ## Installation
 
-### Clone the Repository
-```bash
-git clone https://github.com/Sysuzqs/MatUQ.git
-cd MatUQ
-```
 
 ### Set Up the Environment
 We recommend using Conda to manage dependencies and environments:
