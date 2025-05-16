@@ -419,24 +419,6 @@ if __name__ == '__main__':
                         "average_decay": 0.999
                     }
                 }
-                # optimizer = {
-                #     "class_name": "Addons>MovingAverage",
-                #     "config": {
-                #         "optimizer": {
-                #             "class_name": "Adam",
-                #             "config": {
-                #                 "learning_rate": {
-                #                     "class_name": "kgcnn>LinearWarmupExponentialDecay",
-                #                     "config": {
-                #                         "learning_rate": 0.001, "warmup_steps": 10.0, "decay_steps": 10.0,
-                #                         "decay_rate": 0.01
-                #                     }
-                #                 }, "amsgrad": True
-                #             }
-                #         },
-                #         "average_decay": 0.999
-                #     }
-                # }
 
                 model.compile(
                     loss=evidential_regresssion_loss,
@@ -475,106 +457,101 @@ if __name__ == '__main__':
                 )
 
                 # Test the best model
-                # print('---------Evaluate Model on Test Set---------------')
-                # model.load_weights(checkpoint_path)  # Load best weights
-                # # test data
-                # test_inputs = [crystals[cif_to_index[str(i)]] for i in test_index if str(i) in cif_to_index]
-                # test_outputs = [targets[cif_to_index[str(i)]] for i in test_index if str(i) in cif_to_index]
-                # test_ids = [i for i in test_index if str(i) in cif_to_index]
-                # data_test = CrystalDataset()
-                # data_test._map_callbacks(test_inputs, pd.Series(np.zeros(len(test_inputs))), callbacks)
-                # print("Making graph... (this may take a while)")
-                # data_test.set_methods(methods)
-                # #removed = data_test.clean(inputs)
-                # x_test = data_test.tensor(inputs)
-                # y_test = tf.convert_to_tensor(test_outputs, dtype=tf.float32)
-                # #indices_test = [j for j in range(len(test_inputs))]
-                # #for j in removed:
-                # #    indices_test.pop(j)
-                # #predictions = np.expand_dims(np.zeros(len(test_inputs), dtype="float"), axis=-1)
-                # #predictions[np.array(indices_test)] = predictions_model
-                # (mae_error, mc_mae_error, mc_uncert_error, uncert_error, epi_uncert_error, ale_uncert_error,
-                #  mc_der_uncert_error, mc_der_uncert_e_error, mc_der_uncert_a_error) = validate(x_test, y_test, test_ids,
-                #                                                                                model, scaler, save_dir)
+                print('---------Evaluate Model on Test Set---------------')
+                model.load_weights(checkpoint_path)  # Load best weights
+                # test data
+                test_inputs = [crystals[cif_to_index[str(i)]] for i in test_index if str(i) in cif_to_index]
+                test_outputs = [targets[cif_to_index[str(i)]] for i in test_index if str(i) in cif_to_index]
+                test_ids = [i for i in test_index if str(i) in cif_to_index]
+                data_test = CrystalDataset()
+                data_test._map_callbacks(test_inputs, pd.Series(np.zeros(len(test_inputs))), callbacks)
+                print("Making graph... (this may take a while)")
+                data_test.set_methods(methods)
+                #removed = data_test.clean(inputs)
+                x_test = data_test.tensor(inputs)
+                y_test = tf.convert_to_tensor(test_outputs, dtype=tf.float32)
+                (mae_error, mc_mae_error, mc_uncert_error, uncert_error, epi_uncert_error, ale_uncert_error,
+                 mc_der_uncert_error, mc_der_uncert_e_error, mc_der_uncert_a_error) = validate(x_test, y_test, test_ids,
+                                                                                               model, scaler, save_dir)
 
-            # mae_errors.append(mae_error)
-            # uncert_errors.append(uncert_error)
-            # epi_uncert_errors.append(epi_uncert_error)
-            # ale_uncert_errors.append(ale_uncert_error)
-            #
-            # mc_mae_errors.append(mc_mae_error)
-            # mc_uncert_errors.append(mc_uncert_error)
-            # mc_der_uncert_errors.append(mc_der_uncert_error)
-            # mc_der_uncert_a_errors.append(mc_der_uncert_a_error)
-            # mc_der_uncert_e_errors.append(mc_der_uncert_e_error)
+            mae_errors.append(mae_error)
+            uncert_errors.append(uncert_error)
+            epi_uncert_errors.append(epi_uncert_error)
+            ale_uncert_errors.append(ale_uncert_error)
+            
+            mc_mae_errors.append(mc_mae_error)
+            mc_uncert_errors.append(mc_uncert_error)
+            mc_der_uncert_errors.append(mc_der_uncert_error)
+            mc_der_uncert_a_errors.append(mc_der_uncert_a_error)
+            mc_der_uncert_e_errors.append(mc_der_uncert_e_error)
 
-    #     mae_errors = tf.reshape(tf.stack(mae_errors), [-1]).numpy().tolist()
-    #     uncert_errors = tf.reshape(tf.stack(uncert_errors), [-1]).numpy().tolist()
-    #     epi_uncert_errors = tf.reshape(tf.stack(epi_uncert_errors), [-1]).numpy().tolist()
-    #     ale_uncert_errors = tf.reshape(tf.stack(ale_uncert_errors), [-1]).numpy().tolist()
-    #     mc_mae_errors = tf.reshape(tf.stack(mc_mae_errors), [-1]).numpy().tolist()
-    #     mc_uncert_errors = tf.reshape(tf.stack(mc_uncert_errors), [-1]).numpy().tolist()
-    #     mc_der_uncert_errors = tf.reshape(tf.stack(mc_der_uncert_errors), [-1]).numpy().tolist()
-    #     mc_der_uncert_a_errors = tf.reshape(tf.stack(mc_der_uncert_a_errors), [-1]).numpy().tolist()
-    #     mc_der_uncert_e_errors = tf.reshape(tf.stack(mc_der_uncert_e_errors), [-1]).numpy().tolist()
-    #
-    #
-    #     mae = np.array(mae_errors, dtype=float).mean()
-    #     mae_std = np.array(mae_errors, dtype=float).std()
-    #     uncertainty = np.array(uncert_errors, dtype=float).mean()
-    #     uncertainty_std = np.array(uncert_errors, dtype=float).std()
-    #     epi_uncertainty = np.array(epi_uncert_errors, dtype=float).mean()
-    #     epi_uncertainty_std = np.array(epi_uncert_errors, dtype=float).std()
-    #     ale_uncertainty = np.array(ale_uncert_errors, dtype=float).mean()
-    #     ale_uncertainty_std = np.array(ale_uncert_errors, dtype=float).std()
-    #     mc_mae = np.array(mc_mae_errors, dtype=float).mean()
-    #     mc_mae_std = np.array(mc_mae_errors, dtype=float).std()
-    #     mc_uncertainty = np.array(mc_uncert_errors, dtype=float).mean()
-    #     mc_uncertainty_std = np.array(mc_uncert_errors, dtype=float).std()
-    #     mc_der_uncertainty = np.array(mc_der_uncert_errors, dtype=float).mean()
-    #     mc_der_uncertainty_std = np.array(mc_der_uncert_errors, dtype=float).std()
-    #     mc_e_uncertainty = np.array(mc_der_uncert_e_errors, dtype=float).mean()
-    #     mc_e_uncertainty_std = np.array(mc_der_uncert_e_errors, dtype=float).std()
-    #     mc_a_uncertainty = np.array(mc_der_uncert_a_errors, dtype=float).mean()
-    #     mc_a_uncertainty_std = np.array(mc_der_uncert_a_errors, dtype=float).std()
-    #
-    #     with open('results/' + args.model + '/' + args.task + '/' + ood + '/' + 'test_metrics.csv', 'w') as f:
-    #         writer = csv.writer(f)
-    #         writer.writerow(('mae', 'uncertainty', 'epi_uncertainty', 'ale_uncertainty', 'mc_mae', 'mc_uncertainty',
-    #                          'mc_der_uncertainty', 'mc_e_uncertainty', 'mc_a_uncertainty'))
-    #         for mae_err, uncert_err, epi_uncert_err, ale_uncert_err, mc_mae_err, mc_uncert_err, mc_der_uncert_err, mc_der_uncert_e_err, mc_der_uncert_a_err in zip(
-    #                 mae_errors, uncert_errors, epi_uncert_errors,
-    #                 ale_uncert_errors, mc_mae_errors, mc_uncert_errors, mc_der_uncert_errors,
-    #                 mc_der_uncert_e_errors, mc_der_uncert_a_errors):
-    #             writer.writerow((mae_err, uncert_err, epi_uncert_err, ale_uncert_err, mc_mae_err, mc_uncert_err,
-    #                              mc_der_uncert_err, mc_der_uncert_e_err, mc_der_uncert_a_err))
-    #         writer.writerow(('mae(std)', 'uncertainty(std)', 'epi(std)', 'ale(std)', 'mc_mae(std)',
-    #                          'mc_uncertainty(std)', 'mc_der_uncertainty(std)', 'mc_e(std)', 'mc_a(std)'))
-    #         writer.writerow((f'{mae}({mae_std})', f'{uncertainty}({uncertainty_std})',
-    #                          f'{epi_uncertainty}({epi_uncertainty_std})',
-    #                          f'{ale_uncertainty}({ale_uncertainty_std})',
-    #                          f'{mc_mae}({mc_mae_std})', f'{mc_uncertainty}({mc_uncertainty_std})',
-    #                          f'{mc_der_uncertainty}({mc_der_uncertainty_std})',
-    #                          f'{mc_e_uncertainty}({mc_e_uncertainty_std})',
-    #                          f'{mc_a_uncertainty}({mc_a_uncertainty_std})'))
-    #
-    #     task_mae[ood] = (mae, mae_std)
-    #     task_uncert[ood] = (uncertainty, uncertainty_std)
-    #     task_uncert_E[ood] = (epi_uncertainty, epi_uncertainty_std)
-    #     task_uncert_A[ood] = (ale_uncertainty, ale_uncertainty_std)
-    #     task_mae_mc[ood] = (mc_mae, mc_mae_std)
-    #     task_uncert_mc[ood] = (mc_uncertainty, mc_uncertainty_std)
-    #     task_uncert_mc_der[ood] = (mc_der_uncertainty, mc_der_uncertainty_std)
-    #     task_uncert_mc_E[ood] = (mc_e_uncertainty, mc_e_uncertainty_std)
-    #     task_uncert_mc_A[ood] = (mc_a_uncertainty, mc_a_uncertainty_std)
-    #
-    # print(args.task + '_mae：', task_mae)
-    # print(args.task + '_uncert：', task_uncert)
-    # print(args.task + '_uncert_E:', task_uncert_E)
-    # print(args.task + '_uncert_A:', task_uncert_A)
-    # print(args.task + '_mae_mc：', task_mae_mc)
-    # print(args.task + '_uncert_mc：', task_uncert_mc)
-    # print(args.task + '_uncert_mc_der：', task_uncert_mc_der)
-    # print(args.task + '_uncert_mc_E:', task_uncert_mc_E)
-    # print(args.task + '_uncert_mc_A:', task_uncert_mc_A)
-    # print("--- %s seconds for the entire experiment time  ---" % (time.time() - start_time))
+        mae_errors = tf.reshape(tf.stack(mae_errors), [-1]).numpy().tolist()
+        uncert_errors = tf.reshape(tf.stack(uncert_errors), [-1]).numpy().tolist()
+        epi_uncert_errors = tf.reshape(tf.stack(epi_uncert_errors), [-1]).numpy().tolist()
+        ale_uncert_errors = tf.reshape(tf.stack(ale_uncert_errors), [-1]).numpy().tolist()
+        mc_mae_errors = tf.reshape(tf.stack(mc_mae_errors), [-1]).numpy().tolist()
+        mc_uncert_errors = tf.reshape(tf.stack(mc_uncert_errors), [-1]).numpy().tolist()
+        mc_der_uncert_errors = tf.reshape(tf.stack(mc_der_uncert_errors), [-1]).numpy().tolist()
+        mc_der_uncert_a_errors = tf.reshape(tf.stack(mc_der_uncert_a_errors), [-1]).numpy().tolist()
+        mc_der_uncert_e_errors = tf.reshape(tf.stack(mc_der_uncert_e_errors), [-1]).numpy().tolist()
+    
+    
+        mae = np.array(mae_errors, dtype=float).mean()
+        mae_std = np.array(mae_errors, dtype=float).std()
+        uncertainty = np.array(uncert_errors, dtype=float).mean()
+        uncertainty_std = np.array(uncert_errors, dtype=float).std()
+        epi_uncertainty = np.array(epi_uncert_errors, dtype=float).mean()
+        epi_uncertainty_std = np.array(epi_uncert_errors, dtype=float).std()
+        ale_uncertainty = np.array(ale_uncert_errors, dtype=float).mean()
+        ale_uncertainty_std = np.array(ale_uncert_errors, dtype=float).std()
+        mc_mae = np.array(mc_mae_errors, dtype=float).mean()
+        mc_mae_std = np.array(mc_mae_errors, dtype=float).std()
+        mc_uncertainty = np.array(mc_uncert_errors, dtype=float).mean()
+        mc_uncertainty_std = np.array(mc_uncert_errors, dtype=float).std()
+        mc_der_uncertainty = np.array(mc_der_uncert_errors, dtype=float).mean()
+        mc_der_uncertainty_std = np.array(mc_der_uncert_errors, dtype=float).std()
+        mc_e_uncertainty = np.array(mc_der_uncert_e_errors, dtype=float).mean()
+        mc_e_uncertainty_std = np.array(mc_der_uncert_e_errors, dtype=float).std()
+        mc_a_uncertainty = np.array(mc_der_uncert_a_errors, dtype=float).mean()
+        mc_a_uncertainty_std = np.array(mc_der_uncert_a_errors, dtype=float).std()
+    
+        with open('results/' + args.model + '/' + args.task + '/' + ood + '/' + 'test_metrics.csv', 'w') as f:
+            writer = csv.writer(f)
+            writer.writerow(('mae', 'uncertainty', 'epi_uncertainty', 'ale_uncertainty', 'mc_mae', 'mc_uncertainty',
+                             'mc_der_uncertainty', 'mc_e_uncertainty', 'mc_a_uncertainty'))
+            for mae_err, uncert_err, epi_uncert_err, ale_uncert_err, mc_mae_err, mc_uncert_err, mc_der_uncert_err, mc_der_uncert_e_err, mc_der_uncert_a_err in zip(
+                    mae_errors, uncert_errors, epi_uncert_errors,
+                    ale_uncert_errors, mc_mae_errors, mc_uncert_errors, mc_der_uncert_errors,
+                    mc_der_uncert_e_errors, mc_der_uncert_a_errors):
+                writer.writerow((mae_err, uncert_err, epi_uncert_err, ale_uncert_err, mc_mae_err, mc_uncert_err,
+                                 mc_der_uncert_err, mc_der_uncert_e_err, mc_der_uncert_a_err))
+            writer.writerow(('mae(std)', 'uncertainty(std)', 'epi(std)', 'ale(std)', 'mc_mae(std)',
+                             'mc_uncertainty(std)', 'mc_der_uncertainty(std)', 'mc_e(std)', 'mc_a(std)'))
+            writer.writerow((f'{mae}({mae_std})', f'{uncertainty}({uncertainty_std})',
+                             f'{epi_uncertainty}({epi_uncertainty_std})',
+                             f'{ale_uncertainty}({ale_uncertainty_std})',
+                             f'{mc_mae}({mc_mae_std})', f'{mc_uncertainty}({mc_uncertainty_std})',
+                             f'{mc_der_uncertainty}({mc_der_uncertainty_std})',
+                             f'{mc_e_uncertainty}({mc_e_uncertainty_std})',
+                             f'{mc_a_uncertainty}({mc_a_uncertainty_std})'))
+    
+        task_mae[ood] = (mae, mae_std)
+        task_uncert[ood] = (uncertainty, uncertainty_std)
+        task_uncert_E[ood] = (epi_uncertainty, epi_uncertainty_std)
+        task_uncert_A[ood] = (ale_uncertainty, ale_uncertainty_std)
+        task_mae_mc[ood] = (mc_mae, mc_mae_std)
+        task_uncert_mc[ood] = (mc_uncertainty, mc_uncertainty_std)
+        task_uncert_mc_der[ood] = (mc_der_uncertainty, mc_der_uncertainty_std)
+        task_uncert_mc_E[ood] = (mc_e_uncertainty, mc_e_uncertainty_std)
+        task_uncert_mc_A[ood] = (mc_a_uncertainty, mc_a_uncertainty_std)
+    
+    print(args.task + '_mae：', task_mae)
+    print(args.task + '_uncert：', task_uncert)
+    print(args.task + '_uncert_E:', task_uncert_E)
+    print(args.task + '_uncert_A:', task_uncert_A)
+    print(args.task + '_mae_mc：', task_mae_mc)
+    print(args.task + '_uncert_mc：', task_uncert_mc)
+    print(args.task + '_uncert_mc_der：', task_uncert_mc_der)
+    print(args.task + '_uncert_mc_E:', task_uncert_mc_E)
+    print(args.task + '_uncert_mc_A:', task_uncert_mc_A)
+    print("--- %s seconds for the entire experiment time  ---" % (time.time() - start_time))
