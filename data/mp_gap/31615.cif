@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TiCrSi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59633706
+_cell_length_b   4.63519001
+_cell_length_c   12.82295348
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.02339253
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCrSi4
+_chemical_formula_sum   'Ti3 Cr3 Si12'
+_cell_volume   236.53515140
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.75089205  1
+  Ti  Ti1  1  -0.00000000  0.50000000  0.41477127  1
+  Ti  Ti2  1  -0.00000000  0.50000000  0.91762035  1
+  Cr  Cr3  1  0.50000000  -0.00000000  0.08493399  1
+  Cr  Cr4  1  0.50000000  -0.00000000  0.58097719  1
+  Cr  Cr5  1  0.50000000  0.50000000  0.25041114  1
+  Si  Si6  1  0.82837458  0.66952640  0.08625741  1
+  Si  Si7  1  0.83553948  0.67058829  0.58234881  1
+  Si  Si8  1  0.82950614  0.15784972  0.24794563  1
+  Si  Si9  1  0.83613474  0.15730113  0.74723394  1
+  Si  Si10  1  0.32141023  0.16221283  0.41609063  1
+  Si  Si11  1  0.32148258  0.15658082  0.92032059  1
+  Si  Si12  1  0.17162542  0.33047360  0.08625741  1
+  Si  Si13  1  0.16446052  0.32941171  0.58234881  1
+  Si  Si14  1  0.17049386  0.84215028  0.24794563  1
+  Si  Si15  1  0.16386526  0.84269887  0.74723394  1
+  Si  Si16  1  0.67858977  0.83778717  0.41609063  1
+  Si  Si17  1  0.67851742  0.84341918  0.92032059  1

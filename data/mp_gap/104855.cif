@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CrGaSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79633492
+_cell_length_b   10.38921672
+_cell_length_c   12.57238461
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrGaSe3
+_chemical_formula_sum   'Cr4 Ga4 Se12'
+_cell_volume   495.86674533
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.25000000  0.90477268  0.11042579  1
+  Cr  Cr1  1  0.75000000  0.09522732  0.88957421  1
+  Cr  Cr2  1  0.25000000  0.40477268  0.38957421  1
+  Cr  Cr3  1  0.75000000  0.59522732  0.61042579  1
+  Ga  Ga4  1  0.75000000  0.76665596  0.29407015  1
+  Ga  Ga5  1  0.25000000  0.23334404  0.70592985  1
+  Ga  Ga6  1  0.75000000  0.26665596  0.20592985  1
+  Ga  Ga7  1  0.25000000  0.73334404  0.79407015  1
+  Se  Se8  1  0.25000000  0.42842146  0.59422069  1
+  Se  Se9  1  0.75000000  0.57157854  0.40577931  1
+  Se  Se10  1  0.25000000  0.92842146  0.90577931  1
+  Se  Se11  1  0.75000000  0.07157854  0.09422069  1
+  Se  Se12  1  0.75000000  0.58852768  0.81754443  1
+  Se  Se13  1  0.25000000  0.41147232  0.18245557  1
+  Se  Se14  1  0.75000000  0.08852768  0.68245557  1
+  Se  Se15  1  0.25000000  0.91147232  0.31754443  1
+  Se  Se16  1  0.25000000  0.76075471  0.60355451  1
+  Se  Se17  1  0.75000000  0.23924529  0.39644549  1
+  Se  Se18  1  0.25000000  0.26075471  0.89644549  1
+  Se  Se19  1  0.75000000  0.73924529  0.10355451  1

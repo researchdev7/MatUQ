@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Dy(FeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54603951
+_cell_length_b   3.54740285
+_cell_length_c   8.63275012
+_cell_angle_alpha   90.19550613
+_cell_angle_beta   78.05263180
+_cell_angle_gamma   120.23361270
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy(FeO2)2
+_chemical_formula_sum   'Dy1 Fe2 O4'
+_cell_volume   91.13473513
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00172044  0.00211501  0.99983313  1
+  Fe  Fe1  1  0.57964331  0.79227845  0.63942138  1
+  Fe  Fe2  1  0.42823582  0.21888005  0.36015427  1
+  O  O3  1  0.41830803  0.71043352  0.87553314  1
+  O  O4  1  0.74806831  0.87489654  0.38489343  1
+  O  O5  1  0.58568348  0.29462426  0.12408965  1
+  O  O6  1  0.25975961  0.13619617  0.61467100  1

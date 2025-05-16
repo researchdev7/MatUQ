@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2MnGe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58812944
+_cell_length_b   8.62912276
+_cell_length_c   8.62912276
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2MnGe2O7
+_chemical_formula_sum   'Ba4 Mn2 Ge4 O14'
+_cell_volume   416.10195101
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50716736  0.33538077  0.16461923  1
+  Ba  Ba1  1  0.49283264  0.16461923  0.66461923  1
+  Ba  Ba2  1  0.50716736  0.66461923  0.83538077  1
+  Ba  Ba3  1  0.49283264  0.83538077  0.33538077  1
+  Mn  Mn4  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn5  1  -0.00000000  -0.00000000  -0.00000000  1
+  Ge  Ge6  1  0.95369558  0.13965310  0.36034690  1
+  Ge  Ge7  1  0.04630442  0.36034690  0.86034690  1
+  Ge  Ge8  1  0.95369558  0.86034690  0.63965310  1
+  Ge  Ge9  1  0.04630442  0.63965310  0.13965310  1
+  O  O10  1  0.16291954  0.50000000  -0.00000000  1
+  O  O11  1  0.83708046  -0.00000000  0.50000000  1
+  O  O12  1  0.26552900  0.13937330  0.36062670  1
+  O  O13  1  0.73447100  0.36062670  0.86062670  1
+  O  O14  1  0.26552900  0.86062670  0.63937330  1
+  O  O15  1  0.73447100  0.63937330  0.13937330  1
+  O  O16  1  0.80277836  0.31084679  0.42138221  1
+  O  O17  1  0.19722164  0.18915321  0.92138221  1
+  O  O18  1  0.80277836  0.68915321  0.57861779  1
+  O  O19  1  0.19722164  0.81084679  0.07861779  1
+  O  O20  1  0.19722164  0.57861779  0.31084679  1
+  O  O21  1  0.80277836  0.92138221  0.81084679  1
+  O  O22  1  0.19722164  0.42138221  0.68915321  1
+  O  O23  1  0.80277836  0.07861779  0.18915321  1

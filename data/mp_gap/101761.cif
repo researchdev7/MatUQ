@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sm3(SiIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13290753
+_cell_length_b   5.71374163
+_cell_length_c   13.41343054
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.20241367
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3(SiIr)2
+_chemical_formula_sum   'Sm6 Si4 Ir4'
+_cell_volume   295.30841735
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.93934900  0.87869800  0.58863805  1
+  Si  Si1  1  0.93934900  0.87869800  0.91136195  1
+  Si  Si2  1  0.06065100  0.12130200  0.41136195  1
+  Si  Si3  1  0.06065100  0.12130200  0.08863805  1
+  Sm  Sm4  1  0.22702658  0.45405317  0.60386947  1
+  Sm  Sm5  1  0.48265746  0.96531491  0.25000000  1
+  Sm  Sm6  1  0.77297342  0.54594683  0.39613053  1
+  Sm  Sm7  1  0.22702658  0.45405317  0.89613053  1
+  Sm  Sm8  1  0.51734254  0.03468509  0.75000000  1
+  Sm  Sm9  1  0.77297342  0.54594683  0.10386947  1
+  Ir  Ir10  1  0.18517110  0.37034220  0.25000000  1
+  Ir  Ir11  1  0.81482890  0.62965780  0.75000000  1
+  Ir  Ir12  1  0.50000000  0.00000000  0.00000000  1
+  Ir  Ir13  1  0.50000000  0.00000000  0.50000000  1

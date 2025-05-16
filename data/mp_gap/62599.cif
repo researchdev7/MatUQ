@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La4Br3ClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15847723
+_cell_length_b   8.52979507
+_cell_length_c   8.31903742
+_cell_angle_alpha   60.81403629
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4Br3ClO4
+_chemical_formula_sum   'La4 Br3 Cl1 O4'
+_cell_volume   257.62079991
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.00000000  0.15952568  0.17023716  1
+  La  La1  1  -0.00000000  0.15903254  0.67048373  1
+  La  La2  1  0.50000000  0.83672840  0.08371614  1
+  La  La3  1  0.50000000  0.83672840  0.57955546  1
+  Br  Br4  1  -0.00000000  0.63508977  0.93245511  1
+  Br  Br5  1  0.50000000  0.36675950  0.81402463  1
+  Br  Br6  1  0.50000000  0.36675950  0.31921587  1
+  Cl  Cl7  1  0.00000000  0.64416772  0.42791614  1
+  O  O8  1  0.50000000  0.99895157  0.25052422  1
+  O  O9  1  0.50000000  0.99869088  0.75065456  1
+  O  O10  1  0.00000000  0.99878302  0.49962727  1
+  O  O11  1  -0.00000000  0.99878302  0.00158971  1

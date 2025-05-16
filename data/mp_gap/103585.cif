@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba2CoSe2(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44541964
+_cell_length_b   6.88546648
+_cell_length_c   12.93089883
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CoSe2(ClO3)2
+_chemical_formula_sum   'Ba4 Co2 Se4 Cl4 O12'
+_cell_volume   484.83441036
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.70225746  0.73132204  1
+  Ba  Ba1  1  0.50000000  0.29774254  0.26867796  1
+  Ba  Ba2  1  0.00000000  0.20225746  0.76867796  1
+  Ba  Ba3  1  0.00000000  0.79774254  0.23132204  1
+  Co  Co4  1  0.50000000  0.00000000  0.00000000  1
+  Co  Co5  1  0.00000000  0.50000000  0.50000000  1
+  Se  Se6  1  0.50000000  0.75403958  0.42721110  1
+  Se  Se7  1  0.50000000  0.24596042  0.57278890  1
+  Se  Se8  1  0.00000000  0.25403958  0.07278890  1
+  Se  Se9  1  0.00000000  0.74596042  0.92721110  1
+  Cl  Cl10  1  0.50000000  0.31821978  0.89734914  1
+  Cl  Cl11  1  0.50000000  0.68178022  0.10265086  1
+  Cl  Cl12  1  0.00000000  0.81821978  0.60265086  1
+  Cl  Cl13  1  0.00000000  0.18178022  0.39734914  1
+  O  O14  1  0.75813448  0.10018174  0.10828973  1
+  O  O15  1  0.00000000  0.58827587  0.82557771  1
+  O  O16  1  0.25813448  0.60018174  0.39171027  1
+  O  O17  1  0.00000000  0.41172413  0.17442229  1
+  O  O18  1  0.74186552  0.60018174  0.39171027  1
+  O  O19  1  0.74186552  0.39981826  0.60828973  1
+  O  O20  1  0.24186552  0.89981826  0.89171027  1
+  O  O21  1  0.24186552  0.10018174  0.10828973  1
+  O  O22  1  0.50000000  0.91172413  0.32557771  1
+  O  O23  1  0.50000000  0.08827587  0.67442229  1
+  O  O24  1  0.25813448  0.39981826  0.60828973  1
+  O  O25  1  0.75813448  0.89981826  0.89171027  1

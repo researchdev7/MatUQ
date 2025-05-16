@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_PrAgAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07964558
+_cell_length_b   4.12833434
+_cell_length_c   21.40033871
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrAgAs2
+_chemical_formula_sum   'Pr4 Ag4 As8'
+_cell_volume   360.42752078
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.25000000  0.77585309  0.83848546  1
+  As  As1  1  0.75000000  0.22414691  0.16151454  1
+  As  As2  1  0.75000000  0.27585309  0.66151454  1
+  As  As3  1  0.25000000  0.72414691  0.33848546  1
+  As  As4  1  0.25000000  0.30019925  0.50185137  1
+  As  As5  1  0.25000000  0.19980075  0.00185137  1
+  As  As6  1  0.75000000  0.80019925  0.99814863  1
+  As  As7  1  0.75000000  0.69980075  0.49814863  1
+  Ag  Ag8  1  0.25000000  0.22416220  0.25009425  1
+  Ag  Ag9  1  0.75000000  0.72416220  0.24990575  1
+  Ag  Ag10  1  0.75000000  0.77583780  0.74990575  1
+  Ag  Ag11  1  0.25000000  0.27583780  0.75009425  1
+  Pr  Pr12  1  0.25000000  0.77501192  0.61598648  1
+  Pr  Pr13  1  0.75000000  0.22498808  0.38401352  1
+  Pr  Pr14  1  0.75000000  0.27501192  0.88401352  1
+  Pr  Pr15  1  0.25000000  0.72498808  0.11598648  1

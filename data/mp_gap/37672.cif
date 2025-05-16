@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbGaCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05787565
+_cell_length_b   5.04735009
+_cell_length_c   7.92829216
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.93224383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbGaCu
+_chemical_formula_sum   'Nb4 Ga4 Cu4'
+_cell_volume   175.40338349
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.66755675  0.33376560  0.56821260  1
+  Nb  Nb1  1  0.33107416  0.66555407  0.43513674  1
+  Nb  Nb2  1  0.33107416  0.66555407  0.06486326  1
+  Nb  Nb3  1  0.66755675  0.33376560  0.93178740  1
+  Ga  Ga4  1  0.65767877  0.82882300  0.75000000  1
+  Ga  Ga5  1  0.82860616  0.65849322  0.25000000  1
+  Ga  Ga6  1  0.82861555  0.17012051  0.25000000  1
+  Ga  Ga7  1  0.34185088  0.17093762  0.25000000  1
+  Cu  Cu8  1  0.00184320  0.00092086  0.50121556  1
+  Cu  Cu9  1  0.00184320  0.00092086  0.99878444  1
+  Cu  Cu10  1  0.17115827  0.34119744  0.75000000  1
+  Cu  Cu11  1  0.17114216  0.82994715  0.75000000  1

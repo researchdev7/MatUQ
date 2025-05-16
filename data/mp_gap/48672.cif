@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbMgNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28873282
+_cell_length_b   7.23285753
+_cell_length_c   7.37166265
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.62290585
+_cell_angle_gamma   119.74673374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMgNiF6
+_chemical_formula_sum   'Rb2 Mg2 Ni2 F12'
+_cell_volume   274.27382928
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75540334  0.37770167  0.37229833  1
+  Rb  Rb1  1  0.24459666  0.62229833  0.62770167  1
+  Mg  Mg2  1  0.50000000  0.50000000  -0.00000000  1
+  Mg  Mg3  1  0.50000000  0.00000000  -0.00000000  1
+  Ni  Ni4  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni5  1  0.00000000  0.00000000  -0.00000000  1
+  F  F6  1  0.86073184  0.93036592  0.31963408  1
+  F  F7  1  0.64443788  0.32221894  0.92778106  1
+  F  F8  1  0.24398834  0.93398295  0.92854565  1
+  F  F9  1  0.24398834  0.31000539  0.32746601  1
+  F  F10  1  0.24398834  0.31000539  0.92854565  1
+  F  F11  1  0.24398834  0.93398295  0.32746601  1
+  F  F12  1  0.13926816  0.06963408  0.68036592  1
+  F  F13  1  0.35556212  0.67778106  0.07221894  1
+  F  F14  1  0.75601166  0.06601705  0.07145435  1
+  F  F15  1  0.75601166  0.68999461  0.67253399  1
+  F  F16  1  0.75601166  0.68999461  0.07145435  1
+  F  F17  1  0.75601166  0.06601705  0.67253399  1

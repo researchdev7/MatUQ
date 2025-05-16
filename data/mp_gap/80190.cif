@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NdAlAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62199833
+_cell_length_b   7.55841006
+_cell_length_c   7.75019402
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdAlAu
+_chemical_formula_sum   'Nd4 Al4 Au4'
+_cell_volume   270.75270781
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.75000000  0.49140621  0.19313525  1
+  Nd  Nd1  1  0.75000000  0.99140621  0.30686475  1
+  Nd  Nd2  1  0.25000000  0.50859379  0.80686475  1
+  Nd  Nd3  1  0.25000000  0.00859379  0.69313525  1
+  Al  Al4  1  0.75000000  0.33030842  0.58088619  1
+  Al  Al5  1  0.75000000  0.83030842  0.91911381  1
+  Al  Al6  1  0.25000000  0.66969158  0.41911381  1
+  Al  Al7  1  0.25000000  0.16969158  0.08088619  1
+  Au  Au8  1  0.75000000  0.20219041  0.90783991  1
+  Au  Au9  1  0.75000000  0.70219041  0.59216009  1
+  Au  Au10  1  0.25000000  0.79780959  0.09216009  1
+  Au  Au11  1  0.25000000  0.29780959  0.40783991  1

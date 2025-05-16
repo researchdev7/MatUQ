@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69636537
+_cell_length_b   4.99862437
+_cell_length_c   7.06064417
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSiNi
+_chemical_formula_sum   'Co4 Si4 Ni4'
+_cell_volume   130.45770082
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.75000000  0.46249564  0.21023489  1
+  Co  Co1  1  0.75000000  0.96249564  0.28976511  1
+  Co  Co2  1  0.25000000  0.53750436  0.78976511  1
+  Co  Co3  1  0.25000000  0.03750436  0.71023489  1
+  Si  Si4  1  0.75000000  0.29250003  0.89058299  1
+  Si  Si5  1  0.75000000  0.79250003  0.60941701  1
+  Si  Si6  1  0.25000000  0.70749997  0.10941701  1
+  Si  Si7  1  0.25000000  0.20749997  0.39058299  1
+  Ni  Ni8  1  0.75000000  0.32929807  0.56474500  1
+  Ni  Ni9  1  0.75000000  0.82929807  0.93525500  1
+  Ni  Ni10  1  0.25000000  0.67070193  0.43525500  1
+  Ni  Ni11  1  0.25000000  0.17070193  0.06474500  1

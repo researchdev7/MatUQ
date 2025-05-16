@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LuCu(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06677097
+_cell_length_b   7.63996764
+_cell_length_c   7.63996764
+_cell_angle_alpha   100.39286996
+_cell_angle_beta   90.85758551
+_cell_angle_gamma   90.85758551
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCu(MoO4)2
+_chemical_formula_sum   'Lu2 Cu2 Mo4 O16'
+_cell_volume   290.81139259
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75000000  0.84245861  0.15754139  1
+  Lu  Lu1  1  0.25000000  0.15754139  0.84245861  1
+  Cu  Cu2  1  0.75000000  0.33901839  0.66098161  1
+  Cu  Cu3  1  0.25000000  0.66098161  0.33901839  1
+  Mo  Mo4  1  0.74368786  0.34827748  0.17159173  1
+  Mo  Mo5  1  0.25631214  0.65172252  0.82840827  1
+  Mo  Mo6  1  0.75631214  0.82840827  0.65172252  1
+  Mo  Mo7  1  0.24368786  0.17159173  0.34827748  1
+  O  O8  1  0.39448262  0.68641010  0.05536980  1
+  O  O9  1  0.60551738  0.31358990  0.94463020  1
+  O  O10  1  0.10551738  0.94463020  0.31358990  1
+  O  O11  1  0.89448262  0.05536980  0.68641010  1
+  O  O12  1  0.95218376  0.80466403  0.90655406  1
+  O  O13  1  0.04781624  0.19533597  0.09344594  1
+  O  O14  1  0.54781624  0.09344594  0.19533597  1
+  O  O15  1  0.45218376  0.90655406  0.80466403  1
+  O  O16  1  0.89768855  0.56904119  0.19624289  1
+  O  O17  1  0.10231145  0.43095881  0.80375711  1
+  O  O18  1  0.60231145  0.80375711  0.43095881  1
+  O  O19  1  0.39768855  0.19624289  0.56904119  1
+  O  O20  1  0.56899495  0.58813607  0.69700333  1
+  O  O21  1  0.43100505  0.41186393  0.30299667  1
+  O  O22  1  0.93100505  0.30299667  0.41186393  1
+  O  O23  1  0.06899495  0.69700333  0.58813607  1

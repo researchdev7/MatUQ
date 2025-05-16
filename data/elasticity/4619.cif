@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuSiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18428488
+_cell_length_b   6.75541437
+_cell_length_c   7.37834334
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSiRh
+_chemical_formula_sum   'Lu4 Si4 Rh4'
+_cell_volume   208.56051905
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.25000000  0.29120003  0.89303555  1
+  Si  Si1  1  0.75000000  0.70879997  0.10696445  1
+  Si  Si2  1  0.25000000  0.79120003  0.60696445  1
+  Si  Si3  1  0.75000000  0.20879997  0.39303555  1
+  Rh  Rh4  1  0.75000000  0.84451636  0.43234144  1
+  Rh  Rh5  1  0.25000000  0.15548364  0.56765856  1
+  Rh  Rh6  1  0.75000000  0.34451636  0.06765856  1
+  Rh  Rh7  1  0.25000000  0.65548364  0.93234144  1
+  Lu  Lu8  1  0.25000000  0.00354466  0.19105799  1
+  Lu  Lu9  1  0.75000000  0.99645534  0.80894201  1
+  Lu  Lu10  1  0.25000000  0.50354466  0.30894201  1
+  Lu  Lu11  1  0.75000000  0.49645534  0.69105799  1

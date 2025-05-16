@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho4In(NiGe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22514234
+_cell_length_b   7.03451501
+_cell_length_c   8.01786779
+_cell_angle_alpha   108.00245704
+_cell_angle_beta   105.27682677
+_cell_angle_gamma   89.99999998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4In(NiGe2)2
+_chemical_formula_sum   'Ho4 In1 Ni2 Ge4'
+_cell_volume   217.76759139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.21689406  0.64322799  0.43378812  1
+  Ni  Ni1  1  0.78310594  0.35677201  0.56621188  1
+  Ge  Ge2  1  0.06547269  0.66268330  0.13094539  1
+  Ge  Ge3  1  0.93452731  0.33731670  0.86905461  1
+  Ge  Ge4  1  0.20348981  0.27104783  0.40697962  1
+  Ge  Ge5  1  0.79651019  0.72895217  0.59302038  1
+  In  In6  1  0.00000000  0.00000000  0.00000000  1
+  Ho  Ho7  1  0.34424367  0.06207251  0.68848734  1
+  Ho  Ho8  1  0.65575633  0.93792749  0.31151266  1
+  Ho  Ho9  1  0.40823010  0.60861553  0.81646019  1
+  Ho  Ho10  1  0.59176990  0.39138447  0.18353981  1

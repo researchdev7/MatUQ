@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsInAgF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.07076363
+_cell_length_b   7.80251925
+_cell_length_c   8.11486313
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.81908364
+_cell_angle_gamma   118.90650156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsInAgF6
+_chemical_formula_sum   'Cs2 In2 Ag2 F12'
+_cell_volume   366.22187386
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75334159  0.37667079  0.37332921  1
+  Cs  Cs1  1  0.24665841  0.62332921  0.62667079  1
+  In  In2  1  0.00000000  0.00000000  0.50000000  1
+  In  In3  1  0.00000000  0.00000000  -0.00000000  1
+  Ag  Ag4  1  0.50000000  0.50000000  -0.00000000  1
+  Ag  Ag5  1  0.50000000  0.00000000  -0.00000000  1
+  F  F6  1  0.87968706  0.93984353  0.31015647  1
+  F  F7  1  0.61877446  0.30938723  0.94061277  1
+  F  F8  1  0.23875429  0.92107726  0.91830971  1
+  F  F9  1  0.23875429  0.31767702  0.34293601  1
+  F  F10  1  0.23875429  0.31767702  0.91830971  1
+  F  F11  1  0.23875429  0.92107726  0.34293601  1
+  F  F12  1  0.12031294  0.06015647  0.68984353  1
+  F  F13  1  0.38122554  0.69061277  0.05938723  1
+  F  F14  1  0.76124571  0.07892274  0.08169029  1
+  F  F15  1  0.76124571  0.68232298  0.65706399  1
+  F  F16  1  0.76124571  0.68232298  0.08169029  1
+  F  F17  1  0.76124571  0.07892274  0.65706399  1

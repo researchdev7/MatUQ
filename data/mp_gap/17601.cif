@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti2FeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18988774
+_cell_length_b   7.18991815
+_cell_length_c   12.14029115
+_cell_angle_alpha   90.00000001
+_cell_angle_beta   89.99846264
+_cell_angle_gamma   120.00014217
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2FeSe4
+_chemical_formula_sum   'Ti8 Fe4 Se16'
+_cell_volume   543.50703191
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.01771912  0.50885956  0.24787129  1
+  Ti  Ti1  1  0.49113140  0.50893045  0.24780685  1
+  Ti  Ti2  1  0.49113140  0.98220095  0.24780685  1
+  Ti  Ti3  1  0.98228088  0.49114044  0.75212871  1
+  Ti  Ti4  1  0.50886860  0.49106955  0.75219315  1
+  Ti  Ti5  1  0.50886860  0.01779905  0.75219315  1
+  Ti  Ti6  1  0.99995844  0.99997922  0.24978892  1
+  Ti  Ti7  1  0.00004156  0.00002078  0.75021108  1
+  Fe  Fe8  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe9  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe10  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe11  1  0.00000000  0.50000000  0.50000000  1
+  Se  Se12  1  0.33325169  0.66662585  0.62640671  1
+  Se  Se13  1  0.66674831  0.33337415  0.37359329  1
+  Se  Se14  1  0.33353348  0.66676674  0.11598508  1
+  Se  Se15  1  0.66646652  0.33323326  0.88401492  1
+  Se  Se16  1  0.66578712  0.83289356  0.87645501  1
+  Se  Se17  1  0.16678912  0.83289762  0.87648513  1
+  Se  Se18  1  0.16678912  0.33389150  0.87648513  1
+  Se  Se19  1  0.33421288  0.16710644  0.12354499  1
+  Se  Se20  1  0.83321088  0.16710238  0.12351487  1
+  Se  Se21  1  0.83321088  0.66610850  0.12351487  1
+  Se  Se22  1  0.66972235  0.83486118  0.38202898  1
+  Se  Se23  1  0.16495571  0.83476887  0.38206225  1
+  Se  Se24  1  0.16495571  0.33018684  0.38206225  1
+  Se  Se25  1  0.33027765  0.16513882  0.61797102  1
+  Se  Se26  1  0.83504429  0.16523113  0.61793775  1
+  Se  Se27  1  0.83504429  0.66981316  0.61793775  1

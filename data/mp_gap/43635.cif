@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnCrInS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41138372
+_cell_length_b   7.34466684
+_cell_length_c   7.44669203
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.84228049
+_cell_angle_gamma   119.70266213
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCrInS4
+_chemical_formula_sum   'Mn2 Cr2 In2 S8'
+_cell_volume   287.22806976
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.74608457  0.37304229  0.37695771  1
+  Mn  Mn1  1  0.25391543  0.62695771  0.62304229  1
+  Cr  Cr2  1  0.50000000  0.50000000  -0.00000000  1
+  Cr  Cr3  1  0.50000000  -0.00000000  -0.00000000  1
+  In  In4  1  0.00000000  -0.00000000  0.50000000  1
+  In  In5  1  0.00000000  -0.00000000  -0.00000000  1
+  S  S6  1  0.03363457  0.76966129  0.23318271  1
+  S  S7  1  0.03363457  0.26397328  0.23318271  1
+  S  S8  1  0.50132026  0.25066013  0.77685662  1
+  S  S9  1  0.50132026  0.25066013  0.22182312  1
+  S  S10  1  0.96636543  0.23033871  0.76681729  1
+  S  S11  1  0.96636543  0.73602672  0.76681729  1
+  S  S12  1  0.49867974  0.74933987  0.22314338  1
+  S  S13  1  0.49867974  0.74933987  0.77817688  1

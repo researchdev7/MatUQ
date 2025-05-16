@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Pr(Al5Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88252157
+_cell_length_b   6.88252157
+_cell_length_c   9.20957338
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   96.68898709
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(Al5Ru)2
+_chemical_formula_sum   'Pr2 Al20 Ru4'
+_cell_volume   433.27970766
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.87585295  0.12414705  0.75000000  1
+  Pr  Pr1  1  0.12414705  0.87585295  0.25000000  1
+  Al  Al2  1  0.86070083  0.58864843  0.75000000  1
+  Al  Al3  1  0.58864843  0.86070083  0.25000000  1
+  Al  Al4  1  0.13929917  0.41135157  0.25000000  1
+  Al  Al5  1  0.41135157  0.13929917  0.75000000  1
+  Al  Al6  1  0.22083605  0.48256050  0.75000000  1
+  Al  Al7  1  0.48256050  0.22083605  0.25000000  1
+  Al  Al8  1  0.77916395  0.51743950  0.25000000  1
+  Al  Al9  1  0.51743950  0.77916395  0.75000000  1
+  Al  Al10  1  0.83877631  0.16122369  0.10138110  1
+  Al  Al11  1  0.16122369  0.83877631  0.89861890  1
+  Al  Al12  1  0.83877631  0.16122369  0.39861890  1
+  Al  Al13  1  0.16122369  0.83877631  0.60138110  1
+  Al  Al14  1  0.62227380  0.37772620  0.94988014  1
+  Al  Al15  1  0.37772620  0.62227380  0.05011986  1
+  Al  Al16  1  0.62227380  0.37772620  0.55011986  1
+  Al  Al17  1  0.37772620  0.62227380  0.44988014  1
+  Al  Al18  1  0.22765637  0.22765637  0.50000000  1
+  Al  Al19  1  0.22765637  0.22765637  0.00000000  1
+  Al  Al20  1  0.77234363  0.77234363  0.50000000  1
+  Al  Al21  1  0.77234363  0.77234363  -0.00000000  1
+  Ru  Ru22  1  0.00000000  0.50000000  0.50000000  1
+  Ru  Ru23  1  0.50000000  -0.00000000  0.50000000  1
+  Ru  Ru24  1  0.00000000  0.50000000  -0.00000000  1
+  Ru  Ru25  1  0.50000000  -0.00000000  -0.00000000  1

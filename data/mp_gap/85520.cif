@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LuAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76450539
+_cell_length_b   6.91563919
+_cell_length_c   6.91461170
+_cell_angle_alpha   120.00490758
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuAlNi
+_chemical_formula_sum   'Lu3 Al3 Ni3'
+_cell_volume   155.88962042
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.50000000  0.58372128  1.00000000  1
+  Lu  Lu1  1  0.50000000  0.41623054  0.41621195  1
+  Lu  Lu2  1  0.50000000  0.00001859  0.58378805  1
+  Al  Al3  1  -0.00000000  0.23930300  1.00000000  1
+  Al  Al4  1  -0.00000000  0.76065590  0.76066824  1
+  Al  Al5  1  -0.00000000  0.99998765  0.23933176  1
+  Ni  Ni6  1  0.00000000  0.33344293  0.66680328  1
+  Ni  Ni7  1  0.00000000  0.66663965  0.33319672  1
+  Ni  Ni8  1  0.50000000  0.99990045  0.00000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaNbNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57356642
+_cell_length_b   5.71508390
+_cell_length_c   7.95993907
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.73782415
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNbNO2
+_chemical_formula_sum   'Ca4 Nb4 N4 O8'
+_cell_volume   253.54846633
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.51315737  0.54467038  0.25311276  1
+  Ca  Ca1  1  0.98684263  0.04467038  0.24688724  1
+  Ca  Ca2  1  0.48684263  0.45532962  0.74688724  1
+  Ca  Ca3  1  0.01315737  0.95532962  0.75311276  1
+  Nb  Nb4  1  0.50000000  0.00000000  -0.00000000  1
+  Nb  Nb5  1  0.00000000  0.50000000  0.50000000  1
+  Nb  Nb6  1  0.50000000  0.00000000  0.50000000  1
+  Nb  Nb7  1  0.00000000  0.50000000  -0.00000000  1
+  N  N8  1  0.78946510  0.78787779  0.04452229  1
+  N  N9  1  0.71053490  0.28787779  0.45547771  1
+  N  N10  1  0.21053490  0.21212221  0.95547771  1
+  N  N11  1  0.28946510  0.71212221  0.54452229  1
+  O  O12  1  0.40858281  0.97418993  0.24941108  1
+  O  O13  1  0.09141719  0.47418993  0.25058892  1
+  O  O14  1  0.59141719  0.02581007  0.75058892  1
+  O  O15  1  0.90858281  0.52581007  0.74941108  1
+  O  O16  1  0.20798507  0.20887045  0.55305522  1
+  O  O17  1  0.29201493  0.70887045  0.94694478  1
+  O  O18  1  0.79201493  0.79112955  0.44694478  1
+  O  O19  1  0.70798507  0.29112955  0.05305522  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoRe2SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93658054
+_cell_length_b   5.80124670
+_cell_length_c   7.30206192
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.83346405
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoRe2SiC
+_chemical_formula_sum   'Ho2 Re4 Si2 C2'
+_cell_volume   156.86612712
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.45662030  0.91324060  0.25000000  1
+  Ho  Ho1  1  0.54337970  0.08675940  0.75000000  1
+  Re  Re2  1  0.17384204  0.34768408  0.06078628  1
+  Re  Re3  1  0.82615796  0.65231592  0.93921372  1
+  Re  Re4  1  0.82615796  0.65231592  0.56078628  1
+  Re  Re5  1  0.17384204  0.34768408  0.43921372  1
+  Si  Si6  1  0.73464846  0.46929693  0.25000000  1
+  Si  Si7  1  0.26535154  0.53070307  0.75000000  1
+  C  C8  1  -0.00000000  0.00000000  -0.00000000  1
+  C  C9  1  -0.00000000  -0.00000000  0.50000000  1

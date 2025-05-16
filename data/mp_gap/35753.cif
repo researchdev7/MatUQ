@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SiAg2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61100568
+_cell_length_b   7.12786520
+_cell_length_c   10.24978144
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiAg2O3
+_chemical_formula_sum   'Si4 Ag8 O12'
+_cell_volume   336.87574264
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.30378100  0.34543513  0.70879142  1
+  O  O1  1  0.80378100  0.15456487  0.29120858  1
+  O  O2  1  0.69621900  0.84543513  0.79120858  1
+  O  O3  1  0.19621900  0.65456487  0.20879142  1
+  O  O4  1  0.90340545  0.43760022  0.03696863  1
+  O  O5  1  0.40340545  0.06239978  0.96303137  1
+  O  O6  1  0.09659455  0.93760022  0.46303137  1
+  O  O7  1  0.19859376  0.31267282  0.45148100  1
+  O  O8  1  0.30140624  0.68732718  0.95148100  1
+  O  O9  1  0.80140624  0.81267282  0.04851900  1
+  O  O10  1  0.69859376  0.18732718  0.54851900  1
+  O  O11  1  0.59659455  0.56239978  0.53696863  1
+  Si  Si12  1  0.95301254  0.14197650  0.43712569  1
+  Si  Si13  1  0.04698746  0.64197650  0.06287431  1
+  Si  Si14  1  0.45301254  0.35802350  0.56287431  1
+  Si  Si15  1  0.54698746  0.85802350  0.93712569  1
+  Ag  Ag16  1  0.39967439  0.86391203  0.61802145  1
+  Ag  Ag17  1  0.10032561  0.13608797  0.11802145  1
+  Ag  Ag18  1  0.60032561  0.36391203  0.88197855  1
+  Ag  Ag19  1  0.89967439  0.63608797  0.38197855  1
+  Ag  Ag20  1  0.97647759  0.59216886  0.72368848  1
+  Ag  Ag21  1  0.47647759  0.90783114  0.27631152  1
+  Ag  Ag22  1  0.02352241  0.09216886  0.77631152  1
+  Ag  Ag23  1  0.52352241  0.40783114  0.22368848  1

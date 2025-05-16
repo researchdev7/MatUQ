@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TmMgGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20578759
+_cell_length_b   7.20578759
+_cell_length_c   4.40551918
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmMgGa
+_chemical_formula_sum   'Tm3 Mg3 Ga3'
+_cell_volume   198.10281197
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.24375048  0.50000000  1
+  Mg  Mg1  1  0.75624952  0.75624952  0.50000000  1
+  Mg  Mg2  1  0.24375048  0.00000000  0.50000000  1
+  Ga  Ga3  1  0.66666667  0.33333333  0.50000000  1
+  Ga  Ga4  1  0.33333333  0.66666667  0.50000000  1
+  Ga  Ga5  1  0.00000000  0.00000000  0.00000000  1
+  Tm  Tm6  1  0.00000000  0.57231290  0.00000000  1
+  Tm  Tm7  1  0.42768710  0.42768710  0.00000000  1
+  Tm  Tm8  1  0.57231290  0.00000000  0.00000000  1

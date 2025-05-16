@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce2Y(AlPd)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15664758
+_cell_length_b   7.19942293
+_cell_length_c   7.19942305
+_cell_angle_alpha   59.39019056
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Y(AlPd)3
+_chemical_formula_sum   'Ce2 Y1 Al3 Pd3'
+_cell_volume   185.42471183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.50000000  0.42218818  0.00019504  1
+  Ce  Ce1  1  0.50000000  0.99980496  0.57781182  1
+  Y  Y2  1  0.50000000  0.58095227  0.41904773  1
+  Al  Al3  1  0.00000000  0.23340827  0.76659173  1
+  Al  Al4  1  0.00000000  0.76785769  0.00125048  1
+  Al  Al5  1  0.00000000  0.99874952  0.23214231  1
+  Pd  Pd6  1  -0.00000000  0.33104580  0.33337274  1
+  Pd  Pd7  1  0.00000000  0.66662726  0.66895420  1
+  Pd  Pd8  1  0.50000000  0.99926605  0.00073395  1

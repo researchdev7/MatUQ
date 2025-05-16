@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaTaAlO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64190426
+_cell_length_b   5.64190426
+_cell_length_c   7.45987929
+_cell_angle_alpha   104.50370397
+_cell_angle_beta   104.50370397
+_cell_angle_gamma   106.04042233
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTaAlO5
+_chemical_formula_sum   'Ca2 Ta2 Al2 O10'
+_cell_volume   207.49160397
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.33062827  0.66413970  0.77041255  1
+  Ca  Ca1  1  0.66413970  0.33062827  0.27041255  1
+  Ta  Ta2  1  0.00140557  0.99655206  0.50075951  1
+  Ta  Ta3  1  0.99655206  0.00140557  0.00075951  1
+  Al  Al4  1  0.31324201  0.68277847  0.25077501  1
+  Al  Al5  1  0.68277847  0.31324201  0.75077501  1
+  O  O6  1  0.07503052  0.92668429  0.75131553  1
+  O  O7  1  0.92668429  0.07503052  0.25131553  1
+  O  O8  1  0.24960684  0.36744368  0.08771798  1
+  O  O9  1  0.63157210  0.75232255  0.41230139  1
+  O  O10  1  0.75232255  0.63157210  0.91230139  1
+  O  O11  1  0.36744368  0.24960684  0.58771798  1
+  O  O12  1  0.09385307  0.68930034  0.38458386  1
+  O  O13  1  0.30633859  0.89910194  0.11393418  1
+  O  O14  1  0.89910194  0.30633859  0.61393418  1
+  O  O15  1  0.68930034  0.09385307  0.88458386  1

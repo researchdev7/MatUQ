@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pr5Si2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90005524
+_cell_length_b   7.90005524
+_cell_length_c   8.99013371
+_cell_angle_alpha   116.06392580
+_cell_angle_beta   116.06392580
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr5Si2Ge
+_chemical_formula_sum   'Pr10 Si4 Ge2'
+_cell_volume   439.61831038
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.50000000  0.50000000  0.00000000  1
+  Pr  Pr1  1  0.00000000  0.00000000  0.00000000  1
+  Pr  Pr2  1  0.96920435  0.82133046  0.29053480  1
+  Pr  Pr3  1  0.32133046  0.46920435  0.29053480  1
+  Pr  Pr4  1  0.82133046  0.32133046  0.29053480  1
+  Pr  Pr5  1  0.46920435  0.96920435  0.29053480  1
+  Pr  Pr6  1  0.03079565  0.17866954  0.70946520  1
+  Pr  Pr7  1  0.67866954  0.53079565  0.70946520  1
+  Pr  Pr8  1  0.17866954  0.67866954  0.70946520  1
+  Pr  Pr9  1  0.53079565  0.03079565  0.70946520  1
+  Si  Si10  1  0.61482335  0.88517665  0.00000000  1
+  Si  Si11  1  0.38517665  0.11482335  0.00000000  1
+  Si  Si12  1  0.88517665  0.38517665  0.00000000  1
+  Si  Si13  1  0.11482335  0.61482335  1.00000000  1
+  Ge  Ge14  1  0.75000000  0.75000000  0.50000000  1
+  Ge  Ge15  1  0.25000000  0.25000000  0.50000000  1

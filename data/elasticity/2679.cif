@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaInPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41139967
+_cell_length_b   7.32808547
+_cell_length_c   8.52922500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaInPt
+_chemical_formula_sum   'Ca4 In4 Pt4'
+_cell_volume   275.72522741
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000000  0.02974584  0.67772343  1
+  Ca  Ca1  1  0.25000000  0.52974584  0.82227657  1
+  Ca  Ca2  1  0.75000000  0.97025416  0.32227657  1
+  Ca  Ca3  1  0.75000000  0.47025416  0.17772343  1
+  In  In4  1  0.75000000  0.35053320  0.56536756  1
+  In  In5  1  0.25000000  0.14946680  0.06536756  1
+  In  In6  1  0.75000000  0.85053320  0.93463244  1
+  In  In7  1  0.25000000  0.64946680  0.43463244  1
+  Pt  Pt8  1  0.75000000  0.23241198  0.87615593  1
+  Pt  Pt9  1  0.75000000  0.73241198  0.62384407  1
+  Pt  Pt10  1  0.25000000  0.76758802  0.12384407  1
+  Pt  Pt11  1  0.25000000  0.26758802  0.37615593  1

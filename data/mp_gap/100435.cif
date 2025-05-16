@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_In(TeMo)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62229103
+_cell_length_b   9.59941719
+_cell_length_c   9.60675829
+_cell_angle_alpha   119.96789929
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In(TeMo)3
+_chemical_formula_sum   'In2 Te6 Mo6'
+_cell_volume   369.27511121
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.75000000  0.66570187  0.33395047  1
+  In  In1  1  0.25000000  0.33429813  0.66604953  1
+  Te  Te2  1  0.75000000  0.63164291  0.69387663  1
+  Te  Te3  1  0.75000000  0.30651761  -0.06242710  1
+  Te  Te4  1  0.75000000  0.06196215  0.36835281  1
+  Te  Te5  1  0.25000000  0.36835709  0.30612337  1
+  Te  Te6  1  0.25000000  0.69348239  0.06242710  1
+  Te  Te7  1  0.25000000  -0.06196215  0.63164719  1
+  Mo  Mo8  1  0.75000000  -0.02812971  0.82775725  1
+  Mo  Mo9  1  0.75000000  0.17229846  0.14388481  1
+  Mo  Mo10  1  0.75000000  0.85578785  0.02843457  1
+  Mo  Mo11  1  0.25000000  0.02812971  0.17224275  1
+  Mo  Mo12  1  0.25000000  0.82770154  0.85611519  1
+  Mo  Mo13  1  0.25000000  0.14421215  -0.02843457  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KGeCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67266851
+_cell_length_b   7.67266815
+_cell_length_c   7.67266839
+_cell_angle_alpha   60.03990732
+_cell_angle_beta   60.03990893
+_cell_angle_gamma   60.03990632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KGeCl3
+_chemical_formula_sum   'K2 Ge2 Cl6'
+_cell_volume   319.68109614
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.27526710  0.27526710  0.27526710  1
+  K  K1  1  0.77526710  0.77526710  0.77526710  1
+  Ge  Ge2  1  0.99025599  0.99025599  0.99025599  1
+  Ge  Ge3  1  0.49025599  0.49025599  0.49025599  1
+  Cl  Cl4  1  0.21074641  0.86209400  0.69013650  1
+  Cl  Cl5  1  0.86209400  0.69013650  0.21074641  1
+  Cl  Cl6  1  0.69013650  0.21074641  0.86209400  1
+  Cl  Cl7  1  0.19013650  0.36209400  0.71074641  1
+  Cl  Cl8  1  0.71074641  0.19013650  0.36209400  1
+  Cl  Cl9  1  0.36209400  0.71074641  0.19013650  1

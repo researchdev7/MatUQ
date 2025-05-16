@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sm(CuO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78749386
+_cell_length_b   5.78792236
+_cell_length_c   6.35033749
+_cell_angle_alpha   117.09070243
+_cell_angle_beta   117.08852969
+_cell_angle_gamma   90.03989017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(CuO2)2
+_chemical_formula_sum   'Sm2 Cu4 O8'
+_cell_volume   162.69492868
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.71203783  0.53044954  0.85245334  1
+  O  O1  1  0.14041551  0.82200380  0.85245334  1
+  O  O2  1  0.28796217  0.46955046  0.14754666  1
+  O  O3  1  0.85958449  0.17799620  0.14754666  1
+  O  O4  1  0.53068589  0.14051664  0.35243763  1
+  O  O5  1  0.82175174  0.71192098  0.35243763  1
+  O  O6  1  0.17824826  0.28807902  0.64756237  1
+  O  O7  1  0.46931411  0.85948336  0.64756237  1
+  Cu  Cu8  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu9  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu10  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu11  1  0.50000000  0.50000000  0.50000000  1
+  Sm  Sm12  1  0.87500303  0.12500303  0.75000606  1
+  Sm  Sm13  1  0.12499697  0.87499697  0.24999394  1

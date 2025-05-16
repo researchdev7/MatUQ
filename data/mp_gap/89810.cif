@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AgAuF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87671003
+_cell_length_b   5.87671003
+_cell_length_c   6.87928046
+_cell_angle_alpha   115.28563339
+_cell_angle_beta   115.28563335
+_cell_angle_gamma   89.99999998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgAuF4
+_chemical_formula_sum   'Ag2 Au2 F8'
+_cell_volume   189.33841349
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.70238052  0.20238052  0.74466093  1
+  F  F1  1  0.95771959  0.45771959  0.25533907  1
+  F  F2  1  0.29761948  0.79761948  0.25533907  1
+  F  F3  1  0.45771959  0.29761948  0.25533907  1
+  F  F4  1  0.04228041  0.54228041  0.74466093  1
+  F  F5  1  0.20238052  0.04228041  0.74466093  1
+  F  F6  1  0.54228041  0.70238052  0.74466093  1
+  F  F7  1  0.79761948  0.95771959  0.25533907  1
+  Ag  Ag8  1  0.25000000  0.25000000  0.50000000  1
+  Ag  Ag9  1  0.75000000  0.75000000  0.50000000  1
+  Au  Au10  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au11  1  0.50000000  0.00000000  0.00000000  1

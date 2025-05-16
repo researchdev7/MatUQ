@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuNiSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95805035
+_cell_length_b   4.44275412
+_cell_length_c   7.59484984
+_cell_angle_alpha   90.00044404
+_cell_angle_beta   89.99766669
+_cell_angle_gamma   90.00028943
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuNiSn
+_chemical_formula_sum   'Lu4 Ni4 Sn4'
+_cell_volume   234.77888561
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.51222070  0.74999782  0.20170323  1
+  Lu  Lu1  1  0.01221431  0.74999678  0.29829712  1
+  Lu  Lu2  1  0.98779164  0.24999920  0.70170189  1
+  Lu  Lu3  1  0.48778502  0.25000254  0.79829290  1
+  Ni  Ni4  1  0.20447376  0.25000224  0.08202703  1
+  Ni  Ni5  1  0.70446659  0.25000218  0.41798751  1
+  Ni  Ni6  1  0.29552411  0.74999946  0.58202390  1
+  Ni  Ni7  1  0.79551543  0.74999981  0.91796763  1
+  Sn  Sn8  1  0.80903458  0.25000207  0.08857175  1
+  Sn  Sn9  1  0.30902931  0.24999863  0.41142421  1
+  Sn  Sn10  1  0.69097255  0.74999944  0.58856660  1
+  Sn  Sn11  1  0.19097201  0.75000583  0.91143922  1

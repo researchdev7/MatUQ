@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MnRu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38579335
+_cell_length_b   5.38620792
+_cell_length_c   4.24548198
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00309924
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnRu3
+_chemical_formula_sum   'Mn2 Ru6'
+_cell_volume   106.65393157
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66666390  0.33333776  0.25000000  1
+  Mn  Mn1  1  0.33334285  0.66666593  0.75000000  1
+  Ru  Ru2  1  0.83026612  0.16977933  0.75000000  1
+  Ru  Ru3  1  0.33952984  0.16974798  0.75000000  1
+  Ru  Ru4  1  0.83023715  0.66045474  0.75000000  1
+  Ru  Ru5  1  0.16971213  0.83024013  0.25000000  1
+  Ru  Ru6  1  0.66049681  0.83026225  0.25000000  1
+  Ru  Ru7  1  0.16974719  0.33950289  0.25000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2TiNiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58625165
+_cell_length_b   5.61892923
+_cell_length_c   7.90967397
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.02838224
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2TiNiO6
+_chemical_formula_sum   'La4 Ti2 Ni2 O12'
+_cell_volume   248.27476951
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00650107  0.46525447  0.25077899  1
+  La  La1  1  0.99349893  0.53474553  0.74922101  1
+  La  La2  1  0.49349893  0.96525447  0.24922101  1
+  La  La3  1  0.50650107  0.03474553  0.75077899  1
+  Ti  Ti4  1  0.00000000  -0.00000000  -0.00000000  1
+  Ti  Ti5  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni6  1  0.00000000  -0.00000000  0.50000000  1
+  Ni  Ni7  1  0.50000000  0.50000000  -0.00000000  1
+  O  O8  1  0.92049980  0.01738434  0.24326612  1
+  O  O9  1  0.07950020  0.98261566  0.75673388  1
+  O  O10  1  0.57950020  0.51738434  0.25673388  1
+  O  O11  1  0.42049980  0.48261566  0.74326612  1
+  O  O12  1  0.20344489  0.71786425  0.04263214  1
+  O  O13  1  0.79655511  0.28213575  0.95736786  1
+  O  O14  1  0.29655511  0.21786425  0.45736786  1
+  O  O15  1  0.70344489  0.78213575  0.54263214  1
+  O  O16  1  0.28119841  0.20409925  0.04210909  1
+  O  O17  1  0.71880159  0.79590075  0.95789091  1
+  O  O18  1  0.21880159  0.70409925  0.45789091  1
+  O  O19  1  0.78119841  0.29590075  0.54210909  1

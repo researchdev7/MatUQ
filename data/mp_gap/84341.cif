@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaGaPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51141588
+_cell_length_b   7.24729372
+_cell_length_c   8.04033459
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGaPt
+_chemical_formula_sum   'La4 Ga4 Pt4'
+_cell_volume   262.88320965
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.75000000  0.46991659  0.80987829  1
+  La  La1  1  0.75000000  0.96991659  0.69012171  1
+  La  La2  1  0.25000000  0.53008341  0.19012171  1
+  La  La3  1  0.25000000  0.03008341  0.30987829  1
+  Ga  Ga4  1  0.75000000  0.34454231  0.43119876  1
+  Ga  Ga5  1  0.75000000  0.84454231  0.06880124  1
+  Ga  Ga6  1  0.25000000  0.65545769  0.56880124  1
+  Ga  Ga7  1  0.25000000  0.15545769  0.93119876  1
+  Pt  Pt8  1  0.75000000  0.22046810  0.10798741  1
+  Pt  Pt9  1  0.75000000  0.72046810  0.39201259  1
+  Pt  Pt10  1  0.25000000  0.77953190  0.89201259  1
+  Pt  Pt11  1  0.25000000  0.27953190  0.60798741  1

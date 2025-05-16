@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiSbF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54198241
+_cell_length_b   5.54198241
+_cell_length_c   5.54198241
+_cell_angle_alpha   57.36342742
+_cell_angle_beta   57.36342734
+_cell_angle_gamma   57.36342738
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSbF6
+_chemical_formula_sum   'Li1 Sb1 F6'
+_cell_volume   113.05581959
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
+  F  F1  1  0.65908825  0.86136634  0.23939830  1
+  F  F2  1  0.86136634  0.23939830  0.65908825  1
+  F  F3  1  0.76060170  0.34091175  0.13863366  1
+  F  F4  1  0.23939830  0.65908825  0.86136634  1
+  F  F5  1  0.13863366  0.76060170  0.34091175  1
+  F  F6  1  0.34091175  0.13863366  0.76060170  1
+  Sb  Sb7  1  0.00000000  0.00000000  0.00000000  1

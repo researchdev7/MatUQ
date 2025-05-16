@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbFe2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16447678
+_cell_length_b   7.36937058
+_cell_length_c   7.36937057
+_cell_angle_alpha   103.45616673
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbFe2S3
+_chemical_formula_sum   'Rb2 Fe4 S6'
+_cell_volume   272.77104569
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.75000000  0.16564296  0.37252412  1
+  S  S1  1  0.25000000  0.83435704  0.62747588  1
+  S  S2  1  0.25000000  0.37252412  0.16564296  1
+  S  S3  1  0.75000000  0.62747588  0.83435704  1
+  S  S4  1  0.75000000  0.10512179  0.89487821  1
+  S  S5  1  0.25000000  0.89487821  0.10512179  1
+  Fe  Fe6  1  0.00000000  0.86091124  0.86091124  1
+  Fe  Fe7  1  0.00000000  0.13908876  0.13908876  1
+  Fe  Fe8  1  0.50000000  0.13908876  0.13908876  1
+  Fe  Fe9  1  0.50000000  0.86091124  0.86091124  1
+  Rb  Rb10  1  0.25000000  0.32402575  0.67597425  1
+  Rb  Rb11  1  0.75000000  0.67597425  0.32402575  1

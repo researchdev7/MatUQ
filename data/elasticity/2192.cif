@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfGeTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01900748
+_cell_length_b   8.52705013
+_cell_length_c   11.10876690
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.63066281
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGeTe4
+_chemical_formula_sum   'Hf2 Ge2 Te8'
+_cell_volume   369.97811012
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.34684235  0.69368469  0.27202498  1
+  Hf  Hf1  1  0.65315765  0.30631531  0.77202498  1
+  Ge  Ge2  1  0.22877144  0.45754289  0.46091548  1
+  Ge  Ge3  1  0.77122856  0.54245711  0.96091548  1
+  Te  Te4  1  0.27470493  0.54940986  0.69832934  1
+  Te  Te5  1  0.37832325  0.75664651  0.00095159  1
+  Te  Te6  1  0.72529507  0.45059014  0.19832934  1
+  Te  Te7  1  0.97779902  0.95559804  0.24106758  1
+  Te  Te8  1  0.10354426  0.20708852  0.95887104  1
+  Te  Te9  1  0.89645574  0.79291148  0.45887104  1
+  Te  Te10  1  0.02220098  0.04440196  0.74106758  1
+  Te  Te11  1  0.62167675  0.24335349  0.50095159  1

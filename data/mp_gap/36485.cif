@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeZnNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27016654
+_cell_length_b   5.27016654
+_cell_length_c   16.33301931
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.96343276
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeZnNi2
+_chemical_formula_sum   'Ce6 Zn6 Ni12'
+_cell_volume   393.01189432
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.66675520  0.33324480  0.04564147  1
+  Ce  Ce1  1  0.33324480  0.66675520  0.95435853  1
+  Ce  Ce2  1  0.33324480  0.66675520  0.54564147  1
+  Ce  Ce3  1  0.66675520  0.33324480  0.45435853  1
+  Ce  Ce4  1  0.66659439  0.33340561  0.25000000  1
+  Ce  Ce5  1  0.33340561  0.66659439  0.75000000  1
+  Zn  Zn6  1  0.66659879  0.33340121  0.75000000  1
+  Zn  Zn7  1  0.33340121  0.66659879  0.25000000  1
+  Zn  Zn8  1  0.00004108  -0.00004108  0.75000000  1
+  Zn  Zn9  1  -0.00004108  0.00004108  0.25000000  1
+  Zn  Zn10  1  0.00000000  -0.00000000  0.50000000  1
+  Zn  Zn11  1  0.00000000  -0.00000000  0.00000000  1
+  Ni  Ni12  1  0.83171860  0.66346255  0.62536218  1
+  Ni  Ni13  1  0.83169803  0.16830197  0.62538680  1
+  Ni  Ni14  1  0.33653745  0.16828140  0.62536218  1
+  Ni  Ni15  1  0.16828140  0.33653745  0.37463782  1
+  Ni  Ni16  1  0.16830197  0.83169803  0.37461320  1
+  Ni  Ni17  1  0.66346255  0.83171860  0.37463782  1
+  Ni  Ni18  1  0.16828140  0.33653745  0.12536218  1
+  Ni  Ni19  1  0.16830197  0.83169803  0.12538680  1
+  Ni  Ni20  1  0.66346255  0.83171860  0.12536218  1
+  Ni  Ni21  1  0.83171860  0.66346255  0.87463782  1
+  Ni  Ni22  1  0.83169803  0.16830197  0.87461320  1
+  Ni  Ni23  1  0.33653745  0.16828140  0.87463782  1

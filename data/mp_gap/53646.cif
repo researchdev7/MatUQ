@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11350340
+_cell_length_b   5.17371345
+_cell_length_c   8.18618656
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.39141246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAlNi
+_chemical_formula_sum   'Sc4 Al4 Ni4'
+_cell_volume   186.81284225
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.66596890  0.33299027  0.54689272  1
+  Sc  Sc1  1  0.33800714  0.66901333  0.42464001  1
+  Sc  Sc2  1  0.33800714  0.66901333  0.07535999  1
+  Sc  Sc3  1  0.66596890  0.33299027  0.95310728  1
+  Al  Al4  1  0.98785384  0.99392626  0.48605251  1
+  Al  Al5  1  0.98785384  0.99392626  0.01394749  1
+  Al  Al6  1  0.17565991  0.34380604  0.75000000  1
+  Al  Al7  1  0.17563549  0.83184322  0.75000000  1
+  Ni  Ni8  1  0.66668773  0.83334688  0.75000000  1
+  Ni  Ni9  1  0.82877713  0.65498832  0.25000000  1
+  Ni  Ni10  1  0.82876407  0.17374584  0.25000000  1
+  Ni  Ni11  1  0.34081591  0.17040997  0.25000000  1

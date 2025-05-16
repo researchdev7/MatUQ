@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Fe3Ni3Ge2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04883071
+_cell_length_b   4.04883071
+_cell_length_c   7.01620098
+_cell_angle_alpha   73.22976692
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Ni3Ge2
+_chemical_formula_sum   'Fe3 Ni3 Ge2'
+_cell_volume   93.91654028
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.62471050  0.24942100  0.12586850  1
+  Fe  Fe1  1  0.12459674  0.24919347  0.62620979  1
+  Fe  Fe2  1  0.87581247  0.75162495  0.37256258  1
+  Ni  Ni3  1  0.37467931  0.74935862  0.87596207  1
+  Ni  Ni4  1  0.25056027  0.50112055  0.24831918  1
+  Ni  Ni5  1  0.74940688  0.49881377  0.75177935  1
+  Ge  Ge6  1  0.00028794  0.00057588  0.99913618  1
+  Ge  Ge7  1  0.49994588  0.99989176  0.50016236  1

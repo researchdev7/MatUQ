@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_DySnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00966017
+_cell_length_b   7.54263143
+_cell_length_c   7.54315904
+_cell_angle_alpha   119.99768409
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DySnPt
+_chemical_formula_sum   'Dy3 Sn3 Pt3'
+_cell_volume   197.57158487
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.50000000  0.59415537  0.00000000  1
+  Dy  Dy1  1  0.50000000  0.40583711  0.40583526  1
+  Dy  Dy2  1  0.50000000  0.00000185  0.59416474  1
+  Sn  Sn3  1  -0.00000000  0.25781805  0.00000000  1
+  Sn  Sn4  1  0.00000000  0.74213227  0.74213044  1
+  Sn  Sn5  1  0.00000000  0.00000183  0.25786956  1
+  Pt  Pt6  1  -0.00000000  0.33331884  0.66667185  1
+  Pt  Pt7  1  -0.00000000  0.66664699  0.33332815  1
+  Pt  Pt8  1  0.50000000  0.99998771  0.00000000  1

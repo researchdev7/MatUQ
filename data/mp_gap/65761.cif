@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba5In4Bi5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.15539296
+_cell_length_b   10.78858275
+_cell_length_c   10.78858275
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5In4Bi5
+_chemical_formula_sum   'Ba10 In8 Bi10'
+_cell_volume   1065.62839303
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.03102714  0.57214246  0.68443520  1
+  In  In1  1  0.03102714  0.42785754  0.31556480  1
+  In  In2  1  0.03102714  0.68443520  0.42785754  1
+  In  In3  1  0.03102714  0.31556480  0.57214246  1
+  In  In4  1  0.53102714  0.81556480  0.92785754  1
+  In  In5  1  0.53102714  0.07214246  0.81556480  1
+  In  In6  1  0.53102714  0.92785754  0.18443520  1
+  In  In7  1  0.53102714  0.18443520  0.07214246  1
+  Ba  Ba8  1  0.19846771  0.00000000  0.00000000  1
+  Ba  Ba9  1  0.69846771  0.50000000  0.50000000  1
+  Ba  Ba10  1  0.37417174  0.60529436  0.18998963  1
+  Ba  Ba11  1  0.37417174  0.81001037  0.60529436  1
+  Ba  Ba12  1  0.37417174  0.18998963  0.39470564  1
+  Ba  Ba13  1  0.37417174  0.39470564  0.81001037  1
+  Ba  Ba14  1  0.87417174  0.89470564  0.68998963  1
+  Ba  Ba15  1  0.87417174  0.10529436  0.31001037  1
+  Ba  Ba16  1  0.87417174  0.31001037  0.89470564  1
+  Ba  Ba17  1  0.87417174  0.68998963  0.10529436  1
+  Bi  Bi18  1  0.81215207  0.00000000  0.00000000  1
+  Bi  Bi19  1  0.31215207  0.50000000  0.50000000  1
+  Bi  Bi20  1  0.19259117  0.69038585  0.89026624  1
+  Bi  Bi21  1  0.19259117  0.30961415  0.10973376  1
+  Bi  Bi22  1  0.19259117  0.89026624  0.30961415  1
+  Bi  Bi23  1  0.19259117  0.10973376  0.69038585  1
+  Bi  Bi24  1  0.69259117  0.60973376  0.80961415  1
+  Bi  Bi25  1  0.69259117  0.19038585  0.60973376  1
+  Bi  Bi26  1  0.69259117  0.80961415  0.39026624  1
+  Bi  Bi27  1  0.69259117  0.39026624  0.19038585  1

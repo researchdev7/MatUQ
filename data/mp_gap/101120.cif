@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tb(BIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64396237
+_cell_length_b   7.64396371
+_cell_length_c   3.99155539
+_cell_angle_alpha   89.99998196
+_cell_angle_beta   90.00010369
+_cell_angle_gamma   89.99998209
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb(BIr)4
+_chemical_formula_sum   'Tb2 B8 Ir8'
+_cell_volume   233.22726382
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.25000047  0.25000133  0.25000638  1
+  Tb  Tb1  1  0.75000045  0.74999918  0.75000592  1
+  B  B2  1  0.02837676  0.59202264  0.13857719  1
+  B  B3  1  0.47162243  0.90797742  0.13857636  1
+  B  B4  1  0.90798025  0.02837652  0.36142902  1
+  B  B5  1  0.59201951  0.47162269  0.36142933  1
+  B  B6  1  0.40797773  0.52837735  0.63857679  1
+  B  B7  1  0.09202277  0.97162348  0.63857752  1
+  B  B8  1  0.52837777  0.09201920  0.86142862  1
+  B  B9  1  0.97162311  0.40798017  0.86142895  1
+  Ir  Ir10  1  0.40996942  0.64058132  0.13719128  1
+  Ir  Ir11  1  0.09003130  0.85941825  0.13718919  1
+  Ir  Ir12  1  0.64058492  0.09003706  0.36280559  1
+  Ir  Ir13  1  0.85941395  0.40996218  0.36280309  1
+  Ir  Ir14  1  0.14058047  0.59003151  0.63718858  1
+  Ir  Ir15  1  0.35941841  0.90996872  0.63718876  1
+  Ir  Ir16  1  0.90996299  0.14058585  0.86280405  1
+  Ir  Ir17  1  0.59003729  0.35941513  0.86280437  1

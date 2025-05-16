@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ThB4Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78482587
+_cell_length_b   6.10494805
+_cell_length_c   6.10494806
+_cell_angle_alpha   104.06830818
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThB4Mo
+_chemical_formula_sum   'Th2 B8 Mo2'
+_cell_volume   136.83101426
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.50000000  0.90987103  0.09012897  1
+  B  B1  1  0.50000000  0.09012897  0.90987103  1
+  B  B2  1  0.50000000  0.62917948  0.62917948  1
+  B  B3  1  0.50000000  0.37082052  0.37082052  1
+  B  B4  1  0.50000000  0.37685962  0.06492289  1
+  B  B5  1  0.50000000  0.62314038  0.93507711  1
+  B  B6  1  0.50000000  0.06492289  0.37685962  1
+  B  B7  1  0.50000000  0.93507711  0.62314038  1
+  Mo  Mo8  1  0.00000000  0.82748330  0.82748330  1
+  Mo  Mo9  1  0.00000000  0.17251670  0.17251670  1
+  Th  Th10  1  0.00000000  0.69807684  0.30192316  1
+  Th  Th11  1  0.00000000  0.30192316  0.69807684  1

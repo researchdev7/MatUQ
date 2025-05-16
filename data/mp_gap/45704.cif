@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GdCo2Ni2B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02858085
+_cell_length_b   5.03265639
+_cell_length_c   6.84239305
+_cell_angle_alpha   90.27591380
+_cell_angle_beta   90.27211246
+_cell_angle_gamma   59.87267872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdCo2Ni2B
+_chemical_formula_sum   'Gd2 Co4 Ni4 B2'
+_cell_volume   149.76700051
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000991  0.99998515  0.99738177  1
+  Gd  Gd1  1  0.00008647  0.99985229  0.50098683  1
+  Co  Co2  1  0.49997384  0.49999351  0.29343046  1
+  Co  Co3  1  0.50004166  0.00008965  0.70947179  1
+  Co  Co4  1  0.99988970  0.50002893  0.70915249  1
+  Co  Co5  1  0.50000582  0.50002394  0.70715408  1
+  Ni  Ni6  1  0.66438774  0.66405330  0.99863115  1
+  Ni  Ni7  1  0.33553797  0.33595744  0.99860251  1
+  Ni  Ni8  1  0.49998656  0.99996031  0.29077747  1
+  Ni  Ni9  1  0.99997220  0.50001839  0.29062711  1
+  B  B10  1  0.66567690  0.66552364  0.50190037  1
+  B  B11  1  0.33423124  0.33451347  0.50188397  1

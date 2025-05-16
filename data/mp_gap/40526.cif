@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaCI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20282695
+_cell_length_b   4.36004483
+_cell_length_c   10.85700309
+_cell_angle_alpha   93.13206713
+_cell_angle_beta   89.99999995
+_cell_angle_gamma   118.81419267
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCI
+_chemical_formula_sum   'La2 C2 I2'
+_cell_volume   173.97760508
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.85605338  0.71210676  0.86097466  1
+  La  La1  1  0.14394662  0.28789324  0.13902534  1
+  C  C2  1  0.57340729  0.14681459  0.97051911  1
+  C  C3  1  0.42659271  0.85318541  0.02948089  1
+  I  I4  1  0.82441121  0.64882243  0.34093960  1
+  I  I5  1  0.17558879  0.35117757  0.65906040  1

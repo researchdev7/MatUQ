@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MnCr3Te4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14415991
+_cell_length_b   7.37581243
+_cell_length_c   7.16111345
+_cell_angle_alpha   119.13519640
+_cell_angle_beta   89.96427821
+_cell_angle_gamma   106.40874529
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCr3Te4
+_chemical_formula_sum   'Mn1 Cr3 Te4'
+_cell_volume   180.94280398
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25000000  0.50000000  0.25000000  1
+  Cr  Cr1  1  0.75000000  0.50000000  0.75000000  1
+  Cr  Cr2  1  0.00408753  0.00869032  0.00636709  1
+  Cr  Cr3  1  0.49591247  0.99130968  0.49363291  1
+  Te  Te4  1  0.37716215  0.75461943  0.71323503  1
+  Te  Te5  1  0.87513590  0.75107513  0.20720246  1
+  Te  Te6  1  0.62486410  0.24892487  0.29279754  1
+  Te  Te7  1  0.12283785  0.24538057  0.78676497  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr2(GaAu2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.56310416
+_cell_length_b   8.56310416
+_cell_length_c   8.94373500
+_cell_angle_alpha   61.39810597
+_cell_angle_beta   61.39810597
+_cell_angle_gamma   59.99999921
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2(GaAu2)3
+_chemical_formula_sum   'Sr4 Ga6 Au12'
+_cell_volume   473.29055160
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.58967621  0.58967621  0.23097138  1
+  Sr  Sr1  1  0.08967621  0.08967621  0.73097138  1
+  Sr  Sr2  1  0.41032379  0.41032379  0.76902862  1
+  Sr  Sr3  1  0.91032379  0.91032379  0.26902862  1
+  Ga  Ga4  1  0.75000000  0.94654967  0.75000000  1
+  Ga  Ga5  1  0.94654967  0.55345033  0.75000000  1
+  Ga  Ga6  1  0.55345033  0.75000000  0.75000000  1
+  Ga  Ga7  1  0.25000000  0.05345033  0.25000000  1
+  Ga  Ga8  1  0.05345033  0.44654967  0.25000000  1
+  Ga  Ga9  1  0.44654967  0.25000000  0.25000000  1
+  Au  Au10  1  0.63445948  0.02491182  0.04572414  1
+  Au  Au11  1  0.02491182  0.29490456  0.04572414  1
+  Au  Au12  1  0.29490456  0.63445948  0.04572414  1
+  Au  Au13  1  0.13445948  0.79490456  0.54572414  1
+  Au  Au14  1  0.79490456  0.52491182  0.54572414  1
+  Au  Au15  1  0.52491182  0.13445948  0.54572414  1
+  Au  Au16  1  0.36554052  0.97508818  0.95427586  1
+  Au  Au17  1  0.97508818  0.70509544  0.95427586  1
+  Au  Au18  1  0.70509544  0.36554052  0.95427586  1
+  Au  Au19  1  0.86554052  0.20509544  0.45427586  1
+  Au  Au20  1  0.20509544  0.47508818  0.45427586  1
+  Au  Au21  1  0.47508818  0.86554052  0.45427586  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaBe4Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54593653
+_cell_length_b   4.54614712
+_cell_length_c   7.40105265
+_cell_angle_alpha   89.99197785
+_cell_angle_beta   89.99365780
+_cell_angle_gamma   59.99038013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaBe4Mo
+_chemical_formula_sum   'Ta2 Be8 Mo2'
+_cell_volume   132.44905618
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.66668953  0.66658623  0.07132781  1
+  Ta  Ta1  1  0.33331047  0.33341377  0.92867219  1
+  Be  Be2  1  -0.00000000  0.00000000  0.50000000  1
+  Be  Be3  1  -0.00000000  0.00000000  -0.00000000  1
+  Be  Be4  1  0.82909710  0.34174461  0.74677814  1
+  Be  Be5  1  0.34175985  0.82908649  0.74678434  1
+  Be  Be6  1  0.82909406  0.82909946  0.74673630  1
+  Be  Be7  1  0.17090290  0.65825539  0.25322186  1
+  Be  Be8  1  0.65824015  0.17091351  0.25321566  1
+  Be  Be9  1  0.17090594  0.17090054  0.25326370  1
+  Mo  Mo10  1  0.33340782  0.33345084  0.56090199  1
+  Mo  Mo11  1  0.66659218  0.66654916  0.43909801  1

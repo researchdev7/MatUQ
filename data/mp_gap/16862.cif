@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ti3Nb(CuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47557757
+_cell_length_b   6.47557757
+_cell_length_c   6.47557757
+_cell_angle_alpha   109.65686726
+_cell_angle_beta   109.65686726
+_cell_angle_gamma   109.65686726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Nb(CuO4)3
+_chemical_formula_sum   'Ti3 Nb1 Cu3 O12'
+_cell_volume   207.58322699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.00000000  0.50000000  0.00000000  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.50000000  1
+  Nb  Nb3  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu4  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu5  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu6  1  0.00000000  0.50000000  0.50000000  1
+  O  O7  1  0.82005624  0.31340451  0.13359445  1
+  O  O8  1  0.49188586  0.17574295  0.31200685  1
+  O  O9  1  0.86640555  0.17994376  0.68659549  1
+  O  O10  1  0.68659549  0.86640555  0.17994376  1
+  O  O11  1  0.31200685  0.49188586  0.17574295  1
+  O  O12  1  0.82425705  0.68799315  0.50811414  1
+  O  O13  1  0.17574295  0.31200685  0.49188586  1
+  O  O14  1  0.31340451  0.13359445  0.82005624  1
+  O  O15  1  0.68799315  0.50811414  0.82425705  1
+  O  O16  1  0.13359445  0.82005624  0.31340451  1
+  O  O17  1  0.50811414  0.82425705  0.68799315  1
+  O  O18  1  0.17994376  0.68659549  0.86640555  1

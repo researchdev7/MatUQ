@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeCu2SiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13012944
+_cell_length_b   6.38678989
+_cell_length_c   7.39281662
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCu2SiS4
+_chemical_formula_sum   'Fe2 Cu4 Si2 S8'
+_cell_volume   289.44243801
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00201899  0.15493372  0.50000000  1
+  Fe  Fe1  1  0.50201899  0.84506628  -0.00000000  1
+  Cu  Cu2  1  0.49176216  0.32582675  0.25252833  1
+  Cu  Cu3  1  0.49176216  0.32582675  0.74747167  1
+  Cu  Cu4  1  0.99176216  0.67417325  0.24747167  1
+  Cu  Cu5  1  0.99176216  0.67417325  0.75252833  1
+  Si  Si6  1  0.50097486  0.82816531  0.50000000  1
+  Si  Si7  1  0.00097486  0.17183469  0.00000000  1
+  S  S8  1  0.14655770  0.82471313  0.50000000  1
+  S  S9  1  0.64655770  0.17528687  0.00000000  1
+  S  S10  1  0.62283847  0.14571904  0.50000000  1
+  S  S11  1  0.12283847  0.85428096  -0.00000000  1
+  S  S12  1  0.11704283  0.33194336  0.24051111  1
+  S  S13  1  0.11704283  0.33194336  0.75948889  1
+  S  S14  1  0.61704283  0.66805664  0.25948889  1
+  S  S15  1  0.61704283  0.66805664  0.74051111  1

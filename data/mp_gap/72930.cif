@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Zr3Ti2Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33025855
+_cell_length_b   7.81528175
+_cell_length_c   7.81528156
+_cell_angle_alpha   59.99257547
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3Ti2Si3
+_chemical_formula_sum   'Zr6 Ti4 Si6'
+_cell_volume   281.92635673
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.74999696  0.25104211  0.74895789  1
+  Zr  Zr1  1  0.74999970  0.74904592  0.00003047  1
+  Zr  Zr2  1  0.74999970  0.99996953  0.25095408  1
+  Zr  Zr3  1  0.24999696  0.74895789  0.25104211  1
+  Zr  Zr4  1  0.24999970  0.25095408  0.99996953  1
+  Zr  Zr5  1  0.24999970  0.00003047  0.74904592  1
+  Ti  Ti6  1  0.50000133  0.33334802  0.33336861  1
+  Ti  Ti7  1  0.50000133  0.66663139  0.66665198  1
+  Ti  Ti8  1  0.00000133  0.66665198  0.66663139  1
+  Ti  Ti9  1  0.00000133  0.33336861  0.33334802  1
+  Si  Si10  1  0.74999723  0.60147468  0.39852532  1
+  Si  Si11  1  0.75000187  0.39855139  -0.00001507  1
+  Si  Si12  1  0.75000187  0.00001507  0.60144861  1
+  Si  Si13  1  0.24999723  0.39852532  0.60147468  1
+  Si  Si14  1  0.25000187  0.60144861  0.00001507  1
+  Si  Si15  1  0.25000187  -0.00001507  0.39855139  1

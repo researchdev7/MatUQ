@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K3SiTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.50561202
+_cell_length_b   8.50561202
+_cell_length_c   8.98214699
+_cell_angle_alpha   105.32827601
+_cell_angle_beta   105.32827603
+_cell_angle_gamma   109.72441873
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3SiTe3
+_chemical_formula_sum   'K6 Si2 Te6'
+_cell_volume   543.35242192
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.89277139  0.89277139  0.86124305  1
+  Si  Si1  1  0.10722861  0.10722861  0.13875695  1
+  K  K2  1  0.79389974  0.79389974  0.32404786  1
+  K  K3  1  0.50000000  0.00000000  0.00000000  1
+  K  K4  1  0.65801847  0.34198153  0.50000000  1
+  K  K5  1  0.34198153  0.65801847  0.50000000  1
+  K  K6  1  0.00000000  0.50000000  0.00000000  1
+  K  K7  1  0.20610026  0.20610026  0.67595214  1
+  Te  Te8  1  0.36014045  0.36014045  0.12110029  1
+  Te  Te9  1  0.63985955  0.63985955  0.87889971  1
+  Te  Te10  1  0.94947837  0.24755765  0.29768635  1
+  Te  Te11  1  0.75244235  0.05052163  0.70231365  1
+  Te  Te12  1  0.05052163  0.75244235  0.70231365  1
+  Te  Te13  1  0.24755765  0.94947837  0.29768635  1

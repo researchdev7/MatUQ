@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TiAlO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93736421
+_cell_length_b   4.93789654
+_cell_length_c   5.43742923
+_cell_angle_alpha   63.03031993
+_cell_angle_beta   116.94845720
+_cell_angle_gamma   119.98368288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlO3
+_chemical_formula_sum   'Ti2 Al2 O6'
+_cell_volume   97.83082802
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.64849549  0.35201259  0.94549494  1
+  Ti  Ti1  1  0.35151123  0.64798497  0.05453195  1
+  Al  Al2  1  0.84828827  0.15168673  0.54491015  1
+  Al  Al3  1  0.15171092  0.84832044  0.45507139  1
+  O  O4  1  0.94602160  0.77210561  0.73483420  1
+  O  O5  1  0.56056603  0.05378717  0.73486079  1
+  O  O6  1  0.22770721  0.43930686  0.73465515  1
+  O  O7  1  0.77229881  0.56069289  0.26534973  1
+  O  O8  1  0.43941810  0.94621371  0.26512446  1
+  O  O9  1  0.05398233  0.22788704  0.26516923  1

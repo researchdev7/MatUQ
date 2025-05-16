@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sm2CdS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39012761
+_cell_length_b   7.39012814
+_cell_length_c   7.39012727
+_cell_angle_alpha   110.61098391
+_cell_angle_beta   110.61098964
+_cell_angle_gamma   107.21497817
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2CdS4
+_chemical_formula_sum   'Sm4 Cd2 S8'
+_cell_volume   310.33518515
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.62500000  0.37500000  0.25000000  1
+  Cd  Cd1  1  0.87500000  0.12500000  0.75000000  1
+  S  S2  1  0.00839217  0.88305734  0.51256989  1
+  S  S3  1  0.49160783  0.00417773  0.87466517  1
+  S  S4  1  0.11694266  0.12951255  0.12533483  1
+  S  S5  1  0.38305734  0.50839217  0.01256989  1
+  S  S6  1  0.62951255  0.61694266  0.62533483  1
+  S  S7  1  0.50417773  0.99160783  0.37466517  1
+  S  S8  1  0.87048745  0.49582227  0.98743011  1
+  S  S9  1  0.99582227  0.37048745  0.48743011  1
+  Sm  Sm10  1  0.11104349  0.75000000  0.86104349  1
+  Sm  Sm11  1  0.25000000  0.61104349  0.36104349  1
+  Sm  Sm12  1  0.38895651  0.25000000  0.63895651  1
+  Sm  Sm13  1  0.75000000  0.88895651  0.13895651  1

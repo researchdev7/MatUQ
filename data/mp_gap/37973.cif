@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K2Be2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95622946
+_cell_length_b   8.18779843
+_cell_length_c   6.43718525
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   115.03416593
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Be2O3
+_chemical_formula_sum   'K4 Be4 O6'
+_cell_volume   236.68427846
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.21453732  0.64575755  0.92068546  1
+  K  K1  1  0.21453732  0.85424245  0.42068546  1
+  K  K2  1  0.78546268  0.14575755  0.57931454  1
+  K  K3  1  0.78546268  0.35424245  0.07931454  1
+  Be  Be4  1  0.30282747  0.49058334  0.50382196  1
+  Be  Be5  1  0.69717253  0.99058334  0.99617804  1
+  Be  Be6  1  0.30282747  0.00941666  0.00382196  1
+  Be  Be7  1  0.69717253  0.50941666  0.49617804  1
+  O  O8  1  0.00000000  0.50000000  0.50000000  1
+  O  O9  1  0.00000000  0.00000000  0.00000000  1
+  O  O10  1  0.38915517  0.04111221  0.79693603  1
+  O  O11  1  0.61084483  0.54111221  0.70306397  1
+  O  O12  1  0.38915517  0.45888779  0.29693603  1
+  O  O13  1  0.61084483  0.95888779  0.20306397  1

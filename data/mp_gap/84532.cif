@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrVFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12190936
+_cell_length_b   5.10809496
+_cell_length_c   8.19396663
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.91050053
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrVFe
+_chemical_formula_sum   'Zr4 V4 Fe4'
+_cell_volume   185.49119372
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33395621  0.33208757  0.56932871  1
+  Zr  Zr1  1  0.66734478  0.66531045  0.44291757  1
+  Zr  Zr2  1  0.66734478  0.66531045  0.05708243  1
+  Zr  Zr3  1  0.33395621  0.33208757  0.93067129  1
+  V  V4  1  0.66370770  0.17006302  0.25000000  1
+  V  V5  1  0.16622928  0.17006302  0.25000000  1
+  V  V6  1  0.00192478  0.99615044  0.51776878  1
+  V  V7  1  0.00192478  0.99615044  0.98223122  1
+  Fe  Fe8  1  0.82636986  0.34726028  0.75000000  1
+  Fe  Fe9  1  0.34421544  0.82758071  0.75000000  1
+  Fe  Fe10  1  0.82820385  0.82758071  0.75000000  1
+  Fe  Fe11  1  0.16482233  0.67035534  0.25000000  1

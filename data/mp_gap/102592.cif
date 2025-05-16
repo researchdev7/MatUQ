@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2CeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93883762
+_cell_length_b   20.77391881
+_cell_length_c   13.34419976
+_cell_angle_alpha   15.52522862
+_cell_angle_beta   27.27869027
+_cell_angle_gamma   31.09013038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CeO3
+_chemical_formula_sum   'Rb4 Ce2 O6'
+_cell_volume   235.96813494
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  -0.00000000  1
+  Rb  Rb1  1  0.50000000  0.00000000  0.50000000  1
+  Rb  Rb2  1  0.99996737  0.31404799  0.02893773  1
+  Rb  Rb3  1  0.00003263  0.68595201  0.97106227  1
+  Ce  Ce4  1  0.50000578  0.33399815  0.49899622  1
+  Ce  Ce5  1  0.49999422  0.66600185  0.50100378  1
+  O  O6  1  0.35276689  0.00001325  0.16525299  1
+  O  O7  1  0.16227684  0.39837681  0.16437706  1
+  O  O8  1  0.16225590  0.60164154  0.35949441  1
+  O  O9  1  0.83774410  0.39835846  0.64050559  1
+  O  O10  1  0.83772316  0.60162319  0.83562294  1
+  O  O11  1  0.64723311  0.99998675  0.83474701  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_UH2Cl2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99444087
+_cell_length_b   6.36755324
+_cell_length_c   8.69052884
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.07253895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UH2Cl2O3
+_chemical_formula_sum   'U2 H4 Cl4 O6'
+_cell_volume   323.12019101
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.08087318  0.08411804  0.25000000  1
+  U  U1  1  0.91912682  0.91588196  0.75000000  1
+  H  H2  1  0.45779496  0.50150139  0.16048957  1
+  H  H3  1  0.54220504  0.49849861  0.66048957  1
+  H  H4  1  0.54220504  0.49849861  0.83951043  1
+  H  H5  1  0.45779496  0.50150139  0.33951043  1
+  Cl  Cl6  1  0.18668082  0.22114408  0.94677401  1
+  Cl  Cl7  1  0.81331918  0.77885592  0.44677401  1
+  Cl  Cl8  1  0.81331918  0.77885592  0.05322599  1
+  Cl  Cl9  1  0.18668082  0.22114408  0.55322599  1
+  O  O10  1  0.86424300  0.23562259  0.25000000  1
+  O  O11  1  0.13575700  0.76437741  0.75000000  1
+  O  O12  1  0.30014857  0.93594910  0.25000000  1
+  O  O13  1  0.69985143  0.06405090  0.75000000  1
+  O  O14  1  0.37727410  0.42864445  0.25000000  1
+  O  O15  1  0.62272590  0.57135555  0.75000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbPrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82339674
+_cell_length_b   5.81935688
+_cell_length_c   6.60004621
+_cell_angle_alpha   64.12091370
+_cell_angle_beta   64.10122859
+_cell_angle_gamma   90.56935426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbPrO4
+_chemical_formula_sum   'Tb2 Pr2 O8'
+_cell_volume   175.37751241
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.12397994  0.37397994  0.25203912  1
+  Tb  Tb1  1  0.87602006  0.62602006  0.74796088  1
+  Pr  Pr2  1  0.37464944  0.12464944  0.75070112  1
+  Pr  Pr3  1  0.62535056  0.87535056  0.24929888  1
+  O  O4  1  0.49505349  0.25951855  0.00199829  1
+  O  O5  1  0.24150891  0.00220871  0.49722789  1
+  O  O6  1  0.76126321  0.50056341  0.49722789  1
+  O  O7  1  0.99705178  0.26151684  0.99800171  1
+  O  O8  1  0.00294822  0.73848316  0.00199829  1
+  O  O9  1  0.23873679  0.49943659  0.50277211  1
+  O  O10  1  0.75849109  0.99779129  0.50277211  1
+  O  O11  1  0.50494651  0.74048145  0.99800171  1

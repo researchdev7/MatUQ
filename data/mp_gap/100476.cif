@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoSeClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98929190
+_cell_length_b   7.27968357
+_cell_length_c   8.85561413
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoSeClO3
+_chemical_formula_sum   'Ho4 Se4 Cl4 O12'
+_cell_volume   450.57217168
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.25000000  0.25217973  0.82206968  1
+  O  O1  1  0.75000000  0.74782027  0.17793032  1
+  O  O2  1  0.25000000  0.75217973  0.67793032  1
+  O  O3  1  0.75000000  0.24782027  0.32206968  1
+  O  O4  1  0.92780207  0.64086100  0.43254421  1
+  O  O5  1  0.42780207  0.35913900  0.56745579  1
+  O  O6  1  0.57219793  0.14086100  0.06745579  1
+  O  O7  1  0.92780207  0.14086100  0.06745579  1
+  O  O8  1  0.07219793  0.35913900  0.56745579  1
+  O  O9  1  0.57219793  0.64086100  0.43254421  1
+  O  O10  1  0.42780207  0.85913900  0.93254421  1
+  O  O11  1  0.07219793  0.85913900  0.93254421  1
+  Cl  Cl12  1  0.75000000  0.55882762  0.81723153  1
+  Cl  Cl13  1  0.75000000  0.05882762  0.68276847  1
+  Cl  Cl14  1  0.25000000  0.44117238  0.18276847  1
+  Cl  Cl15  1  0.25000000  0.94117238  0.31723153  1
+  Se  Se16  1  0.25000000  0.20919842  0.63326727  1
+  Se  Se17  1  0.75000000  0.79080158  0.36673273  1
+  Se  Se18  1  0.75000000  0.29080158  0.13326727  1
+  Se  Se19  1  0.25000000  0.70919842  0.86673273  1
+  Ho  Ho20  1  0.25000000  0.60436468  0.46098874  1
+  Ho  Ho21  1  0.75000000  0.39563532  0.53901126  1
+  Ho  Ho22  1  0.25000000  0.10436468  0.03901126  1
+  Ho  Ho23  1  0.75000000  0.89563532  0.96098874  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ta3(CuS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36280481
+_cell_length_b   8.85311322
+_cell_length_c   13.22236983
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   79.14490211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3(CuS3)2
+_chemical_formula_sum   'Ta6 Cu4 S12'
+_cell_volume   386.60334690
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.44426966  0.11019394  0.25089220  1
+  Ta  Ta1  1  0.77520059  0.44767202  0.25015873  1
+  Ta  Ta2  1  0.11026445  0.77810552  0.24883617  1
+  Ta  Ta3  1  0.88906334  0.22313906  0.75089220  1
+  Ta  Ta4  1  0.22306955  0.55522848  0.74883617  1
+  Ta  Ta5  1  0.55813241  0.88566098  0.75015873  1
+  Cu  Cu6  1  0.44506909  0.10940415  0.03757726  1
+  Cu  Cu7  1  0.22151901  0.55763209  0.96244954  1
+  Cu  Cu8  1  0.88826391  0.22392885  0.53757726  1
+  Cu  Cu9  1  0.11181499  0.77570191  0.46244954  1
+  S  S10  1  0.44675049  0.10551190  0.63147130  1
+  S  S11  1  0.77453886  0.44993114  0.63002135  1
+  S  S12  1  0.11068838  0.77798816  0.63091841  1
+  S  S13  1  0.88871352  0.22328623  0.36855667  1
+  S  S14  1  0.22541592  0.55056532  0.36918871  1
+  S  S15  1  0.55353722  0.89395174  0.36992966  1
+  S  S16  1  0.88658251  0.22782110  0.13147130  1
+  S  S17  1  0.22264562  0.55534584  0.13091841  1
+  S  S18  1  0.55879414  0.88340186  0.13002135  1
+  S  S19  1  0.44461948  0.11004677  0.86855667  1
+  S  S20  1  0.77979578  0.43938126  0.86992966  1
+  S  S21  1  0.10791808  0.78276868  0.86918871  1

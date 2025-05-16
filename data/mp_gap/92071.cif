@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Pa3Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44702310
+_cell_length_b   4.44707925
+_cell_length_c   4.44790493
+_cell_angle_alpha   90.00082292
+_cell_angle_beta   90.00539003
+_cell_angle_gamma   90.00117693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa3Si
+_chemical_formula_sum   'Pa3 Si1'
+_cell_volume   87.96294222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.99998497  0.50001489  0.49999551  1
+  Pa  Pa1  1  0.50000606  0.99998252  0.49999634  1
+  Pa  Pa2  1  0.50001220  0.50000709  0.00000678  1
+  Si  Si3  1  -0.00000323  -0.00000451  0.00000137  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaAsSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90893599
+_cell_length_b   10.61974621
+_cell_length_c   7.08579613
+_cell_angle_alpha   28.94136753
+_cell_angle_beta   56.07333519
+_cell_angle_gamma   41.85838699
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAsSe2
+_chemical_formula_sum   'Na2 As2 Se4'
+_cell_volume   183.91883514
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.24997121  0.50000096  0.00000012  1
+  As  As1  1  0.50002879  -0.00000096  -0.00000012  1
+  Na  Na2  1  0.00003037  -0.00000067  -0.00000199  1
+  Na  Na3  1  0.74996963  0.50000067  0.00000199  1
+  Se  Se4  1  0.01921180  0.50018349  0.46115492  1
+  Se  Se5  1  0.48075837  0.49981814  0.53884190  1
+  Se  Se6  1  0.26924163  0.00018186  0.46115810  1
+  Se  Se7  1  0.73078820  0.99981651  0.53884508  1

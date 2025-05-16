@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Er(GaCo)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04505068
+_cell_length_b   6.46060241
+_cell_length_c   6.46060241
+_cell_angle_alpha   83.84341694
+_cell_angle_beta   67.01765992
+_cell_angle_gamma   67.01765992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er(GaCo)6
+_chemical_formula_sum   'Er1 Ga6 Co6'
+_cell_volume   178.22095423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.00000000  -0.00000000  0.00000000  1
+  Ga  Ga1  1  -0.00000000  0.34484720  0.65515280  1
+  Ga  Ga2  1  0.00000000  0.65515280  0.34484720  1
+  Ga  Ga3  1  0.50000000  0.18857135  0.81142865  1
+  Ga  Ga4  1  0.50000000  0.81142865  0.18857135  1
+  Ga  Ga5  1  0.34008587  0.65991413  0.65991413  1
+  Ga  Ga6  1  0.65991413  0.34008587  0.34008587  1
+  Co  Co7  1  0.26246491  0.23753509  0.23753509  1
+  Co  Co8  1  0.73753509  0.76246491  0.76246491  1
+  Co  Co9  1  0.50000000  -0.00000000  0.50000000  1
+  Co  Co10  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co11  1  0.00000000  0.50000000  0.00000000  1
+  Co  Co12  1  0.00000000  -0.00000000  0.50000000  1

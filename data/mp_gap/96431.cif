@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2FeReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60350508
+_cell_length_b   5.60395102
+_cell_length_c   5.64511567
+_cell_angle_alpha   119.75410578
+_cell_angle_beta   119.75369245
+_cell_angle_gamma   90.00571917
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2FeReO6
+_chemical_formula_sum   'Sr2 Fe1 Re1 O6'
+_cell_volume   126.26708509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.75510509  0.75495249  0.50997122  1
+  O  O1  1  0.20737094  0.28332526  0.00017863  1
+  O  O2  1  0.28331636  0.79278260  0.00021971  1
+  O  O3  1  0.24494129  0.24509145  0.49011932  1
+  Sr  Sr4  1  0.74987778  0.24990553  0.49978822  1
+  O  O5  1  0.71683432  0.20733491  0.00004178  1
+  Sr  Sr6  1  0.24985679  0.74988335  0.49977502  1
+  O  O7  1  0.79276605  0.71684464  0.00010312  1
+  Re  Re8  1  -0.00003461  0.99999455  0.99998373  1
+  Fe  Fe9  1  0.49996599  0.49988522  0.99981926  1

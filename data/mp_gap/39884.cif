@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mn(InTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47841391
+_cell_length_b   7.20878809
+_cell_length_c   28.71231052
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(InTe2)2
+_chemical_formula_sum   'Mn4 In8 Te16'
+_cell_volume   926.94641983
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.86214834  0.19607485  1
+  Mn  Mn1  1  0.25000000  0.36214834  0.30392515  1
+  Mn  Mn2  1  0.75000000  0.63785166  0.69607485  1
+  Mn  Mn3  1  0.25000000  0.13785166  0.80392515  1
+  In  In4  1  0.25000000  0.02936851  0.65393373  1
+  In  In5  1  0.75000000  0.57056685  0.45020256  1
+  In  In6  1  0.25000000  0.42943315  0.54979744  1
+  In  In7  1  0.75000000  0.92943315  0.95020256  1
+  In  In8  1  0.75000000  0.97063149  0.34606627  1
+  In  In9  1  0.25000000  0.47063149  0.15393373  1
+  In  In10  1  0.75000000  0.52936851  0.84606627  1
+  In  In11  1  0.25000000  0.07056685  0.04979744  1
+  Te  Te12  1  0.75000000  0.85673250  0.61025498  1
+  Te  Te13  1  0.75000000  0.23947663  0.50716734  1
+  Te  Te14  1  0.25000000  0.07648022  0.14845317  1
+  Te  Te15  1  0.75000000  0.32961051  0.76106577  1
+  Te  Te16  1  0.75000000  0.26052337  0.00716734  1
+  Te  Te17  1  0.75000000  0.17038949  0.26106577  1
+  Te  Te18  1  0.25000000  0.35673250  0.88974502  1
+  Te  Te19  1  0.25000000  0.42351978  0.64845317  1
+  Te  Te20  1  0.25000000  0.14326750  0.38974502  1
+  Te  Te21  1  0.25000000  0.67038949  0.23893423  1
+  Te  Te22  1  0.25000000  0.73947663  0.99283266  1
+  Te  Te23  1  0.75000000  0.57648022  0.35154683  1
+  Te  Te24  1  0.25000000  0.82961051  0.73893423  1
+  Te  Te25  1  0.75000000  0.64326750  0.11025498  1
+  Te  Te26  1  0.25000000  0.76052337  0.49283266  1
+  Te  Te27  1  0.75000000  0.92351978  0.85154683  1

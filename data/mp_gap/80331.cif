@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2Bi2Se3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13642894
+_cell_length_b   9.72265731
+_cell_length_c   11.62119646
+_cell_angle_alpha   100.23199866
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Bi2Se3O2
+_chemical_formula_sum   'Sr4 Bi4 Se6 O4'
+_cell_volume   459.93779799
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50839639  0.71111005  0.60724246  1
+  Sr  Sr1  1  0.00839639  0.78888995  0.89275754  1
+  Sr  Sr2  1  0.49160361  0.28888995  0.39275754  1
+  Sr  Sr3  1  0.99160361  0.21111005  0.10724246  1
+  Bi  Bi4  1  0.50203248  0.44647056  0.80934857  1
+  Bi  Bi5  1  0.00203248  0.05352944  0.69065143  1
+  Bi  Bi6  1  0.49796752  0.55352944  0.19065143  1
+  Bi  Bi7  1  0.99796752  0.94647056  0.30934857  1
+  Se  Se8  1  0.50000000  0.00000000  0.50000000  1
+  Se  Se9  1  -0.00000000  0.50000000  -0.00000000  1
+  Se  Se10  1  0.49959792  0.08730687  0.87043723  1
+  Se  Se11  1  0.99959792  0.41269313  0.62956277  1
+  Se  Se12  1  0.50040208  0.91269313  0.12956277  1
+  Se  Se13  1  0.00040208  0.58730687  0.37043723  1
+  O  O14  1  0.49632656  0.33363511  0.18727213  1
+  O  O15  1  0.99632656  0.16636489  0.31272787  1
+  O  O16  1  0.50367344  0.66636489  0.81272787  1
+  O  O17  1  0.00367344  0.83363511  0.68727213  1

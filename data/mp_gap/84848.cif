@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na4UO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65335246
+_cell_length_b   5.92066692
+_cell_length_c   5.92066692
+_cell_angle_alpha   81.11628390
+_cell_angle_beta   66.86024099
+_cell_angle_gamma   66.86024097
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4UO5
+_chemical_formula_sum   'Na4 U1 O5'
+_cell_volume   137.92944300
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.80224235  0.80110322  0.59441208  1
+  Na  Na1  1  0.19775765  0.19889678  0.40558792  1
+  Na  Na2  1  0.60334557  0.59441208  0.19889678  1
+  Na  Na3  1  0.39665443  0.40558792  0.80110322  1
+  U  U4  1  0.00000000  -0.00000000  0.00000000  1
+  O  O5  1  0.50000000  -0.00000000  0.00000000  1
+  O  O6  1  0.74640890  0.17853784  0.32864436  1
+  O  O7  1  0.25359110  0.82146216  0.67135564  1
+  O  O8  1  0.92494674  0.32864436  0.82146216  1
+  O  O9  1  0.07505326  0.67135564  0.17853784  1

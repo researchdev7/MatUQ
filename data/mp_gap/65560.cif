@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mn2InSbPd4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55889859
+_cell_length_b   4.55889859
+_cell_length_c   7.88461807
+_cell_angle_alpha   73.19587083
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2InSbPd4
+_chemical_formula_sum   'Mn2 In1 Sb1 Pd4'
+_cell_volume   133.77494322
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25137946  0.50275893  0.24586161  1
+  Mn  Mn1  1  0.74862054  0.49724107  0.75413839  1
+  In  In2  1  0.00000000  -0.00000000  -0.00000000  1
+  Sb  Sb3  1  0.50000000  -0.00000000  0.50000000  1
+  Pd  Pd4  1  0.62464843  0.24929687  0.12605470  1
+  Pd  Pd5  1  0.12505306  0.25010612  0.62484081  1
+  Pd  Pd6  1  0.87494694  0.74989388  0.37515919  1
+  Pd  Pd7  1  0.37535157  0.75070313  0.87394530  1

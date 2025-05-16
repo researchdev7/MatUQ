@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2Cu3BrClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56482419
+_cell_length_b   5.56482419
+_cell_length_c   8.38271380
+_cell_angle_alpha   70.61449288
+_cell_angle_beta   70.61449288
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Cu3BrClO4
+_chemical_formula_sum   'Ba2 Cu3 Br1 Cl1 O4'
+_cell_volume   229.21272853
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.36574319  0.36574319  0.26851362  1
+  Ba  Ba1  1  0.63425681  0.63425681  0.73148638  1
+  Cu  Cu2  1  0.49987229  0.99987229  0.00025542  1
+  Cu  Cu3  1  0.00012771  0.50012771  0.99974458  1
+  Cu  Cu4  1  -0.00000000  0.00000000  -0.00000000  1
+  Br  Br5  1  0.25000000  0.75000000  0.50000000  1
+  Cl  Cl6  1  0.75000000  0.25000000  0.50000000  1
+  O  O7  1  0.24297743  0.24297743  1.00000000  1
+  O  O8  1  0.75702257  0.75702257  0.00000000  1
+  O  O9  1  0.75702257  0.24297743  -0.00000000  1
+  O  O10  1  0.24297743  0.75702257  -0.00000000  1

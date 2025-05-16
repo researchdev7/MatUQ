@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ho2(Al3Ir)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59657972
+_cell_length_b   7.53939491
+_cell_length_c   9.47175969
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.25121775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2(Al3Ir)3
+_chemical_formula_sum   'Ho4 Al18 Ir6'
+_cell_volume   468.60932880
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.33136988  0.32706068  0.75000000  1
+  Ho  Ho1  1  0.66863012  0.67293932  0.25000000  1
+  Ho  Ho2  1  0.00430920  0.67293932  0.75000000  1
+  Ho  Ho3  1  0.99569080  0.32706068  0.25000000  1
+  Al  Al4  1  0.87386749  0.00000000  0.75000000  1
+  Al  Al5  1  0.12613251  1.00000000  0.25000000  1
+  Al  Al6  1  0.66592020  0.66702898  0.92655763  1
+  Al  Al7  1  0.33407980  0.33297102  0.07344237  1
+  Al  Al8  1  0.33407980  0.33297102  0.42655763  1
+  Al  Al9  1  0.99889122  0.33297102  0.57344237  1
+  Al  Al10  1  0.66592020  0.66702898  0.57344237  1
+  Al  Al11  1  0.00110878  0.66702898  0.42655763  1
+  Al  Al12  1  0.00110878  0.66702898  0.07344237  1
+  Al  Al13  1  0.99889122  0.33297102  0.92655763  1
+  Al  Al14  1  0.66601406  1.00000000  0.44478442  1
+  Al  Al15  1  0.33398594  0.00000000  0.55521558  1
+  Al  Al16  1  0.33398594  0.00000000  0.94478442  1
+  Al  Al17  1  0.66601406  1.00000000  0.05521558  1
+  Al  Al18  1  0.45382052  0.79121384  0.75000000  1
+  Al  Al19  1  0.54617948  0.20878616  0.25000000  1
+  Al  Al20  1  0.66260668  0.20878616  0.75000000  1
+  Al  Al21  1  0.33739332  0.79121384  0.25000000  1
+  Ir  Ir22  1  0.67175040  0.34350079  0.00000000  1
+  Ir  Ir23  1  0.32824960  0.65649921  -0.00000000  1
+  Ir  Ir24  1  0.32824960  0.65649921  0.50000000  1
+  Ir  Ir25  1  0.67175040  0.34350079  0.50000000  1
+  Ir  Ir26  1  -0.00000000  -0.00000000  0.00000000  1
+  Ir  Ir27  1  -0.00000000  -0.00000000  0.50000000  1

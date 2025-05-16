@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Te4Pb5Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58718301
+_cell_length_b   16.80249360
+_cell_length_c   4.58718301
+_cell_angle_alpha   97.84554256
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.84554256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te4Pb5Se
+_chemical_formula_sum   'Te4 Pb5 Se1'
+_cell_volume   346.91173460
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.69975625  0.39951250  0.69975625  1
+  Te  Te1  1  0.29944258  0.59888515  0.29944258  1
+  Te  Te2  1  0.90055742  0.80111485  0.90055742  1
+  Te  Te3  1  0.50024375  0.00048750  0.50024375  1
+  Pb  Pb4  1  0.39991539  0.79983078  0.39991539  1
+  Pb  Pb5  1  0.19762887  0.39525773  0.19762887  1
+  Pb  Pb6  1  0.80008461  0.60016922  0.80008461  1
+  Pb  Pb7  1  0.00237113  0.00474227  0.00237113  1
+  Pb  Pb8  1  0.60000000  0.20000000  0.60000000  1
+  Se  Se9  1  0.10000000  0.20000000  0.10000000  1

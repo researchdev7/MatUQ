@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PuIO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01087435
+_cell_length_b   4.01087601
+_cell_length_c   9.46777815
+_cell_angle_alpha   90.00160202
+_cell_angle_beta   90.00036324
+_cell_angle_gamma   89.99954730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuIO
+_chemical_formula_sum   'Pu2 I2 O2'
+_cell_volume   152.30928045
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.24997736  0.25000887  0.87747800  1
+  Pu  Pu1  1  0.75002473  0.75000437  0.12250062  1
+  I  I2  1  0.24999457  0.25000179  0.32301471  1
+  I  I3  1  0.75000683  0.74997712  0.67707508  1
+  O  O4  1  0.75000265  0.25000661  0.99996433  1
+  O  O5  1  0.24999385  0.75000124  0.99996727  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrLaFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56329107
+_cell_length_b   5.57125957
+_cell_length_c   6.91573596
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   66.28298119
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLaFeO4
+_chemical_formula_sum   'Sr2 La2 Fe2 O8'
+_cell_volume   196.24671780
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.85589024  0.50000000  0.28821952  1
+  Sr  Sr1  1  0.64410976  0.00000000  0.71178048  1
+  La  La2  1  0.36036714  -0.00000000  0.27926573  1
+  La  La3  1  0.13963286  0.50000000  0.72073427  1
+  Fe  Fe4  1  0.50512916  0.50000000  0.98974168  1
+  Fe  Fe5  1  0.99487084  -0.00000000  0.01025832  1
+  O  O6  1  0.17789959  0.00000000  0.64420083  1
+  O  O7  1  0.66457410  0.50000000  0.67085181  1
+  O  O8  1  0.32210041  0.50000000  0.35579917  1
+  O  O9  1  0.83542590  0.00000000  0.32914819  1
+  O  O10  1  0.25000000  0.25000000  0.00000000  1
+  O  O11  1  0.75000000  0.75000000  0.00000000  1
+  O  O12  1  0.25000000  0.75000000  0.00000000  1
+  O  O13  1  0.75000000  0.25000000  0.00000000  1

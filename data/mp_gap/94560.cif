@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_SnSe2(Cl4O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84376401
+_cell_length_b   6.84376401
+_cell_length_c   16.84812420
+_cell_angle_alpha   93.96519044
+_cell_angle_beta   93.96519044
+_cell_angle_gamma   89.37500510
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnSe2(Cl4O)2
+_chemical_formula_sum   'Sn2 Se4 Cl16 O4'
+_cell_volume   785.32911328
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.19935605  0.80064395  0.75000000  1
+  Sn  Sn1  1  0.80064395  0.19935605  0.25000000  1
+  Se  Se2  1  0.09846518  0.21340959  0.86646538  1
+  Se  Se3  1  0.78659041  0.90153482  0.63353462  1
+  Se  Se4  1  0.90153482  0.78659041  0.13353462  1
+  Se  Se5  1  0.21340959  0.09846518  0.36646538  1
+  Cl  Cl6  1  0.30455205  0.83296236  0.42554030  1
+  Cl  Cl7  1  0.69544795  0.16703764  0.57445970  1
+  Cl  Cl8  1  0.16703764  0.69544795  0.07445970  1
+  Cl  Cl9  1  0.91062390  0.59134677  0.74061291  1
+  Cl  Cl10  1  0.40865323  0.08937610  0.75938709  1
+  Cl  Cl11  1  0.59134677  0.91062390  0.24061291  1
+  Cl  Cl12  1  0.18096185  0.29280675  0.47450034  1
+  Cl  Cl13  1  0.63656949  0.35756983  0.14187248  1
+  Cl  Cl14  1  0.36343051  0.64243017  0.85812752  1
+  Cl  Cl15  1  0.35756983  0.63656949  0.64187248  1
+  Cl  Cl16  1  0.83296236  0.30455205  0.92554030  1
+  Cl  Cl17  1  0.29280675  0.18096185  0.97450034  1
+  Cl  Cl18  1  0.70719325  0.81903815  0.02549966  1
+  Cl  Cl19  1  0.64243017  0.36343051  0.35812752  1
+  Cl  Cl20  1  0.81903815  0.70719325  0.52549966  1
+  Cl  Cl21  1  0.08937610  0.40865323  0.25938709  1
+  O  O22  1  0.01810904  0.97186640  0.66320175  1
+  O  O23  1  0.98189096  0.02813360  0.33679825  1
+  O  O24  1  0.97186640  0.01810904  0.16320175  1
+  O  O25  1  0.02813360  0.98189096  0.83679825  1

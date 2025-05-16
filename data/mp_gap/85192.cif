@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScNi2SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22563554
+_cell_length_b   5.22563554
+_cell_length_c   5.60305885
+_cell_angle_alpha   62.20432145
+_cell_angle_beta   62.20432141
+_cell_angle_gamma   60.00000230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScNi2SbO6
+_chemical_formula_sum   'Sc1 Ni2 Sb1 O6'
+_cell_volume   111.65595203
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.81166139  0.81166139  0.56501584  1
+  Ni  Ni1  1  0.01624512  0.01624512  0.95126463  1
+  Ni  Ni2  1  0.52153914  0.52153914  0.43538259  1
+  Sb  Sb3  1  0.31891844  0.31891844  0.04324469  1
+  O  O4  1  0.22045785  0.93339061  0.24632888  1
+  O  O5  1  0.93339061  0.59982267  0.24632888  1
+  O  O6  1  0.59982267  0.22045785  0.24632888  1
+  O  O7  1  0.70939918  0.11571070  0.76043520  1
+  O  O8  1  0.11571070  0.41445492  0.76043520  1
+  O  O9  1  0.41445492  0.70939918  0.76043520  1

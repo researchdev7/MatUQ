@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Li2ZnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32213789
+_cell_length_b   4.31332813
+_cell_length_c   7.65048711
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.94777571
+_cell_angle_gamma   119.93258814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2ZnSi
+_chemical_formula_sum   'Li4 Zn2 Si2'
+_cell_volume   123.60191645
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99936403  0.99968201  0.26408938  1
+  Li  Li1  1  0.00063597  0.00031799  0.73591062  1
+  Li  Li2  1  0.33321096  0.66660548  0.57866730  1
+  Li  Li3  1  0.66678904  0.33339452  0.42133270  1
+  Zn  Zn4  1  0.33319886  0.66659943  0.90543919  1
+  Zn  Zn5  1  0.66680114  0.33340057  0.09456081  1
+  Si  Si6  1  0.33419958  0.66709979  0.23697698  1
+  Si  Si7  1  0.66580042  0.33290021  0.76302302  1

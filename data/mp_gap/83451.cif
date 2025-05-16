@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_EuAg(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46753439
+_cell_length_b   7.55169225
+_cell_length_c   7.55169225
+_cell_angle_alpha   94.10382095
+_cell_angle_beta   114.48631831
+_cell_angle_gamma   114.48631831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuAg(WO4)2
+_chemical_formula_sum   'Eu2 Ag2 W4 O16'
+_cell_volume   337.13132664
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  -0.00000000  0.69917232  0.30082768  1
+  Eu  Eu1  1  0.00000000  0.30082768  0.69917232  1
+  Ag  Ag2  1  0.51427253  0.69156810  0.69156810  1
+  Ag  Ag3  1  0.48572747  0.30843190  0.30843190  1
+  W  W4  1  0.96695839  0.21204051  0.21204051  1
+  W  W5  1  0.03304161  0.78795949  0.78795949  1
+  W  W6  1  0.50000000  0.83624285  0.16375715  1
+  W  W7  1  0.50000000  0.16375715  0.83624285  1
+  O  O8  1  0.75447258  0.34599408  0.09990545  1
+  O  O9  1  0.24552742  0.65400592  0.90009455  1
+  O  O10  1  0.24552742  0.90009455  0.65400592  1
+  O  O11  1  0.75447258  0.09990545  0.34599408  1
+  O  O12  1  0.63988426  0.68421216  0.21454280  1
+  O  O13  1  0.36011574  0.31578784  0.78545720  1
+  O  O14  1  0.36011574  0.78545720  0.31578784  1
+  O  O15  1  0.63988426  0.21454280  0.68421216  1
+  O  O16  1  0.91453670  0.69979617  0.95253069  1
+  O  O17  1  0.08546330  0.30020383  0.04746931  1
+  O  O18  1  0.08546330  0.04746931  0.30020383  1
+  O  O19  1  0.91453670  0.95253069  0.69979617  1
+  O  O20  1  0.65700417  0.97805496  0.97805496  1
+  O  O21  1  0.34299583  0.02194504  0.02194504  1
+  O  O22  1  0.86254825  0.55857997  0.55857997  1
+  O  O23  1  0.13745175  0.44142003  0.44142003  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr2CoSeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98677403
+_cell_length_b   6.99961785
+_cell_length_c   6.99561424
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.95813609
+_cell_angle_gamma   120.06082931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2CoSeS3
+_chemical_formula_sum   'Cr4 Co2 Se2 S6'
+_cell_volume   241.53849605
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.51412079  0.50740898  0.99293960  1
+  Cr  Cr1  1  0.51412079  0.00671181  0.99293960  1
+  Cr  Cr2  1  0.99874277  0.99937139  0.51935947  1
+  Cr  Cr3  1  0.99874277  0.99937139  0.98189776  1
+  Co  Co4  1  0.71147702  0.35573851  0.39426149  1
+  Co  Co5  1  0.26641565  0.63320783  0.61679217  1
+  Se  Se6  1  0.00236241  0.75869685  0.24881880  1
+  Se  Se7  1  0.00236241  0.24366556  0.24881880  1
+  S  S8  1  0.48396425  0.24198213  0.77401812  1
+  S  S9  1  0.48396425  0.24198213  0.24201763  1
+  S  S10  1  0.99668690  0.24620531  0.75165655  1
+  S  S11  1  0.99668690  0.75048159  0.75165655  1
+  S  S12  1  0.51517654  0.75758827  0.22687624  1
+  S  S13  1  0.51517654  0.75758827  0.75794722  1

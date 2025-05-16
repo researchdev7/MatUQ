@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaTi3Nb(CuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50283037
+_cell_length_b   6.50283037
+_cell_length_c   6.48424069
+_cell_angle_alpha   70.58667818
+_cell_angle_beta   70.58667818
+_cell_angle_gamma   109.52905733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTi3Nb(CuO4)3
+_chemical_formula_sum   'Na1 Ti3 Nb1 Cu3 O12'
+_cell_volume   211.22820757
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  -0.00000000  0.00000000  1
+  Ti  Ti1  1  -0.00000000  0.50000000  0.00000000  1
+  Ti  Ti2  1  0.50000000  0.50000000  0.50000000  1
+  Ti  Ti3  1  0.50000000  -0.00000000  0.00000000  1
+  Nb  Nb4  1  -0.00000000  -0.00000000  0.50000000  1
+  Cu  Cu5  1  0.50000000  -0.00000000  0.50000000  1
+  Cu  Cu6  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu7  1  -0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.69323279  0.51382272  0.17978886  1
+  O  O9  1  0.30676721  0.48617728  0.82021114  1
+  O  O10  1  0.69078430  0.87068007  0.82426064  1
+  O  O11  1  0.30921570  0.12931993  0.17573936  1
+  O  O12  1  0.82058993  0.30676721  0.87302165  1
+  O  O13  1  0.17941007  0.69323279  0.12697835  1
+  O  O14  1  0.17989577  0.30921570  0.51504494  1
+  O  O15  1  0.82010423  0.69078430  0.48495506  1
+  O  O16  1  0.48617728  0.17941007  0.69361158  1
+  O  O17  1  0.51382272  0.82058993  0.30638842  1
+  O  O18  1  0.12931993  0.82010423  0.69494071  1
+  O  O19  1  0.87068007  0.17989577  0.30505929  1

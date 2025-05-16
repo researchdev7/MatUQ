@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbSrCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.73848664
+_cell_length_b   7.73848727
+_cell_length_c   8.48719515
+_cell_angle_alpha   62.87766734
+_cell_angle_beta   62.87767055
+_cell_angle_gamma   60.00000126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSrCl3
+_chemical_formula_sum   'Rb2 Sr2 Cl6'
+_cell_volume   374.23214989
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.85950849  0.85950849  0.42147554  1
+  Rb  Rb1  1  0.14049251  0.14049151  0.57852346  1
+  Sr  Sr2  1  0.65641837  0.65641837  0.03074589  1
+  Sr  Sr3  1  0.34358163  0.34358163  0.96925411  1
+  Cl  Cl4  1  0.46791555  0.70370437  0.77381863  1
+  Cl  Cl5  1  0.05456144  0.46791555  0.77381963  1
+  Cl  Cl6  1  0.70370437  0.05456044  0.77381963  1
+  Cl  Cl7  1  0.53208445  0.29629763  0.22617937  1
+  Cl  Cl8  1  0.29629663  0.94543756  0.22618137  1
+  Cl  Cl9  1  0.94543856  0.53208445  0.22618137  1

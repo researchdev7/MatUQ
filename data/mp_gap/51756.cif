@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Al4InAgTe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40239211
+_cell_length_b   7.40239211
+_cell_length_c   8.91101607
+_cell_angle_alpha   89.85985572
+_cell_angle_beta   90.14014428
+_cell_angle_gamma   73.51060982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al4InAgTe8
+_chemical_formula_sum   'Al4 In1 Ag1 Te8'
+_cell_volume   468.19691684
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.01162036  0.01162036  0.50000000  1
+  Al  Al1  1  0.48952596  0.48952596  -0.00000000  1
+  Al  Al2  1  0.01015575  0.48934519  0.75316448  1
+  Al  Al3  1  0.48934519  0.01015575  0.24683552  1
+  In  In4  1  0.49872936  0.49872936  0.50000000  1
+  Ag  Ag5  1  0.00018406  0.00018406  0.00000000  1
+  Te  Te6  1  0.60554514  0.12135879  0.99424918  1
+  Te  Te7  1  0.09520902  0.63059046  0.49111614  1
+  Te  Te8  1  0.12135879  0.60554514  0.00575082  1
+  Te  Te9  1  0.63059046  0.09520902  0.50888386  1
+  Te  Te10  1  0.12424724  0.14844771  0.25852325  1
+  Te  Te11  1  0.63149829  0.64354269  0.76509324  1
+  Te  Te12  1  0.14844771  0.12424724  0.74147675  1
+  Te  Te13  1  0.64354269  0.63149829  0.23490676  1

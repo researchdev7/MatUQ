@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tm(GeRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21394986
+_cell_length_b   9.18403070
+_cell_length_c   11.44390620
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm(GeRh2)2
+_chemical_formula_sum   'Tm4 Ge8 Rh16'
+_cell_volume   442.89112748
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.25000000  0.14755845  0.82569823  1
+  Tm  Tm1  1  0.25000000  0.35244155  0.32569823  1
+  Tm  Tm2  1  0.75000000  0.85244155  0.17430177  1
+  Tm  Tm3  1  0.75000000  0.64755845  0.67430177  1
+  Ge  Ge4  1  0.25000000  0.41388496  0.63822603  1
+  Ge  Ge5  1  0.25000000  0.08611504  0.13822603  1
+  Ge  Ge6  1  0.75000000  0.58611504  0.36177397  1
+  Ge  Ge7  1  0.75000000  0.91388496  0.86177397  1
+  Ge  Ge8  1  0.25000000  0.61807550  0.05947384  1
+  Ge  Ge9  1  0.25000000  0.88192450  0.55947384  1
+  Ge  Ge10  1  0.75000000  0.38192450  0.94052616  1
+  Ge  Ge11  1  0.75000000  0.11807550  0.44052616  1
+  Rh  Rh12  1  0.25000000  0.61593141  0.49891490  1
+  Rh  Rh13  1  0.25000000  0.88406859  0.99891490  1
+  Rh  Rh14  1  0.75000000  0.38406859  0.50108510  1
+  Rh  Rh15  1  0.75000000  0.11593141  0.00108510  1
+  Rh  Rh16  1  0.25000000  0.69123229  0.26862428  1
+  Rh  Rh17  1  0.25000000  0.80876771  0.76862428  1
+  Rh  Rh18  1  0.75000000  0.30876771  0.73137572  1
+  Rh  Rh19  1  0.75000000  0.19123229  0.23137572  1
+  Rh  Rh20  1  0.25000000  0.17112690  0.56136621  1
+  Rh  Rh21  1  0.25000000  0.32887310  0.06136621  1
+  Rh  Rh22  1  0.75000000  0.82887310  0.43863379  1
+  Rh  Rh23  1  0.75000000  0.67112690  0.93863379  1
+  Rh  Rh24  1  0.25000000  0.00385434  0.34442052  1
+  Rh  Rh25  1  0.25000000  0.49614566  0.84442052  1
+  Rh  Rh26  1  0.75000000  0.99614566  0.65557948  1
+  Rh  Rh27  1  0.75000000  0.50385434  0.15557948  1

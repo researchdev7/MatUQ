@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeMn2Cu9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92438850
+_cell_length_b   8.29358349
+_cell_length_c   8.29358349
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMn2Cu9
+_chemical_formula_sum   'Ce2 Mn4 Cu18'
+_cell_volume   338.71680987
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00000000  -0.00000000  1
+  Ce  Ce1  1  -0.00000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.00000000  0.61621405  0.11621405  1
+  Mn  Mn3  1  -0.00000000  0.38378595  0.88378595  1
+  Mn  Mn4  1  -0.00000000  0.88378595  0.61621405  1
+  Mn  Mn5  1  0.00000000  0.11621405  0.38378595  1
+  Cu  Cu6  1  0.24097780  0.17863862  0.67863862  1
+  Cu  Cu7  1  0.75902220  0.82136138  0.32136138  1
+  Cu  Cu8  1  0.24097780  0.82136138  0.32136138  1
+  Cu  Cu9  1  0.24097780  0.32136138  0.17863862  1
+  Cu  Cu10  1  0.75902220  0.32136138  0.17863862  1
+  Cu  Cu11  1  0.75902220  0.17863862  0.67863862  1
+  Cu  Cu12  1  0.75902220  0.67863862  0.82136138  1
+  Cu  Cu13  1  0.24097780  0.67863862  0.82136138  1
+  Cu  Cu14  1  0.50000000  0.06501403  0.21043250  1
+  Cu  Cu15  1  0.50000000  0.93498597  0.78956750  1
+  Cu  Cu16  1  0.50000000  0.78956750  0.06501403  1
+  Cu  Cu17  1  0.50000000  0.43498597  0.71043250  1
+  Cu  Cu18  1  0.50000000  0.21043250  0.93498597  1
+  Cu  Cu19  1  0.50000000  0.56501403  0.28956750  1
+  Cu  Cu20  1  0.50000000  0.71043250  0.56501403  1
+  Cu  Cu21  1  0.50000000  0.28956750  0.43498597  1
+  Cu  Cu22  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu23  1  0.50000000  0.50000000  -0.00000000  1

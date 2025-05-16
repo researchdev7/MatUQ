@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaAgSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91066230
+_cell_length_b   4.85998307
+_cell_length_c   8.12447014
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.87588814
+_cell_angle_gamma   60.34080108
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaAgSn
+_chemical_formula_sum   'La2 Ag2 Sn2'
+_cell_volume   168.49241766
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00020889  0.99989555  0.73751870  1
+  La  La1  1  0.99979111  0.00010445  0.26248130  1
+  Ag  Ag2  1  0.33129743  0.33435129  0.50717732  1
+  Ag  Ag3  1  0.66870257  0.66564871  0.49282268  1
+  Sn  Sn4  1  0.66528865  0.66735568  0.04039231  1
+  Sn  Sn5  1  0.33471135  0.33264432  0.95960769  1

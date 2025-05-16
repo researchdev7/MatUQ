@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Fe(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54196299
+_cell_length_b   2.88719676
+_cell_length_c   5.83264769
+_cell_angle_alpha   89.99999818
+_cell_angle_beta   103.58373412
+_cell_angle_gamma   77.25176079
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(CoO3)2
+_chemical_formula_sum   'Fe1 Co2 O6'
+_cell_volume   104.28913108
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.33333300  0.33333300  0.33333300  1
+  Co  Co1  1  0.99483693  0.00258204  0.99535620  1
+  Co  Co2  1  0.67183007  0.66408496  0.67131080  1
+  O  O3  1  0.01118486  0.49440757  0.21005018  1
+  O  O4  1  0.36518262  0.81740819  0.56524233  1
+  O  O5  1  0.69207087  0.15396407  0.88843495  1
+  O  O6  1  0.30148438  0.84925781  0.10142467  1
+  O  O7  1  0.65548114  0.17225943  0.45661682  1
+  O  O8  1  0.97459613  0.51270193  0.77823205  1

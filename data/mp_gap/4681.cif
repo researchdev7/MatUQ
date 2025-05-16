@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_AlPdO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.22035106
+_cell_length_b   3.21954154
+_cell_length_c   11.86400599
+_cell_angle_alpha   90.01220777
+_cell_angle_beta   89.99479958
+_cell_angle_gamma   119.99955294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlPdO3
+_chemical_formula_sum   'Al2 Pd2 O6'
+_cell_volume   106.52736545
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.33329223  0.66666165  0.25024398  1
+  Al  Al1  1  0.66670564  0.33338857  0.74975647  1
+  Pd  Pd2  1  0.99999790  0.00001471  0.99999914  1
+  Pd  Pd3  1  0.00000419  0.00001666  0.50000118  1
+  O  O4  1  0.33355298  0.66676927  0.08667735  1
+  O  O5  1  0.33302536  0.66665587  0.41298170  1
+  O  O6  1  0.99986897  0.99991341  0.24990092  1
+  O  O7  1  0.00012880  0.00013808  0.75009945  1
+  O  O8  1  0.66698255  0.33338028  0.58702620  1
+  O  O9  1  0.66644237  0.33326250  0.91331461  1

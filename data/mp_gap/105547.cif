@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaDyO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.33764252
+_cell_length_b   8.33764252
+_cell_length_c   6.09461887
+_cell_angle_alpha   59.66376420
+_cell_angle_beta   120.33623580
+_cell_angle_gamma   74.25454789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaDyO2
+_chemical_formula_sum   'Na4 Dy4 O8'
+_cell_volume   223.27057673
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.69414616  0.69414616  0.75000000  1
+  Na  Na1  1  0.93035572  0.93035572  0.75000000  1
+  Na  Na2  1  0.06964428  0.06964428  0.25000000  1
+  Na  Na3  1  0.30585384  0.30585384  0.25000000  1
+  Dy  Dy4  1  0.18283267  0.18283267  0.75000000  1
+  Dy  Dy5  1  0.44311428  0.44311428  0.75000000  1
+  Dy  Dy6  1  0.81716733  0.81716733  0.25000000  1
+  Dy  Dy7  1  0.55688572  0.55688572  0.25000000  1
+  O  O8  1  0.20882440  0.66746817  0.74921276  1
+  O  O9  1  0.43727617  0.93589822  0.79498279  1
+  O  O10  1  0.33253183  0.79117560  0.24921276  1
+  O  O11  1  0.06410178  0.56272383  0.29498279  1
+  O  O12  1  0.93589822  0.43727617  0.70501721  1
+  O  O13  1  0.66746817  0.20882440  0.75078724  1
+  O  O14  1  0.56272383  0.06410178  0.20501721  1
+  O  O15  1  0.79117560  0.33253183  0.25078724  1

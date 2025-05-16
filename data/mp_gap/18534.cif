@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_U2CoS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99662607
+_cell_length_b   6.92124575
+_cell_length_c   7.75443125
+_cell_angle_alpha   96.42692888
+_cell_angle_beta   112.74671077
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2CoS5
+_chemical_formula_sum   'U4 Co2 S10'
+_cell_volume   294.61466736
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.89485235  0.58192401  0.21615853  1
+  U  U1  1  0.67869382  0.91807599  0.78384147  1
+  U  U2  1  0.10514765  0.41807599  0.78384147  1
+  U  U3  1  0.32130618  0.08192401  0.21615853  1
+  Co  Co4  1  -0.00000000  -0.00000000  0.50000000  1
+  Co  Co5  1  0.50000000  0.50000000  0.50000000  1
+  S  S6  1  0.08959271  0.75000000  -0.00000000  1
+  S  S7  1  0.91040729  0.25000000  -0.00000000  1
+  S  S8  1  0.71093785  0.92538660  0.18138098  1
+  S  S9  1  0.52955688  0.57461340  0.81861902  1
+  S  S10  1  0.28906215  0.07461340  0.81861902  1
+  S  S11  1  0.47044312  0.42538660  0.18138098  1
+  S  S12  1  0.85720494  0.69223249  0.55725578  1
+  S  S13  1  0.29994916  0.80776751  0.44274422  1
+  S  S14  1  0.14279506  0.30776751  0.44274422  1
+  S  S15  1  0.70005084  0.19223249  0.55725578  1

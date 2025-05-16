@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li4(CdSb)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72546238
+_cell_length_b   4.72546238
+_cell_length_c   19.62981795
+_cell_angle_alpha   83.08686458
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4(CdSb)5
+_chemical_formula_sum   'Li4 Cd5 Sb5'
+_cell_volume   375.92386032
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25035896  0.50071791  0.24892313  1
+  Li  Li1  1  0.85021857  0.70043714  0.44934428  1
+  Li  Li2  1  0.45004384  0.90008768  0.64986848  1
+  Li  Li3  1  0.04938721  0.09877442  0.85183837  1
+  Cd  Cd4  1  0.95093534  0.90187068  0.14719399  1
+  Cd  Cd5  1  0.55089389  0.10178778  0.34731834  1
+  Cd  Cd6  1  0.15006639  0.30013277  0.54980084  1
+  Cd  Cd7  1  0.75022455  0.50044909  0.74932636  1
+  Cd  Cd8  1  0.34865458  0.69730916  0.95403626  1
+  Sb  Sb9  1  0.39988540  0.79977080  0.80034379  1
+  Sb  Sb10  1  0.19943757  0.39887514  0.40168729  1
+  Sb  Sb11  1  0.79994856  0.59989713  0.60015431  1
+  Sb  Sb12  1  0.99978486  0.99956971  0.00064543  1
+  Sb  Sb13  1  0.60016029  0.20032058  0.19951913  1

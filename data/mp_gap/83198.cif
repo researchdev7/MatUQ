@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrAl2Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69978087
+_cell_length_b   5.69978087
+_cell_length_c   9.54831714
+_cell_angle_alpha   72.63424247
+_cell_angle_beta   72.63424247
+_cell_angle_gamma   59.99999063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrAl2Ag
+_chemical_formula_sum   'Pr3 Al6 Ag3'
+_cell_volume   252.18314094
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.14086905  0.14086905  0.57739286  1
+  Pr  Pr1  1  0.85913095  0.85913095  0.42260714  1
+  Pr  Pr2  1  -0.00000000  -0.00000000  -0.00000000  1
+  Al  Al3  1  0.07743274  0.58526477  0.75203772  1
+  Al  Al4  1  0.58526477  0.58526477  0.75203772  1
+  Al  Al5  1  0.58526477  0.07743274  0.75203772  1
+  Al  Al6  1  0.92256726  0.41473523  0.24796228  1
+  Al  Al7  1  0.41473523  0.41473523  0.24796228  1
+  Al  Al8  1  0.41473523  0.92256726  0.24796228  1
+  Ag  Ag9  1  0.33496998  0.33496998  0.99509007  1
+  Ag  Ag10  1  0.66503002  0.66503002  0.00490993  1
+  Ag  Ag11  1  0.50000000  0.50000000  0.50000000  1

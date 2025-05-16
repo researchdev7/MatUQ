@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_YTaBi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70475271
+_cell_length_b   7.66666581
+_cell_length_c   7.71660917
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.94908218
+_cell_angle_gamma   119.83661117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YTaBi2O7
+_chemical_formula_sum   'Y2 Ta2 Bi4 O14'
+_cell_volume   322.85822503
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.50000000  0.00000000  0.50000000  1
+  Y  Y1  1  0.50000000  0.50000000  0.50000000  1
+  Ta  Ta2  1  -0.00000000  0.50000000  0.00000000  1
+  Ta  Ta3  1  -0.00000000  0.50000000  0.50000000  1
+  Bi  Bi4  1  0.50000000  0.50000000  0.00000000  1
+  Bi  Bi5  1  0.50000000  0.00000000  0.00000000  1
+  Bi  Bi6  1  0.00000000  0.00000000  0.50000000  1
+  Bi  Bi7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.26185193  0.13092596  0.11907404  1
+  O  O9  1  0.73814807  0.86907404  0.88092596  1
+  O  O10  1  0.96685758  0.48342879  0.76657121  1
+  O  O11  1  0.71847604  0.85923802  0.39076198  1
+  O  O12  1  0.25314900  0.43486013  0.38441732  1
+  O  O13  1  0.25314900  0.81828888  0.86243368  1
+  O  O14  1  0.25314900  0.81828888  0.38441732  1
+  O  O15  1  0.25314900  0.43486013  0.86243368  1
+  O  O16  1  0.03314242  0.51657121  0.23342879  1
+  O  O17  1  0.28152396  0.14076198  0.60923802  1
+  O  O18  1  0.74685100  0.56513987  0.61558268  1
+  O  O19  1  0.74685100  0.18171112  0.13756632  1
+  O  O20  1  0.74685100  0.18171112  0.61558268  1
+  O  O21  1  0.74685100  0.56513987  0.13756632  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiFeMoClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11029025
+_cell_length_b   7.00973094
+_cell_length_c   7.18900622
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.43218962
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeMoClO4
+_chemical_formula_sum   'Li2 Fe2 Mo2 Cl2 O8'
+_cell_volume   257.44240464
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
+  Li  Li1  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe2  1  0.18274939  0.25000000  0.24914167  1
+  Fe  Fe3  1  0.81725061  0.75000000  0.75085833  1
+  Mo  Mo4  1  1.00057263  0.75000000  0.26185901  1
+  Mo  Mo5  1  -0.00057263  0.25000000  0.73814099  1
+  Cl  Cl6  1  0.31150696  0.75000000  0.72511630  1
+  Cl  Cl7  1  0.68849304  0.25000000  0.27488370  1
+  O  O8  1  0.15448490  0.25000000  0.96029001  1
+  O  O9  1  0.25060803  0.25000000  0.56428615  1
+  O  O10  1  0.84551510  0.75000000  0.03970999  1
+  O  O11  1  0.79555826  0.45968516  0.71003719  1
+  O  O12  1  0.79555826  0.04031484  0.71003719  1
+  O  O13  1  0.74939197  0.75000000  0.43571385  1
+  O  O14  1  0.20444174  0.54031484  0.28996281  1
+  O  O15  1  0.20444174  0.95968516  0.28996281  1

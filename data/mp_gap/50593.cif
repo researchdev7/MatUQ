@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sr(CaSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96941514
+_cell_length_b   6.41731555
+_cell_length_c   8.33288628
+_cell_angle_alpha   87.18803378
+_cell_angle_beta   90.00363430
+_cell_angle_gamma   71.97422416
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(CaSi3)2
+_chemical_formula_sum   'Sr1 Ca2 Si6'
+_cell_volume   201.57607045
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.33333300  0.33333300  0.66666700  1
+  Ca  Ca1  1  0.00271740  0.99452025  0.00135471  1
+  Ca  Ca2  1  0.66394960  0.67214675  0.33197829  1
+  Si  Si3  1  0.75146841  0.49717304  0.92465625  1
+  Si  Si4  1  0.41934703  0.16147474  0.24400727  1
+  Si  Si5  1  0.08040297  0.83922879  0.58172574  1
+  Si  Si6  1  0.24731997  0.50519226  0.08932573  1
+  Si  Si7  1  0.91519759  0.16949296  0.40867775  1
+  Si  Si8  1  0.58626403  0.82743821  0.75160726  1

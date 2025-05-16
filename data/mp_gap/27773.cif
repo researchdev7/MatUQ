@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TbCoSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46088032
+_cell_length_b   4.37708147
+_cell_length_c   9.42665756
+_cell_angle_alpha   103.42456847
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCoSn2
+_chemical_formula_sum   'Tb2 Co2 Sn4'
+_cell_volume   179.03227004
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.75000000  0.11391493  0.22782985  1
+  Tb  Tb1  1  0.25000000  0.88608507  0.77217015  1
+  Co  Co2  1  0.25000000  0.68003713  0.36007425  1
+  Co  Co3  1  0.75000000  0.31996287  0.63992575  1
+  Sn  Sn4  1  0.25000000  0.54840737  0.09681475  1
+  Sn  Sn5  1  0.25000000  0.25168038  0.50336077  1
+  Sn  Sn6  1  0.75000000  0.45159263  0.90318525  1
+  Sn  Sn7  1  0.75000000  0.74831962  0.49663923  1

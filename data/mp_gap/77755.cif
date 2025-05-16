@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Pr2NiPtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51600647
+_cell_length_b   5.80501454
+_cell_length_c   7.88733159
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.93698684
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2NiPtO6
+_chemical_formula_sum   'Pr4 Ni2 Pt2 O12'
+_cell_volume   252.55613081
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.01771892  0.43521114  0.25062075  1
+  Pr  Pr1  1  0.98228108  0.56478886  0.74937925  1
+  Pr  Pr2  1  0.48228108  0.93521114  0.24937925  1
+  Pr  Pr3  1  0.51771892  0.06478886  0.75062075  1
+  Ni  Ni4  1  -0.00000000  0.00000000  0.50000000  1
+  Ni  Ni5  1  0.50000000  0.50000000  0.00000000  1
+  Pt  Pt6  1  -0.00000000  0.00000000  0.00000000  1
+  Pt  Pt7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.90079174  0.03046635  0.24925006  1
+  O  O9  1  0.09920826  0.96953365  0.75074994  1
+  O  O10  1  0.59920826  0.53046635  0.25074994  1
+  O  O11  1  0.40079174  0.46953365  0.74925006  1
+  O  O12  1  0.19410762  0.70480951  0.05219883  1
+  O  O13  1  0.80589238  0.29519049  0.94780117  1
+  O  O14  1  0.30589238  0.20480951  0.44780117  1
+  O  O15  1  0.69410762  0.79519049  0.55219883  1
+  O  O16  1  0.30071955  0.19938161  0.05042877  1
+  O  O17  1  0.69928045  0.80061839  0.94957123  1
+  O  O18  1  0.19928045  0.69938161  0.44957123  1
+  O  O19  1  0.80071955  0.30061839  0.55042877  1

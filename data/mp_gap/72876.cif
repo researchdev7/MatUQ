@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsTbMnSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26597130
+_cell_length_b   8.38226090
+_cell_length_c   11.10739676
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   104.74183704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTbMnSe3
+_chemical_formula_sum   'Cs2 Tb2 Mn2 Se6'
+_cell_volume   384.10926218
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.74283586  0.48567172  0.25000000  1
+  Cs  Cs1  1  0.25716414  0.51432828  0.75000000  1
+  Tb  Tb2  1  0.00000000  -0.00000000  0.00000000  1
+  Tb  Tb3  1  0.00000000  -0.00000000  0.50000000  1
+  Mn  Mn4  1  0.46176661  0.92353323  0.25000000  1
+  Mn  Mn5  1  0.53823339  0.07646677  0.75000000  1
+  Se  Se6  1  0.38346508  0.76693015  0.05844353  1
+  Se  Se7  1  0.61653492  0.23306985  0.94155647  1
+  Se  Se8  1  0.61653492  0.23306985  0.55844353  1
+  Se  Se9  1  0.38346508  0.76693015  0.44155647  1
+  Se  Se10  1  0.05415507  0.10831013  0.25000000  1
+  Se  Se11  1  0.94584493  0.89168987  0.75000000  1

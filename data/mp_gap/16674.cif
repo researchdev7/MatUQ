@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaHf4(NCl)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64595094
+_cell_length_b   10.25383454
+_cell_length_c   6.30742732
+_cell_angle_alpha   78.01652980
+_cell_angle_beta   89.99998877
+_cell_angle_gamma   89.99999840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHf4(NCl)4
+_chemical_formula_sum   'Na1 Hf4 N4 Cl4'
+_cell_volume   230.66430218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  -0.00000000  0.00000000  1
+  Hf  Hf1  1  0.50000000  0.37632515  0.70561452  1
+  Hf  Hf2  1  0.00000000  0.38057016  0.20940311  1
+  Hf  Hf3  1  0.50000000  0.62367485  0.29438548  1
+  Hf  Hf4  1  1.00000000  0.61942984  0.79059689  1
+  N  N5  1  0.50000000  0.58930765  0.63920420  1
+  N  N6  1  1.00000000  0.59243789  0.13332024  1
+  N  N7  1  0.50000000  0.41069235  0.36079580  1
+  N  N8  1  0.00000000  0.40756211  0.86667976  1
+  Cl  Cl9  1  0.00000000  0.81634794  0.39544182  1
+  Cl  Cl10  1  0.50000000  0.82315380  0.88994618  1
+  Cl  Cl11  1  1.00000000  0.18365206  0.60455818  1
+  Cl  Cl12  1  0.50000000  0.17684620  0.11005382  1

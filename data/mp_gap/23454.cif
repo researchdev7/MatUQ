@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_GaPtO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.95511108
+_cell_length_b   2.95512833
+_cell_length_c   12.33883658
+_cell_angle_alpha   90.00092160
+_cell_angle_beta   89.99960080
+_cell_angle_gamma   120.00032385
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaPtO2
+_chemical_formula_sum   'Ga2 Pt2 O4'
+_cell_volume   93.31545581
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00000020  0.00004325  0.00000362  1
+  Ga  Ga1  1  0.99999954  0.00001654  0.49999662  1
+  Pt  Pt2  1  0.33334116  0.66668200  0.24999998  1
+  Pt  Pt3  1  0.66666010  0.33335348  0.74999996  1
+  O  O4  1  0.33333385  0.66670986  0.08349213  1
+  O  O5  1  0.33333098  0.66666644  0.41650730  1
+  O  O6  1  0.66666757  0.33336070  0.58347411  1
+  O  O7  1  0.66666761  0.33336675  0.91652626  1

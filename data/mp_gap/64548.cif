@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_NaZn2CdF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42780611
+_cell_length_b   7.36061945
+_cell_length_c   7.46939223
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.81462268
+_cell_angle_gamma   119.70123260
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZn2CdF7
+_chemical_formula_sum   'Na2 Zn4 Cd2 F14'
+_cell_volume   289.25446776
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  -0.00000000  1
+  Na  Na1  1  0.50000000  0.00000000  -0.00000000  1
+  Zn  Zn2  1  0.50000000  0.00000000  0.50000000  1
+  Zn  Zn3  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn4  1  0.00000000  0.50000000  -0.00000000  1
+  Zn  Zn5  1  0.00000000  0.50000000  0.50000000  1
+  Cd  Cd6  1  0.00000000  0.00000000  0.50000000  1
+  Cd  Cd7  1  0.00000000  0.00000000  -0.00000000  1
+  F  F8  1  0.24557912  0.83755919  0.42187062  1
+  F  F9  1  0.24557912  0.40801993  0.83255026  1
+  F  F10  1  0.84445572  0.42222786  0.82777214  1
+  F  F11  1  0.67360775  0.83680388  0.41319612  1
+  F  F12  1  0.24557912  0.40801993  0.42187062  1
+  F  F13  1  0.24557912  0.83755919  0.83255026  1
+  F  F14  1  0.75442088  0.16244081  0.57812938  1
+  F  F15  1  0.75442088  0.59198007  0.16744974  1
+  F  F16  1  0.15554428  0.57777214  0.17222786  1
+  F  F17  1  0.32639225  0.16319612  0.58680388  1
+  F  F18  1  0.75442088  0.59198007  0.57812938  1
+  F  F19  1  0.75442088  0.16244081  0.16744974  1
+  F  F20  1  0.23321662  0.11660831  0.13339169  1
+  F  F21  1  0.76678338  0.88339169  0.86660831  1

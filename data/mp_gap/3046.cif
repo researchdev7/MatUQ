@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrCrF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54043333
+_cell_length_b   5.87044909
+_cell_length_c   6.96005134
+_cell_angle_alpha   114.92116212
+_cell_angle_beta   113.45215272
+_cell_angle_gamma   89.95736838
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCrF4
+_chemical_formula_sum   'Sr2 Cr2 F8'
+_cell_volume   184.50634136
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75000000  0.25000000  0.50000000  1
+  Sr  Sr1  1  0.25000000  0.75000000  0.50000000  1
+  Cr  Cr2  1  0.50004223  0.49969185  0.99916835  1
+  Cr  Cr3  1  -0.00004223  0.00030815  0.00083165  1
+  F  F4  1  0.29798979  0.92067749  0.24476464  1
+  F  F5  1  0.79766147  0.82402298  0.24436132  1
+  F  F6  1  0.70233853  0.67597702  0.75563868  1
+  F  F7  1  0.05293042  0.07915882  0.75549071  1
+  F  F8  1  0.55310470  0.17583523  0.75545444  1
+  F  F9  1  0.94689530  0.32416477  0.24454556  1
+  F  F10  1  0.44706958  0.42084118  0.24450929  1
+  F  F11  1  0.20201021  0.57932251  0.75523536  1

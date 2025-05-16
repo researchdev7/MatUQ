@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CaPrAl3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18389979
+_cell_length_b   7.83600588
+_cell_length_c   7.83600588
+_cell_angle_alpha   88.91951728
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPrAl3O7
+_chemical_formula_sum   'Ca2 Pr2 Al6 O14'
+_cell_volume   318.25034042
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.51681370  0.34049544  0.15950456  1
+  Ca  Ca1  1  0.51681370  0.65950456  0.84049544  1
+  Pr  Pr2  1  0.49144962  0.16370788  0.66370788  1
+  Pr  Pr3  1  0.49144962  0.83629212  0.33629212  1
+  Al  Al4  1  0.96039430  0.14587770  0.35412230  1
+  Al  Al5  1  0.04181131  0.35906545  0.85906545  1
+  Al  Al6  1  0.96039430  0.85412230  0.64587770  1
+  Al  Al7  1  0.04181131  0.64093455  0.14093455  1
+  Al  Al8  1  0.99447470  0.50000000  0.50000000  1
+  Al  Al9  1  0.99447470  0.00000000  0.00000000  1
+  O  O10  1  0.29758212  0.13838110  0.36161890  1
+  O  O11  1  0.70560501  0.35633616  0.85633616  1
+  O  O12  1  0.29758212  0.86161890  0.63838110  1
+  O  O13  1  0.70560501  0.64366384  0.14366384  1
+  O  O14  1  0.18964665  0.50000000  0.00000000  1
+  O  O15  1  0.81445877  0.00000000  0.50000000  1
+  O  O16  1  0.80118318  0.33648315  0.41374983  1
+  O  O17  1  0.19372508  0.16008540  0.90783265  1
+  O  O18  1  0.80118318  0.66351685  0.58625017  1
+  O  O19  1  0.19372508  0.83991460  0.09216735  1
+  O  O20  1  0.19372508  0.59216735  0.33991460  1
+  O  O21  1  0.80118318  0.91374983  0.83648315  1
+  O  O22  1  0.19372508  0.40783265  0.66008540  1
+  O  O23  1  0.80118318  0.08625017  0.16351685  1

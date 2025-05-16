@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mg2TiB2Ir5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.95724254
+_cell_length_b   9.53688574
+_cell_length_c   9.53688574
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2TiB2Ir5
+_chemical_formula_sum   'Mg4 Ti2 B4 Ir10'
+_cell_volume   268.96768424
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.32377700  0.82377700  1
+  Mg  Mg1  1  -0.00000000  0.67622300  0.17622300  1
+  Mg  Mg2  1  -0.00000000  0.17622300  0.32377700  1
+  Mg  Mg3  1  0.00000000  0.82377700  0.67622300  1
+  Ti  Ti4  1  0.00000000  0.50000000  0.50000000  1
+  Ti  Ti5  1  0.00000000  0.00000000  -0.00000000  1
+  B  B6  1  0.00000000  0.12375783  0.62375783  1
+  B  B7  1  -0.00000000  0.87624217  0.37624217  1
+  B  B8  1  -0.00000000  0.37624217  0.12375783  1
+  B  B9  1  0.00000000  0.62375783  0.87624217  1
+  Ir  Ir10  1  0.50000000  0.00000000  0.50000000  1
+  Ir  Ir11  1  0.50000000  0.50000000  -0.00000000  1
+  Ir  Ir12  1  0.50000000  0.57199143  0.71566701  1
+  Ir  Ir13  1  0.50000000  0.42800857  0.28433299  1
+  Ir  Ir14  1  0.50000000  0.92800857  0.21566701  1
+  Ir  Ir15  1  0.50000000  0.07199143  0.78433299  1
+  Ir  Ir16  1  0.50000000  0.71566701  0.42800857  1
+  Ir  Ir17  1  0.50000000  0.28433299  0.57199143  1
+  Ir  Ir18  1  0.50000000  0.21566701  0.07199143  1
+  Ir  Ir19  1  0.50000000  0.78433299  0.92800857  1

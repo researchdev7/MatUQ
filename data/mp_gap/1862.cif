@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta3Cr8Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84607795
+_cell_length_b   4.84628423
+_cell_length_c   7.95610176
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99163145
+_cell_angle_gamma   59.99859196
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Cr8Si
+_chemical_formula_sum   'Ta3 Cr8 Si1'
+_cell_volume   161.81697174
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.66666998  0.66666501  0.44316541  1
+  Ta  Ta1  1  0.66664074  0.66667963  0.06012190  1
+  Ta  Ta2  1  0.33327400  0.33336300  0.93315555  1
+  Cr  Cr3  1  0.00013037  0.99993482  0.50010741  1
+  Cr  Cr4  1  0.00014442  0.99992779  0.00080527  1
+  Cr  Cr5  1  0.83064238  0.33873190  0.74667801  1
+  Cr  Cr6  1  0.33870155  0.83064923  0.74670543  1
+  Cr  Cr7  1  0.83064238  0.83062572  0.74667801  1
+  Cr  Cr8  1  0.17132345  0.65723361  0.25306243  1
+  Cr  Cr9  1  0.65720195  0.17139902  0.25302535  1
+  Cr  Cr10  1  0.17132345  0.17144294  0.25306243  1
+  Si  Si11  1  0.33330532  0.33334734  0.56343280  1

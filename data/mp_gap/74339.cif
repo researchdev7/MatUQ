@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_UCrC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13840470
+_cell_length_b   5.47226263
+_cell_length_c   10.71589582
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCrC2
+_chemical_formula_sum   'U4 Cr4 C8'
+_cell_volume   184.03666750
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.75000000  0.42147292  0.64136067  1
+  U  U1  1  0.75000000  0.92147292  0.85863933  1
+  U  U2  1  0.25000000  0.57852708  0.35863933  1
+  U  U3  1  0.25000000  0.07852708  0.14136067  1
+  Cr  Cr4  1  0.75000000  0.07581698  0.40110657  1
+  Cr  Cr5  1  0.75000000  0.57581698  0.09889343  1
+  Cr  Cr6  1  0.25000000  0.92418302  0.59889343  1
+  Cr  Cr7  1  0.25000000  0.42418302  0.90110657  1
+  C  C8  1  0.75000000  0.33363685  0.25449005  1
+  C  C9  1  0.75000000  0.83363685  0.24550995  1
+  C  C10  1  0.25000000  0.66636315  0.74550995  1
+  C  C11  1  0.25000000  0.16636315  0.75449005  1
+  C  C12  1  0.75000000  0.77166306  0.51044553  1
+  C  C13  1  0.75000000  0.27166306  0.98955447  1
+  C  C14  1  0.25000000  0.22833694  0.48955447  1
+  C  C15  1  0.25000000  0.72833694  0.01044553  1

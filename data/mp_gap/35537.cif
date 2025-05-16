@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Y2NiRuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31876795
+_cell_length_b   5.71345356
+_cell_length_c   7.65841328
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.71215092
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2NiRuO6
+_chemical_formula_sum   'Y4 Ni2 Ru2 O12'
+_cell_volume   232.72501282
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.02428605  0.42200083  0.25185678  1
+  Y  Y1  1  0.97571395  0.57799917  0.74814322  1
+  Y  Y2  1  0.47571395  0.92200083  0.24814322  1
+  Y  Y3  1  0.52428605  0.07799917  0.75185678  1
+  Ni  Ni4  1  0.00000000  -0.00000000  0.50000000  1
+  Ni  Ni5  1  0.50000000  0.50000000  -0.00000000  1
+  Ru  Ru6  1  0.00000000  -0.00000000  -0.00000000  1
+  Ru  Ru7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.87709720  0.04316532  0.24754912  1
+  O  O9  1  0.12290280  0.95683468  0.75245088  1
+  O  O10  1  0.62290280  0.54316532  0.25245088  1
+  O  O11  1  0.37709720  0.45683468  0.74754912  1
+  O  O12  1  0.18189162  0.69935159  0.06481567  1
+  O  O13  1  0.81810838  0.30064841  0.93518433  1
+  O  O14  1  0.31810838  0.19935159  0.43518433  1
+  O  O15  1  0.68189162  0.80064841  0.56481567  1
+  O  O16  1  0.31106268  0.18999216  0.05822035  1
+  O  O17  1  0.68893732  0.81000784  0.94177965  1
+  O  O18  1  0.18893732  0.68999216  0.44177965  1
+  O  O19  1  0.81106268  0.31000784  0.55822035  1

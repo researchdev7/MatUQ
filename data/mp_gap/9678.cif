@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_PuAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.12840635
+_cell_length_b   9.12840635
+_cell_length_c   9.12840635
+_cell_angle_alpha   70.12954521
+_cell_angle_beta   70.12954521
+_cell_angle_gamma   109.87045479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuAl
+_chemical_formula_sum   'Pu13 Al13'
+_cell_volume   576.73124687
+_cell_formula_units_Z   13
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.36425773  0.65332744  0.34667256  1
+  Pu  Pu1  1  0.65332744  0.65332744  0.63574227  1
+  Pu  Pu2  1  0.65332744  0.36425773  0.34667256  1
+  Pu  Pu3  1  0.62438898  0.27509382  0.72490618  1
+  Pu  Pu4  1  0.35249243  0.73238774  0.99771957  1
+  Pu  Pu5  1  0.35249243  0.00228043  0.26761226  1
+  Pu  Pu6  1  0.00228043  0.35249243  0.26761226  1
+  Pu  Pu7  1  0.73238774  0.35249243  0.99771957  1
+  Pu  Pu8  1  0.27509382  0.62438898  0.72490618  1
+  Pu  Pu9  1  0.00228043  0.73238774  0.64750757  1
+  Pu  Pu10  1  0.27509382  0.27509382  0.37561102  1
+  Pu  Pu11  1  0.73238774  0.00228043  0.64750757  1
+  Pu  Pu12  1  0.76214357  0.76214357  0.23785643  1
+  Al  Al13  1  0.32743146  0.32743146  0.67256854  1
+  Al  Al14  1  0.68482263  0.00783026  0.99216974  1
+  Al  Al15  1  0.00783026  0.68482263  0.99216974  1
+  Al  Al16  1  0.00783026  0.00783026  0.31517737  1
+  Al  Al17  1  0.66176730  0.66176730  0.98861731  1
+  Al  Al18  1  0.66176730  0.01138269  0.33823270  1
+  Al  Al19  1  0.01138269  0.66176730  0.33823270  1
+  Al  Al20  1  0.33117953  0.33117953  0.99898623  1
+  Al  Al21  1  0.33117953  0.00101377  0.66882047  1
+  Al  Al22  1  0.00101377  0.33117953  0.66882047  1
+  Al  Al23  1  0.19468619  0.99857755  0.00142245  1
+  Al  Al24  1  0.99857755  0.19468619  0.00142245  1
+  Al  Al25  1  0.99857755  0.99857755  0.80531381  1

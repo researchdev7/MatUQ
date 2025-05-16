@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KCu2(SO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56633843
+_cell_length_b   5.56633843
+_cell_length_c   8.65741660
+_cell_angle_alpha   65.03771156
+_cell_angle_beta   114.96228844
+_cell_angle_gamma   113.00668578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCu2(SO5)2
+_chemical_formula_sum   'K1 Cu2 S2 O10'
+_cell_volume   212.95464336
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.00000000  0.50000000  -0.00000000  1
+  Cu  Cu2  1  0.50000000  -0.00000000  -0.00000000  1
+  S  S3  1  0.93479257  0.06520743  0.72772840  1
+  S  S4  1  0.06520743  0.93479257  0.27227160  1
+  O  O5  1  0.83581735  0.16418265  0.81635586  1
+  O  O6  1  0.16418265  0.83581735  0.18364414  1
+  O  O7  1  0.83432872  0.16567128  0.53269617  1
+  O  O8  1  0.16567128  0.83432872  0.46730383  1
+  O  O9  1  0.24931347  0.15915087  0.78051672  1
+  O  O10  1  0.84084913  0.75068653  0.78051672  1
+  O  O11  1  0.75068653  0.84084913  0.21948328  1
+  O  O12  1  0.15915087  0.24931347  0.21948328  1
+  O  O13  1  0.67010570  0.32989430  0.03451898  1
+  O  O14  1  0.32989430  0.67010570  0.96548102  1

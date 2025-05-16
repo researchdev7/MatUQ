@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrCa3(CuO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86729580
+_cell_length_b   6.70503070
+_cell_length_c   6.66636256
+_cell_angle_alpha   104.56062953
+_cell_angle_beta   73.13843107
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa3(CuO3)2
+_chemical_formula_sum   'Sr1 Ca3 Cu2 O6'
+_cell_volume   159.61924554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.85100333  0.82446280  0.29799335  1
+  Ca  Ca1  1  0.85133861  0.32437021  0.29732277  1
+  Ca  Ca2  1  0.14787453  0.17848746  0.70425094  1
+  Ca  Ca3  1  0.14816626  0.67334755  0.70366748  1
+  Cu  Cu4  1  0.49922181  0.00422669  0.00155639  1
+  Cu  Cu5  1  0.50089628  0.49576928  0.99820743  1
+  O  O6  1  0.66053925  0.42021613  0.67892151  1
+  O  O7  1  0.65534307  0.92180055  0.68931387  1
+  O  O8  1  0.33937629  0.57043362  0.32124741  1
+  O  O9  1  0.33959110  0.09009141  0.32081780  1
+  O  O10  1  0.00348632  0.49215105  0.99302736  1
+  O  O11  1  0.00316316  0.00464325  0.99367368  1

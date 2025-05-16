@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_GdAgSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73762064
+_cell_length_b   5.73762064
+_cell_length_c   7.39012460
+_cell_angle_alpha   112.84224115
+_cell_angle_beta   112.84224115
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdAgSe2
+_chemical_formula_sum   'Gd2 Ag2 Se4'
+_cell_volume   203.34455067
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.74616723  0.24616723  0.49233447  1
+  Gd  Gd1  1  0.99616723  0.99616723  0.99233447  1
+  Ag  Ag2  1  0.21830952  0.71830952  0.43661904  1
+  Ag  Ag3  1  0.46830952  0.46830952  0.93661904  1
+  Se  Se4  1  0.51176427  0.01176427  0.02352854  1
+  Se  Se5  1  0.76176427  0.76176427  0.52352854  1
+  Se  Se6  1  0.98375898  0.48375898  0.96751795  1
+  Se  Se7  1  0.23375898  0.23375898  0.46751795  1

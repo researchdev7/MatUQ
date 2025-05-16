@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CdInGaS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91373773
+_cell_length_b   3.91373747
+_cell_length_c   25.36187222
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdInGaS4
+_chemical_formula_sum   'Cd2 In2 Ga2 S8'
+_cell_volume   336.43048509
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.24608311  1
+  Cd  Cd1  1  0.00000000  0.00000000  0.75391689  1
+  In  In2  1  0.66666700  0.33333300  0.39749432  1
+  In  In3  1  0.33333300  0.66666700  0.60250568  1
+  Ga  Ga4  1  0.66666700  0.33333300  0.89770319  1
+  Ga  Ga5  1  0.33333300  0.66666700  0.10229681  1
+  S  S6  1  0.66666700  0.33333300  0.55746886  1
+  S  S7  1  0.33333300  0.66666700  0.69708192  1
+  S  S8  1  0.66666700  0.33333300  0.06558413  1
+  S  S9  1  0.33333300  0.66666700  0.44253114  1
+  S  S10  1  0.66666700  0.33333300  0.81038030  1
+  S  S11  1  0.66666700  0.33333300  0.30291808  1
+  S  S12  1  0.33333300  0.66666700  0.18961970  1
+  S  S13  1  0.33333300  0.66666700  0.93441587  1

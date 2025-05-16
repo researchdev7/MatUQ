@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZnCr4NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98624897
+_cell_length_b   5.98624897
+_cell_length_c   5.98624897
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCr4NiO8
+_chemical_formula_sum   'Zn1 Cr4 Ni1 O8'
+_cell_volume   151.68733734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Cr  Cr1  1  0.74993918  0.37496959  0.87509123  1
+  Cr  Cr2  1  0.25006082  0.37496959  0.37496959  1
+  Cr  Cr3  1  0.25006082  0.87509123  0.37496959  1
+  Cr  Cr4  1  0.74993918  0.37496959  0.37496959  1
+  Ni  Ni5  1  0.50000000  0.75000000  0.75000000  1
+  O  O6  1  0.27293784  0.13646892  0.59059324  1
+  O  O7  1  0.72706216  0.13646892  0.13646892  1
+  O  O8  1  0.72706216  0.59059324  0.13646892  1
+  O  O9  1  0.27293784  0.13646892  0.13646892  1
+  O  O10  1  0.22930450  0.61465225  0.15604325  1
+  O  O11  1  0.77069550  0.61465225  0.61465225  1
+  O  O12  1  0.77069550  0.15604325  0.61465225  1
+  O  O13  1  0.22930450  0.61465225  0.61465225  1

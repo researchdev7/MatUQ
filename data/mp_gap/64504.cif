@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZnCrFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01995768
+_cell_length_b   6.01995768
+_cell_length_c   6.01995768
+_cell_angle_alpha   89.89277931
+_cell_angle_beta   59.92123328
+_cell_angle_gamma   119.79766269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCrFeO4
+_chemical_formula_sum   'Zn2 Cr2 Fe2 O8'
+_cell_volume   154.40687219
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.75241767  0.74758233  1
+  Zn  Zn1  1  -0.00000000  -0.00241767  0.00241767  1
+  Cr  Cr2  1  0.25000000  0.87500000  0.37500000  1
+  Cr  Cr3  1  0.75000000  0.37500000  0.37500000  1
+  Fe  Fe4  1  0.75000000  0.37500000  0.87500000  1
+  Fe  Fe5  1  0.25000000  0.37500000  0.37500000  1
+  O  O6  1  0.27306426  0.13498216  0.59195358  1
+  O  O7  1  0.72693574  0.13498216  0.13808211  1
+  O  O8  1  0.72871273  0.59156869  0.13714404  1
+  O  O9  1  0.27128727  0.13414322  0.13714404  1
+  O  O10  1  0.22693574  0.61501784  0.15804642  1
+  O  O11  1  0.77306426  0.61501784  0.61191789  1
+  O  O12  1  0.77128727  0.15843131  0.61285596  1
+  O  O13  1  0.22871273  0.61585678  0.61285596  1

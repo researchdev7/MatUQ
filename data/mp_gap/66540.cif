@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ti2V2GaS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02121061
+_cell_length_b   7.02121061
+_cell_length_c   7.02121061
+_cell_angle_alpha   90.26746122
+_cell_angle_beta   59.62183964
+_cell_angle_gamma   119.93142306
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2V2GaS8
+_chemical_formula_sum   'Ti2 V2 Ga1 S8'
+_cell_volume   244.16886131
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.22627863  0.83405024  0.39222839  1
+  Ti  Ti1  1  0.77372137  0.38149298  0.39222839  1
+  V  V2  1  0.78181074  0.38917612  0.82901314  1
+  V  V3  1  0.21818926  0.38917612  0.39263462  1
+  Ga  Ga4  1  0.00000000  0.99720803  0.00279197  1
+  S  S5  1  0.24884915  0.62644339  0.12470746  1
+  S  S6  1  0.75115085  0.62644339  0.62240576  1
+  S  S7  1  0.74716909  0.12026479  0.62690429  1
+  S  S8  1  0.25283091  0.62592662  0.62690429  1
+  S  S9  1  0.26336381  0.13760894  0.59902725  1
+  S  S10  1  0.73663619  0.13760894  0.12575487  1
+  S  S11  1  0.72509377  0.59239398  0.13269979  1
+  S  S12  1  0.27490623  0.14220644  0.13269979  1

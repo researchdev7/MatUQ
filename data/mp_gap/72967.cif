@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaCrCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75720039
+_cell_length_b   4.81719250
+_cell_length_c   8.00214436
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.41382100
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCrCo
+_chemical_formula_sum   'Ta4 Cr4 Co4'
+_cell_volume   158.14531699
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.66182654  0.33089526  0.56637345  1
+  Ta  Ta1  1  0.32887634  0.66447045  0.43936208  1
+  Ta  Ta2  1  0.32887634  0.66447045  0.06063792  1
+  Ta  Ta3  1  0.66182654  0.33089526  0.93362655  1
+  Cr  Cr4  1  0.66070250  0.83032737  0.75000000  1
+  Cr  Cr5  1  0.82822041  0.65755766  0.25000000  1
+  Cr  Cr6  1  0.82820681  0.17068512  0.25000000  1
+  Cr  Cr7  1  0.34472560  0.17235949  0.25000000  1
+  Co  Co8  1  0.00120840  0.00058989  0.50558317  1
+  Co  Co9  1  0.00120840  0.00058989  0.99441683  1
+  Co  Co10  1  0.17717892  0.34187932  0.75000000  1
+  Co  Co11  1  0.17714318  0.83527984  0.75000000  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2SrWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11495110
+_cell_length_b   6.11495110
+_cell_length_c   6.11495110
+_cell_angle_alpha   60.94391450
+_cell_angle_beta   60.94391453
+_cell_angle_gamma   60.94391448
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SrWO6
+_chemical_formula_sum   'Ba2 Sr1 W1 O6'
+_cell_volume   165.12178571
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.65927594  0.28551682  0.78342216  1
+  O  O1  1  0.28551692  0.78342197  0.65927634  1
+  O  O2  1  0.78342280  0.65927610  0.28551798  1
+  O  O3  1  0.34072336  0.71448148  0.21657836  1
+  O  O4  1  0.21657773  0.34072419  0.71448261  1
+  O  O5  1  0.71448172  0.21657830  0.34072353  1
+  Sr  Sr6  1  0.00000000  0.00000000  0.00000000  1
+  Ba  Ba7  1  0.25309599  0.25309601  0.25309768  1
+  Ba  Ba8  1  0.74690267  0.74690428  0.74690382  1
+  W  W9  1  0.50000026  0.50000014  0.49999948  1

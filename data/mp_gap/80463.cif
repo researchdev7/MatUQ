@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_RbGaH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92142213
+_cell_length_b   7.81233428
+_cell_length_c   9.71785984
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbGaH4
+_chemical_formula_sum   'Rb4 Ga4 H16'
+_cell_volume   449.54945070
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.25000000  0.33747674  0.68254163  1
+  Rb  Rb1  1  0.25000000  0.16252326  0.18254163  1
+  Rb  Rb2  1  0.75000000  0.66252326  0.31745837  1
+  Rb  Rb3  1  0.75000000  0.83747674  0.81745837  1
+  Ga  Ga4  1  0.25000000  0.69314576  0.06214172  1
+  Ga  Ga5  1  0.25000000  0.80685424  0.56214172  1
+  Ga  Ga6  1  0.75000000  0.30685424  0.93785828  1
+  Ga  Ga7  1  0.75000000  0.19314576  0.43785828  1
+  H  H8  1  0.25000000  0.61412185  0.91152799  1
+  H  H9  1  0.25000000  0.88587815  0.41152799  1
+  H  H10  1  0.75000000  0.38587815  0.08847201  1
+  H  H11  1  0.75000000  0.11412185  0.58847201  1
+  H  H12  1  0.25000000  0.55060496  0.17958949  1
+  H  H13  1  0.25000000  0.94939504  0.67958949  1
+  H  H14  1  0.75000000  0.44939504  0.82041051  1
+  H  H15  1  0.75000000  0.05060496  0.32041051  1
+  H  H16  1  0.96866420  0.18747134  0.91816517  1
+  H  H17  1  0.53133580  0.31252866  0.41816517  1
+  H  H18  1  0.46866420  0.81252866  0.08183483  1
+  H  H19  1  0.03133580  0.68747134  0.58183483  1
+  H  H20  1  0.03133580  0.81252866  0.08183483  1
+  H  H21  1  0.46866420  0.68747134  0.58183483  1
+  H  H22  1  0.53133580  0.18747134  0.91816517  1
+  H  H23  1  0.96866420  0.31252866  0.41816517  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na2(CrSe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34063481
+_cell_length_b   6.34063581
+_cell_length_c   7.41172536
+_cell_angle_alpha   81.78389500
+_cell_angle_beta   98.21610104
+_cell_angle_gamma   59.99495965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2(CrSe2)3
+_chemical_formula_sum   'Na2 Cr3 Se6'
+_cell_volume   247.27784603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50008987  0.50008987  0.50000000  1
+  Na  Na1  1  0.83324313  0.83324313  0.50000000  1
+  Cr  Cr2  1  0.66666700  0.66666700  0.00000000  1
+  Cr  Cr3  1  0.33379604  0.33379604  0.00000000  1
+  Cr  Cr4  1  0.99953696  0.99953696  1.00000000  1
+  Se  Se5  1  0.73386364  0.26699848  0.19828196  1
+  Se  Se6  1  0.39878400  0.93455000  0.19902964  1
+  Se  Se7  1  0.06633452  0.59946936  0.19828196  1
+  Se  Se8  1  0.93455000  0.39878400  0.80097036  1
+  Se  Se9  1  0.59946936  0.06633452  0.80171804  1
+  Se  Se10  1  0.26699848  0.73386364  0.80171804  1

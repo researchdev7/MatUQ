@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrCrNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08842127
+_cell_length_b   4.99987395
+_cell_length_c   7.97156272
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.42498107
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCrNi
+_chemical_formula_sum   'Zr4 Cr4 Ni4'
+_cell_volume   176.64590922
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66857747  0.33429348  0.55848275  1
+  Zr  Zr1  1  0.33048942  0.66530134  0.43881839  1
+  Zr  Zr2  1  0.33048942  0.66530134  0.06118161  1
+  Zr  Zr3  1  0.66857747  0.33429348  0.94151725  1
+  Cr  Cr4  1  0.01396806  0.00690858  0.50866512  1
+  Cr  Cr5  1  0.01396806  0.00690858  0.99133488  1
+  Cr  Cr6  1  0.15710503  0.32901715  0.75000000  1
+  Cr  Cr7  1  0.15711356  0.82814354  0.75000000  1
+  Ni  Ni8  1  0.64809121  0.82402704  0.75000000  1
+  Ni  Ni9  1  0.83869711  0.67034766  0.25000000  1
+  Ni  Ni10  1  0.83867453  0.16834499  0.25000000  1
+  Ni  Ni11  1  0.33424867  0.16711283  0.25000000  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NdRe2SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03582599
+_cell_length_b   5.83444631
+_cell_length_c   7.36551906
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.23442592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdRe2SiC
+_chemical_formula_sum   'Nd2 Re4 Si2 C2'
+_cell_volume   162.73103585
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.45628635  0.91257270  0.25000000  1
+  Nd  Nd1  1  0.54371365  0.08742730  0.75000000  1
+  Re  Re2  1  0.17479759  0.34959518  0.06143743  1
+  Re  Re3  1  0.82520241  0.65040482  0.93856257  1
+  Re  Re4  1  0.82520241  0.65040482  0.56143743  1
+  Re  Re5  1  0.17479759  0.34959518  0.43856257  1
+  Si  Si6  1  0.73366863  0.46733725  0.25000000  1
+  Si  Si7  1  0.26633137  0.53266275  0.75000000  1
+  C  C8  1  -0.00000000  -0.00000000  -0.00000000  1
+  C  C9  1  -0.00000000  -0.00000000  0.50000000  1

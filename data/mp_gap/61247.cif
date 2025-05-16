@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TmNiGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05334824
+_cell_length_b   4.08274205
+_cell_length_c   10.96786391
+_cell_angle_alpha   100.72661113
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmNiGe3
+_chemical_formula_sum   'Tm2 Ni2 Ge6'
+_cell_volume   178.33318506
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.50000000  0.83094110  0.66188219  1
+  Tm  Tm1  1  0.50000000  0.16905890  0.33811781  1
+  Ni  Ni2  1  0.00000000  0.61162151  0.22324303  1
+  Ni  Ni3  1  0.00000000  0.38837849  0.77675697  1
+  Ge  Ge4  1  0.00000000  0.71707314  0.43414629  1
+  Ge  Ge5  1  -0.00000000  0.28292686  0.56585371  1
+  Ge  Ge6  1  0.50000000  0.55733717  0.11467434  1
+  Ge  Ge7  1  0.50000000  0.44266283  0.88532566  1
+  Ge  Ge8  1  -0.00000000  0.94242514  0.88485029  1
+  Ge  Ge9  1  0.00000000  0.05757486  0.11514971  1

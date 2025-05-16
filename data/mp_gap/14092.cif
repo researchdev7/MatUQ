@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NbNi3(PO4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91155784
+_cell_length_b   10.00583712
+_cell_length_c   5.89609094
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.74827635
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbNi3(PO4)4
+_chemical_formula_sum   'Nb1 Ni3 P4 O16'
+_cell_volume   289.73424341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.97315147  0.27628354  0.25000000  1
+  Ni  Ni1  1  0.03107652  0.73057804  0.75000000  1
+  Ni  Ni2  1  0.45803035  0.22224136  0.75000000  1
+  Ni  Ni3  1  0.54274710  0.76939674  0.25000000  1
+  P  P4  1  0.08389614  0.60735472  0.25000000  1
+  P  P5  1  0.39569280  0.08755291  0.25000000  1
+  P  P6  1  0.59374339  0.90217939  0.75000000  1
+  P  P7  1  0.93040584  0.40936527  0.75000000  1
+  O  O8  1  0.14813258  0.44720330  0.25000000  1
+  O  O9  1  0.23479382  0.66920626  0.04387895  1
+  O  O10  1  0.23479382  0.66920626  0.45612105  1
+  O  O11  1  0.23290671  0.38480814  0.75000000  1
+  O  O12  1  0.28236228  0.88773052  0.75000000  1
+  O  O13  1  0.25004871  0.16861122  0.05123400  1
+  O  O14  1  0.25004871  0.16861122  0.44876600  1
+  O  O15  1  0.33708796  0.94234015  0.25000000  1
+  O  O16  1  0.65667083  0.05335218  0.75000000  1
+  O  O17  1  0.73642749  0.83128264  0.54534202  1
+  O  O18  1  0.73642749  0.83128264  0.95465798  1
+  O  O19  1  0.70085677  0.12748378  0.25000000  1
+  O  O20  1  0.77812572  0.60980772  0.25000000  1
+  O  O21  1  0.78804742  0.32649546  0.54356762  1
+  O  O22  1  0.78804742  0.32649546  0.95643238  1
+  O  O23  1  0.83647769  0.55112909  0.75000000  1

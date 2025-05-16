@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LuMnB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35206142
+_cell_length_b   5.85254061
+_cell_length_c   11.30788450
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMnB4
+_chemical_formula_sum   'Lu4 Mn4 B16'
+_cell_volume   221.83893286
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.50000000  0.37402019  0.15048115  1
+  Lu  Lu1  1  0.50000000  0.62597981  0.84951885  1
+  Lu  Lu2  1  0.50000000  0.12597981  0.65048115  1
+  Lu  Lu3  1  0.50000000  0.87402019  0.34951885  1
+  Mn  Mn4  1  0.50000000  0.37086246  0.41539490  1
+  Mn  Mn5  1  0.50000000  0.62913754  0.58460510  1
+  Mn  Mn6  1  0.50000000  0.12913754  0.91539490  1
+  Mn  Mn7  1  0.50000000  0.87086246  0.08460510  1
+  B  B8  1  -0.00000000  0.21640753  0.31549193  1
+  B  B9  1  -0.00000000  0.78359247  0.68450807  1
+  B  B10  1  -0.00000000  0.28359247  0.81549193  1
+  B  B11  1  -0.00000000  0.71640753  0.18450807  1
+  B  B12  1  0.00000000  0.11324543  0.04697489  1
+  B  B13  1  0.00000000  0.88675457  0.95302511  1
+  B  B14  1  -0.00000000  0.38675457  0.54697489  1
+  B  B15  1  -0.00000000  0.61324543  0.45302511  1
+  B  B16  1  -0.00000000  0.13617238  0.46809410  1
+  B  B17  1  -0.00000000  0.86382762  0.53190590  1
+  B  B18  1  -0.00000000  0.36382762  0.96809410  1
+  B  B19  1  -0.00000000  0.63617238  0.03190590  1
+  B  B20  1  -0.00000000  0.02467461  0.19205428  1
+  B  B21  1  -0.00000000  0.97532539  0.80794572  1
+  B  B22  1  -0.00000000  0.47532539  0.69205428  1
+  B  B23  1  -0.00000000  0.52467461  0.30794572  1

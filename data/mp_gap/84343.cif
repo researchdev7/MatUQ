@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoCoGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21855840
+_cell_length_b   6.85301940
+_cell_length_c   7.21893384
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCoGe
+_chemical_formula_sum   'Ho4 Co4 Ge4'
+_cell_volume   208.69838511
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.75000000  0.50847910  0.69959073  1
+  Ho  Ho1  1  0.75000000  0.00847910  0.80040927  1
+  Ho  Ho2  1  0.25000000  0.49152090  0.30040927  1
+  Ho  Ho3  1  0.25000000  0.99152090  0.19959073  1
+  Co  Co4  1  0.75000000  0.34328523  0.06783823  1
+  Co  Co5  1  0.75000000  0.84328523  0.43216177  1
+  Co  Co6  1  0.25000000  0.65671477  0.93216177  1
+  Co  Co7  1  0.25000000  0.15671477  0.56783823  1
+  Ge  Ge8  1  0.75000000  0.70375997  0.09919052  1
+  Ge  Ge9  1  0.75000000  0.20375997  0.40080948  1
+  Ge  Ge10  1  0.25000000  0.29624003  0.90080948  1
+  Ge  Ge11  1  0.25000000  0.79624003  0.59919052  1

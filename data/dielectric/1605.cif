@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SiTePt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22307989
+_cell_length_b   6.32116829
+_cell_length_c   12.63211593
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiTePt
+_chemical_formula_sum   'Si8 Te8 Pt8'
+_cell_volume   496.91125304
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.87105422  0.33339863  0.43906574  1
+  Si  Si1  1  0.37105422  0.16660137  0.56093426  1
+  Si  Si2  1  0.62894578  0.66660137  0.93906574  1
+  Si  Si3  1  0.37105422  0.33339863  0.06093426  1
+  Si  Si4  1  0.87105422  0.16660137  0.93906574  1
+  Si  Si5  1  0.62894578  0.83339863  0.43906574  1
+  Si  Si6  1  0.12894578  0.66660137  0.56093426  1
+  Si  Si7  1  0.12894578  0.83339863  0.06093426  1
+  Te  Te8  1  0.61697734  0.08367524  0.17465504  1
+  Te  Te9  1  0.88302266  0.91632476  0.67465504  1
+  Te  Te10  1  0.38302266  0.58367524  0.32534496  1
+  Te  Te11  1  0.88302266  0.58367524  0.17465504  1
+  Te  Te12  1  0.61697734  0.41632476  0.67465504  1
+  Te  Te13  1  0.11697734  0.08367524  0.32534496  1
+  Te  Te14  1  0.11697734  0.41632476  0.82534496  1
+  Te  Te15  1  0.38302266  0.91632476  0.82534496  1
+  Pt  Pt16  1  0.52547195  0.31290623  0.88636329  1
+  Pt  Pt17  1  0.02547195  0.18709377  0.11363671  1
+  Pt  Pt18  1  0.47452805  0.81290623  0.61363671  1
+  Pt  Pt19  1  0.97452805  0.68709377  0.38636329  1
+  Pt  Pt20  1  0.47452805  0.68709377  0.11363671  1
+  Pt  Pt21  1  0.97452805  0.81290623  0.88636329  1
+  Pt  Pt22  1  0.52547195  0.18709377  0.38636329  1
+  Pt  Pt23  1  0.02547195  0.31290623  0.61363671  1

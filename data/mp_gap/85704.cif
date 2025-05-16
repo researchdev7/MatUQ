@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_YbPdPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02048663
+_cell_length_b   7.79976312
+_cell_length_c   7.80392497
+_cell_angle_alpha   119.98236174
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbPdPb
+_chemical_formula_sum   'Yb3 Pd3 Pb3'
+_cell_volume   211.97317941
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.50000000  0.59435578  0.00000000  1
+  Yb  Yb1  1  0.50000000  0.40580151  0.40583219  1
+  Yb  Yb2  1  0.50000000  0.99996932  0.59416781  1
+  Pd  Pd3  1  0.00000000  0.33335101  0.66667095  1
+  Pd  Pd4  1  0.00000000  0.66668006  0.33332905  1
+  Pd  Pd5  1  0.50000000  0.99996403  0.00000000  1
+  Pb  Pb6  1  0.00000000  0.26332150  0.00000000  1
+  Pb  Pb7  1  0.00000000  0.73642380  0.73639080  1
+  Pb  Pb8  1  0.00000000  0.00003300  0.26360920  1

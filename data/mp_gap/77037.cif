@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_La6Cr(SiS7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78441270
+_cell_length_b   10.38468671
+_cell_length_c   10.38383556
+_cell_angle_alpha   59.95506721
+_cell_angle_beta   90.04180342
+_cell_angle_gamma   90.01257271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6Cr(SiS7)2
+_chemical_formula_sum   'La6 Cr1 Si2 S14'
+_cell_volume   539.93834052
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25115567  0.23444885  0.12190566  1
+  La  La1  1  0.25092074  0.64382785  0.23397121  1
+  La  La2  1  0.25101185  0.12150032  0.64407734  1
+  La  La3  1  0.75261631  0.76675804  0.87761969  1
+  La  La4  1  0.75235770  0.35536726  0.76718112  1
+  La  La5  1  0.75205922  0.87812998  0.35540750  1
+  Cr  Cr6  1  0.48960358  0.99994144  0.00015141  1
+  Si  Si7  1  0.83507743  0.33337269  0.33325348  1
+  Si  Si8  1  0.33732124  0.66667315  0.66670903  1
+  S  S9  1  0.47042861  0.33328075  0.33327277  1
+  S  S10  1  0.97239479  0.66655716  0.66676210  1
+  S  S11  1  0.72559018  0.15767896  0.08191075  1
+  S  S12  1  0.72352824  0.76209766  0.15621155  1
+  S  S13  1  0.72376323  0.08166071  0.76199849  1
+  S  S14  1  0.25476508  0.84114669  0.91981840  1
+  S  S15  1  0.25712120  0.23707244  0.84229598  1
+  S  S16  1  0.25714758  0.92074768  0.23723986  1
+  S  S17  1  0.97520107  0.11546892  0.40773273  1
+  S  S18  1  0.97535520  0.47675332  0.11543459  1
+  S  S19  1  0.97573334  0.40769667  0.47688704  1
+  S  S20  1  0.47790776  0.88468255  0.59072187  1
+  S  S21  1  0.47760763  0.52440349  0.88472305  1
+  S  S22  1  0.47733238  0.59073342  0.52471437  1

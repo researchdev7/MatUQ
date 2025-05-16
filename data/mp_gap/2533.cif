@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YMg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.11309729
+_cell_length_b   5.89640146
+_cell_length_c   6.48405217
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.92055115
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YMg
+_chemical_formula_sum   'Y6 Mg6'
+_cell_volume   335.11625453
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.50000000  0.14711701  0.00000000  1
+  Y  Y1  1  0.16321248  0.00819666  0.48786061  1
+  Y  Y2  1  0.83678752  0.00819666  0.51213939  1
+  Y  Y3  1  -0.00000000  0.64711701  0.00000000  1
+  Y  Y4  1  0.66321248  0.50819666  0.48786061  1
+  Y  Y5  1  0.33678752  0.50819666  0.51213939  1
+  Mg  Mg6  1  0.83278359  0.16696965  0.00373680  1
+  Mg  Mg7  1  0.16721641  0.16696965  0.99626320  1
+  Mg  Mg8  1  0.50000000  0.00255137  0.50000000  1
+  Mg  Mg9  1  0.33278359  0.66696965  0.00373680  1
+  Mg  Mg10  1  0.66721641  0.66696965  0.99626320  1
+  Mg  Mg11  1  -0.00000000  0.50255137  0.50000000  1

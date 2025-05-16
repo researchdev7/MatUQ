@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_PrAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07850352
+_cell_length_b   7.08025600
+_cell_length_c   7.07990464
+_cell_angle_alpha   120.00163934
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrAlNi
+_chemical_formula_sum   'Pr3 Al3 Ni3'
+_cell_volume   177.05193105
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.50000000  0.58104576  1.00000000  1
+  Pr  Pr1  1  0.50000000  0.41894536  0.41894798  1
+  Pr  Pr2  1  0.50000000  0.99999738  0.58105202  1
+  Al  Al3  1  -0.00000000  0.22651685  0.00000000  1
+  Al  Al4  1  -0.00000000  0.77348442  0.77348857  1
+  Al  Al5  1  -0.00000000  0.99999584  0.22651143  1
+  Ni  Ni6  1  -0.00000000  0.33331951  0.66670250  1
+  Ni  Ni7  1  -0.00000000  0.66661701  0.33329750  1
+  Ni  Ni8  1  0.50000000  -0.00002214  1.00000000  1

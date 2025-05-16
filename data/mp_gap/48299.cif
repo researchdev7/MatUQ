@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TaReSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.28160544
+_cell_length_b   6.90289802
+_cell_length_c   6.90347910
+_cell_angle_alpha   119.99722239
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaReSi
+_chemical_formula_sum   'Ta3 Re3 Si3'
+_cell_volume   135.43428565
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000000  0.59867351  1.00000000  1
+  Ta  Ta1  1  0.50000000  0.40130510  0.40136998  1
+  Ta  Ta2  1  0.50000000  0.99993512  0.59863002  1
+  Re  Re3  1  0.00000000  0.26000881  1.00000000  1
+  Re  Re4  1  0.00000000  0.74000623  0.74002960  1
+  Re  Re5  1  0.00000000  -0.00002337  0.25997040  1
+  Si  Si6  1  -0.00000000  0.33333363  0.66669316  1
+  Si  Si7  1  0.00000000  0.66664047  0.33330684  1
+  Si  Si8  1  0.50000000  0.00002051  0.00000000  1

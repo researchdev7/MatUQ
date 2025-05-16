@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BaFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61549448
+_cell_length_b   9.19737780
+_cell_length_c   7.42318068
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaFeO4
+_chemical_formula_sum   'Ba4 Fe4 O16'
+_cell_volume   383.39113126
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75000000  0.81568517  0.34267391  1
+  Ba  Ba1  1  0.25000000  0.18431483  0.65732609  1
+  Ba  Ba2  1  0.25000000  0.68431483  0.84267391  1
+  Ba  Ba3  1  0.75000000  0.31568517  0.15732609  1
+  Fe  Fe4  1  0.75000000  0.93793347  0.81047084  1
+  Fe  Fe5  1  0.25000000  0.06206653  0.18952916  1
+  Fe  Fe6  1  0.25000000  0.56206653  0.31047084  1
+  Fe  Fe7  1  0.75000000  0.43793347  0.68952916  1
+  O  O8  1  0.75000000  0.60237616  0.60348174  1
+  O  O9  1  0.25000000  0.39762384  0.39651826  1
+  O  O10  1  0.25000000  0.89762384  0.10348174  1
+  O  O11  1  0.75000000  0.10237616  0.89651826  1
+  O  O12  1  0.75000000  0.80558057  0.96170509  1
+  O  O13  1  0.25000000  0.19441943  0.03829491  1
+  O  O14  1  0.25000000  0.69441943  0.46170509  1
+  O  O15  1  0.75000000  0.30558057  0.53829491  1
+  O  O16  1  0.98916114  0.91721901  0.67860932  1
+  O  O17  1  0.01083886  0.08278099  0.32139068  1
+  O  O18  1  0.01083886  0.58278099  0.17860932  1
+  O  O19  1  0.48916114  0.08278099  0.32139068  1
+  O  O20  1  0.98916114  0.41721901  0.82139068  1
+  O  O21  1  0.51083886  0.91721901  0.67860932  1
+  O  O22  1  0.51083886  0.41721901  0.82139068  1
+  O  O23  1  0.48916114  0.58278099  0.17860932  1

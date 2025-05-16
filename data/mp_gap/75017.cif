@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaCu2H3(SO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47611615
+_cell_length_b   5.47611615
+_cell_length_c   7.40731014
+_cell_angle_alpha   71.44407388
+_cell_angle_beta   79.97974288
+_cell_angle_gamma   109.52305100
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCu2H3(SO5)2
+_chemical_formula_sum   'Na1 Cu2 H3 S2 O10'
+_cell_volume   188.45234242
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49987542  0.99999208  0.50013250  1
+  Cu  Cu1  1  0.00416608  0.50103304  0.00185799  1
+  Cu  Cu2  1  0.49710897  0.99397593  0.00185799  1
+  H  H3  1  0.70726002  0.51600214  0.77673784  1
+  H  H4  1  0.29185869  0.48726520  0.22087610  1
+  H  H5  1  0.51733385  0.49097187  0.99169428  1
+  S  S6  1  0.09002662  0.20928170  0.70069168  1
+  S  S7  1  0.90956686  0.79069655  0.29973660  1
+  O  O8  1  0.20789244  0.30768630  0.48442126  1
+  O  O9  1  0.79188237  0.69193318  0.51618445  1
+  O  O10  1  0.65790307  0.41664054  0.92545639  1
+  O  O11  1  0.34327176  0.58426391  0.07246433  1
+  O  O12  1  0.78268573  0.06906109  0.75730171  1
+  O  O13  1  0.17363719  0.46001255  0.75730171  1
+  O  O14  1  0.21683671  0.93111539  0.24300439  1
+  O  O15  1  0.82588021  0.54015889  0.24300439  1
+  O  O16  1  0.19180580  0.00162651  0.80656769  1
+  O  O17  1  0.80790820  0.99828312  0.19380869  1

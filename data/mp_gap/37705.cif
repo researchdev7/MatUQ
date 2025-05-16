@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_InGaCu2(TeSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00956970
+_cell_length_b   6.00376121
+_cell_length_c   7.34443159
+_cell_angle_alpha   66.00225039
+_cell_angle_beta   65.99056003
+_cell_angle_gamma   90.31572101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InGaCu2(TeSe)2
+_chemical_formula_sum   'In1 Ga1 Cu2 Te2 Se2'
+_cell_volume   216.44499390
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50894664  0.50897609  0.98226039  1
+  Ga  Ga1  1  0.24166419  0.74167671  0.51668826  1
+  Cu  Cu2  1  0.74195194  0.24192339  0.51621493  1
+  Cu  Cu3  1  0.00944688  0.00943064  0.98099369  1
+  Te  Te4  1  0.09532660  0.10705932  0.26120712  1
+  Te  Te5  1  0.64333581  0.63168608  0.26132188  1
+  Se  Se6  1  0.36545928  0.89636262  0.74063516  1
+  Se  Se7  1  0.89386865  0.36288515  0.74067858  1

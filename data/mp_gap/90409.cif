@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ca2CdPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50419968
+_cell_length_b   5.68701315
+_cell_length_c   5.68701315
+_cell_angle_alpha   62.38694655
+_cell_angle_beta   66.67117055
+_cell_angle_gamma   66.67117055
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2CdPt2
+_chemical_formula_sum   'Ca2 Cd1 Pt2'
+_cell_volume   114.41767979
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.20064765  0.29935235  0.29935235  1
+  Ca  Ca1  1  0.79935235  0.70064765  0.70064765  1
+  Cd  Cd2  1  0.00000000  -0.00000000  -0.00000000  1
+  Pt  Pt3  1  0.50000000  0.27328453  0.72671547  1
+  Pt  Pt4  1  0.50000000  0.72671547  0.27328453  1

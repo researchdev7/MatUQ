@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbAlCr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97153716
+_cell_length_b   4.97194370
+_cell_length_c   8.35536493
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.32911619
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAlCr
+_chemical_formula_sum   'Nb4 Al4 Cr4'
+_cell_volume   179.45010029
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.33614007  0.33612628  0.55858234  1
+  Nb  Nb1  1  0.66832688  0.66834451  0.43126956  1
+  Nb  Nb2  1  0.66832688  0.66834451  0.06873044  1
+  Nb  Nb3  1  0.33614007  0.33612628  0.94141766  1
+  Al  Al4  1  0.99525957  0.99533848  0.49452692  1
+  Al  Al5  1  0.99525957  0.99533848  0.00547308  1
+  Al  Al6  1  0.83284635  0.34255802  0.75000000  1
+  Al  Al7  1  0.34251822  0.83284249  0.75000000  1
+  Cr  Cr8  1  0.83360563  0.83366978  0.75000000  1
+  Cr  Cr9  1  0.17077214  0.64875574  0.25000000  1
+  Cr  Cr10  1  0.64889413  0.17071528  0.25000000  1
+  Cr  Cr11  1  0.17191049  0.17184017  0.25000000  1

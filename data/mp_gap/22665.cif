@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Fe(B2Mo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13074084
+_cell_length_b   3.03429148
+_cell_length_c   7.04457323
+_cell_angle_alpha   77.56312826
+_cell_angle_beta   77.16116485
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(B2Mo)2
+_chemical_formula_sum   'Fe1 B4 Mo2'
+_cell_volume   63.63576961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.82413013  0.82413013  0.35173975  1
+  B  B1  1  0.35736749  0.35736749  0.28526502  1
+  B  B2  1  0.64094472  0.64094472  0.71811055  1
+  B  B3  1  0.42743644  0.92743644  0.14512712  1
+  B  B4  1  0.56483100  0.06483100  0.87033800  1
+  Mo  Mo5  1  0.99746264  0.49746264  0.00507471  1
+  Mo  Mo6  1  0.18782758  0.18782758  0.62434484  1

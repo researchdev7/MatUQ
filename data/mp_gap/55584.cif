@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ZnGeAsP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60389643
+_cell_length_b   5.63931321
+_cell_length_c   6.83309682
+_cell_angle_alpha   65.62877867
+_cell_angle_beta   65.79168528
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnGeAsP
+_chemical_formula_sum   'Zn2 Ge2 As2 P2'
+_cell_volume   175.64027560
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.74394027  0.24394027  0.51211947  1
+  Zn  Zn1  1  0.00605973  0.00605973  0.98788053  1
+  Ge  Ge2  1  0.24531211  0.74531211  0.50937577  1
+  Ge  Ge3  1  0.50468789  0.50468789  0.99062423  1
+  As  As4  1  0.12407923  0.12500000  0.25000000  1
+  As  As5  1  0.62592077  0.62500000  0.25000000  1
+  P  P6  1  0.37500000  0.86925707  0.75000000  1
+  P  P7  1  0.87500000  0.38074293  0.75000000  1

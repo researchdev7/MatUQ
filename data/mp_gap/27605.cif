@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ti4CrC5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.02433942
+_cell_length_b   3.02433942
+_cell_length_c   12.46633840
+_cell_angle_alpha   96.96714845
+_cell_angle_beta   83.03285155
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4CrC5
+_chemical_formula_sum   'Ti4 Cr1 C5'
+_cell_volume   97.77508328
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.90200986  0.09799014  0.29397043  1
+  Ti  Ti1  1  0.50060157  0.49939843  0.49819530  1
+  Ti  Ti2  1  0.09939843  0.90060157  0.70180470  1
+  Ti  Ti3  1  0.69799014  0.30200986  0.90602957  1
+  Cr  Cr4  1  0.30000000  0.70000000  0.10000000  1
+  C  C5  1  0.39839948  0.60160052  0.80480155  1
+  C  C6  1  0.20160052  0.79839948  0.39519845  1
+  C  C7  1  0.80000000  0.20000000  0.60000000  1
+  C  C8  1  0.99699531  0.00300469  0.00901407  1
+  C  C9  1  0.60300469  0.39699531  0.19098593  1

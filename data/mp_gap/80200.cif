@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaFeSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73829904
+_cell_length_b   6.17542216
+_cell_length_c   6.98315119
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaFeSi
+_chemical_formula_sum   'Ta4 Fe4 Si4'
+_cell_volume   161.21005866
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.75000000  0.48415533  0.18718681  1
+  Ta  Ta1  1  0.75000000  0.98415533  0.31281319  1
+  Ta  Ta2  1  0.25000000  0.51584467  0.81281319  1
+  Ta  Ta3  1  0.25000000  0.01584467  0.68718681  1
+  Fe  Fe4  1  0.75000000  0.35120492  0.56457361  1
+  Fe  Fe5  1  0.75000000  0.85120492  0.93542639  1
+  Fe  Fe6  1  0.25000000  0.64879508  0.43542639  1
+  Fe  Fe7  1  0.25000000  0.14879508  0.06457361  1
+  Si  Si8  1  0.75000000  0.22211108  0.88480275  1
+  Si  Si9  1  0.75000000  0.72211108  0.61519725  1
+  Si  Si10  1  0.25000000  0.77788892  0.11519725  1
+  Si  Si11  1  0.25000000  0.27788892  0.38480275  1

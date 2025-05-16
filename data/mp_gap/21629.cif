@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SiNi3Mo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71778775
+_cell_length_b   4.71776338
+_cell_length_c   7.57047008
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.79404819
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiNi3Mo2
+_chemical_formula_sum   'Si2 Ni6 Mo4'
+_cell_volume   147.07798179
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.17091146  0.66416527  0.75000000  1
+  Si  Si1  1  0.66412706  0.17093320  0.75000000  1
+  Ni  Ni2  1  0.18181418  0.18181680  0.75000000  1
+  Ni  Ni3  1  0.83089005  0.33883006  0.25000000  1
+  Ni  Ni4  1  0.33888130  0.83083814  0.25000000  1
+  Ni  Ni5  1  0.83040878  0.83040087  0.25000000  1
+  Ni  Ni6  1  0.99334525  0.99335068  0.50899318  1
+  Ni  Ni7  1  0.99334525  0.99335068  0.99100682  1
+  Mo  Mo8  1  0.33508912  0.33507920  0.06710277  1
+  Mo  Mo9  1  0.66304921  0.66307795  0.93908549  1
+  Mo  Mo10  1  0.66304921  0.66307795  0.56091451  1
+  Mo  Mo11  1  0.33508912  0.33507920  0.43289723  1

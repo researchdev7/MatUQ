@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CrSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61892955
+_cell_length_b   5.76235385
+_cell_length_c   6.90323939
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrSiNi
+_chemical_formula_sum   'Cr4 Si4 Ni4'
+_cell_volume   143.95706590
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.75000000  0.47090562  0.18102322  1
+  Cr  Cr1  1  0.75000000  0.97090562  0.31897678  1
+  Cr  Cr2  1  0.25000000  0.52909438  0.81897678  1
+  Cr  Cr3  1  0.25000000  0.02909438  0.68102322  1
+  Si  Si4  1  0.75000000  0.24418900  0.87458341  1
+  Si  Si5  1  0.75000000  0.74418900  0.62541659  1
+  Si  Si6  1  0.25000000  0.75581100  0.12541659  1
+  Si  Si7  1  0.25000000  0.25581100  0.37458341  1
+  Ni  Ni8  1  0.75000000  0.35297284  0.55869821  1
+  Ni  Ni9  1  0.75000000  0.85297284  0.94130179  1
+  Ni  Ni10  1  0.25000000  0.64702716  0.44130179  1
+  Ni  Ni11  1  0.25000000  0.14702716  0.05869821  1

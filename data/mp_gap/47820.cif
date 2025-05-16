@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na3(Mn2Te3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57952663
+_cell_length_b   7.93055695
+_cell_length_c   7.93055696
+_cell_angle_alpha   120.46423121
+_cell_angle_beta   89.43581815
+_cell_angle_gamma   89.43581814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3(Mn2Te3)2
+_chemical_formula_sum   'Na3 Mn4 Te6'
+_cell_volume   410.81284086
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.65171429  0.34828571  1
+  Na  Na1  1  0.00000000  0.34828571  0.65171429  1
+  Na  Na2  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn3  1  0.37594429  0.66586785  0.98651377  1
+  Mn  Mn4  1  0.62405571  0.01348623  0.33413215  1
+  Mn  Mn5  1  0.62405571  0.33413215  0.01348623  1
+  Mn  Mn6  1  0.37594429  0.98651377  0.66586785  1
+  Te  Te7  1  0.25870199  0.67789973  0.67789973  1
+  Te  Te8  1  0.74129801  0.32210027  0.32210027  1
+  Te  Te9  1  0.73749990  0.66490205  0.01579522  1
+  Te  Te10  1  0.26250010  0.98420478  0.33509795  1
+  Te  Te11  1  0.26250010  0.33509795  0.98420478  1
+  Te  Te12  1  0.73749990  0.01579522  0.66490205  1

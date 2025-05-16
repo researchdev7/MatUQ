@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ho2Si4Mo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87071442
+_cell_length_b   6.93224875
+_cell_length_c   6.74959175
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.97204705
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Si4Mo3
+_chemical_formula_sum   'Ho4 Si8 Mo6'
+_cell_volume   304.01604470
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.19078336  0.33062853  0.56111469  1
+  Ho  Ho1  1  0.80921664  0.83062853  0.93888531  1
+  Ho  Ho2  1  0.80921664  0.66937147  0.43888531  1
+  Ho  Ho3  1  0.19078336  0.16937147  0.06111469  1
+  Si  Si4  1  0.09025986  0.54396301  0.86802964  1
+  Si  Si5  1  0.90974014  0.04396301  0.63197036  1
+  Si  Si6  1  0.90974014  0.45603699  0.13197036  1
+  Si  Si7  1  0.09025986  0.95603699  0.36802964  1
+  Si  Si8  1  0.50432437  0.13173702  0.87121508  1
+  Si  Si9  1  0.49567563  0.63173702  0.62878492  1
+  Si  Si10  1  0.49567563  0.86826298  0.12878492  1
+  Si  Si11  1  0.50432437  0.36826298  0.37121508  1
+  Mo  Mo12  1  0.50000000  0.50000000  0.00000000  1
+  Mo  Mo13  1  0.50000000  -0.00000000  0.50000000  1
+  Mo  Mo14  1  0.24854497  0.83728754  0.74944488  1
+  Mo  Mo15  1  0.75145503  0.33728754  0.75055512  1
+  Mo  Mo16  1  0.75145503  0.16271246  0.25055512  1
+  Mo  Mo17  1  0.24854497  0.66271246  0.24944488  1

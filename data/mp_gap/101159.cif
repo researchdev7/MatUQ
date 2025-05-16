@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba(HoTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47581063
+_cell_length_b   13.79725927
+_cell_length_c   16.26826192
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(HoTe2)2
+_chemical_formula_sum   'Ba4 Ho8 Te16'
+_cell_volume   1004.62894036
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.25000000  0.97250883  0.71580672  1
+  Te  Te1  1  0.75000000  0.02749117  0.28419328  1
+  Te  Te2  1  0.25000000  0.47250883  0.78419328  1
+  Te  Te3  1  0.75000000  0.52749117  0.21580672  1
+  Te  Te4  1  0.25000000  0.87321952  0.47163918  1
+  Te  Te5  1  0.75000000  0.12678048  0.52836082  1
+  Te  Te6  1  0.25000000  0.37321952  0.02836082  1
+  Te  Te7  1  0.75000000  0.62678048  0.97163918  1
+  Te  Te8  1  0.25000000  0.79531942  0.15968180  1
+  Te  Te9  1  0.75000000  0.20468058  0.84031820  1
+  Te  Te10  1  0.25000000  0.29531942  0.34031820  1
+  Te  Te11  1  0.75000000  0.70468058  0.65968180  1
+  Te  Te12  1  0.75000000  0.91018421  0.92405573  1
+  Te  Te13  1  0.25000000  0.08981579  0.07594427  1
+  Te  Te14  1  0.75000000  0.41018421  0.57594427  1
+  Te  Te15  1  0.25000000  0.58981579  0.42405573  1
+  Ba  Ba16  1  0.75000000  0.76130056  0.33037880  1
+  Ba  Ba17  1  0.25000000  0.23869944  0.66962120  1
+  Ba  Ba18  1  0.75000000  0.26130056  0.16962120  1
+  Ba  Ba19  1  0.25000000  0.73869944  0.83037880  1
+  Ho  Ho20  1  0.25000000  0.58069470  0.09646717  1
+  Ho  Ho21  1  0.75000000  0.41930530  0.90353283  1
+  Ho  Ho22  1  0.25000000  0.08069470  0.40353283  1
+  Ho  Ho23  1  0.75000000  0.91930530  0.59646717  1
+  Ho  Ho24  1  0.75000000  0.44104582  0.39023401  1
+  Ho  Ho25  1  0.25000000  0.55895418  0.60976599  1
+  Ho  Ho26  1  0.75000000  0.94104582  0.10976599  1
+  Ho  Ho27  1  0.25000000  0.05895418  0.89023401  1

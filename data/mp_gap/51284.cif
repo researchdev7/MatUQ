@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrCrP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66010337
+_cell_length_b   6.44133707
+_cell_length_c   7.60435341
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCrP
+_chemical_formula_sum   'Zr4 Cr4 P4'
+_cell_volume   179.27992815
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.75000000  0.96492029  0.32765576  1
+  Zr  Zr1  1  0.25000000  0.03507971  0.67234424  1
+  Zr  Zr2  1  0.25000000  0.53507971  0.82765576  1
+  Zr  Zr3  1  0.75000000  0.46492029  0.17234424  1
+  Cr  Cr4  1  0.75000000  0.86888085  0.94628975  1
+  Cr  Cr5  1  0.25000000  0.13111915  0.05371025  1
+  Cr  Cr6  1  0.25000000  0.63111915  0.44628975  1
+  Cr  Cr7  1  0.75000000  0.36888085  0.55371025  1
+  P  P8  1  0.75000000  0.73348508  0.63523173  1
+  P  P9  1  0.25000000  0.26651492  0.36476827  1
+  P  P10  1  0.25000000  0.76651492  0.13523173  1
+  P  P11  1  0.75000000  0.23348508  0.86476827  1

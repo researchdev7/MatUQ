@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoAlAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44024794
+_cell_length_b   7.16152771
+_cell_length_c   7.83364594
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAlAu
+_chemical_formula_sum   'Ho4 Al4 Au4'
+_cell_volume   249.10178342
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.75000000  0.49048714  0.19344705  1
+  Ho  Ho1  1  0.75000000  0.99048714  0.30655295  1
+  Ho  Ho2  1  0.25000000  0.50951286  0.80655295  1
+  Ho  Ho3  1  0.25000000  0.00951286  0.69344705  1
+  Al  Al4  1  0.75000000  0.33238395  0.57494318  1
+  Al  Al5  1  0.75000000  0.83238395  0.92505682  1
+  Al  Al6  1  0.25000000  0.66761605  0.42505682  1
+  Al  Al7  1  0.25000000  0.16761605  0.07494318  1
+  Au  Au8  1  0.75000000  0.21498031  0.89975754  1
+  Au  Au9  1  0.75000000  0.71498031  0.60024246  1
+  Au  Au10  1  0.25000000  0.78501969  0.10024246  1
+  Au  Au11  1  0.25000000  0.28501969  0.39975754  1

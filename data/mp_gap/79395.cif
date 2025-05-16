@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sc3Si3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02980784
+_cell_length_b   10.24822513
+_cell_length_c   11.72144800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3Si3Rh
+_chemical_formula_sum   'Sc12 Si12 Rh4'
+_cell_volume   484.07678992
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.25000000  0.87694739  0.02037228  1
+  Sc  Sc1  1  0.25000000  0.62305261  0.52037228  1
+  Sc  Sc2  1  0.75000000  0.12305261  0.97962772  1
+  Sc  Sc3  1  0.75000000  0.37694739  0.47962772  1
+  Sc  Sc4  1  0.25000000  0.92082088  0.60156076  1
+  Sc  Sc5  1  0.25000000  0.57917912  0.10156076  1
+  Sc  Sc6  1  0.75000000  0.07917912  0.39843924  1
+  Sc  Sc7  1  0.75000000  0.42082088  0.89843924  1
+  Sc  Sc8  1  0.25000000  0.65892436  0.79947033  1
+  Sc  Sc9  1  0.25000000  0.84107564  0.29947033  1
+  Sc  Sc10  1  0.75000000  0.34107564  0.20052967  1
+  Sc  Sc11  1  0.75000000  0.15892436  0.70052967  1
+  Si  Si12  1  0.25000000  0.01517322  0.82288797  1
+  Si  Si13  1  0.25000000  0.48482678  0.32288797  1
+  Si  Si14  1  0.75000000  0.98482678  0.17711203  1
+  Si  Si15  1  0.75000000  0.51517322  0.67711203  1
+  Si  Si16  1  0.25000000  0.25004242  0.84239622  1
+  Si  Si17  1  0.25000000  0.24995758  0.34239622  1
+  Si  Si18  1  0.75000000  0.74995758  0.15760378  1
+  Si  Si19  1  0.75000000  0.75004242  0.65760378  1
+  Si  Si20  1  0.25000000  0.19325479  0.54464665  1
+  Si  Si21  1  0.25000000  0.30674521  0.04464665  1
+  Si  Si22  1  0.75000000  0.80674521  0.45535335  1
+  Si  Si23  1  0.75000000  0.69325479  0.95535335  1
+  Rh  Rh24  1  0.25000000  0.38945856  0.67791761  1
+  Rh  Rh25  1  0.25000000  0.11054144  0.17791761  1
+  Rh  Rh26  1  0.75000000  0.61054144  0.32208239  1
+  Rh  Rh27  1  0.75000000  0.88945856  0.82208239  1

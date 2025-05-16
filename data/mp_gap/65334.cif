@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba2LaIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13087189
+_cell_length_b   6.10285448
+_cell_length_c   8.64976382
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.81372111
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LaIrO6
+_chemical_formula_sum   'Ba4 La2 Ir2 O12'
+_cell_volume   323.63628672
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00193310  0.00270241  0.25152041  1
+  Ba  Ba1  1  0.50193310  0.49729759  0.75152041  1
+  Ba  Ba2  1  0.99806690  0.99729759  0.74847959  1
+  Ba  Ba3  1  0.49806690  0.50270241  0.24847959  1
+  La  La4  1  0.50000000  0.00000000  0.50000000  1
+  La  La5  1  0.00000000  0.50000000  0.00000000  1
+  Ir  Ir6  1  0.00000000  0.50000000  0.50000000  1
+  Ir  Ir7  1  0.50000000  0.00000000  0.00000000  1
+  O  O8  1  0.24200136  0.71653997  0.50925525  1
+  O  O9  1  0.74200136  0.78346003  0.00925525  1
+  O  O10  1  0.75799864  0.28346003  0.49074475  1
+  O  O11  1  0.25799864  0.21653997  0.99074475  1
+  O  O12  1  0.21622703  0.25735487  0.51003762  1
+  O  O13  1  0.71622703  0.24264513  0.01003762  1
+  O  O14  1  0.78377297  0.74264513  0.48996238  1
+  O  O15  1  0.28377297  0.75735487  0.98996238  1
+  O  O16  1  0.02052719  0.49815150  0.27142444  1
+  O  O17  1  0.52052719  0.00184850  0.77142444  1
+  O  O18  1  0.97947281  0.50184850  0.72857556  1
+  O  O19  1  0.47947281  0.99815150  0.22857556  1

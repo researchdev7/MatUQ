@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Tb3Si3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93510542
+_cell_length_b   4.15404467
+_cell_length_c   9.18715126
+_cell_angle_alpha   76.93365934
+_cell_angle_beta   77.63354213
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Si3Ni
+_chemical_formula_sum   'Tb3 Si3 Ni1'
+_cell_volume   142.71105641
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.68499830  0.18499830  0.63000341  1
+  Tb  Tb1  1  0.31821631  0.81821631  0.36356738  1
+  Tb  Tb2  1  0.99926719  0.99926719  0.00146561  1
+  Si  Si3  1  0.86228409  0.36228409  0.27543182  1
+  Si  Si4  1  0.14350300  0.64350300  0.71299399  1
+  Si  Si5  1  0.55932078  0.55932078  0.88135843  1
+  Ni  Ni6  1  0.43241032  0.43241032  0.13517936  1

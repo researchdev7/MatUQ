@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaScGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35867142
+_cell_length_b   4.35867142
+_cell_length_c   8.79974644
+_cell_angle_alpha   104.33902181
+_cell_angle_beta   104.33902181
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaScGe
+_chemical_formula_sum   'La2 Sc2 Ge2'
+_cell_volume   156.58852796
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.67367530  0.67367530  0.34735059  1
+  La  La1  1  0.32632470  0.32632470  0.65264941  1
+  Sc  Sc2  1  0.50000000  0.00000000  -0.00000000  1
+  Sc  Sc3  1  -0.00000000  0.50000000  -0.00000000  1
+  Ge  Ge4  1  0.88350488  0.88350488  0.76700975  1
+  Ge  Ge5  1  0.11649512  0.11649512  0.23299025  1

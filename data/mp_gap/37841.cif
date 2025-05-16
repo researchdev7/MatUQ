@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaBiSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39512890
+_cell_length_b   11.22716455
+_cell_length_c   7.45332917
+_cell_angle_alpha   29.00864510
+_cell_angle_beta   55.72401120
+_cell_angle_gamma   41.60402229
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBiSe2
+_chemical_formula_sum   'Na2 Bi2 Se4'
+_cell_volume   217.02670138
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.49999108  0.00000000  0.00000000  1
+  Bi  Bi1  1  0.25000892  0.50000000  0.00000000  1
+  Na  Na2  1  -0.00000246  0.00000000  0.00000000  1
+  Na  Na3  1  0.75000246  0.50000000  0.00000000  1
+  Se  Se4  1  0.25989724  0.99992942  0.48033513  1
+  Se  Se5  1  0.00990878  0.49992943  0.48033512  1
+  Se  Se6  1  0.74009121  0.00007058  0.51966487  1
+  Se  Se7  1  0.49010277  0.50007057  0.51966488  1

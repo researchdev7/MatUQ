@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_In3Sn3Au4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78521200
+_cell_length_b   4.78521200
+_cell_length_c   12.72071839
+_cell_angle_alpha   89.62169527
+_cell_angle_beta   90.37830473
+_cell_angle_gamma   119.77364610
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3Sn3Au4
+_chemical_formula_sum   'In3 Sn3 Au4'
+_cell_volume   252.82385662
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.66793383  0.33206617  0.41636515  1
+  In  In1  1  0.33247309  0.66752691  0.58660092  1
+  In  In2  1  0.33288072  0.66711928  0.90885447  1
+  Sn  Sn3  1  0.66695024  0.33304976  0.08736379  1
+  Sn  Sn4  1  0.00037368  0.99962632  0.74837448  1
+  Sn  Sn5  1  0.99944821  0.00055179  0.25258850  1
+  Au  Au6  1  0.66712094  0.33287906  0.64010312  1
+  Au  Au7  1  0.33312802  0.66687198  0.36050805  1
+  Au  Au8  1  0.33294551  0.66705449  0.13541083  1
+  Au  Au9  1  0.66674576  0.33325424  0.86383069  1

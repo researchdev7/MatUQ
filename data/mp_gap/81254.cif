@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyTc2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36551631
+_cell_length_b   5.36551631
+_cell_length_c   8.91487793
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.01808296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTc2
+_chemical_formula_sum   'Dy4 Tc8'
+_cell_volume   222.22346095
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.66665804  0.33334196  0.56369494  1
+  Dy  Dy1  1  0.33334196  0.66665804  0.43630506  1
+  Dy  Dy2  1  0.33334196  0.66665804  0.06369494  1
+  Dy  Dy3  1  0.66665804  0.33334196  0.93630506  1
+  Tc  Tc4  1  -0.00000000  -0.00000000  0.50000000  1
+  Tc  Tc5  1  -0.00000000  -0.00000000  0.00000000  1
+  Tc  Tc6  1  0.17147830  0.34297792  0.75000000  1
+  Tc  Tc7  1  0.17146083  0.82853917  0.75000000  1
+  Tc  Tc8  1  0.65702208  0.82852170  0.75000000  1
+  Tc  Tc9  1  0.82852170  0.65702208  0.25000000  1
+  Tc  Tc10  1  0.82853917  0.17146083  0.25000000  1
+  Tc  Tc11  1  0.34297792  0.17147830  0.25000000  1

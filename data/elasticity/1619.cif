@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Co(BW)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.18731272
+_cell_length_b   4.52957165
+_cell_length_c   10.80454431
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.59951896
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(BW)3
+_chemical_formula_sum   'Co2 B6 W6'
+_cell_volume   146.01353232
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.20920689  0.41841378  0.25000000  1
+  B  B1  1  0.79079311  0.58158622  0.75000000  1
+  B  B2  1  0.91388473  0.82776947  0.60273319  1
+  B  B3  1  0.08611527  0.17223053  0.39726681  1
+  B  B4  1  0.08611527  0.17223053  0.10273319  1
+  B  B5  1  0.91388473  0.82776947  0.89726681  1
+  Co  Co6  1  0.50000000  0.00000000  0.00000000  1
+  Co  Co7  1  0.50000000  0.00000000  0.50000000  1
+  W  W8  1  0.50228545  0.00457089  0.25000000  1
+  W  W9  1  0.49771455  0.99542911  0.75000000  1
+  W  W10  1  0.21141810  0.42283619  0.60691891  1
+  W  W11  1  0.78858190  0.57716381  0.39308109  1
+  W  W12  1  0.78858190  0.57716381  0.10691891  1
+  W  W13  1  0.21141810  0.42283619  0.89308109  1

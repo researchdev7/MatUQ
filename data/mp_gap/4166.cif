@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfNbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45619381
+_cell_length_b   6.30440930
+_cell_length_c   6.45619381
+_cell_angle_alpha   132.75579538
+_cell_angle_beta   71.07802070
+_cell_angle_gamma   132.63212508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfNbO4
+_chemical_formula_sum   'Hf2 Nb2 O8'
+_cell_volume   137.41715863
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.38166565  0.75000000  0.13166565  1
+  Hf  Hf1  1  0.61833435  0.25000000  0.86833435  1
+  Nb  Nb2  1  0.85471478  0.75000000  0.60471478  1
+  Nb  Nb3  1  0.14528522  0.25000000  0.39528522  1
+  O  O4  1  0.01199862  0.71754818  0.26555183  1
+  O  O5  1  0.45199635  0.21754818  0.20555056  1
+  O  O6  1  0.75754735  0.79828238  0.11206544  1
+  O  O7  1  0.68621693  0.29828238  0.54073503  1
+  O  O8  1  0.31378307  0.70171762  0.45926397  1
+  O  O9  1  0.24245265  0.20171762  0.88793456  1
+  O  O10  1  0.54800365  0.78245182  0.79444944  1
+  O  O11  1  0.98800138  0.28245182  0.73444817  1

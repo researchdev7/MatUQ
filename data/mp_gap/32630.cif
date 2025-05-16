@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoAlCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31672254
+_cell_length_b   5.31673853
+_cell_length_c   8.38055652
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.90670952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAlCo
+_chemical_formula_sum   'Ho4 Al4 Co4'
+_cell_volume   207.00874670
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.33345260  0.33345159  0.54694947  1
+  Ho  Ho1  1  0.67066497  0.67067159  0.42432025  1
+  Ho  Ho2  1  0.67066497  0.67067159  0.07567975  1
+  Ho  Ho3  1  0.33345260  0.33345159  0.95305053  1
+  Al  Al4  1  0.99545595  0.99547475  0.47974594  1
+  Al  Al5  1  0.99545595  0.99547475  0.02025406  1
+  Al  Al6  1  0.83386238  0.33976492  0.75000000  1
+  Al  Al7  1  0.33975887  0.83385642  0.75000000  1
+  Co  Co8  1  0.83237846  0.83237834  0.75000000  1
+  Co  Co9  1  0.17170785  0.65054251  0.25000000  1
+  Co  Co10  1  0.65057176  0.17168953  0.25000000  1
+  Co  Co11  1  0.17257362  0.17257244  0.25000000  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TlCrNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33439818
+_cell_length_b   7.29531629
+_cell_length_c   7.34637554
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.94596478
+_cell_angle_gamma   119.82388816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCrNiF6
+_chemical_formula_sum   'Tl2 Cr2 Ni2 F12'
+_cell_volume   278.46099641
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.76395710  0.38197855  0.36802145  1
+  Tl  Tl1  1  0.23604290  0.61802145  0.63197855  1
+  Cr  Cr2  1  0.00000000  -0.00000000  0.50000000  1
+  Cr  Cr3  1  0.00000000  -0.00000000  0.00000000  1
+  Ni  Ni4  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni5  1  0.50000000  -0.00000000  0.00000000  1
+  F  F6  1  0.86437144  0.93218572  0.31781428  1
+  F  F7  1  0.65428688  0.32714344  0.92285656  1
+  F  F8  1  0.24528864  0.92958708  0.92538533  1
+  F  F9  1  0.24528864  0.31570156  0.32932603  1
+  F  F10  1  0.24528864  0.31570156  0.92538533  1
+  F  F11  1  0.24528864  0.92958708  0.32932603  1
+  F  F12  1  0.13562856  0.06781428  0.68218572  1
+  F  F13  1  0.34571312  0.67285656  0.07714344  1
+  F  F14  1  0.75471136  0.07041292  0.07461467  1
+  F  F15  1  0.75471136  0.68429844  0.67067397  1
+  F  F16  1  0.75471136  0.68429844  0.07461467  1
+  F  F17  1  0.75471136  0.07041292  0.67067397  1

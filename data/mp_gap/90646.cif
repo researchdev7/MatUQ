@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na3Mo(OF)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95260993
+_cell_length_b   5.95260993
+_cell_length_c   5.95260993
+_cell_angle_alpha   57.15283063
+_cell_angle_beta   57.15283067
+_cell_angle_gamma   57.15283067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Mo(OF)3
+_chemical_formula_sum   'Na3 Mo1 O3 F3'
+_cell_volume   139.36074690
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.30980797  0.74765217  0.09295322  1
+  O  O1  1  0.09295319  0.30980833  0.74765130  1
+  O  O2  1  0.74765101  0.09295335  0.30980900  1
+  F  F3  1  0.64157308  0.17486552  0.87238986  1
+  F  F4  1  0.17486604  0.87238955  0.64157185  1
+  F  F5  1  0.87238908  0.64157247  0.17486650  1
+  Na  Na6  1  0.77342181  0.77342209  0.77341986  1
+  Na  Na7  1  0.49077998  0.49077954  0.49078012  1
+  Na  Na8  1  0.27195072  0.27195092  0.27195158  1
+  Mo  Mo9  1  0.99880659  0.99880714  0.99880690  1

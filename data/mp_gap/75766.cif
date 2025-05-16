@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SmAl3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09130888
+_cell_length_b   8.16889349
+_cell_length_c   10.74108123
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAl3Ni
+_chemical_formula_sum   'Sm4 Al12 Ni4'
+_cell_volume   358.98268624
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.75000000  0.81465965  0.99074231  1
+  Sm  Sm1  1  0.25000000  0.18534035  0.00925769  1
+  Sm  Sm2  1  0.25000000  0.68534035  0.49074231  1
+  Sm  Sm3  1  0.75000000  0.31465965  0.50925769  1
+  Al  Al4  1  0.75000000  0.64333411  0.27719614  1
+  Al  Al5  1  0.25000000  0.35666589  0.72280386  1
+  Al  Al6  1  0.25000000  0.85666589  0.77719614  1
+  Al  Al7  1  0.75000000  0.14333411  0.22280386  1
+  Al  Al8  1  0.75000000  0.94619934  0.41674348  1
+  Al  Al9  1  0.25000000  0.05380066  0.58325652  1
+  Al  Al10  1  0.25000000  0.55380066  0.91674348  1
+  Al  Al11  1  0.75000000  0.44619934  0.08325652  1
+  Al  Al12  1  0.75000000  0.61485136  0.71501484  1
+  Al  Al13  1  0.25000000  0.38514864  0.28498516  1
+  Al  Al14  1  0.25000000  0.88514864  0.21501484  1
+  Al  Al15  1  0.75000000  0.11485136  0.78498516  1
+  Ni  Ni16  1  0.75000000  0.89502570  0.64393632  1
+  Ni  Ni17  1  0.25000000  0.10497430  0.35606368  1
+  Ni  Ni18  1  0.25000000  0.60497430  0.14393632  1
+  Ni  Ni19  1  0.75000000  0.39502570  0.85606368  1

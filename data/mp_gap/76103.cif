@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CeAs2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13880527
+_cell_length_b   4.14081836
+_cell_length_c   9.98171818
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeAs2Au
+_chemical_formula_sum   'Ce2 As4 Au2'
+_cell_volume   171.06709393
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.73537496  0.77312750  1
+  Ce  Ce1  1  0.25000000  0.23537496  0.22687250  1
+  As  As2  1  0.75000000  0.73641778  0.30710506  1
+  As  As3  1  0.25000000  0.23641778  0.69289494  1
+  As  As4  1  0.75000000  0.22732294  0.00016570  1
+  As  As5  1  0.25000000  0.72732294  0.99983430  1
+  Au  Au6  1  0.75000000  0.24668433  0.49990196  1
+  Au  Au7  1  0.25000000  0.74668433  0.50009804  1

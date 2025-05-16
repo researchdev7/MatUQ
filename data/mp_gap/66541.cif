@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ti3CoS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86037486
+_cell_length_b   6.56628848
+_cell_length_c   5.86111512
+_cell_angle_alpha   63.49719735
+_cell_angle_beta   120.00072759
+_cell_angle_gamma   116.49727992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3CoS6
+_chemical_formula_sum   'Ti3 Co1 S6'
+_cell_volume   167.40256843
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66666700  -0.00000000  0.33333300  1
+  Ti  Ti1  1  0.33606965  0.00820459  0.66392796  1
+  Ti  Ti2  1  0.99726335  0.99179541  0.00273904  1
+  Co  Co3  1  0.16666700  0.50000000  0.83333300  1
+  S  S4  1  0.75943973  0.25941762  0.91565726  1
+  S  S5  1  0.08428099  0.25940960  0.58440149  1
+  S  S6  1  0.41559318  0.25943007  0.24050740  1
+  S  S7  1  0.91773982  0.74056993  0.42615960  1
+  S  S8  1  0.24905201  0.74059040  0.08226551  1
+  S  S9  1  0.57389427  0.74058238  0.75100874  1

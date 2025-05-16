@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba3(AlGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36820995
+_cell_length_b   5.15846483
+_cell_length_c   10.66527105
+_cell_angle_alpha   103.99918428
+_cell_angle_beta   101.81700914
+_cell_angle_gamma   90.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3(AlGe)2
+_chemical_formula_sum   'Ba3 Al2 Ge2'
+_cell_volume   227.93279634
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.93555637  0.43556677  0.87111274  1
+  Al  Al1  1  0.06444363  0.56443323  0.12888726  1
+  Ge  Ge2  1  0.36499608  0.36504565  0.72999216  1
+  Ge  Ge3  1  0.63500392  0.63495435  0.27000784  1
+  Ba  Ba4  1  0.81651899  0.81651116  0.63303797  1
+  Ba  Ba5  1  0.50000000  0.00000000  0.00000000  1
+  Ba  Ba6  1  0.18348101  0.18348884  0.36696203  1

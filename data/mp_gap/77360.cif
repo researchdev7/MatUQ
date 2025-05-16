@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ca4Ni4Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17596844
+_cell_length_b   5.59663055
+_cell_length_c   19.82877786
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.90562072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4Ni4Ge3
+_chemical_formula_sum   'Ca8 Ni8 Ge6'
+_cell_volume   429.96588942
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.73137389  0.46274778  0.75000000  1
+  Ca  Ca1  1  0.26862611  0.53725222  0.25000000  1
+  Ca  Ca2  1  0.44313780  0.88627561  0.84981038  1
+  Ca  Ca3  1  0.55686220  0.11372439  0.15018962  1
+  Ca  Ca4  1  0.44313780  0.88627561  0.65018962  1
+  Ca  Ca5  1  0.55686220  0.11372439  0.34981038  1
+  Ca  Ca6  1  -0.00000000  -0.00000000  -0.00000000  1
+  Ca  Ca7  1  -0.00000000  -0.00000000  0.50000000  1
+  Ni  Ni8  1  0.27245484  0.54490968  0.96628389  1
+  Ni  Ni9  1  0.72754516  0.45509032  0.03371611  1
+  Ni  Ni10  1  0.27245484  0.54490968  0.53371611  1
+  Ni  Ni11  1  0.72754516  0.45509032  0.46628389  1
+  Ni  Ni12  1  0.15570519  0.31141037  0.85659110  1
+  Ni  Ni13  1  0.84429481  0.68858963  0.14340890  1
+  Ni  Ni14  1  0.15570519  0.31141037  0.64340890  1
+  Ni  Ni15  1  0.84429481  0.68858963  0.35659110  1
+  Ge  Ge16  1  0.03329426  0.06658852  0.75000000  1
+  Ge  Ge17  1  0.96670574  0.93341148  0.25000000  1
+  Ge  Ge18  1  0.71663669  0.43327338  0.91280842  1
+  Ge  Ge19  1  0.28336331  0.56672662  0.08719158  1
+  Ge  Ge20  1  0.71663669  0.43327338  0.58719158  1
+  Ge  Ge21  1  0.28336331  0.56672662  0.41280842  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TeIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01393655
+_cell_length_b   5.24024982
+_cell_length_c   7.30236273
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.90167528
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeIrO6
+_chemical_formula_sum   'Te2 Ir2 O12'
+_cell_volume   191.86404137
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.00000000  0.50000000  0.00000000  1
+  Te  Te1  1  0.50000000  0.00000000  0.50000000  1
+  Ir  Ir2  1  0.00000000  0.50000000  0.50000000  1
+  Ir  Ir3  1  0.50000000  0.00000000  0.00000000  1
+  O  O4  1  0.13498310  0.46247513  0.74583339  1
+  O  O5  1  0.17721047  0.17728805  0.06920396  1
+  O  O6  1  0.16836121  0.18111262  0.43270886  1
+  O  O7  1  0.33163879  0.68111262  0.06729114  1
+  O  O8  1  0.32278953  0.67728805  0.43079604  1
+  O  O9  1  0.36501690  0.96247513  0.75416661  1
+  O  O10  1  0.63498310  0.03752487  0.24583339  1
+  O  O11  1  0.67721047  0.32271195  0.56920396  1
+  O  O12  1  0.66836121  0.31888738  0.93270886  1
+  O  O13  1  0.82278953  0.82271195  0.93079604  1
+  O  O14  1  0.83163879  0.81888738  0.56729114  1
+  O  O15  1  0.86501690  0.53752487  0.25416661  1

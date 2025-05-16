@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Pr5CuBi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64403764
+_cell_length_b   9.69017792
+_cell_length_c   9.69499947
+_cell_angle_alpha   119.98355106
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr5CuBi3
+_chemical_formula_sum   'Pr10 Cu2 Bi6'
+_cell_volume   540.64752259
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.49999988  0.33332104  0.66666904  1
+  Pr  Pr1  1  0.49999988  0.66665200  0.33333096  1
+  Pr  Pr2  1  0.99999988  0.66667896  0.33333096  1
+  Pr  Pr3  1  0.99999988  0.33334800  0.66666904  1
+  Pr  Pr4  1  0.74998151  0.25751222  0.00000000  1
+  Pr  Pr5  1  0.75001070  0.74245921  0.74250372  1
+  Pr  Pr6  1  0.75001070  0.99995548  0.25749628  1
+  Pr  Pr7  1  0.24998151  0.74248778  1.00000000  1
+  Pr  Pr8  1  0.25001070  0.25754079  0.25749628  1
+  Pr  Pr9  1  0.25001070  0.00004452  0.74250372  1
+  Cu  Cu10  1  0.49999845  0.99999405  -0.00000000  1
+  Cu  Cu11  1  0.99999845  0.00000595  0.00000000  1
+  Bi  Bi12  1  0.74999241  0.61534458  1.00000000  1
+  Bi  Bi13  1  0.75000324  0.38469606  0.38468253  1
+  Bi  Bi14  1  0.75000324  0.00001353  0.61531747  1
+  Bi  Bi15  1  0.24999241  0.38465542  0.00000000  1
+  Bi  Bi16  1  0.25000324  0.61530394  0.61531747  1
+  Bi  Bi17  1  0.25000324  0.99998647  0.38468253  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ca4ZnCo(Si2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05807494
+_cell_length_b   7.91342434
+_cell_length_c   7.91342434
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4ZnCo(Si2O7)2
+_chemical_formula_sum   'Ca4 Zn1 Co1 Si4 O14'
+_cell_volume   316.74820936
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50824445  0.33179513  0.16810008  1
+  Ca  Ca1  1  0.49175555  0.16810008  0.66820487  1
+  Ca  Ca2  1  0.50824445  0.66820487  0.83189992  1
+  Ca  Ca3  1  0.49175555  0.83189992  0.33179513  1
+  Zn  Zn4  1  -0.00000000  0.50000000  0.50000000  1
+  Co  Co5  1  -0.00000000  -0.00000000  0.00000000  1
+  Si  Si6  1  0.93678077  0.14073011  0.35949182  1
+  Si  Si7  1  0.06321923  0.35949182  0.85926989  1
+  Si  Si8  1  0.93678077  0.85926989  0.64050818  1
+  Si  Si9  1  0.06321923  0.64050818  0.14073011  1
+  O  O10  1  0.18231357  0.50000000  0.00000000  1
+  O  O11  1  0.81768643  0.00000000  0.50000000  1
+  O  O12  1  0.78328015  0.31426057  0.41566234  1
+  O  O13  1  0.21702333  0.18606866  0.91535414  1
+  O  O14  1  0.78328015  0.68573943  0.58433766  1
+  O  O15  1  0.21702333  0.81393134  0.08464586  1
+  O  O16  1  0.21671985  0.58433766  0.31426057  1
+  O  O17  1  0.78297667  0.91535414  0.81393134  1
+  O  O18  1  0.21671985  0.41566234  0.68573943  1
+  O  O19  1  0.78297667  0.08464586  0.18606866  1
+  O  O20  1  0.25664234  0.13998557  0.35963242  1
+  O  O21  1  0.74335766  0.35963242  0.86001443  1
+  O  O22  1  0.25664234  0.86001443  0.64036758  1
+  O  O23  1  0.74335766  0.64036758  0.13998557  1

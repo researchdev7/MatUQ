@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaLuCo4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33937740
+_cell_length_b   6.33937740
+_cell_length_c   10.32753701
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLuCo4O7
+_chemical_formula_sum   'Ba2 Lu2 Co8 O14'
+_cell_volume   359.43520005
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.83035166  0.16964834  0.99867270  1
+  O  O1  1  0.66070332  0.83035166  0.49867270  1
+  O  O2  1  0.16964834  0.33929668  0.49867270  1
+  O  O3  1  0.83035166  0.66070332  0.99867270  1
+  O  O4  1  0.33929668  0.16964834  0.99867270  1
+  O  O5  1  0.16964834  0.83035166  0.49867270  1
+  O  O6  1  0.00000000  0.00000000  0.74014986  1
+  O  O7  1  0.00000000  0.00000000  0.24014986  1
+  O  O8  1  0.50530299  0.49469701  0.25831340  1
+  O  O9  1  0.01060598  0.50530299  0.75831340  1
+  O  O10  1  0.49469701  0.98939402  0.75831340  1
+  O  O11  1  0.50530299  0.01060598  0.25831340  1
+  O  O12  1  0.49469701  0.50530299  0.75831340  1
+  O  O13  1  0.98939402  0.49469701  0.25831340  1
+  Co  Co14  1  0.82985587  0.17014413  0.18483964  1
+  Co  Co15  1  0.65971174  0.82985587  0.68483964  1
+  Co  Co16  1  0.17014413  0.34028826  0.68483964  1
+  Co  Co17  1  0.82985587  0.65971174  0.18483964  1
+  Co  Co18  1  0.34028826  0.17014413  0.18483964  1
+  Co  Co19  1  0.17014413  0.82985587  0.68483964  1
+  Co  Co20  1  0.00000000  0.00000000  0.94002654  1
+  Co  Co21  1  0.00000000  0.00000000  0.44002654  1
+  Ba  Ba22  1  0.33333333  0.66666667  0.98189771  1
+  Ba  Ba23  1  0.66666667  0.33333333  0.48189771  1
+  Lu  Lu24  1  0.33333333  0.66666667  0.37524868  1
+  Lu  Lu25  1  0.66666667  0.33333333  0.87524868  1

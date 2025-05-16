@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbLiMoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75533743
+_cell_length_b   5.75533762
+_cell_length_c   10.08856154
+_cell_angle_alpha   91.70815774
+_cell_angle_beta   105.06445122
+_cell_angle_gamma   119.48257566
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiMoO4
+_chemical_formula_sum   'Rb2 Li2 Mo2 O8'
+_cell_volume   275.91293932
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.97398754  0.47104155  0.49771088  1
+  Rb  Rb1  1  0.02666934  0.02372334  0.99771088  1
+  Li  Li2  1  0.74434987  0.36767894  0.12759679  1
+  Li  Li3  1  0.75991785  0.88324691  0.62759679  1
+  Mo  Mo4  1  0.49957282  0.24867304  0.75188756  1
+  Mo  Mo5  1  0.50321451  0.75231474  0.25188756  1
+  O  O6  1  0.13908407  0.50271442  0.22293268  1
+  O  O7  1  0.63260896  0.22515368  0.92983699  1
+  O  O8  1  0.53607660  0.07059650  0.21845747  1
+  O  O9  1  0.14786096  0.18238087  0.71845747  1
+  O  O10  1  0.70468331  0.79722803  0.42983699  1
+  O  O11  1  0.49933223  0.00435396  0.63657764  1
+  O  O12  1  0.63222368  0.63724541  0.13657764  1
+  O  O13  1  0.72021825  0.58384861  0.72293268  1

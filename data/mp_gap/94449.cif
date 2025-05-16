@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na2UF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08642984
+_cell_length_b   5.60141421
+_cell_length_c   6.64926420
+_cell_angle_alpha   114.78396708
+_cell_angle_beta   107.74237026
+_cell_angle_gamma   90.37055299
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2UF6
+_chemical_formula_sum   'Na2 U1 F6'
+_cell_volume   130.01445367
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33003317  0.33007615  0.66009115  1
+  Na  Na1  1  0.66996683  0.66992385  0.33990885  1
+  U  U2  1  0.00000000  0.00000000  0.00000000  1
+  F  F3  1  0.84615591  0.60259445  0.69338779  1
+  F  F4  1  0.15384409  0.39740555  0.30661221  1
+  F  F5  1  0.15289076  0.90924293  0.30658781  1
+  F  F6  1  0.50111816  0.22454918  0.99997784  1
+  F  F7  1  0.84710924  0.09075707  0.69341219  1
+  F  F8  1  0.49888184  0.77545082  0.00002216  1

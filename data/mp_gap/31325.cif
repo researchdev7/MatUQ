@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CoTe(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72004845
+_cell_length_b   5.71041108
+_cell_length_c   5.74007288
+_cell_angle_alpha   60.17079266
+_cell_angle_beta   60.41863850
+_cell_angle_gamma   60.05571846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoTe(PbO3)2
+_chemical_formula_sum   'Co1 Te1 Pb2 O6'
+_cell_volume   133.22014825
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  -0.00000000  1
+  Te  Te1  1  0.50000000  0.50000000  0.50000000  1
+  Pb  Pb2  1  0.75817079  0.74850838  0.74481246  1
+  Pb  Pb3  1  0.24182921  0.25149162  0.25518754  1
+  O  O4  1  0.22998479  0.77187057  0.70809704  1
+  O  O5  1  0.77001521  0.70995240  0.29190296  1
+  O  O6  1  0.77001521  0.22812943  0.29190296  1
+  O  O7  1  0.22998479  0.29004760  0.70809704  1
+  O  O8  1  0.31573374  0.73822755  0.20781116  1
+  O  O9  1  0.68426626  0.26177245  0.79218884  1

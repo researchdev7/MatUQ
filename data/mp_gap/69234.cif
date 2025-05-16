@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2Pu(Cl2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05623209
+_cell_length_b   7.27067624
+_cell_length_c   7.27067624
+_cell_angle_alpha   66.04205794
+_cell_angle_beta   83.86249587
+_cell_angle_gamma   83.86249587
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Pu(Cl2O)2
+_chemical_formula_sum   'Cs2 Pu1 Cl4 O2'
+_cell_volume   290.17794969
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.30556883  0.84020444  0.84020444  1
+  Cs  Cs1  1  0.69443117  0.15979556  0.15979556  1
+  Pu  Pu2  1  0.00000000  0.50000000  0.50000000  1
+  Cl  Cl3  1  0.79546471  0.64401058  0.15709777  1
+  Cl  Cl4  1  0.79546471  0.15709777  0.64401058  1
+  Cl  Cl5  1  0.20453529  0.35598942  0.84290223  1
+  Cl  Cl6  1  0.20453529  0.84290223  0.35598942  1
+  O  O7  1  0.22070550  0.38902316  0.38902316  1
+  O  O8  1  0.77929450  0.61097684  0.61097684  1

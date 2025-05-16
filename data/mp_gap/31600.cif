@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrTiPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36951224
+_cell_length_b   5.48048508
+_cell_length_c   8.69888390
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.66137758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiPd
+_chemical_formula_sum   'Zr4 Ti4 Pd4'
+_cell_volume   220.19877788
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.64961912  0.32479717  0.56345972  1
+  Zr  Zr1  1  0.32164350  0.66082158  0.44051607  1
+  Zr  Zr2  1  0.32164350  0.66082158  0.05948393  1
+  Zr  Zr3  1  0.64961912  0.32479717  0.93654028  1
+  Ti  Ti4  1  0.69376354  0.84687288  0.75000000  1
+  Ti  Ti5  1  0.82099582  0.65241009  0.25000000  1
+  Ti  Ti6  1  0.82095086  0.16855750  0.25000000  1
+  Ti  Ti7  1  0.34596888  0.17297577  0.25000000  1
+  Pd  Pd8  1  0.98890386  0.99448907  0.49585011  1
+  Pd  Pd9  1  0.98890386  0.99448907  0.00414989  1
+  Pd  Pd10  1  0.19897248  0.35627981  0.75000000  1
+  Pd  Pd11  1  0.19901545  0.84268829  0.75000000  1

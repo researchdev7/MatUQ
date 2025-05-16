@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Eu2I2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43890219
+_cell_length_b   7.47380938
+_cell_length_c   8.13365088
+_cell_angle_alpha   117.35082088
+_cell_angle_beta   113.31704777
+_cell_angle_gamma   89.99999726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2I2O
+_chemical_formula_sum   'Eu4 I4 O2'
+_cell_volume   311.23035799
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.91035165  0.58205979  0.82070330  1
+  Eu  Eu1  1  0.58964835  0.76135649  0.17929670  1
+  Eu  Eu2  1  0.41035165  0.23864351  0.82070330  1
+  Eu  Eu3  1  0.08964835  0.41794021  0.17929670  1
+  I  I4  1  0.15010275  0.99854990  0.30020551  1
+  I  I5  1  0.65010275  0.30165561  0.30020551  1
+  I  I6  1  0.34989725  0.69834439  0.69979449  1
+  I  I7  1  0.84989725  0.00145010  0.69979449  1
+  O  O8  1  0.75000000  0.50000000  -0.00000000  1
+  O  O9  1  0.25000000  0.50000000  -0.00000000  1

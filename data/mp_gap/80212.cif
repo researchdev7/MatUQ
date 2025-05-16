@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Lu3(CuSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07241470
+_cell_length_b   6.46537216
+_cell_length_c   7.73431160
+_cell_angle_alpha   114.70629444
+_cell_angle_beta   105.26414671
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3(CuSi)4
+_chemical_formula_sum   'Lu3 Cu4 Si4'
+_cell_volume   177.06227870
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  -0.00000000  0.50000000  -0.00000000  1
+  Lu  Lu1  1  0.87241035  0.87241035  0.74482071  1
+  Lu  Lu2  1  0.12758965  0.12758965  0.25517929  1
+  Cu  Cu3  1  0.66979181  0.47840107  0.33958361  1
+  Cu  Cu4  1  0.66979181  0.86118254  0.33958361  1
+  Cu  Cu5  1  0.33020819  0.13881746  0.66041639  1
+  Cu  Cu6  1  0.33020819  0.52159893  0.66041639  1
+  Si  Si7  1  0.78287849  0.28287849  0.56575697  1
+  Si  Si8  1  0.21712151  0.71712151  0.43424303  1
+  Si  Si9  1  0.50000000  0.81361163  -0.00000000  1
+  Si  Si10  1  0.50000000  0.18638837  -0.00000000  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2Zn3Se4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03210117
+_cell_length_b   9.54606256
+_cell_length_c   9.54606300
+_cell_angle_alpha   74.27300635
+_cell_angle_beta   71.58199906
+_cell_angle_gamma   71.58200673
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Zn3Se4
+_chemical_formula_sum   'K4 Zn6 Se8'
+_cell_volume   485.78320370
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.73460213  0.62234243  0.37765757  1
+  K  K1  1  0.26539787  0.37765757  0.62234243  1
+  K  K2  1  0.76539787  0.12234243  0.87765757  1
+  K  K3  1  0.23460213  0.87765757  0.12234243  1
+  Zn  Zn4  1  0.75000000  0.75000000  0.75000000  1
+  Zn  Zn5  1  0.25000000  0.25000000  0.25000000  1
+  Zn  Zn6  1  0.25000000  0.97496591  0.52503409  1
+  Zn  Zn7  1  0.25000000  0.52503409  0.97496591  1
+  Zn  Zn8  1  0.75000000  0.02503409  0.47496591  1
+  Zn  Zn9  1  0.75000000  0.47496591  0.02503409  1
+  Se  Se10  1  0.57874594  0.01317321  0.27679664  1
+  Se  Se11  1  0.13128421  0.27679664  0.01317321  1
+  Se  Se12  1  0.92125406  0.22320336  0.48682679  1
+  Se  Se13  1  0.36871579  0.48682679  0.22320336  1
+  Se  Se14  1  0.42125406  0.98682679  0.72320336  1
+  Se  Se15  1  0.86871579  0.72320336  0.98682679  1
+  Se  Se16  1  0.07874594  0.77679664  0.51317321  1
+  Se  Se17  1  0.63128421  0.51317321  0.77679664  1

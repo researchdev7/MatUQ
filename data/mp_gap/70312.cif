@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2CdSnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57568434
+_cell_length_b   7.04438608
+_cell_length_c   8.07699264
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CdSnS4
+_chemical_formula_sum   'Li4 Cd2 Sn2 S8'
+_cell_volume   374.13970068
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.19534766  0.33207326  0.25336142  1
+  Li  Li1  1  0.19534766  0.33207326  0.74663858  1
+  Li  Li2  1  0.69534766  0.66792674  0.24663858  1
+  Li  Li3  1  0.69534766  0.66792674  0.75336142  1
+  Cd  Cd4  1  0.19514719  0.84256449  0.00000000  1
+  Cd  Cd5  1  0.69514719  0.15743551  0.50000000  1
+  Sn  Sn6  1  0.69160556  0.17095981  -0.00000000  1
+  Sn  Sn7  1  0.19160556  0.82904019  0.50000000  1
+  S  S8  1  0.32331354  0.18697913  -0.00000000  1
+  S  S9  1  0.82331354  0.81302087  0.50000000  1
+  S  S10  1  0.80248437  0.84205985  -0.00000000  1
+  S  S11  1  0.30248437  0.15794015  0.50000000  1
+  S  S12  1  0.82114701  0.33848956  0.24082603  1
+  S  S13  1  0.82114701  0.33848956  0.75917397  1
+  S  S14  1  0.32114701  0.66151044  0.25917397  1
+  S  S15  1  0.32114701  0.66151044  0.74082603  1

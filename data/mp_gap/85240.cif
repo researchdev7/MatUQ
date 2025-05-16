@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HoTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34016057
+_cell_length_b   4.34092468
+_cell_length_c   13.21669950
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   99.45031676
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTe3
+_chemical_formula_sum   'Ho2 Te6'
+_cell_volume   245.62728531
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.17048456  0.75000000  0.34096912  1
+  Ho  Ho1  1  0.82951544  0.25000000  0.65903088  1
+  Te  Te2  1  0.92427963  0.75000000  0.84855926  1
+  Te  Te3  1  0.07572037  0.25000000  0.15144074  1
+  Te  Te4  1  0.57574132  0.75000000  0.15148264  1
+  Te  Te5  1  0.42425868  0.25000000  0.84851736  1
+  Te  Te6  1  0.29325685  0.75000000  0.58651370  1
+  Te  Te7  1  0.70674315  0.25000000  0.41348630  1

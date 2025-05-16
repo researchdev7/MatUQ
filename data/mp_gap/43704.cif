@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca2TiCrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41400794
+_cell_length_b   5.45489006
+_cell_length_c   7.61643277
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.82430905
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2TiCrO6
+_chemical_formula_sum   'Ca4 Ti2 Cr2 O12'
+_cell_volume   224.93366613
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50820158  0.53582186  0.24993680  1
+  Ca  Ca1  1  0.99179842  0.03582186  0.25006320  1
+  Ca  Ca2  1  0.49179842  0.46417814  0.75006320  1
+  Ca  Ca3  1  0.00820158  0.96417814  0.74993680  1
+  Ti  Ti4  1  0.50000000  0.00000000  0.50000000  1
+  Ti  Ti5  1  -0.00000000  0.50000000  0.00000000  1
+  Cr  Cr6  1  0.50000000  0.00000000  0.00000000  1
+  Cr  Cr7  1  -0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.78991366  0.78425261  0.03819842  1
+  O  O9  1  0.71008634  0.28425261  0.46180158  1
+  O  O10  1  0.20859666  0.21650415  0.53728553  1
+  O  O11  1  0.29140334  0.71650415  0.96271447  1
+  O  O12  1  0.21008634  0.21574739  0.96180158  1
+  O  O13  1  0.28991366  0.71574739  0.53819842  1
+  O  O14  1  0.79140334  0.78349585  0.46271447  1
+  O  O15  1  0.70859666  0.28349585  0.03728553  1
+  O  O16  1  0.42846938  0.98643978  0.24635494  1
+  O  O17  1  0.07153062  0.48643978  0.25364506  1
+  O  O18  1  0.57153062  0.01356022  0.75364506  1
+  O  O19  1  0.92846938  0.51356022  0.74635494  1

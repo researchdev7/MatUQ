@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_NaCeTiNbO6F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38236552
+_cell_length_b   7.25004491
+_cell_length_c   7.38236552
+_cell_angle_alpha   60.59116677
+_cell_angle_beta   117.93162041
+_cell_angle_gamma   119.40883323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCeTiNbO6F
+_chemical_formula_sum   'Na2 Ce2 Ti2 Nb2 O12 F2'
+_cell_volume   286.08519694
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na1  1  0.50000000  0.00000000  0.00000000  1
+  Ce  Ce2  1  0.50000000  0.00000000  0.50000000  1
+  Ce  Ce3  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti4  1  0.00000000  0.00000000  0.50000000  1
+  Ti  Ti5  1  0.00000000  0.50000000  0.50000000  1
+  Nb  Nb6  1  0.00000000  0.50000000  0.00000000  1
+  Nb  Nb7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.07838113  0.82838113  0.42161887  1
+  O  O9  1  0.68403507  0.43403507  0.81596493  1
+  O  O10  1  0.06314716  0.82889010  0.81793198  1
+  O  O11  1  0.68206802  0.41632508  0.43685284  1
+  O  O12  1  0.06314716  0.41632508  0.81793198  1
+  O  O13  1  0.68206802  0.82889010  0.43685284  1
+  O  O14  1  0.92161887  0.17161887  0.57838113  1
+  O  O15  1  0.31596493  0.56596493  0.18403507  1
+  O  O16  1  0.93685284  0.17110990  0.18206802  1
+  O  O17  1  0.31793198  0.58367492  0.56314716  1
+  O  O18  1  0.93685284  0.58367492  0.18206802  1
+  O  O19  1  0.31793198  0.17110990  0.56314716  1
+  F  F20  1  0.37965500  0.12965500  0.12034500  1
+  F  F21  1  0.62034500  0.87034500  0.87965500  1

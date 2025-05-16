@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ho(NiB)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94197067
+_cell_length_b   4.94197067
+_cell_length_c   6.07609031
+_cell_angle_alpha   102.56638971
+_cell_angle_beta   103.85554055
+_cell_angle_gamma   115.98070295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(NiB)2
+_chemical_formula_sum   'Ho2 Ni4 B4'
+_cell_volume   120.35354235
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.97159612  0.15516552  0.47674369  1
+  B  B1  1  0.17842183  0.49485242  0.02325631  1
+  B  B2  1  0.02840388  0.84483448  0.52325631  1
+  B  B3  1  0.82157817  0.50514758  0.97674369  1
+  Ni  Ni4  1  0.66718632  0.72177069  0.19993016  1
+  Ni  Ni5  1  0.02184054  0.46725616  0.30006984  1
+  Ni  Ni6  1  0.97815946  0.53274384  0.69993016  1
+  Ni  Ni7  1  0.33281368  0.27822931  0.80006984  1
+  Ho  Ho8  1  0.36752828  0.11752828  0.25000000  1
+  Ho  Ho9  1  0.63247172  0.88247172  0.75000000  1

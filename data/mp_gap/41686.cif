@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaFe4(BiO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53526935
+_cell_length_b   5.68817639
+_cell_length_c   7.92101457
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.52186676
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFe4(BiO4)3
+_chemical_formula_sum   'La1 Fe4 Bi3 O12'
+_cell_volume   249.38912119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.01060673  0.95816978  0.75000000  1
+  Fe  Fe1  1  0.00263028  0.49799751  0.00229623  1
+  Fe  Fe2  1  0.49776688  0.00068677  0.49913076  1
+  Fe  Fe3  1  0.00263028  0.49799751  0.49770377  1
+  Fe  Fe4  1  0.49776688  0.00068677  0.00086924  1
+  Bi  Bi5  1  0.50953634  0.54453201  0.25000000  1
+  Bi  Bi6  1  0.98784903  0.04435467  0.25000000  1
+  Bi  Bi7  1  0.48813261  0.45508436  0.75000000  1
+  O  O8  1  0.80393779  0.79992272  0.04840209  1
+  O  O9  1  0.70141267  0.29659410  0.45017125  1
+  O  O10  1  0.20289530  0.20595993  0.54574945  1
+  O  O11  1  0.29904343  0.70322328  0.94832325  1
+  O  O12  1  0.20289530  0.20595993  0.95425055  1
+  O  O13  1  0.29904343  0.70322328  0.55167675  1
+  O  O14  1  0.80393779  0.79992272  0.45159791  1
+  O  O15  1  0.70141267  0.29659410  0.04982875  1
+  O  O16  1  0.40124561  0.96697841  0.25000000  1
+  O  O17  1  0.10053076  0.47439760  0.25000000  1
+  O  O18  1  0.58495902  0.02236332  0.75000000  1
+  O  O19  1  0.90176719  0.52535123  0.75000000  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AsPd6Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55096662
+_cell_length_b   4.55096662
+_cell_length_c   7.83023507
+_cell_angle_alpha   106.89401051
+_cell_angle_beta   73.10598949
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AsPd6Pb
+_chemical_formula_sum   'As1 Pd6 Pb1'
+_cell_volume   132.30387620
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  -0.00000000  0.00000000  0.00000000  1
+  Pd  Pd1  1  0.63281919  0.36718081  0.10154243  1
+  Pd  Pd2  1  0.11589270  0.88410730  0.65232190  1
+  Pd  Pd3  1  0.88410730  0.11589270  0.34767810  1
+  Pd  Pd4  1  0.36718081  0.63281919  0.89845757  1
+  Pd  Pd5  1  0.24434168  0.75565832  0.26697495  1
+  Pd  Pd6  1  0.75565832  0.24434168  0.73302505  1
+  Pb  Pb7  1  0.50000000  0.50000000  0.50000000  1

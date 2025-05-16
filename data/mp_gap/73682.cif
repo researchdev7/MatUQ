@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrRe2SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05295974
+_cell_length_b   5.84190587
+_cell_length_c   7.37026697
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.29701398
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrRe2SiC
+_chemical_formula_sum   'Pr2 Re4 Si2 C2'
+_cell_volume   163.67028841
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.45610349  0.91220699  0.25000000  1
+  Pr  Pr1  1  0.54389651  0.08779301  0.75000000  1
+  Re  Re2  1  0.17492733  0.34985466  0.06153263  1
+  Re  Re3  1  0.82507267  0.65014534  0.93846737  1
+  Re  Re4  1  0.82507267  0.65014534  0.56153263  1
+  Re  Re5  1  0.17492733  0.34985466  0.43846737  1
+  Si  Si6  1  0.73357162  0.46714325  0.25000000  1
+  Si  Si7  1  0.26642838  0.53285675  0.75000000  1
+  C  C8  1  0.00000000  0.00000000  -0.00000000  1
+  C  C9  1  0.00000000  0.00000000  0.50000000  1

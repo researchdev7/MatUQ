@@ -1,0 +1,11 @@
+prefix=/data1/tanliqin/uq-ood-mat/models/potnet/functions/gsl
+exec_prefix=/data1/tanliqin/uq-ood-mat/models/potnet/functions/gsl
+libdir=/data1/tanliqin/uq-ood-mat/models/potnet/functions/gsl/lib
+includedir=/data1/tanliqin/uq-ood-mat/models/potnet/functions/gsl/include
+GSL_CBLAS_LIB=-lgslcblas
+
+Name: GSL
+Description: GNU Scientific Library
+Version: 2.7.1
+Libs: -L/data1/tanliqin/uq-ood-mat/models/potnet/functions/gsl/lib -lgsl ${GSL_CBLAS_LIB} -lm -lm 
+Cflags: -I/data1/tanliqin/uq-ood-mat/models/potnet/functions/gsl/include

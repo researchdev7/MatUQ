@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaCu6Te6Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00029049
+_cell_length_b   6.97330857
+_cell_length_c   7.06966542
+_cell_angle_alpha   91.17892240
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCu6Te6Se
+_chemical_formula_sum   'Ba1 Cu6 Te6 Se1'
+_cell_volume   345.03397814
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.49873411  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.20024843  0.20008649  0.79573365  1
+  Cu  Cu2  1  0.20024843  0.79991351  0.20426635  1
+  Cu  Cu3  1  0.80312066  0.19428677  0.19368251  1
+  Cu  Cu4  1  0.80312066  0.80571323  0.80631749  1
+  Cu  Cu5  1  0.80014321  0.79135378  0.19918648  1
+  Cu  Cu6  1  0.80014321  0.20864622  0.80081352  1
+  Te  Te7  1  0.29708759  0.00000000  0.50000000  1
+  Te  Te8  1  0.69924848  0.00000000  0.50000000  1
+  Te  Te9  1  0.49667658  0.29668690  0.99855206  1
+  Te  Te10  1  0.49667658  0.70331310  0.00144794  1
+  Te  Te11  1  0.99719395  0.49490438  0.29860230  1
+  Te  Te12  1  0.99719395  0.50509562  0.70139770  1
+  Se  Se13  1  0.01146418  0.00000000  0.00000000  1

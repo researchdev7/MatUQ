@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_UAlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29170824
+_cell_length_b   5.22690402
+_cell_length_c   8.04636720
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.59607471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UAlFe
+_chemical_formula_sum   'U4 Al4 Fe4'
+_cell_volume   193.51927071
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.65751232  0.32875804  0.54457684  1
+  U  U1  1  0.35357152  0.67677936  0.41678661  1
+  U  U2  1  0.35357152  0.67677936  0.08321339  1
+  U  U3  1  0.65751232  0.32875804  0.95542316  1
+  Al  Al4  1  0.99390736  0.99696468  0.48853375  1
+  Al  Al5  1  0.99390736  0.99696468  0.01146625  1
+  Al  Al6  1  0.16986051  0.34035239  0.75000000  1
+  Al  Al7  1  0.16983655  0.82950309  0.75000000  1
+  Fe  Fe8  1  0.65765196  0.82885630  0.75000000  1
+  Fe  Fe9  1  0.82907297  0.65742824  0.25000000  1
+  Fe  Fe10  1  0.82906697  0.17161519  0.25000000  1
+  Fe  Fe11  1  0.33452864  0.16724064  0.25000000  1

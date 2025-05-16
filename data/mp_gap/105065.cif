@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MgAgF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61441023
+_cell_length_b   5.61441109
+_cell_length_c   5.62783070
+_cell_angle_alpha   60.07885628
+_cell_angle_beta   60.07885981
+_cell_angle_gamma   60.00000457
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAgF3
+_chemical_formula_sum   'Mg2 Ag2 F6'
+_cell_volume   125.58883093
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00568655  0.00568655  0.98294036  1
+  Mg  Mg1  1  0.50568655  0.50568655  0.48294036  1
+  Ag  Ag2  1  0.25721863  0.25721863  0.22834411  1
+  Ag  Ag3  1  0.75721863  0.75721863  0.72834411  1
+  F  F4  1  0.69442825  0.81630593  0.23440518  1
+  F  F5  1  0.25485964  0.69442825  0.23440518  1
+  F  F6  1  0.81630593  0.25485964  0.23440518  1
+  F  F7  1  0.75485964  0.31630593  0.73440518  1
+  F  F8  1  0.31630593  0.19442825  0.73440518  1
+  F  F9  1  0.19442825  0.75485964  0.73440518  1

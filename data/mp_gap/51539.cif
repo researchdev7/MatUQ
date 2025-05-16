@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K3Bi2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60381149
+_cell_length_b   6.60381149
+_cell_length_c   7.90286882
+_cell_angle_alpha   65.30353681
+_cell_angle_beta   65.30353681
+_cell_angle_gamma   59.99999271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Bi2F9
+_chemical_formula_sum   'K3 Bi2 F9'
+_cell_volume   261.43987732
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.89846412  0.89846412  0.30460763  1
+  K  K1  1  0.10153588  0.10153588  0.69539237  1
+  K  K2  1  0.50000000  0.50000000  0.50000000  1
+  Bi  Bi3  1  0.70223436  0.70223436  0.89329693  1
+  Bi  Bi4  1  0.29776564  0.29776564  0.10670307  1
+  F  F5  1  0.54107002  0.72517431  0.69122181  1
+  F  F6  1  0.04253386  0.54107002  0.69122181  1
+  F  F7  1  0.95746614  0.27482569  0.30877819  1
+  F  F8  1  0.72517431  0.04253386  0.69122181  1
+  F  F9  1  0.27482569  0.45892998  0.30877819  1
+  F  F10  1  0.45892998  0.95746614  0.30877819  1
+  F  F11  1  0.69799522  0.30200478  -0.00000000  1
+  F  F12  1  1.00000000  0.69799522  1.00000000  1
+  F  F13  1  0.30200478  0.00000000  0.00000000  1

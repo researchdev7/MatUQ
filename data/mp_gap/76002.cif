@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbAlNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.15251844
+_cell_length_b   7.20432631
+_cell_length_c   7.11998315
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.15035894
+_cell_angle_gamma   120.23989727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAlNiF6
+_chemical_formula_sum   'Rb2 Al2 Ni2 F12'
+_cell_volume   259.07318753
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75761332  0.37880666  0.37119334  1
+  Rb  Rb1  1  0.24238668  0.62119334  0.62880666  1
+  Al  Al2  1  -0.00000000  -0.00000000  0.50000000  1
+  Al  Al3  1  -0.00000000  -0.00000000  0.00000000  1
+  Ni  Ni4  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni5  1  0.50000000  -0.00000000  0.00000000  1
+  F  F6  1  0.90248860  0.95124430  0.29875570  1
+  F  F7  1  0.67224940  0.33612470  0.91387530  1
+  F  F8  1  0.24486122  0.94226376  0.91717037  1
+  F  F9  1  0.24486122  0.30259746  0.33796841  1
+  F  F10  1  0.24486122  0.30259746  0.91717037  1
+  F  F11  1  0.24486122  0.94226376  0.33796841  1
+  F  F12  1  0.09751140  0.04875570  0.70124430  1
+  F  F13  1  0.32775060  0.66387530  0.08612470  1
+  F  F14  1  0.75513878  0.05773624  0.08282963  1
+  F  F15  1  0.75513878  0.69740254  0.66203159  1
+  F  F16  1  0.75513878  0.69740254  0.08282963  1
+  F  F17  1  0.75513878  0.05773624  0.66203159  1

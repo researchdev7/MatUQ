@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuInRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21464805
+_cell_length_b   6.92495433
+_cell_length_c   8.53950421
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuInRh
+_chemical_formula_sum   'Lu4 In4 Rh4'
+_cell_volume   249.23606430
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.25000000  0.24185291  0.13194107  1
+  Rh  Rh1  1  0.75000000  0.75814709  0.86805893  1
+  Rh  Rh2  1  0.25000000  0.74185291  0.36805893  1
+  Rh  Rh3  1  0.75000000  0.25814709  0.63194107  1
+  In  In4  1  0.75000000  0.85608315  0.55922141  1
+  In  In5  1  0.25000000  0.14391685  0.44077859  1
+  In  In6  1  0.75000000  0.35608315  0.94077859  1
+  In  In7  1  0.25000000  0.64391685  0.05922141  1
+  Lu  Lu8  1  0.25000000  0.53778989  0.67558413  1
+  Lu  Lu9  1  0.75000000  0.46221011  0.32441587  1
+  Lu  Lu10  1  0.25000000  0.03778989  0.82441587  1
+  Lu  Lu11  1  0.75000000  0.96221011  0.17558413  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Br2Cl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69706725
+_cell_length_b   8.69706732
+_cell_length_c   8.49550540
+_cell_angle_alpha   120.78799872
+_cell_angle_beta   59.21199831
+_cell_angle_gamma   120.00000619
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Br2Cl3
+_chemical_formula_sum   'Br4 Cl6'
+_cell_volume   448.89330784
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.59295910  0.40704090  0.22112371  1
+  Br  Br1  1  0.90704190  0.09295910  0.27887629  1
+  Br  Br2  1  0.09295910  0.90704090  0.72112271  1
+  Br  Br3  1  0.40704090  0.59295910  0.77887829  1
+  Cl  Cl4  1  0.74961610  0.24961610  0.25000100  1
+  Cl  Cl5  1  0.24999800  0.25038290  0.25000100  1
+  Cl  Cl6  1  0.75038290  0.75000000  0.25000100  1
+  Cl  Cl7  1  0.24961710  0.25000000  0.75000100  1
+  Cl  Cl8  1  0.74999900  0.74961610  0.75000100  1
+  Cl  Cl9  1  0.25038190  0.75038290  0.75000100  1

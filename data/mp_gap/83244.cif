@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrGeIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50892416
+_cell_length_b   7.32309381
+_cell_length_c   7.42725201
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGeIr
+_chemical_formula_sum   'Pr4 Ge4 Ir4'
+_cell_volume   245.24247369
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.25000000  0.82169554  0.48192588  1
+  Pr  Pr1  1  0.25000000  0.67830446  0.98192588  1
+  Pr  Pr2  1  0.75000000  0.17830446  0.51807412  1
+  Pr  Pr3  1  0.75000000  0.32169554  0.01807412  1
+  Ge  Ge4  1  0.25000000  0.11145690  0.80442432  1
+  Ge  Ge5  1  0.25000000  0.38854310  0.30442432  1
+  Ge  Ge6  1  0.75000000  0.88854310  0.19557568  1
+  Ge  Ge7  1  0.75000000  0.61145690  0.69557568  1
+  Ir  Ir8  1  0.25000000  0.07024531  0.14351826  1
+  Ir  Ir9  1  0.25000000  0.42975469  0.64351826  1
+  Ir  Ir10  1  0.75000000  0.92975469  0.85648174  1
+  Ir  Ir11  1  0.75000000  0.57024531  0.35648174  1

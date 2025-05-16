@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiErO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13916320
+_cell_length_b   6.20262413
+_cell_length_c   6.16562453
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.10933612
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiErO2
+_chemical_formula_sum   'Li4 Er4 O8'
+_cell_volume   205.12592666
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.71589303  0.94708508  0.34917639  1
+  Li  Li1  1  0.28410697  0.55291492  0.84917639  1
+  Li  Li2  1  0.28410697  0.05291492  0.65082361  1
+  Li  Li3  1  0.71589303  0.44708508  0.15082361  1
+  O  O4  1  0.00429743  0.33364773  0.66441092  1
+  O  O5  1  0.54462016  0.73481591  0.61059149  1
+  O  O6  1  0.99570257  0.16635227  0.16441092  1
+  O  O7  1  0.99570257  0.66635227  0.33558908  1
+  O  O8  1  0.45537984  0.26518409  0.38940851  1
+  O  O9  1  0.45537984  0.76518409  0.11059149  1
+  O  O10  1  0.54462016  0.23481591  0.88940851  1
+  O  O11  1  0.00429743  0.83364773  0.83558908  1
+  Er  Er12  1  0.76363881  0.01745299  0.87072175  1
+  Er  Er13  1  0.76363881  0.51745299  0.62927825  1
+  Er  Er14  1  0.23636119  0.98254701  0.12927825  1
+  Er  Er15  1  0.23636119  0.48254701  0.37072175  1

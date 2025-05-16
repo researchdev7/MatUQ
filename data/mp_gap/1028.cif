@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AuCClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47293778
+_cell_length_b   5.58089587
+_cell_length_c   8.64113215
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.99986032
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AuCClO
+_chemical_formula_sum   'Au2 C2 Cl2 O2'
+_cell_volume   208.35862629
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.76400761  0.25000000  0.52801522  1
+  Au  Au1  1  0.23599239  0.75000000  0.47198478  1
+  C  C2  1  0.87862307  0.25000000  0.75724614  1
+  C  C3  1  0.12137693  0.75000000  0.24275386  1
+  Cl  Cl4  1  0.37191829  0.75000000  0.74383658  1
+  Cl  Cl5  1  0.62808171  0.25000000  0.25616342  1
+  O  O6  1  0.94722042  0.25000000  0.89444084  1
+  O  O7  1  0.05277958  0.75000000  0.10555916  1

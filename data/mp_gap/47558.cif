@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na2CoSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38930639
+_cell_length_b   6.11920536
+_cell_length_c   6.29175966
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CoSiO4
+_chemical_formula_sum   'Na4 Co2 Si2 O8'
+_cell_volume   207.49136488
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50101741  0.83158165  0.74922421  1
+  Na  Na1  1  0.00101741  0.16841835  0.75077579  1
+  Na  Na2  1  0.00101741  0.16841835  0.24922421  1
+  Na  Na3  1  0.50101741  0.83158165  0.25077579  1
+  Co  Co4  1  0.50530379  0.35598817  -0.00000000  1
+  Co  Co5  1  0.00530379  0.64401183  0.50000000  1
+  Si  Si6  1  0.00688982  0.65459692  -0.00000000  1
+  Si  Si7  1  0.50688982  0.34540308  0.50000000  1
+  O  O8  1  0.86904721  0.41447014  -0.00000000  1
+  O  O9  1  0.36904721  0.58552986  0.50000000  1
+  O  O10  1  0.92937679  0.79697364  0.78274796  1
+  O  O11  1  0.42937679  0.20302636  0.71725204  1
+  O  O12  1  0.42937679  0.20302636  0.28274796  1
+  O  O13  1  0.92937679  0.79697364  0.21725204  1
+  O  O14  1  0.31047077  0.62495743  -0.00000000  1
+  O  O15  1  0.81047077  0.37504257  0.50000000  1

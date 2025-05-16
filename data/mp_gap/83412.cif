@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_AgBF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47302510
+_cell_length_b   6.92141182
+_cell_length_c   8.20132746
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgBF4
+_chemical_formula_sum   'Ag4 B4 F16'
+_cell_volume   310.67498266
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.75000000  0.18188981  0.43935840  1
+  B  B1  1  0.25000000  0.81811019  0.56064160  1
+  B  B2  1  0.25000000  0.68188981  0.06064160  1
+  B  B3  1  0.75000000  0.31811019  0.93935840  1
+  F  F4  1  0.75000000  0.41308006  0.09064352  1
+  F  F5  1  0.25000000  0.58691994  0.90935648  1
+  F  F6  1  0.25000000  0.91308006  0.40935648  1
+  F  F7  1  0.75000000  0.08691994  0.59064352  1
+  F  F8  1  0.75000000  0.45153077  0.80901720  1
+  F  F9  1  0.25000000  0.54846923  0.19098280  1
+  F  F10  1  0.25000000  0.95153077  0.69098280  1
+  F  F11  1  0.75000000  0.04846923  0.30901720  1
+  F  F12  1  0.53795759  0.19791647  0.92718039  1
+  F  F13  1  0.03795759  0.80208353  0.07281961  1
+  F  F14  1  0.46204241  0.69791647  0.57281961  1
+  F  F15  1  0.96204241  0.30208353  0.42718039  1
+  F  F16  1  0.46204241  0.80208353  0.07281961  1
+  F  F17  1  0.96204241  0.19791647  0.92718039  1
+  F  F18  1  0.53795759  0.30208353  0.42718039  1
+  F  F19  1  0.03795759  0.69791647  0.57281961  1
+  Ag  Ag20  1  0.25000000  0.17008282  0.18043439  1
+  Ag  Ag21  1  0.75000000  0.82991718  0.81956561  1
+  Ag  Ag22  1  0.75000000  0.67008282  0.31956561  1
+  Ag  Ag23  1  0.25000000  0.32991718  0.68043439  1

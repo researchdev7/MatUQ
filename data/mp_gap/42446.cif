@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CuTeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.64489166
+_cell_length_b   5.77884910
+_cell_length_c   4.19636929
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuTeAs
+_chemical_formula_sum   'Cu4 Te4 As4'
+_cell_volume   306.64096073
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.33628584  0.39129329  0.24775267  1
+  Cu  Cu1  1  0.66371316  0.60870471  0.74775167  1
+  Cu  Cu2  1  0.16371316  0.89129329  0.74775167  1
+  Cu  Cu3  1  0.83628684  0.10870771  0.24775267  1
+  Te  Te4  1  0.16440658  0.14413028  0.24771610  1
+  Te  Te5  1  0.83559342  0.85587072  0.74771510  1
+  Te  Te6  1  0.33559342  0.64413128  0.74771510  1
+  Te  Te7  1  0.66440558  0.35586972  0.24771610  1
+  As  As8  1  0.48208120  0.12471989  0.24753223  1
+  As  As9  1  0.51791780  0.87527911  0.74753323  1
+  As  As10  1  0.01791880  0.62472089  0.74753323  1
+  As  As11  1  0.98208120  0.37527811  0.24753223  1

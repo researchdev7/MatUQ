@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Al3GePd4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93058243
+_cell_length_b   4.93071408
+_cell_length_c   4.92967654
+_cell_angle_alpha   89.84466676
+_cell_angle_beta   90.21011842
+_cell_angle_gamma   89.77633821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al3GePd4
+_chemical_formula_sum   'Al3 Ge1 Pd4'
+_cell_volume   119.84464276
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.34827078  0.65787013  0.15738977  1
+  Al  Al1  1  0.65748299  0.15150240  0.34240391  1
+  Al  Al2  1  0.84237540  0.84235510  0.84837136  1
+  Ge  Ge3  1  0.15424901  0.34592128  0.65426992  1
+  Pd  Pd4  1  0.85156252  0.64815092  0.35146626  1
+  Pd  Pd5  1  0.64537485  0.35205042  0.85295796  1
+  Pd  Pd6  1  0.35288016  0.85476795  0.64791984  1
+  Pd  Pd7  1  0.14780428  0.14738179  0.14522097  1

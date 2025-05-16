@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_HgPb2(ClO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99252604
+_cell_length_b   6.31589232
+_cell_length_c   7.18245611
+_cell_angle_alpha   71.43023651
+_cell_angle_beta   73.86753105
+_cell_angle_gamma   71.56965849
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgPb2(ClO)2
+_chemical_formula_sum   'Hg1 Pb2 Cl2 O2'
+_cell_volume   159.68761922
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.43333634  0.79926523  0.33409961  1
+  Cl  Cl1  1  0.56666303  0.20073523  0.66590007  1
+  Pb  Pb2  1  0.81722687  0.61062620  0.75482396  1
+  O  O3  1  0.19341521  0.67988838  0.93328709  1
+  Pb  Pb4  1  0.18277377  0.38937366  0.24517622  1
+  O  O5  1  0.80658484  0.32011141  0.06671299  1
+  Hg  Hg6  1  0.99999993  -0.00000010  1.00000006  1

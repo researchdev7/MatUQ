@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_In2CuAg(SnS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60934725
+_cell_length_b   7.62781613
+_cell_length_c   7.61128256
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.99158639
+_cell_angle_gamma   120.08032135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2CuAg(SnS4)2
+_chemical_formula_sum   'In2 Cu1 Ag1 Sn2 S8'
+_cell_volume   311.96564010
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50089803  0.50141262  0.99955099  1
+  In  In1  1  0.50089803  0.99948541  0.99955099  1
+  Cu  Cu2  1  0.25547111  0.62773555  0.62226445  1
+  Ag  Ag3  1  0.74597785  0.37298893  0.37701107  1
+  Sn  Sn4  1  0.99946997  0.99973498  0.50040920  1
+  Sn  Sn5  1  0.99946997  0.99973498  0.00012083  1
+  S  S6  1  0.01061521  0.77341054  0.24469240  1
+  S  S7  1  0.01061521  0.23720467  0.24469240  1
+  S  S8  1  0.47679495  0.23839747  0.77731198  1
+  S  S9  1  0.47679495  0.23839747  0.24589307  1
+  S  S10  1  0.99943245  0.24291029  0.75028378  1
+  S  S11  1  0.99943245  0.75652216  0.75028378  1
+  S  S12  1  0.51206492  0.75603246  0.23854532  1
+  S  S13  1  0.51206492  0.75603246  0.74938976  1

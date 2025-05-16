@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Dy2FeMoO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25250465
+_cell_length_b   7.25177187
+_cell_length_c   7.29696648
+_cell_angle_alpha   60.30845469
+_cell_angle_beta   60.48335861
+_cell_angle_gamma   59.80357604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2FeMoO7
+_chemical_formula_sum   'Dy4 Fe2 Mo2 O14'
+_cell_volume   272.56756274
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.50000000  -0.00000000  -0.00000000  1
+  Dy  Dy1  1  0.00000000  -0.00000000  0.50000000  1
+  Dy  Dy2  1  0.00000000  0.50000000  -0.00000000  1
+  Dy  Dy3  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe4  1  0.50000000  -0.00000000  0.50000000  1
+  Fe  Fe5  1  0.00000000  0.50000000  0.50000000  1
+  Mo  Mo6  1  0.50000000  0.50000000  -0.00000000  1
+  Mo  Mo7  1  0.00000000  -0.00000000  -0.00000000  1
+  O  O8  1  0.11760436  0.11822811  0.11380490  1
+  O  O9  1  0.88239564  0.88177189  0.88619510  1
+  O  O10  1  0.82936621  0.39194215  0.83352259  1
+  O  O11  1  0.38937148  0.83103016  0.83406797  1
+  O  O12  1  0.83740471  0.83615041  0.38475159  1
+  O  O13  1  0.17063379  0.60805785  0.16647741  1
+  O  O14  1  0.61062852  0.16896984  0.16593203  1
+  O  O15  1  0.16259529  0.16384959  0.61524841  1
+  O  O16  1  0.39818939  0.87476691  0.39225792  1
+  O  O17  1  0.87354964  0.39878747  0.39373829  1
+  O  O18  1  0.39882821  0.39903159  0.87080625  1
+  O  O19  1  0.60181061  0.12523309  0.60774208  1
+  O  O20  1  0.12645036  0.60121253  0.60626171  1
+  O  O21  1  0.60117179  0.60096841  0.12919375  1

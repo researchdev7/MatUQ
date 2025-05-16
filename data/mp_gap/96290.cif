@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2CdReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98012029
+_cell_length_b   5.97983940
+_cell_length_c   5.98007031
+_cell_angle_alpha   60.00184030
+_cell_angle_beta   60.00237109
+_cell_angle_gamma   60.00099531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CdReO6
+_chemical_formula_sum   'Ba2 Cd1 Re1 O6'
+_cell_volume   151.21950825
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.27049429  0.72950571  0.27049429  1
+  Ba  Ba1  1  0.74999268  0.75000732  0.74999268  1
+  O  O2  1  0.72951901  0.72948576  0.27047999  1
+  O  O3  1  0.27047999  0.27051524  0.72951901  1
+  Ba  Ba4  1  0.25000706  0.24999294  0.25000706  1
+  O  O5  1  0.72950682  0.27049318  0.72950682  1
+  O  O6  1  0.27047590  0.72949577  0.72952254  1
+  O  O7  1  0.72952254  0.27050578  0.27047590  1
+  Re  Re8  1  0.50000181  0.49999819  0.50000181  1
+  Cd  Cd9  1  0.99999990  0.00000010  0.99999990  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb2InGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21616709
+_cell_length_b   7.44599117
+_cell_length_c   7.44599117
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2InGe2
+_chemical_formula_sum   'Tb4 In2 Ge4'
+_cell_volume   233.75604340
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.50000000  0.82189416  0.32189416  1
+  Tb  Tb1  1  0.50000000  0.17810584  0.67810584  1
+  Tb  Tb2  1  0.50000000  0.32189416  0.17810584  1
+  Tb  Tb3  1  0.50000000  0.67810584  0.82189416  1
+  In  In4  1  0.00000000  0.00000000  0.00000000  1
+  In  In5  1  0.00000000  0.50000000  0.50000000  1
+  Ge  Ge6  1  0.00000000  0.87841846  0.62158154  1
+  Ge  Ge7  1  0.00000000  0.12158154  0.37841846  1
+  Ge  Ge8  1  0.00000000  0.37841846  0.87841846  1
+  Ge  Ge9  1  0.00000000  0.62158154  0.12158154  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2CaMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01404704
+_cell_length_b   6.01404704
+_cell_length_c   6.01404705
+_cell_angle_alpha   60.00000002
+_cell_angle_beta   60.00000002
+_cell_angle_gamma   60.00000002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CaMoO6
+_chemical_formula_sum   'Ba2 Ca1 Mo1 O6'
+_cell_volume   153.81031645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.22968313  0.77031729  0.77031726  1
+  O  O1  1  0.22968313  0.77031729  0.22968300  1
+  O  O2  1  0.77031672  0.22968222  0.77031800  1
+  O  O3  1  0.22968195  0.22968222  0.77031825  1
+  O  O4  1  0.77031672  0.22968222  0.22968374  1
+  O  O5  1  0.77031791  0.77031729  0.22968274  1
+  Ca  Ca6  1  0.49999993  0.49999975  0.50000050  1
+  Mo  Mo7  1  0.00000000  0.00000000  0.00000000  1
+  Ba  Ba8  1  0.74999989  0.74999963  0.74999992  1
+  Ba  Ba9  1  0.24999996  0.24999988  0.24999942  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Si2P4Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91466328
+_cell_length_b   4.91466328
+_cell_length_c   5.59966776
+_cell_angle_alpha   108.45349190
+_cell_angle_beta   108.45349190
+_cell_angle_gamma   96.76446902
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2P4Rh
+_chemical_formula_sum   'Si2 P4 Rh1'
+_cell_volume   118.07704299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.58576496  0.59065751  0.86147587  1
+  Si  Si1  1  0.40934249  0.41423504  0.13852413  1
+  P  P2  1  0.15811756  0.71059054  0.65379637  1
+  P  P3  1  0.28940946  0.84188244  0.34620363  1
+  P  P4  1  0.70858211  0.16405582  0.65585943  1
+  P  P5  1  0.83594418  0.29141789  0.34414057  1
+  Rh  Rh6  1  0.99843924  0.00156076  -0.00000000  1

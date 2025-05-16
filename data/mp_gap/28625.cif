@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_NaGdTiNbO6F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32539365
+_cell_length_b   7.15859710
+_cell_length_c   7.55771359
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   58.94523375
+_cell_angle_gamma   119.24960204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGdTiNbO6F
+_chemical_formula_sum   'Na2 Gd2 Ti2 Nb2 O12 F2'
+_cell_volume   278.87925781
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  -0.00000000  1
+  Na  Na1  1  0.50000000  0.00000000  -0.00000000  1
+  Gd  Gd2  1  0.00000000  0.00000000  0.50000000  1
+  Gd  Gd3  1  0.00000000  0.00000000  -0.00000000  1
+  Ti  Ti4  1  0.50000000  0.00000000  0.50000000  1
+  Ti  Ti5  1  0.50000000  0.50000000  0.50000000  1
+  Nb  Nb6  1  0.00000000  0.50000000  -0.00000000  1
+  Nb  Nb7  1  0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.65968068  0.82984034  0.42015966  1
+  O  O9  1  0.86531581  0.43265790  0.81734210  1
+  O  O10  1  0.24472660  0.83064845  0.81891887  1
+  O  O11  1  0.24472660  0.41407816  0.43635453  1
+  O  O12  1  0.24472660  0.41407816  0.81891887  1
+  O  O13  1  0.24472660  0.83064845  0.43635453  1
+  O  O14  1  0.34031932  0.17015966  0.57984034  1
+  O  O15  1  0.13468419  0.56734210  0.18265790  1
+  O  O16  1  0.75527340  0.16935155  0.18108113  1
+  O  O17  1  0.75527340  0.58592184  0.56364547  1
+  O  O18  1  0.75527340  0.58592184  0.18108113  1
+  O  O19  1  0.75527340  0.16935155  0.56364547  1
+  F  F20  1  0.24445011  0.12222506  0.12777494  1
+  F  F21  1  0.75554989  0.87777494  0.87222506  1

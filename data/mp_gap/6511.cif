@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaCo2(MoO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80588976
+_cell_length_b   5.80588976
+_cell_length_c   8.10553580
+_cell_angle_alpha   66.88105867
+_cell_angle_beta   66.88105867
+_cell_angle_gamma   61.23283435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCo2(MoO5)2
+_chemical_formula_sum   'Na1 Co2 Mo2 O10'
+_cell_volume   213.12355172
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.00000000  0.50000000  0.50000000  1
+  Co  Co2  1  0.50000000  0.00000000  0.50000000  1
+  Mo  Mo3  1  0.42879203  0.42879203  0.76494114  1
+  Mo  Mo4  1  0.57120797  0.57120797  0.23505886  1
+  O  O5  1  0.81082599  0.81082599  0.57746666  1
+  O  O6  1  0.18917401  0.18917401  0.42253334  1
+  O  O7  1  0.78933803  0.29985530  0.74268133  1
+  O  O8  1  0.29985530  0.78933803  0.74268133  1
+  O  O9  1  0.21066197  0.70014470  0.25731867  1
+  O  O10  1  0.70014470  0.21066197  0.25731867  1
+  O  O11  1  0.28173975  0.28173975  0.98790299  1
+  O  O12  1  0.71826025  0.71826025  0.01209701  1
+  O  O13  1  0.34181465  0.34181465  0.60141221  1
+  O  O14  1  0.65818535  0.65818535  0.39858779  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ce3W(ClO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42112960
+_cell_length_b   9.33143352
+_cell_length_c   9.33143352
+_cell_angle_alpha   120.00000420
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3W(ClO2)3
+_chemical_formula_sum   'Ce6 W2 Cl6 O12'
+_cell_volume   408.80588218
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.58987380  0.68128157  1
+  Ce  Ce1  1  0.25000000  0.41012620  0.31871843  1
+  Ce  Ce2  1  0.75000000  0.09140777  0.41012620  1
+  Ce  Ce3  1  0.25000000  0.90859223  0.58987380  1
+  Ce  Ce4  1  0.75000000  0.31871843  0.90859223  1
+  Ce  Ce5  1  0.25000000  0.68128157  0.09140777  1
+  W  W6  1  0.75000000  0.66666700  0.33333300  1
+  W  W7  1  0.25000000  0.33333300  0.66666700  1
+  Cl  Cl8  1  0.75000000  0.81098217  0.05033907  1
+  Cl  Cl9  1  0.25000000  0.18901783  0.94966093  1
+  Cl  Cl10  1  0.75000000  0.23935690  0.18901783  1
+  Cl  Cl11  1  0.25000000  0.76064310  0.81098217  1
+  Cl  Cl12  1  0.75000000  0.94966093  0.76064310  1
+  Cl  Cl13  1  0.25000000  0.05033907  0.23935690  1
+  O  O14  1  0.98878899  0.84540579  0.36449744  1
+  O  O15  1  0.01121101  0.15459421  0.63550256  1
+  O  O16  1  0.98878899  0.51909164  0.15459421  1
+  O  O17  1  0.48878899  0.15459421  0.63550256  1
+  O  O18  1  0.01121101  0.48090836  0.84540579  1
+  O  O19  1  0.51121101  0.84540579  0.36449744  1
+  O  O20  1  0.98878899  0.63550256  0.48090836  1
+  O  O21  1  0.48878899  0.48090836  0.84540579  1
+  O  O22  1  0.01121101  0.36449744  0.51909164  1
+  O  O23  1  0.51121101  0.51909164  0.15459421  1
+  O  O24  1  0.48878899  0.36449744  0.51909164  1
+  O  O25  1  0.51121101  0.63550256  0.48090836  1

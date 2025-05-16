@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PuCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35113729
+_cell_length_b   5.42521387
+_cell_length_c   5.42521387
+_cell_angle_alpha   75.53879465
+_cell_angle_beta   66.35862442
+_cell_angle_gamma   66.35862442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuCu2
+_chemical_formula_sum   'Pu2 Cu4'
+_cell_volume   106.86747450
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.45132021  0.29867979  0.79867979  1
+  Pu  Pu1  1  0.54867979  0.70132021  0.20132021  1
+  Cu  Cu2  1  0.83667764  0.10536769  0.22127704  1
+  Cu  Cu3  1  0.16332236  0.89463231  0.77872296  1
+  Cu  Cu4  1  0.83667764  0.72127704  0.60536769  1
+  Cu  Cu5  1  0.16332236  0.27872296  0.39463231  1

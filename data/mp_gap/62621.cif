@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_InGa2(AgSe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10740856
+_cell_length_b   6.10740856
+_cell_length_c   17.84545090
+_cell_angle_alpha   80.14708564
+_cell_angle_beta   80.14708564
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InGa2(AgSe2)3
+_chemical_formula_sum   'In2 Ga4 Ag6 Se12'
+_cell_volume   645.85783192
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.83367681  0.83367681  0.33264538  1
+  In  In1  1  0.16632319  0.16632319  0.66735462  1
+  Ga  Ga2  1  0.41894683  0.91894683  0.16210734  1
+  Ga  Ga3  1  0.75000000  0.25000000  0.50000000  1
+  Ga  Ga4  1  0.08105317  0.58105317  0.83789266  1
+  Ga  Ga5  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag6  1  0.91799412  0.41799412  0.16401276  1
+  Ag  Ag7  1  0.25000000  0.75000000  0.50000000  1
+  Ag  Ag8  1  0.58200588  0.08200588  0.83598724  1
+  Ag  Ag9  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag10  1  0.33376611  0.33376611  0.33246677  1
+  Ag  Ag11  1  0.66623389  0.66623389  0.66753323  1
+  Se  Se12  1  0.14162915  0.10900358  0.24368687  1
+  Se  Se13  1  0.47441751  0.44399978  0.57960534  1
+  Se  Se14  1  0.79076416  0.76167687  0.91873595  1
+  Se  Se15  1  0.61468399  0.64730956  0.24368687  1
+  Se  Se16  1  0.94597615  0.97639388  0.57960534  1
+  Se  Se17  1  0.29050089  0.31958818  0.91873595  1
+  Se  Se18  1  0.23832313  0.70949911  0.08126405  1
+  Se  Se19  1  0.55600022  0.05402385  0.42039466  1
+  Se  Se20  1  0.89099642  0.38531601  0.75631313  1
+  Se  Se21  1  0.68041182  0.20923584  0.08126405  1
+  Se  Se22  1  0.02360612  0.52558249  0.42039466  1
+  Se  Se23  1  0.35269044  0.85837085  0.75631313  1

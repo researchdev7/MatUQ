@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TbCo9Si4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70693487
+_cell_length_b   7.70693488
+_cell_length_c   7.89143751
+_cell_angle_alpha   119.22955978
+_cell_angle_beta   119.22955974
+_cell_angle_gamma   89.99999999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCo9Si4
+_chemical_formula_sum   'Tb2 Co18 Si8'
+_cell_volume   339.01169318
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.54678416  0.04678416  0.75667496  1
+  Si  Si1  1  0.20989080  0.70989080  0.75667496  1
+  Si  Si2  1  0.04678416  0.20989080  0.75667496  1
+  Si  Si3  1  0.70989080  0.54678416  0.75667496  1
+  Si  Si4  1  0.95321584  0.79010920  0.24332504  1
+  Si  Si5  1  0.29010920  0.45321584  0.24332504  1
+  Si  Si6  1  0.45321584  0.95321584  0.24332504  1
+  Si  Si7  1  0.79010920  0.29010920  0.24332504  1
+  Co  Co8  1  0.42936051  0.30138187  0.00000000  1
+  Co  Co9  1  0.80138187  0.92936051  0.00000000  1
+  Co  Co10  1  0.31190007  0.81190007  0.36135116  1
+  Co  Co11  1  0.54945109  0.31190007  0.36135116  1
+  Co  Co12  1  0.81190007  0.04945109  0.36135116  1
+  Co  Co13  1  0.45054891  0.68809993  0.63864884  1
+  Co  Co14  1  0.18809993  0.95054891  0.63864884  1
+  Co  Co15  1  0.95054891  0.45054891  0.63864884  1
+  Co  Co16  1  0.68809993  0.18809993  0.63864884  1
+  Co  Co17  1  0.04945109  0.54945109  0.36135116  1
+  Co  Co18  1  0.30138187  0.57063949  0.00000000  1
+  Co  Co19  1  0.69861813  0.42936051  0.00000000  1
+  Co  Co20  1  0.07063949  0.80138187  0.00000000  1
+  Co  Co21  1  0.92936051  0.19861813  0.00000000  1
+  Co  Co22  1  0.19861813  0.07063949  0.00000000  1
+  Co  Co23  1  0.50000000  0.00000000  0.00000000  1
+  Co  Co24  1  0.00000000  0.50000000  0.00000000  1
+  Co  Co25  1  0.57063949  0.69861813  0.00000000  1
+  Tb  Tb26  1  0.25000000  0.25000000  0.50000000  1
+  Tb  Tb27  1  0.75000000  0.75000000  0.50000000  1

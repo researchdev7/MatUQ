@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_KBa4(FeAs)10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.81135165
+_cell_length_b   8.95890500
+_cell_length_c   8.82559017
+_cell_angle_alpha   119.48452855
+_cell_angle_beta   89.95675801
+_cell_angle_gamma   60.56779975
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBa4(FeAs)10
+_chemical_formula_sum   'K1 Ba4 Fe10 As10'
+_cell_volume   500.41616432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  -0.00000000  1
+  Ba  Ba1  1  0.19771259  0.00000000  0.60641386  1
+  Ba  Ba2  1  0.39358845  1.00000000  0.19778109  1
+  Ba  Ba3  1  0.60641155  0.00000000  0.80221891  1
+  Ba  Ba4  1  0.80228741  -0.00000000  0.39358614  1
+  Fe  Fe5  1  0.84938614  0.50091038  0.05013850  1
+  Fe  Fe6  1  0.04981108  0.49933279  0.64977568  1
+  Fe  Fe7  1  0.24996306  0.50007389  0.25003694  1
+  Fe  Fe8  1  0.45085613  0.49933279  0.84955711  1
+  Fe  Fe9  1  0.64970348  0.50091038  0.45077188  1
+  Fe  Fe10  1  0.95018892  0.50066721  0.35022432  1
+  Fe  Fe11  1  0.15061386  0.49908962  0.94986150  1
+  Fe  Fe12  1  0.35029652  0.49908962  0.54922812  1
+  Fe  Fe13  1  0.54914387  0.50066721  0.15044289  1
+  Fe  Fe14  1  0.75003694  0.49992611  0.74996306  1
+  As  As15  1  0.14400844  0.31104751  0.05515930  1
+  As  As16  1  0.34424846  0.31150308  0.65575154  1
+  As  As17  1  0.54494405  0.31104751  0.25588821  1
+  As  As18  1  0.74456114  0.31100141  0.85602156  1
+  As  As19  1  0.94443745  0.31100141  0.45497984  1
+  As  As20  1  0.65575154  0.68849692  0.34424846  1
+  As  As21  1  0.85599156  0.68895249  0.94484070  1
+  As  As22  1  0.05556255  0.68899859  0.54502016  1
+  As  As23  1  0.25543886  0.68899859  0.14397844  1
+  As  As24  1  0.45505595  0.68895249  0.74411179  1

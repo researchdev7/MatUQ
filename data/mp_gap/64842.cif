@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MnSbS2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82151103
+_cell_length_b   9.57198136
+_cell_length_c   12.36707541
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSbS2Cl
+_chemical_formula_sum   'Mn4 Sb4 S8 Cl4'
+_cell_volume   452.38059828
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25000000  0.99620206  0.26383777  1
+  Mn  Mn1  1  0.75000000  0.00379794  0.73616223  1
+  Mn  Mn2  1  0.25000000  0.49620206  0.23616223  1
+  Mn  Mn3  1  0.75000000  0.50379794  0.76383777  1
+  Sb  Sb4  1  0.75000000  0.31130901  0.46336735  1
+  Sb  Sb5  1  0.75000000  0.81130901  0.03663265  1
+  Sb  Sb6  1  0.25000000  0.18869099  0.96336735  1
+  Sb  Sb7  1  0.25000000  0.68869099  0.53663265  1
+  S  S8  1  0.25000000  0.75377859  0.17551252  1
+  S  S9  1  0.75000000  0.24622141  0.82448748  1
+  S  S10  1  0.75000000  0.55051119  0.38229379  1
+  S  S11  1  0.75000000  0.74622141  0.67551252  1
+  S  S12  1  0.25000000  0.44948881  0.61770621  1
+  S  S13  1  0.25000000  0.25377859  0.32448748  1
+  S  S14  1  0.75000000  0.05051119  0.11770621  1
+  S  S15  1  0.25000000  0.94948881  0.88229379  1
+  Cl  Cl16  1  0.75000000  0.43583586  0.11417587  1
+  Cl  Cl17  1  0.75000000  0.93583586  0.38582413  1
+  Cl  Cl18  1  0.25000000  0.56416414  0.88582413  1
+  Cl  Cl19  1  0.25000000  0.06416414  0.61417587  1

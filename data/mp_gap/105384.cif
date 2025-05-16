@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba2Pr(CuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94970793
+_cell_length_b   3.92911032
+_cell_length_c   13.95458464
+_cell_angle_alpha   98.09310317
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Pr(CuO2)4
+_chemical_formula_sum   'Ba2 Pr1 Cu4 O8'
+_cell_volume   214.40214645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00000000  0.28142055  0.56284109  1
+  O  O1  1  0.00000000  0.71857945  0.43715891  1
+  O  O2  1  0.00000000  0.44421374  0.88842748  1
+  O  O3  1  0.00000000  0.55578626  0.11157252  1
+  O  O4  1  0.50000000  0.94365503  0.88731005  1
+  O  O5  1  0.50000000  0.05634497  0.11268995  1
+  O  O6  1  0.00000000  0.85370392  0.70740783  1
+  O  O7  1  0.00000000  0.14629608  0.29259217  1
+  Cu  Cu8  1  0.00000000  0.93493931  0.86987862  1
+  Cu  Cu9  1  0.00000000  0.06506069  0.13012138  1
+  Cu  Cu10  1  0.00000000  0.78699823  0.57399647  1
+  Cu  Cu11  1  0.00000000  0.21300177  0.42600353  1
+  Ba  Ba12  1  0.50000000  0.36298120  0.72596241  1
+  Ba  Ba13  1  0.50000000  0.63701880  0.27403759  1
+  Pr  Pr14  1  0.50000000  0.50000000  0.00000000  1

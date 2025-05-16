@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiFe(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37636751
+_cell_length_b   5.37265532
+_cell_length_c   5.65363254
+_cell_angle_alpha   89.99783167
+_cell_angle_beta   90.00228779
+_cell_angle_gamma   119.98434373
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFe(SiO3)2
+_chemical_formula_sum   'Li1 Fe1 Si2 O6'
+_cell_volume   141.45054679
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99999113  0.99997913  0.66676338  1
+  Fe  Fe1  1  0.00004495  0.49999679  0.66656305  1
+  Si  Si2  1  0.50001427  0.50000653  0.32970119  1
+  Si  Si3  1  0.50001352  0.00001986  0.00370210  1
+  O  O4  1  0.21170163  0.84429909  0.83845336  1
+  O  O5  1  0.21167276  0.36720222  0.49486341  1
+  O  O6  1  0.51814548  0.75911845  0.16667027  1
+  O  O7  1  0.48184662  0.24091556  0.16663148  1
+  O  O8  1  0.78837054  0.63277024  0.49486920  1
+  O  O9  1  0.78830511  0.15569113  0.83844955  1

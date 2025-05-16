@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Np2InPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65054954
+_cell_length_b   7.71056590
+_cell_length_c   7.67950283
+_cell_angle_alpha   90.17180138
+_cell_angle_beta   90.00000783
+_cell_angle_gamma   89.99949874
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Np2InPt2
+_chemical_formula_sum   'Np4 In2 Pt4'
+_cell_volume   216.16015972
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.50000524  0.83079631  0.33117003  1
+  Np  Np1  1  0.49999552  0.66952389  0.83094409  1
+  Np  Np2  1  0.50000519  0.33026067  0.16934317  1
+  Np  Np3  1  0.50000035  0.16857021  0.66833837  1
+  In  In4  1  0.00000012  0.00050399  -0.00025823  1
+  In  In5  1  0.00000173  0.49981380  0.50004096  1
+  Pt  Pt6  1  0.00001026  0.13388495  0.37130603  1
+  Pt  Pt7  1  0.00000266  0.63294557  0.12883258  1
+  Pt  Pt8  1  0.99998982  0.36652334  0.86336204  1
+  Pt  Pt9  1  0.99998910  0.86717727  0.63692097  1

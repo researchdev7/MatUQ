@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GdCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35017266
+_cell_length_b   5.54734313
+_cell_length_c   5.54734313
+_cell_angle_alpha   78.38646741
+_cell_angle_beta   66.91507134
+_cell_angle_gamma   66.91507134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdCu2
+_chemical_formula_sum   'Gd2 Cu4'
+_cell_volume   113.10813432
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.53782052  0.71217948  0.21217948  1
+  Gd  Gd1  1  0.46217948  0.28782052  0.78782052  1
+  Cu  Cu2  1  0.16499949  0.28421367  0.38578736  1
+  Cu  Cu3  1  0.83500051  0.71578633  0.61421264  1
+  Cu  Cu4  1  0.83500051  0.11421264  0.21578633  1
+  Cu  Cu5  1  0.16499949  0.88578736  0.78421367  1

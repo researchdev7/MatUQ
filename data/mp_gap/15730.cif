@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsIn(Cu3O4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63858763
+_cell_length_b   6.63839143
+_cell_length_c   6.63816911
+_cell_angle_alpha   60.03664651
+_cell_angle_beta   60.04693198
+_cell_angle_gamma   60.03663050
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsIn(Cu3O4)2
+_chemical_formula_sum   'Cs1 In1 Cu6 O8'
+_cell_volume   207.04565582
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00003100  0.99997756  0.99999609  1
+  In  In1  1  0.50000042  0.50000248  0.49999690  1
+  Cu  Cu2  1  0.49997975  0.00000606  0.50002617  1
+  Cu  Cu3  1  0.50001005  0.50000191  0.99998937  1
+  Cu  Cu4  1  0.99999560  0.49997798  0.50001649  1
+  Cu  Cu5  1  0.99999392  0.49998512  0.99999668  1
+  Cu  Cu6  1  0.00000563  0.00000669  0.50000367  1
+  Cu  Cu7  1  0.49997993  0.00000951  0.00000092  1
+  O  O8  1  0.64269718  0.07246985  0.64259330  1
+  O  O9  1  0.07246254  0.64269703  0.64254439  1
+  O  O10  1  0.64259798  0.64264176  0.07247922  1
+  O  O11  1  0.92753983  0.35731068  0.35743367  1
+  O  O12  1  0.64252703  0.64245741  0.64247943  1
+  O  O13  1  0.35747278  0.35754986  0.35750520  1
+  O  O14  1  0.35731605  0.92753319  0.35741233  1
+  O  O15  1  0.35738930  0.35737091  0.92752618  1

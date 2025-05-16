@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31607127
+_cell_length_b   5.31592839
+_cell_length_c   8.47617127
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.61627523
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAlNi
+_chemical_formula_sum   'Ho4 Al4 Ni4'
+_cell_volume   208.71991093
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.33278372  0.33277123  0.54435295  1
+  Ho  Ho1  1  0.66948053  0.66951535  0.42651968  1
+  Ho  Ho2  1  0.66948053  0.66951535  0.07348032  1
+  Ho  Ho3  1  0.33278372  0.33277123  0.95564705  1
+  Al  Al4  1  0.99595420  0.99592885  0.48882324  1
+  Al  Al5  1  0.99595420  0.99592885  0.01117676  1
+  Al  Al6  1  0.83237064  0.34093923  0.75000000  1
+  Al  Al7  1  0.34092234  0.83234206  0.75000000  1
+  Ni  Ni8  1  0.83164687  0.83164721  0.75000000  1
+  Ni  Ni9  1  0.16813538  0.66308837  0.25000000  1
+  Ni  Ni10  1  0.66320479  0.16821436  0.25000000  1
+  Ni  Ni11  1  0.16728308  0.16733791  0.25000000  1

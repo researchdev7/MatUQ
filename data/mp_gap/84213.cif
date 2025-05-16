@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Dy(BIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47611047
+_cell_length_b   5.47611047
+_cell_length_c   6.20596649
+_cell_angle_alpha   104.09878166
+_cell_angle_beta   104.09878166
+_cell_angle_gamma   116.60766490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy(BIr)2
+_chemical_formula_sum   'Dy2 B4 Ir4'
+_cell_volume   147.43033059
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.75000000  0.25000000  0.50000000  1
+  Dy  Dy1  1  0.00000000  0.00000000  -0.00000000  1
+  B  B2  1  0.07002269  0.92997731  0.50000000  1
+  B  B3  1  0.67997731  0.32002269  -0.00000000  1
+  B  B4  1  0.42997731  0.57002269  0.50000000  1
+  B  B5  1  0.32002269  0.67997731  -0.00000000  1
+  Ir  Ir6  1  0.12338567  0.62338567  0.24677134  1
+  Ir  Ir7  1  0.37661433  0.87661433  0.75322866  1
+  Ir  Ir8  1  0.62661433  0.62661433  0.25322866  1
+  Ir  Ir9  1  0.37338567  0.37338567  0.74677134  1

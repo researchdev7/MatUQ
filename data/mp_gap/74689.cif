@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Dy3(In2Co)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.58864152
+_cell_length_b   7.87980884
+_cell_length_c   7.87980884
+_cell_angle_alpha   119.99999855
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3(In2Co)2
+_chemical_formula_sum   'Dy3 In4 Co2'
+_cell_volume   192.97101403
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.50000000  0.70744886  0.95706083  1
+  Dy  Dy1  1  0.50000000  0.24961197  0.29255114  1
+  Dy  Dy2  1  0.50000000  0.04293917  0.75038803  1
+  In  In3  1  0.00000000  0.92148043  0.33596118  1
+  In  In4  1  -0.00000000  0.41448075  0.07851957  1
+  In  In5  1  -0.00000000  0.66403882  0.58551925  1
+  In  In6  1  0.00000000  0.33333300  0.66666700  1
+  Co  Co7  1  0.50000000  0.66666700  0.33333300  1
+  Co  Co8  1  0.00000000  -0.00000000  0.00000000  1

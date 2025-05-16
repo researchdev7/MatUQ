@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AlBrO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03676147
+_cell_length_b   5.65676534
+_cell_length_c   9.17351772
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlBrO
+_chemical_formula_sum   'Al4 Br4 O4'
+_cell_volume   261.36982769
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.99106937  0.09292066  0.08627368  1
+  Al  Al1  1  0.49106937  0.90707934  0.91372632  1
+  Al  Al2  1  0.99106937  0.59292066  0.91372632  1
+  Al  Al3  1  0.49106937  0.40707934  0.08627368  1
+  Br  Br4  1  0.09107840  0.00130147  0.31828971  1
+  Br  Br5  1  0.59107840  0.99869853  0.68171029  1
+  Br  Br6  1  0.09107840  0.50130147  0.68171029  1
+  Br  Br7  1  0.59107840  0.49869853  0.31828971  1
+  O  O8  1  0.14685223  0.37185049  0.03189108  1
+  O  O9  1  0.64685223  0.62814951  0.96810892  1
+  O  O10  1  0.14685223  0.87185049  0.96810892  1
+  O  O11  1  0.64685223  0.12814951  0.03189108  1

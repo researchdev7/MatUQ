@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb2CoGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15405123
+_cell_length_b   7.14027777
+_cell_length_c   9.56185329
+_cell_angle_alpha   120.38829926
+_cell_angle_beta   77.45419692
+_cell_angle_gamma   73.08882896
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2CoGe2
+_chemical_formula_sum   'Tb4 Co2 Ge4'
+_cell_volume   210.02447393
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.05363876  0.30776768  0.58495380  1
+  Tb  Tb1  1  0.12845248  0.74015759  0.00293645  1
+  Tb  Tb2  1  0.87154752  0.25984241  0.99706355  1
+  Tb  Tb3  1  0.94636124  0.69223232  0.41504620  1
+  Co  Co4  1  0.63854898  0.89067669  0.83222436  1
+  Co  Co5  1  0.36145102  0.10932331  0.16777564  1
+  Ge  Ge6  1  0.68448592  0.29784619  0.33318198  1
+  Ge  Ge7  1  0.53053087  0.18880221  0.75013505  1
+  Ge  Ge8  1  0.46946913  0.81119779  0.24986495  1
+  Ge  Ge9  1  0.31551408  0.70215381  0.66681802  1

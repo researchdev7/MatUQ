@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pr2(Zn2Ge)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70215971
+_cell_length_b   7.70215971
+_cell_length_c   4.13110883
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2(Zn2Ge)3
+_chemical_formula_sum   'Pr2 Zn6 Ge3'
+_cell_volume   212.23759088
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.71178604  0.00000000  0.50000000  1
+  Zn  Zn1  1  0.00000000  0.71178604  0.50000000  1
+  Zn  Zn2  1  0.18919464  0.00000000  0.00000000  1
+  Zn  Zn3  1  0.81080536  0.81080536  0.00000000  1
+  Zn  Zn4  1  0.28821396  0.28821396  0.50000000  1
+  Zn  Zn5  1  0.00000000  0.18919464  0.00000000  1
+  Ge  Ge6  1  0.38149721  0.00000000  0.50000000  1
+  Ge  Ge7  1  0.61850279  0.61850279  0.50000000  1
+  Ge  Ge8  1  0.00000000  0.38149721  0.50000000  1
+  Pr  Pr9  1  0.66666667  0.33333333  0.00000000  1
+  Pr  Pr10  1  0.33333333  0.66666667  0.00000000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiGaCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86059625
+_cell_length_b   7.09053949
+_cell_length_c   13.21081503
+_cell_angle_alpha   92.59953534
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGaCl4
+_chemical_formula_sum   'Li4 Ga4 Cl16'
+_cell_volume   641.98311705
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.52118546  0.15026578  0.86801069  1
+  Li  Li1  1  0.02118546  0.84973422  0.63198931  1
+  Li  Li2  1  0.47881454  0.84973422  0.13198931  1
+  Li  Li3  1  0.97881454  0.15026578  0.36801069  1
+  Cl  Cl4  1  0.19218531  0.69281520  0.04902193  1
+  Cl  Cl5  1  0.69218531  0.30718480  0.45097807  1
+  Cl  Cl6  1  0.80781469  0.30718480  0.95097807  1
+  Cl  Cl7  1  0.30781469  0.69281520  0.54902193  1
+  Cl  Cl8  1  0.62340659  0.81670632  0.92826819  1
+  Cl  Cl9  1  0.12340659  0.18329368  0.57173181  1
+  Cl  Cl10  1  0.37659341  0.18329368  0.07173181  1
+  Cl  Cl11  1  0.87659341  0.81670632  0.42826819  1
+  Cl  Cl12  1  0.18838435  0.92714643  0.80973286  1
+  Cl  Cl13  1  0.68838435  0.07285357  0.69026714  1
+  Cl  Cl14  1  0.81161565  0.07285357  0.19026714  1
+  Cl  Cl15  1  0.31161565  0.92714643  0.30973286  1
+  Cl  Cl16  1  0.32193105  0.43115162  0.81323691  1
+  Cl  Cl17  1  0.82193105  0.56884838  0.68676309  1
+  Cl  Cl18  1  0.67806895  0.56884838  0.18676309  1
+  Cl  Cl19  1  0.17806895  0.43115162  0.31323691  1
+  Ga  Ga20  1  0.17450354  0.70292026  0.39829101  1
+  Ga  Ga21  1  0.67450354  0.29707974  0.10170899  1
+  Ga  Ga22  1  0.82549646  0.29707974  0.60170899  1
+  Ga  Ga23  1  0.32549646  0.70292026  0.89829101  1

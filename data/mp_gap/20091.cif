@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Li2TiMnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21814436
+_cell_length_b   10.34041844
+_cell_length_c   9.89047361
+_cell_angle_alpha   16.96428974
+_cell_angle_beta   30.49150245
+_cell_angle_gamma   34.49163251
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2TiMnO4
+_chemical_formula_sum   'Li2 Ti1 Mn1 O4'
+_cell_volume   79.00958879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.00000000  0.50000000  0.00000000  1
+  Ti  Ti2  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn3  1  0.50000000  0.50000000  0.50000000  1
+  O  O4  1  0.17586154  1.00000000  0.27380464  1
+  O  O5  1  0.28858659  0.50000000  0.22236059  1
+  O  O6  1  0.82413846  0.00000000  0.72619536  1
+  O  O7  1  0.71141341  0.50000000  0.77763941  1

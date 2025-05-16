@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Tb3(SiC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19450273
+_cell_length_b   4.03843297
+_cell_length_c   8.18113476
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   75.14627952
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3(SiC)2
+_chemical_formula_sum   'Tb3 Si2 C2'
+_cell_volume   133.95109402
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.65758943  0.53842165  0.68482113  1
+  Tb  Tb1  1  0.34241057  0.53842165  0.31517887  1
+  Tb  Tb2  1  0.00000000  0.04453677  -0.00000000  1
+  Si  Si3  1  0.79938437  0.03789966  0.40123125  1
+  Si  Si4  1  0.20061563  0.03789966  0.59876875  1
+  C  C5  1  0.65330767  0.54491030  0.00000000  1
+  C  C6  1  0.34669233  0.54491030  1.00000000  1

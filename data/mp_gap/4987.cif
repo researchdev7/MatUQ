@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2CoS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21270415
+_cell_length_b   12.16381050
+_cell_length_c   12.43083452
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CoS3
+_chemical_formula_sum   'Ba8 Co4 S12'
+_cell_volume   636.98747264
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.25000000  0.77156134  0.71998928  1
+  S  S1  1  0.75000000  0.22843866  0.28001072  1
+  S  S2  1  0.25000000  0.27156134  0.78001072  1
+  S  S3  1  0.75000000  0.72843866  0.21998928  1
+  S  S4  1  0.25000000  0.43531038  0.14043293  1
+  S  S5  1  0.75000000  0.56468962  0.85956707  1
+  S  S6  1  0.25000000  0.93531038  0.35956707  1
+  S  S7  1  0.75000000  0.36064567  0.55395019  1
+  S  S8  1  0.25000000  0.13935433  0.05395019  1
+  S  S9  1  0.75000000  0.86064567  0.94604981  1
+  S  S10  1  0.25000000  0.63935433  0.44604981  1
+  S  S11  1  0.75000000  0.06468962  0.64043293  1
+  Co  Co12  1  0.75000000  0.24481630  0.69745489  1
+  Co  Co13  1  0.75000000  0.74481630  0.80254511  1
+  Co  Co14  1  0.25000000  0.75518370  0.30254511  1
+  Co  Co15  1  0.25000000  0.25518370  0.19745489  1
+  Ba  Ba16  1  0.25000000  0.01120416  0.82591636  1
+  Ba  Ba17  1  0.75000000  0.48879584  0.32591636  1
+  Ba  Ba18  1  0.25000000  0.51120416  0.67408364  1
+  Ba  Ba19  1  0.75000000  0.98879584  0.17408364  1
+  Ba  Ba20  1  0.25000000  0.17288398  0.47789199  1
+  Ba  Ba21  1  0.75000000  0.82711602  0.52210801  1
+  Ba  Ba22  1  0.25000000  0.67288398  0.02210801  1
+  Ba  Ba23  1  0.75000000  0.32711602  0.97789199  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuCdPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39299291
+_cell_length_b   7.48171819
+_cell_length_c   8.79733582
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCdPd
+_chemical_formula_sum   'Eu4 Cd4 Pd4'
+_cell_volume   289.14322371
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.75000000  0.24048844  0.87105555  1
+  Pd  Pd1  1  0.25000000  0.25951156  0.37105555  1
+  Pd  Pd2  1  0.75000000  0.74048844  0.62894445  1
+  Pd  Pd3  1  0.25000000  0.75951156  0.12894445  1
+  Cd  Cd4  1  0.25000000  0.14068093  0.06210250  1
+  Cd  Cd5  1  0.75000000  0.35931907  0.56210250  1
+  Cd  Cd6  1  0.25000000  0.64068093  0.43789750  1
+  Cd  Cd7  1  0.75000000  0.85931907  0.93789750  1
+  Eu  Eu8  1  0.25000000  0.53589596  0.81925003  1
+  Eu  Eu9  1  0.75000000  0.46410404  0.18074997  1
+  Eu  Eu10  1  0.25000000  0.03589596  0.68074997  1
+  Eu  Eu11  1  0.75000000  0.96410404  0.31925003  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaInAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67431992
+_cell_length_b   7.47006071
+_cell_length_c   8.50820041
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaInAu
+_chemical_formula_sum   'Ca4 In4 Au4'
+_cell_volume   297.08469287
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.75000000  0.97844502  0.31428870  1
+  Ca  Ca1  1  0.25000000  0.02155498  0.68571130  1
+  Ca  Ca2  1  0.75000000  0.47844502  0.18571130  1
+  Ca  Ca3  1  0.25000000  0.52155498  0.81428870  1
+  In  In4  1  0.75000000  0.33889543  0.56544956  1
+  In  In5  1  0.25000000  0.16110457  0.06544956  1
+  In  In6  1  0.25000000  0.66110457  0.43455044  1
+  In  In7  1  0.75000000  0.83889543  0.93455044  1
+  Au  Au8  1  0.25000000  0.77285491  0.11715811  1
+  Au  Au9  1  0.25000000  0.27285491  0.38284189  1
+  Au  Au10  1  0.75000000  0.72714509  0.61715811  1
+  Au  Au11  1  0.75000000  0.22714509  0.88284189  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CoNiTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83923362
+_cell_length_b   6.66269692
+_cell_length_c   5.44917423
+_cell_angle_alpha   90.24434182
+_cell_angle_beta   89.46176122
+_cell_angle_gamma   89.35584110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoNiTe4
+_chemical_formula_sum   'Co1 Ni1 Te4'
+_cell_volume   139.37167950
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te2  1  0.00059039  0.32865715  0.23425871  1
+  Te  Te3  1  0.50084258  0.84125273  0.24155373  1
+  Te  Te4  1  0.49915742  0.15874727  0.75844627  1
+  Te  Te5  1  0.99940961  0.67134285  0.76574129  1

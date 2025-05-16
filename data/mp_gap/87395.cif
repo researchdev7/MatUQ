@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18588487
+_cell_length_b   6.90230790
+_cell_length_c   6.89953831
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCoSi
+_chemical_formula_sum   'Dy4 Co4 Si4'
+_cell_volume   199.34329756
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.25000000  0.80572462  0.10522235  1
+  Si  Si1  1  0.75000000  0.19427538  0.89477765  1
+  Si  Si2  1  0.25000000  0.30572462  0.39477765  1
+  Si  Si3  1  0.75000000  0.69427538  0.60522235  1
+  Co  Co4  1  0.75000000  0.85420258  0.93285500  1
+  Co  Co5  1  0.25000000  0.14579742  0.06714500  1
+  Co  Co6  1  0.75000000  0.35420258  0.56714500  1
+  Co  Co7  1  0.25000000  0.64579742  0.43285500  1
+  Dy  Dy8  1  0.25000000  0.48254001  0.81242916  1
+  Dy  Dy9  1  0.75000000  0.51745999  0.18757084  1
+  Dy  Dy10  1  0.25000000  0.98254001  0.68757084  1
+  Dy  Dy11  1  0.75000000  0.01745999  0.31242916  1

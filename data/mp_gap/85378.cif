@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ThGaPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10363392
+_cell_length_b   7.38230754
+_cell_length_c   7.38240111
+_cell_angle_alpha   119.99958469
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThGaPt
+_chemical_formula_sum   'Th3 Ga3 Pt3'
+_cell_volume   193.68270067
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.50000000  0.58801509  0.00000000  1
+  Th  Th1  1  0.50000000  0.41196032  0.41197457  1
+  Th  Th2  1  0.50000000  0.99998575  0.58802543  1
+  Ga  Ga3  1  -0.00000000  0.24322714  0.00000000  1
+  Ga  Ga4  1  0.00000000  0.75675366  0.75676298  1
+  Ga  Ga5  1  0.00000000  0.99999068  0.24323702  1
+  Pt  Pt6  1  0.00000000  0.33331699  0.66667535  1
+  Pt  Pt7  1  0.00000000  0.66664164  0.33332465  1
+  Pt  Pt8  1  0.50000000  0.00000872  0.00000000  1

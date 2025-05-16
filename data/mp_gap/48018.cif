@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29476208
+_cell_length_b   4.29481227
+_cell_length_c   6.65201619
+_cell_angle_alpha   72.06655037
+_cell_angle_beta   70.46901824
+_cell_angle_gamma   90.17418078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiO2
+_chemical_formula_sum   'Bi2 O4'
+_cell_volume   109.24837352
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.12071691  0.87003473  0.74992548  1
+  Bi  Bi1  1  0.87928309  0.12996527  0.25007452  1
+  O  O2  1  0.06131025  0.31496972  0.86293737  1
+  O  O3  1  0.32170225  0.07724873  0.36274580  1
+  O  O4  1  0.67829775  0.92275127  0.63725420  1
+  O  O5  1  0.93868975  0.68503028  0.13706263  1

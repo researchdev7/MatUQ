@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuMgTl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95960975
+_cell_length_b   8.17292780
+_cell_length_c   8.83047982
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuMgTl
+_chemical_formula_sum   'Eu4 Mg4 Tl4'
+_cell_volume   357.93937040
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.75000000  0.99127136  0.30924709  1
+  Eu  Eu1  1  0.25000000  0.00872864  0.69075291  1
+  Eu  Eu2  1  0.25000000  0.50872864  0.80924709  1
+  Eu  Eu3  1  0.75000000  0.49127136  0.19075291  1
+  Mg  Mg4  1  0.75000000  0.83930624  0.93110106  1
+  Mg  Mg5  1  0.25000000  0.16069376  0.06889894  1
+  Mg  Mg6  1  0.25000000  0.66069376  0.43110106  1
+  Mg  Mg7  1  0.75000000  0.33930624  0.56889894  1
+  Tl  Tl8  1  0.75000000  0.71665887  0.60753813  1
+  Tl  Tl9  1  0.25000000  0.28334113  0.39246187  1
+  Tl  Tl10  1  0.25000000  0.78334113  0.10753813  1
+  Tl  Tl11  1  0.75000000  0.21665887  0.89246187  1

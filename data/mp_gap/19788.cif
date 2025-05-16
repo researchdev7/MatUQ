@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NaW2(Br3O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87424423
+_cell_length_b   9.21203609
+_cell_length_c   9.33112356
+_cell_angle_alpha   74.85769437
+_cell_angle_beta   78.01838842
+_cell_angle_gamma   77.86114685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaW2(Br3O)2
+_chemical_formula_sum   'Na1 W2 Br6 O2'
+_cell_volume   310.13472660
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50045366  0.49960254  0.49948915  1
+  W  W1  1  0.99978122  0.17508741  0.82535014  1
+  W  W2  1  1.00011245  0.82503151  0.17474359  1
+  Br  Br3  1  0.12600689  0.21093207  0.53705415  1
+  Br  Br4  1  0.87194823  0.12704456  0.12905998  1
+  Br  Br5  1  0.86984855  0.46243553  0.79786738  1
+  Br  Br6  1  0.87375746  0.78956635  0.46291873  1
+  Br  Br7  1  0.13010995  0.53758393  0.20219517  1
+  Br  Br8  1  0.12794928  0.87302404  0.87107740  1
+  O  O9  1  0.49920190  0.83066105  0.17093516  1
+  O  O10  1  0.50082941  0.16903101  0.82931017  1

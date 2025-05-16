@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaMgBO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06506681
+_cell_length_b   5.11159795
+_cell_length_c   5.59162483
+_cell_angle_alpha   85.40116647
+_cell_angle_beta   80.68684407
+_cell_angle_gamma   60.30067243
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMgBO3
+_chemical_formula_sum   'Na2 Mg2 B2 O6'
+_cell_volume   124.09540440
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33491658  0.33016685  0.25000000  1
+  Na  Na1  1  0.66508342  0.66983315  0.75000000  1
+  Mg  Mg2  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg3  1  0.00000000  0.00000000  0.50000000  1
+  B  B4  1  0.66733687  0.66532626  0.25000000  1
+  B  B5  1  0.33266313  0.33467374  0.75000000  1
+  O  O6  1  0.18608344  0.17931603  0.70395555  1
+  O  O7  1  0.82362129  0.35275743  0.25000000  1
+  O  O8  1  0.63460053  0.17931603  0.79604445  1
+  O  O9  1  0.36539947  0.82068397  0.20395555  1
+  O  O10  1  0.17637871  0.64724257  0.75000000  1
+  O  O11  1  0.81391656  0.82068397  0.29604445  1

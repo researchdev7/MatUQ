@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_La6Zn(SiS7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77586849
+_cell_length_b   10.37287909
+_cell_length_c   10.37328403
+_cell_angle_alpha   60.00065299
+_cell_angle_beta   89.99965173
+_cell_angle_gamma   89.99748003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6Zn(SiS7)2
+_chemical_formula_sum   'La6 Zn1 Si2 S14'
+_cell_volume   538.22810311
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25124665  0.23398720  0.12214831  1
+  La  La1  1  0.25123796  0.64385334  0.23397502  1
+  La  La2  1  0.25125515  0.12217125  0.64387083  1
+  La  La3  1  0.75086986  0.76633956  0.87774943  1
+  La  La4  1  0.75086452  0.35591908  0.76634265  1
+  La  La5  1  0.75086951  0.87773641  0.35590368  1
+  Zn  Zn6  1  0.48794363  -0.00000179  -0.00000076  1
+  Si  Si7  1  0.83548476  0.33335203  0.33332485  1
+  Si  Si8  1  0.33720382  0.66664614  0.66667906  1
+  S  S9  1  0.47117918  0.33336742  0.33331585  1
+  S  S10  1  0.97242598  0.66663292  0.66668132  1
+  S  S11  1  0.72990869  0.15997190  0.08315801  1
+  S  S12  1  0.72991751  0.75686708  0.15998011  1
+  S  S13  1  0.72990965  0.08315768  0.75686966  1
+  S  S14  1  0.25054154  0.83848351  0.91877021  1
+  S  S15  1  0.25053591  0.24274879  0.83848350  1
+  S  S16  1  0.25054111  0.91877389  0.24274716  1
+  S  S17  1  0.97678998  0.11569225  0.40837437  1
+  S  S18  1  0.97680038  0.47593618  0.11568023  1
+  S  S19  1  0.97679933  0.40838917  0.47593106  1
+  S  S20  1  0.47787663  0.88434300  0.59103201  1
+  S  S21  1  0.47789876  0.52461544  0.88435969  1
+  S  S22  1  0.47789948  0.59101754  0.52462375  1

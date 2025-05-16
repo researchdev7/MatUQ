@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Lu2Pd2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50799905
+_cell_length_b   7.88371773
+_cell_length_c   7.88371773
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Pd2Pb
+_chemical_formula_sum   'Lu4 Pd4 Pb2'
+_cell_volume   218.03268336
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.00000000  0.12742321  0.37257679  1
+  Pd  Pd1  1  0.00000000  0.62742321  0.12742321  1
+  Pd  Pd2  1  0.00000000  0.87257679  0.62742321  1
+  Pd  Pd3  1  0.00000000  0.37257679  0.87257679  1
+  Lu  Lu4  1  0.50000000  0.16733964  0.66733964  1
+  Lu  Lu5  1  0.50000000  0.33266036  0.16733964  1
+  Lu  Lu6  1  0.50000000  0.66733964  0.83266036  1
+  Lu  Lu7  1  0.50000000  0.83266036  0.33266036  1
+  Pb  Pb8  1  0.00000000  0.00000000  0.00000000  1
+  Pb  Pb9  1  0.00000000  0.50000000  0.50000000  1

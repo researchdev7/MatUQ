@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ge2W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49338071
+_cell_length_b   6.43418257
+_cell_length_c   8.62226143
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ge2W
+_chemical_formula_sum   'Ge8 W4'
+_cell_volume   193.80299502
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.75000000  0.63443470  0.54046282  1
+  Ge  Ge1  1  0.75000000  0.13443470  0.95953718  1
+  Ge  Ge2  1  0.25000000  0.36556530  0.45953718  1
+  Ge  Ge3  1  0.25000000  0.86556530  0.04046282  1
+  Ge  Ge4  1  0.75000000  0.56226538  0.13199648  1
+  Ge  Ge5  1  0.75000000  0.06226538  0.36800352  1
+  Ge  Ge6  1  0.25000000  0.43773462  0.86800352  1
+  Ge  Ge7  1  0.25000000  0.93773462  0.63199648  1
+  W  W8  1  0.75000000  0.24935851  0.67113607  1
+  W  W9  1  0.75000000  0.74935851  0.82886393  1
+  W  W10  1  0.25000000  0.75064149  0.32886393  1
+  W  W11  1  0.25000000  0.25064149  0.17113607  1

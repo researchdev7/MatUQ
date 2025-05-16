@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaSr2(FeAs)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51590271
+_cell_length_b   6.51737211
+_cell_length_c   8.85506829
+_cell_angle_alpha   114.12208189
+_cell_angle_beta   71.85308938
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSr2(FeAs)6
+_chemical_formula_sum   'Na1 Sr2 Fe6 As6'
+_cell_volume   273.09423207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr1  1  0.33701433  0.00066315  0.32597034  1
+  Sr  Sr2  1  0.66298567  -0.00066315  0.67402966  1
+  Fe  Fe3  1  0.41677349  0.49831471  0.66655022  1
+  Fe  Fe4  1  0.08332271  0.50168529  0.33344978  1
+  Fe  Fe5  1  0.75029610  0.50000000  -0.00000000  1
+  Fe  Fe6  1  0.24970390  0.50000000  -0.00000000  1
+  Fe  Fe7  1  0.91667729  0.49831471  0.66655022  1
+  Fe  Fe8  1  0.58322651  0.50168529  0.33344978  1
+  As  As9  1  0.11976414  0.28611836  0.76047273  1
+  As  As10  1  0.78522068  0.29087516  0.42955764  1
+  As  As11  1  0.45091370  0.28781526  0.09817259  1
+  As  As12  1  0.54908630  0.71218474  0.90182741  1
+  As  As13  1  0.21477932  0.70912484  0.57044236  1
+  As  As14  1  0.88023586  0.71388164  0.23952727  1

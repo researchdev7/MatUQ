@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba2Mn2As2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31150031
+_cell_length_b   6.59434155
+_cell_length_c   7.16134077
+_cell_angle_alpha   67.61478682
+_cell_angle_beta   72.40032110
+_cell_angle_gamma   70.90502585
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Mn2As2O
+_chemical_formula_sum   'Ba2 Mn2 As2 O1'
+_cell_volume   174.18454275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.31136488  0.29781107  0.07621686  1
+  Ba  Ba1  1  0.05757929  0.19427606  0.70119149  1
+  Mn  Mn2  1  0.69044139  0.69984052  0.92404295  1
+  Ba  Ba3  1  0.94617404  0.80242269  0.30085270  1
+  As  As4  1  0.68490244  0.34744743  0.28099854  1
+  As  As5  1  0.31729659  0.64968142  0.71930481  1
+  O  O6  1  0.49789736  0.00042980  0.99735866  1

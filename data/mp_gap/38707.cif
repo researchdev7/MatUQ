@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_CdBi8(Br5O4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58376269
+_cell_length_b   5.58328058
+_cell_length_c   20.67737833
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   82.24016514
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdBi8(Br5O4)2
+_chemical_formula_sum   'Cd1 Bi8 Br10 O8'
+_cell_volume   638.72896236
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  -0.00000000  0.50000000  0.00000000  1
+  Bi  Bi1  1  0.32377509  -0.00000000  0.35244983  1
+  Bi  Bi2  1  0.82323324  0.50000000  0.35353353  1
+  Bi  Bi3  1  0.17676676  0.50000000  0.64646647  1
+  Bi  Bi4  1  0.67622491  0.00000000  0.64755017  1
+  Bi  Bi5  1  0.11454512  0.00000000  0.77090975  1
+  Bi  Bi6  1  0.61454074  0.50000000  0.77091852  1
+  Bi  Bi7  1  0.38545926  0.50000000  0.22908148  1
+  Bi  Bi8  1  0.88545488  -0.00000000  0.22909025  1
+  Br  Br9  1  0.21530935  0.00000000  0.56938130  1
+  Br  Br10  1  0.71529740  0.50000000  0.56940519  1
+  Br  Br11  1  0.28470260  0.50000000  0.43059481  1
+  Br  Br12  1  0.78469065  -0.00000000  0.43061870  1
+  Br  Br13  1  0.42348267  0.00000000  0.15303467  1
+  Br  Br14  1  0.92540230  0.50000000  0.14919540  1
+  Br  Br15  1  0.07459770  0.50000000  0.85080460  1
+  Br  Br16  1  0.57651733  -0.00000000  0.84696533  1
+  Br  Br17  1  0.50000000  0.50000000  0.00000000  1
+  Br  Br18  1  -0.00000000  0.00000000  0.00000000  1
+  O  O19  1  0.39438558  0.25120129  0.70885378  1
+  O  O20  1  0.89676064  0.74879871  0.70885378  1
+  O  O21  1  0.89676064  0.25120129  0.70885378  1
+  O  O22  1  0.39438558  0.74879871  0.70885378  1
+  O  O23  1  0.10323936  0.25120129  0.29114622  1
+  O  O24  1  0.60561442  0.74879871  0.29114622  1
+  O  O25  1  0.60561442  0.25120129  0.29114622  1
+  O  O26  1  0.10323936  0.74879871  0.29114622  1

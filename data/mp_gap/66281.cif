@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.78008932
+_cell_length_b   12.78008932
+_cell_length_c   12.78008932
+_cell_angle_alpha   13.90859335
+_cell_angle_beta   13.90859334
+_cell_angle_gamma   13.90859335
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiC
+_chemical_formula_sum   'Si5 C5'
+_cell_volume   104.96228122
+_cell_formula_units_Z   5
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.86664471  0.86664471  0.86664471  1
+  C  C1  1  0.59985201  0.59985201  0.59985201  1
+  C  C2  1  0.39989599  0.39989599  0.39989599  1
+  C  C3  1  0.13340100  0.13340100  0.13340100  1
+  C  C4  1  0.00004775  0.00004775  0.00004775  1
+  Si  Si5  1  0.91665753  0.91665753  0.91665753  1
+  Si  Si6  1  0.65000863  0.65000863  0.65000863  1
+  Si  Si7  1  0.45004454  0.45004454  0.45004454  1
+  Si  Si8  1  0.18340545  0.18340545  0.18340545  1
+  Si  Si9  1  0.05004238  0.05004238  0.05004238  1

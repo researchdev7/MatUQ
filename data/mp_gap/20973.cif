@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZnCoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93915710
+_cell_length_b   5.39080126
+_cell_length_c   4.93915743
+_cell_angle_alpha   117.26520130
+_cell_angle_beta   59.99999837
+_cell_angle_gamma   117.26520007
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCoO3
+_chemical_formula_sum   'Zn2 Co2 O6'
+_cell_volume   96.65189322
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.36627664  0.09882993  0.36627664  1
+  Zn  Zn1  1  0.63372336  0.90117007  0.63372336  1
+  Co  Co2  1  0.16080105  0.48240314  0.16080105  1
+  Co  Co3  1  0.83919895  0.51759686  0.83919895  1
+  O  O4  1  0.04386314  0.26999577  0.43815741  1
+  O  O5  1  0.43815741  0.26999577  0.78797422  1
+  O  O6  1  0.78797422  0.26999577  0.04386314  1
+  O  O7  1  0.21202578  0.73000423  0.95613686  1
+  O  O8  1  0.56184159  0.73000423  0.21202578  1
+  O  O9  1  0.95613686  0.73000423  0.56184159  1

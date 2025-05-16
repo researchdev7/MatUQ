@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KCoCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88799981
+_cell_length_b   6.88799893
+_cell_length_c   6.88799936
+_cell_angle_alpha   60.59570311
+_cell_angle_beta   60.59570734
+_cell_angle_gamma   60.59570910
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCoCl3
+_chemical_formula_sum   'K2 Co2 Cl6'
+_cell_volume   234.19010232
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.26014785  0.26014785  0.26014785  1
+  K  K1  1  0.76014785  0.76014785  0.76014785  1
+  Co  Co2  1  0.00483911  0.00483911  0.00483911  1
+  Co  Co3  1  0.50483911  0.50483911  0.50483911  1
+  Cl  Cl4  1  0.25441669  0.80007445  0.70902189  1
+  Cl  Cl5  1  0.80007445  0.70902189  0.25441669  1
+  Cl  Cl6  1  0.70902189  0.25441669  0.80007445  1
+  Cl  Cl7  1  0.20902189  0.30007445  0.75441669  1
+  Cl  Cl8  1  0.75441669  0.20902189  0.30007445  1
+  Cl  Cl9  1  0.30007445  0.75441669  0.20902189  1

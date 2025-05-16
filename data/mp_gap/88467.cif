@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CeCu5Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03529413
+_cell_length_b   8.23457124
+_cell_length_c   10.37949111
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCu5Au
+_chemical_formula_sum   'Ce4 Cu20 Au4'
+_cell_volume   430.36990745
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.99870491  0.06566191  0.68700807  1
+  Cu  Cu1  1  0.49870491  0.93433809  0.31299193  1
+  Cu  Cu2  1  0.50129509  0.56566191  0.81299193  1
+  Cu  Cu3  1  0.00129509  0.43433809  0.18700807  1
+  Cu  Cu4  1  0.00129509  0.93433809  0.31299193  1
+  Cu  Cu5  1  0.50129509  0.06566191  0.68700807  1
+  Cu  Cu6  1  0.49870491  0.43433809  0.18700807  1
+  Cu  Cu7  1  0.99870491  0.56566191  0.81299193  1
+  Cu  Cu8  1  0.75000000  0.44491977  0.39395765  1
+  Cu  Cu9  1  0.25000000  0.55508023  0.60604235  1
+  Cu  Cu10  1  0.75000000  0.94491977  0.10604235  1
+  Cu  Cu11  1  0.25000000  0.05508023  0.89395765  1
+  Cu  Cu12  1  0.75000000  0.18555746  0.25324887  1
+  Cu  Cu13  1  0.25000000  0.81444254  0.74675113  1
+  Cu  Cu14  1  0.75000000  0.68555746  0.24675113  1
+  Cu  Cu15  1  0.25000000  0.31444254  0.75324887  1
+  Cu  Cu16  1  0.75000000  0.08973776  0.48387388  1
+  Cu  Cu17  1  0.25000000  0.91026224  0.51612612  1
+  Cu  Cu18  1  0.75000000  0.58973776  0.01612612  1
+  Cu  Cu19  1  0.25000000  0.41026224  0.98387388  1
+  Ce  Ce20  1  0.25000000  0.75961825  0.06451191  1
+  Ce  Ce21  1  0.75000000  0.24038175  0.93548809  1
+  Ce  Ce22  1  0.25000000  0.25961825  0.43548809  1
+  Ce  Ce23  1  0.75000000  0.74038175  0.56451191  1
+  Au  Au24  1  0.25000000  0.63942858  0.36202276  1
+  Au  Au25  1  0.75000000  0.36057142  0.63797724  1
+  Au  Au26  1  0.25000000  0.13942858  0.13797724  1
+  Au  Au27  1  0.75000000  0.86057142  0.86202276  1

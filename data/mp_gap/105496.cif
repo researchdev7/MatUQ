@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba3(AlSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62913006
+_cell_length_b   5.27966050
+_cell_length_c   10.99932650
+_cell_angle_alpha   103.88062306
+_cell_angle_beta   102.14742866
+_cell_angle_gamma   89.99999998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3(AlSn)2
+_chemical_formula_sum   'Ba3 Al2 Sn2'
+_cell_volume   254.77118993
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.93846584  0.43861473  0.87693168  1
+  Al  Al1  1  0.06153416  0.56138527  0.12306832  1
+  Sn  Sn2  1  0.36392988  0.36372675  0.72785976  1
+  Sn  Sn3  1  0.63607012  0.63627325  0.27214024  1
+  Ba  Ba4  1  0.50000000  0.00000000  0.00000000  1
+  Ba  Ba5  1  0.81814756  0.81820828  0.63629511  1
+  Ba  Ba6  1  0.18185244  0.18179172  0.36370489  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_FeRe(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69164839
+_cell_length_b   5.69164839
+_cell_length_c   5.68562506
+_cell_angle_alpha   59.96494126
+_cell_angle_beta   59.96494114
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeRe(PbO3)2
+_chemical_formula_sum   'Fe1 Re1 Pb2 O6'
+_cell_volume   130.10033552
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50715820  0.50715820  0.98568361  1
+  Re  Re1  1  0.00446991  0.00446991  0.99106018  1
+  Pb  Pb2  1  0.26928923  0.76928923  0.46142155  1
+  Pb  Pb3  1  0.76928923  0.26928923  0.46142155  1
+  O  O4  1  0.24742592  0.23987757  0.00200934  1
+  O  O5  1  0.75056474  0.75811309  0.00200934  1
+  O  O6  1  0.75811309  0.24742592  0.00200934  1
+  O  O7  1  0.23987757  0.75056473  0.00200934  1
+  O  O8  1  0.75856035  0.75856035  0.48287930  1
+  O  O9  1  0.24725177  0.24725177  0.50549646  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2SnWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69962359
+_cell_length_b   5.70524783
+_cell_length_c   8.12607664
+_cell_angle_alpha   90.79899885
+_cell_angle_beta   135.15261893
+_cell_angle_gamma   119.46467870
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2SnWO6
+_chemical_formula_sum   'Ca2 Sn1 W1 O6'
+_cell_volume   130.91654770
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00963665  0.53110389  0.23356152  1
+  Ca  Ca1  1  0.01055211  0.53657192  0.73299066  1
+  Sn  Sn2  1  0.00762621  0.99040427  0.50140762  1
+  W  W3  1  0.00761044  0.98840261  0.00246690  1
+  O  O4  1  0.81015145  0.86654380  0.15891811  1
+  O  O5  1  0.20636422  0.06003582  0.84849215  1
+  O  O6  1  0.42830509  0.48035671  0.27181284  1
+  O  O7  1  0.40886780  0.88050233  0.66250021  1
+  O  O8  1  0.57511040  0.05664468  0.34616365  1
+  O  O9  1  0.61972162  0.48944598  0.76737235  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Lu2Cr2C3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27334661
+_cell_length_b   5.47175573
+_cell_length_c   5.47683107
+_cell_angle_alpha   105.99395636
+_cell_angle_beta   107.38769316
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Cr2C3
+_chemical_formula_sum   'Lu2 Cr2 C3'
+_cell_volume   89.62585282
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.60994325  0.31604888  0.21988650  1
+  Lu  Lu1  1  0.39005675  0.68395112  0.78011350  1
+  Cr  Cr2  1  0.84598482  0.11543190  0.69196963  1
+  Cr  Cr3  1  0.15401518  0.88456810  0.30803037  1
+  C  C4  1  0.27824669  0.23871419  0.55649338  1
+  C  C5  1  0.72175331  0.76128581  0.44350662  1
+  C  C6  1  -0.00000000  0.00000000  -0.00000000  1

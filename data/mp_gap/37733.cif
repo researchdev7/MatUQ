@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BeAlSiN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14592430
+_cell_length_b   5.63305992
+_cell_length_c   5.14683252
+_cell_angle_alpha   62.94657039
+_cell_angle_beta   60.00546670
+_cell_angle_gamma   89.99981572
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeAlSiN3
+_chemical_formula_sum   'Be2 Al2 Si2 N6'
+_cell_volume   109.96041879
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.83030081  0.49327249  0.00750331  1
+  Be  Be1  1  0.66219402  0.99327183  0.00750571  1
+  Al  Al2  1  0.50324661  0.50775425  0.66051330  1
+  Al  Al3  1  0.33623891  0.00775384  0.66051372  1
+  Si  Si4  1  0.17181303  0.50877574  0.32562722  1
+  Si  Si5  1  0.00256091  0.00877574  0.32562618  1
+  N  N6  1  0.72253334  0.11434578  0.24070284  1
+  N  N7  1  0.02828618  0.13465851  0.57512391  1
+  N  N8  1  0.37123660  0.11619350  0.94052455  1
+  N  N9  1  0.89658821  0.63465792  0.57512702  1
+  N  N10  1  0.18823748  0.61619331  0.94052807  1
+  N  N11  1  0.53676391  0.61434708  0.24070417  1

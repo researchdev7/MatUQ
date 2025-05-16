@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ce2Ge2IrRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42083730
+_cell_length_b   7.06945185
+_cell_length_c   7.60708292
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Ge2IrRh
+_chemical_formula_sum   'Ce4 Ge4 Ir2 Rh2'
+_cell_volume   237.74337463
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.51461552  0.20037121  1
+  Ce  Ce1  1  0.75000000  0.01461552  0.29962879  1
+  Ce  Ce2  1  0.25000000  0.48744750  0.80096845  1
+  Ce  Ce3  1  0.25000000  0.98744750  0.69903155  1
+  Ge  Ge4  1  0.75000000  0.18150134  0.91589847  1
+  Ge  Ge5  1  0.75000000  0.68150134  0.58410153  1
+  Ge  Ge6  1  0.25000000  0.81899800  0.08335025  1
+  Ge  Ge7  1  0.25000000  0.31899800  0.41664975  1
+  Ir  Ir8  1  0.75000000  0.78798094  0.91175878  1
+  Ir  Ir9  1  0.75000000  0.28798094  0.58824122  1
+  Rh  Rh10  1  0.25000000  0.20945670  0.08898109  1
+  Rh  Rh11  1  0.25000000  0.70945670  0.41101891  1

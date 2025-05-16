@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Th4AgPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96160335
+_cell_length_b   6.05564885
+_cell_length_c   6.05564885
+_cell_angle_alpha   104.02204857
+_cell_angle_beta   119.48758591
+_cell_angle_gamma   60.51241409
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th4AgPd
+_chemical_formula_sum   'Th4 Ag1 Pd1'
+_cell_volume   165.64733167
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.15938027  0.50000000  0.81876055  1
+  Th  Th1  1  0.84061973  0.50000000  0.18123945  1
+  Th  Th2  1  0.34061973  0.81876055  0.50000000  1
+  Th  Th3  1  0.65938027  0.18123945  0.50000000  1
+  Ag  Ag4  1  0.75000000  0.00000000  -0.00000000  1
+  Pd  Pd5  1  0.25000000  -0.00000000  -0.00000000  1

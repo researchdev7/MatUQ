@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_InAg2BiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10670635
+_cell_length_b   7.06879450
+_cell_length_c   7.07508413
+_cell_angle_alpha   99.77668185
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.88677300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAg2BiSe4
+_chemical_formula_sum   'In1 Ag2 Bi1 Se4'
+_cell_volume   193.41045938
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.75000000  0.50000000  0.25000000  1
+  Ag  Ag1  1  0.99854585  0.99709171  0.00123652  1
+  Ag  Ag2  1  0.50145415  0.00290829  0.49876348  1
+  Bi  Bi3  1  0.25000000  0.50000000  0.75000000  1
+  Se  Se4  1  0.12597621  0.25195243  0.36183116  1
+  Se  Se5  1  0.62146744  0.24293488  0.88503801  1
+  Se  Se6  1  0.37402379  0.74804757  0.13816884  1
+  Se  Se7  1  0.87853256  0.75706512  0.61496199  1

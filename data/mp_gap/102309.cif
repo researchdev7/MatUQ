@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti3Cu3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94717499
+_cell_length_b   7.94717499
+_cell_length_c   7.94717499
+_cell_angle_alpha   60.00000004
+_cell_angle_beta   60.00000003
+_cell_angle_gamma   60.00000003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Cu3O
+_chemical_formula_sum   'Ti12 Cu12 O4'
+_cell_volume   354.91416277
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.50000000  0.50000000  0.50000000  1
+  O  O1  1  0.50000000  0.50000000  0.00000000  1
+  O  O2  1  0.00000000  0.50000000  0.50000000  1
+  O  O3  1  0.50000000  0.00000000  0.50000000  1
+  Ti  Ti4  1  0.18922110  0.18922110  0.56077890  1
+  Ti  Ti5  1  0.43922110  0.81077890  0.43922110  1
+  Ti  Ti6  1  0.18922110  0.56077890  0.18922110  1
+  Ti  Ti7  1  0.56077890  0.56077890  0.18922110  1
+  Ti  Ti8  1  0.81077890  0.43922110  0.81077890  1
+  Ti  Ti9  1  0.56077890  0.18922110  0.56077890  1
+  Ti  Ti10  1  0.43922110  0.81077890  0.81077890  1
+  Ti  Ti11  1  0.18922110  0.56077890  0.56077890  1
+  Ti  Ti12  1  0.81077890  0.43922110  0.43922110  1
+  Ti  Ti13  1  0.43922110  0.43922110  0.81077890  1
+  Ti  Ti14  1  0.56077890  0.18922110  0.18922110  1
+  Ti  Ti15  1  0.81077890  0.81077890  0.43922110  1
+  Cu  Cu16  1  0.87092365  0.20969212  0.20969212  1
+  Cu  Cu17  1  0.79030788  0.12907635  0.79030788  1
+  Cu  Cu18  1  0.79030788  0.79030788  0.12907635  1
+  Cu  Cu19  1  0.20969212  0.20969212  0.20969212  1
+  Cu  Cu20  1  0.20969212  0.87092365  0.20969212  1
+  Cu  Cu21  1  0.12907635  0.79030788  0.79030788  1
+  Cu  Cu22  1  0.20969212  0.20969212  0.87092365  1
+  Cu  Cu23  1  0.79030788  0.79030788  0.79030788  1
+  Cu  Cu24  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu25  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu26  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu27  1  0.00000000  0.50000000  0.00000000  1

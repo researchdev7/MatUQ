@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Th3(SbAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94968588
+_cell_length_b   7.94968588
+_cell_length_c   7.94968588
+_cell_angle_alpha   70.52877937
+_cell_angle_beta   70.52877937
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th3(SbAs)2
+_chemical_formula_sum   'Th6 Sb4 As4'
+_cell_volume   386.74794429
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.39009320  0.25000000  0.35990680  1
+  Th  Th1  1  0.10990680  0.75000000  0.14009320  1
+  Th  Th2  1  0.85990680  0.60990680  0.75000000  1
+  Th  Th3  1  0.64009320  0.89009320  0.25000000  1
+  Th  Th4  1  0.75000000  0.14009320  0.60990680  1
+  Th  Th5  1  0.25000000  0.35990680  0.89009320  1
+  Sb  Sb6  1  0.50000000  0.67003397  0.00000000  1
+  Sb  Sb7  1  0.32996603  0.82996603  0.67003397  1
+  Sb  Sb8  1  0.17003397  0.50000000  0.50000000  1
+  Sb  Sb9  1  -0.00000000  0.00000000  0.82996603  1
+  As  As10  1  0.84887080  0.34887080  0.15112920  1
+  As  As11  1  0.50000000  0.15112920  0.00000000  1
+  As  As12  1  0.65112920  0.50000000  0.50000000  1
+  As  As13  1  -0.00000000  -0.00000000  0.34887080  1

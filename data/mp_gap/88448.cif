@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsPrCdTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66176643
+_cell_length_b   9.00706362
+_cell_length_c   12.20091115
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   104.99791636
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsPrCdTe3
+_chemical_formula_sum   'Cs2 Pr2 Cd2 Te6'
+_cell_volume   494.85050136
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.46502507  0.93005015  0.25000000  1
+  Cd  Cd1  1  0.53497493  0.06994985  0.75000000  1
+  Te  Te2  1  0.62275093  0.24550186  0.55438502  1
+  Te  Te3  1  0.37724907  0.75449814  0.44561498  1
+  Te  Te4  1  0.37724907  0.75449814  0.05438502  1
+  Te  Te5  1  0.62275093  0.24550186  0.94561498  1
+  Te  Te6  1  0.06639656  0.13279312  0.25000000  1
+  Te  Te7  1  0.93360344  0.86720688  0.75000000  1
+  Cs  Cs8  1  0.24983808  0.49967616  0.75000000  1
+  Cs  Cs9  1  0.75016192  0.50032384  0.25000000  1
+  Pr  Pr10  1  0.00000000  0.00000000  0.50000000  1
+  Pr  Pr11  1  0.00000000  0.00000000  0.00000000  1

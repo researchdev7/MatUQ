@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Y(CrFe3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70469472
+_cell_length_b   6.36725963
+_cell_length_c   6.36725963
+_cell_angle_alpha   98.35662820
+_cell_angle_beta   111.68135017
+_cell_angle_gamma   68.31864983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(CrFe3)3
+_chemical_formula_sum   'Y1 Cr3 Fe9'
+_cell_volume   164.69545253
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.99513319  0.00486681  0.99513319  1
+  Cr  Cr1  1  0.36107157  0.63892843  0.36107157  1
+  Cr  Cr2  1  0.00279333  0.36594716  0.37153381  1
+  Cr  Cr3  1  0.00279333  0.62846619  0.63405284  1
+  Fe  Fe4  1  0.50104009  0.77251633  0.77459650  1
+  Fe  Fe5  1  0.50104009  0.22540350  0.22748367  1
+  Fe  Fe6  1  0.27454818  0.22545182  0.77454818  1
+  Fe  Fe7  1  0.72759851  0.77240149  0.22759851  1
+  Fe  Fe8  1  0.49983883  0.99764022  0.49763422  1
+  Fe  Fe9  1  0.00015517  0.99764022  0.49763422  1
+  Fe  Fe10  1  0.49983883  0.50236578  0.00235978  1
+  Fe  Fe11  1  0.00015517  0.50236578  0.00235978  1
+  Fe  Fe12  1  0.63399373  0.36600627  0.63399373  1

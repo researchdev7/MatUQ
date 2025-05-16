@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn(AgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30584450
+_cell_length_b   6.43554799
+_cell_length_c   6.43554750
+_cell_angle_alpha   59.99999167
+_cell_angle_beta   59.31722090
+_cell_angle_gamma   59.31722607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgO2)2
+_chemical_formula_sum   'Zn2 Ag4 O8'
+_cell_volume   182.74239842
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.97593200  0.00802267  0.00802267  1
+  Zn  Zn1  1  0.12091920  0.62635960  0.62635960  1
+  Ag  Ag2  1  0.26892046  0.24369351  0.24369351  1
+  Ag  Ag3  1  0.62480236  0.12300378  0.62609643  1
+  Ag  Ag4  1  0.62480236  0.62609643  0.12300378  1
+  Ag  Ag5  1  0.62480236  0.62609643  0.62609643  1
+  O  O6  1  0.39885396  0.38769866  0.38769866  1
+  O  O7  1  0.39885396  0.38769866  0.82574671  1
+  O  O8  1  0.39885396  0.82574671  0.38769866  1
+  O  O9  1  0.86050145  0.37983252  0.37983252  1
+  O  O10  1  0.36311723  0.87896026  0.87896026  1
+  O  O11  1  0.86321423  0.40346861  0.86665858  1
+  O  O12  1  0.86321423  0.86665858  0.40346861  1
+  O  O13  1  0.86321423  0.86665858  0.86665858  1

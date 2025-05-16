@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Gd(Re2Si)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14446504
+_cell_length_b   7.43161707
+_cell_length_c   7.43161707
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd(Re2Si)2
+_chemical_formula_sum   'Gd2 Re8 Si4'
+_cell_volume   228.89437901
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  -0.00000000  0.50000000  0.50000000  1
+  Gd  Gd1  1  0.50000000  0.00000000  -0.00000000  1
+  Re  Re2  1  0.50000000  0.15853605  0.59312685  1
+  Re  Re3  1  0.50000000  0.84146395  0.40687315  1
+  Re  Re4  1  -0.00000000  0.34146395  0.09312685  1
+  Re  Re5  1  0.00000000  0.65853605  0.90687315  1
+  Re  Re6  1  0.50000000  0.59312685  0.15853605  1
+  Re  Re7  1  0.50000000  0.40687315  0.84146395  1
+  Re  Re8  1  0.00000000  0.09312685  0.34146395  1
+  Re  Re9  1  0.00000000  0.90687315  0.65853605  1
+  Si  Si10  1  0.50000000  0.71083685  0.71083685  1
+  Si  Si11  1  0.50000000  0.28916315  0.28916315  1
+  Si  Si12  1  -0.00000000  0.78916315  0.21083685  1
+  Si  Si13  1  0.00000000  0.21083685  0.78916315  1

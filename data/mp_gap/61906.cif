@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GdTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12911011
+_cell_length_b   5.44144673
+_cell_length_c   6.63576195
+_cell_angle_alpha   111.86984838
+_cell_angle_beta   110.28444201
+_cell_angle_gamma   95.56967038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdTaO4
+_chemical_formula_sum   'Gd2 Ta2 O8'
+_cell_volume   155.67703981
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.99911206  0.79098577  0.06340951  1
+  O  O1  1  0.56429745  0.27242374  0.06340951  1
+  O  O2  1  0.00088794  0.20901423  0.93659049  1
+  O  O3  1  0.43570255  0.72757626  0.93659049  1
+  O  O4  1  0.20271583  0.36229915  0.41558399  1
+  O  O5  1  0.71286816  0.05328484  0.41558399  1
+  O  O6  1  0.79728417  0.63770085  0.58441601  1
+  O  O7  1  0.28713184  0.94671516  0.58441601  1
+  Gd  Gd8  1  0.38179092  0.63179092  0.26358185  1
+  Gd  Gd9  1  0.61820908  0.36820908  0.73641815  1
+  Ta  Ta10  1  0.85027067  0.10027067  0.20054134  1
+  Ta  Ta11  1  0.14972933  0.89972933  0.79945866  1

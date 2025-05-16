@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zr2InAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11963798
+_cell_length_b   7.64724629
+_cell_length_c   7.64724629
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2InAu2
+_chemical_formula_sum   'Zr8 In4 Au8'
+_cell_volume   416.35910477
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  -0.00000000  0.14638224  0.14638224  1
+  Zr  Zr1  1  -0.00000000  0.85361776  0.85361776  1
+  Zr  Zr2  1  0.50000000  0.35361776  0.64638224  1
+  Zr  Zr3  1  0.50000000  0.64638224  0.35361776  1
+  Zr  Zr4  1  -0.00000000  0.30424147  0.69575853  1
+  Zr  Zr5  1  -0.00000000  0.69575853  0.30424147  1
+  Zr  Zr6  1  0.50000000  0.80424147  0.80424147  1
+  Zr  Zr7  1  0.50000000  0.19575853  0.19575853  1
+  In  In8  1  0.25000000  -0.00000000  0.50000000  1
+  In  In9  1  0.75000000  -0.00000000  0.50000000  1
+  In  In10  1  0.25000000  0.50000000  0.00000000  1
+  In  In11  1  0.75000000  0.50000000  0.00000000  1
+  Au  Au12  1  0.20531740  0.37064820  0.37064820  1
+  Au  Au13  1  0.79468260  0.62935180  0.62935180  1
+  Au  Au14  1  0.20531740  0.62935180  0.62935180  1
+  Au  Au15  1  0.70531740  0.12935180  0.87064820  1
+  Au  Au16  1  0.29468260  0.12935180  0.87064820  1
+  Au  Au17  1  0.79468260  0.37064820  0.37064820  1
+  Au  Au18  1  0.29468260  0.87064820  0.12935180  1
+  Au  Au19  1  0.70531740  0.87064820  0.12935180  1

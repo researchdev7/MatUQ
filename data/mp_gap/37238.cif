@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2Mg2Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14755410
+_cell_length_b   5.14761169
+_cell_length_c   6.66055380
+_cell_angle_alpha   90.00012064
+_cell_angle_beta   89.99993973
+_cell_angle_gamma   120.00036479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Mg2Si2O7
+_chemical_formula_sum   'K2 Mg2 Si2 O7'
+_cell_volume   152.84318321
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33336590  0.66668295  0.50000000  1
+  K  K1  1  0.66663410  0.33331705  0.50000000  1
+  Mg  Mg2  1  0.66667004  0.33333502  -0.00000000  1
+  Mg  Mg3  1  0.33332996  0.66666498  0.00000000  1
+  Si  Si4  1  0.00000000  0.00000131  0.75769298  1
+  Si  Si5  1  1.00000000  0.99999869  0.24230702  1
+  O  O6  1  0.00000000  0.00000000  0.50000000  1
+  O  O7  1  0.69005193  -0.00000129  0.18138484  1
+  O  O8  1  0.30994807  0.30994678  0.18138484  1
+  O  O9  1  1.00000000  0.69005602  0.18138533  1
+  O  O10  1  0.30994807  0.00000129  0.81861516  1
+  O  O11  1  0.69005193  0.69005322  0.81861516  1
+  O  O12  1  0.00000000  0.30994398  0.81861467  1

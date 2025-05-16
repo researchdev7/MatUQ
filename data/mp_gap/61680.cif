@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2IrPtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20741426
+_cell_length_b   5.21506586
+_cell_length_c   7.41421490
+_cell_angle_alpha   90.20874672
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   72.09051288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2IrPtO6
+_chemical_formula_sum   'Ca2 Ir1 Pt1 O6'
+_cell_volume   118.00637934
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.74945729  0.50108542  0.25392607  1
+  Ca  Ca1  1  0.25054271  0.49891458  0.74607393  1
+  Ir  Ir2  1  0.00000000  -0.00000000  0.50000000  1
+  Pt  Pt3  1  0.00000000  -0.00000000  0.00000000  1
+  O  O4  1  0.37056630  0.25886740  0.04475401  1
+  O  O5  1  0.62943370  0.74113260  0.95524599  1
+  O  O6  1  0.37547985  0.24904030  0.44967608  1
+  O  O7  1  0.62452015  0.75095970  0.55032392  1
+  O  O8  1  0.08135538  0.83728923  0.25323866  1
+  O  O9  1  0.91864462  0.16271077  0.74676134  1

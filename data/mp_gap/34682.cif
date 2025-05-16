@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Dy(MnAl)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90768919
+_cell_length_b   6.62828021
+_cell_length_c   6.62828021
+_cell_angle_alpha   98.78069384
+_cell_angle_beta   111.72846649
+_cell_angle_gamma   68.27153351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy(MnAl)6
+_chemical_formula_sum   'Dy1 Mn6 Al6'
+_cell_volume   186.03357038
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  -0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn2  1  -0.00000000  0.00000000  0.50000000  1
+  Mn  Mn3  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn4  1  -0.00000000  0.50000000  0.00000000  1
+  Mn  Mn5  1  0.50000000  0.76584382  0.76584382  1
+  Mn  Mn6  1  0.50000000  0.23415618  0.23415618  1
+  Al  Al7  1  0.65218173  0.34781827  0.65218173  1
+  Al  Al8  1  0.34781827  0.65218173  0.34781827  1
+  Al  Al9  1  -0.00000000  0.33667277  0.33667277  1
+  Al  Al10  1  -0.00000000  0.66332723  0.66332723  1
+  Al  Al11  1  0.69998710  0.80001290  0.19998710  1
+  Al  Al12  1  0.30001290  0.19998710  0.80001290  1

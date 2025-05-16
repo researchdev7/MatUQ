@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LaFe(Ni2Ge)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93748332
+_cell_length_b   7.93748332
+_cell_length_c   8.13715413
+_cell_angle_alpha   60.58667777
+_cell_angle_beta   60.58667777
+_cell_angle_gamma   89.60347535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFe(Ni2Ge)4
+_chemical_formula_sum   'La2 Fe2 Ni16 Ge8'
+_cell_volume   370.01858338
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25251898  0.25251898  0.49496203  1
+  La  La1  1  0.75251898  0.75251898  0.49496203  1
+  Fe  Fe2  1  0.19800696  0.94179187  0.36020117  1
+  Fe  Fe3  1  0.44179187  0.69800696  0.36020117  1
+  Ni  Ni4  1  0.29706685  0.56942781  0.00016160  1
+  Ni  Ni5  1  0.70277155  0.43041058  0.00016160  1
+  Ni  Ni6  1  0.20309047  0.06792763  0.00156063  1
+  Ni  Ni7  1  0.79534889  0.93051173  0.00156063  1
+  Ni  Ni8  1  0.43051173  0.29534889  0.00156063  1
+  Ni  Ni9  1  0.56792763  0.70309047  0.00156063  1
+  Ni  Ni10  1  0.93041058  0.20277155  0.00016160  1
+  Ni  Ni11  1  0.06942781  0.79706685  0.00016160  1
+  Ni  Ni12  1  0.99845072  0.49845072  0.00309856  1
+  Ni  Ni13  1  0.50018870  0.00018870  0.99962259  1
+  Ni  Ni14  1  0.94422734  0.44422734  0.36253765  1
+  Ni  Ni15  1  0.69323501  0.19323501  0.36253765  1
+  Ni  Ni16  1  0.80790988  0.05527726  0.63681285  1
+  Ni  Ni17  1  0.55527726  0.30790988  0.63681285  1
+  Ni  Ni18  1  0.05429362  0.55429362  0.64075189  1
+  Ni  Ni19  1  0.30495449  0.80495449  0.64075189  1
+  Ge  Ge20  1  0.70440277  0.55222949  0.24336774  1
+  Ge  Ge21  1  0.05222949  0.20440277  0.24336774  1
+  Ge  Ge22  1  0.54804286  0.04804286  0.24728767  1
+  Ge  Ge23  1  0.20466948  0.70466948  0.24728767  1
+  Ge  Ge24  1  0.29492761  0.45181454  0.75325785  1
+  Ge  Ge25  1  0.95181454  0.79492761  0.75325785  1
+  Ge  Ge26  1  0.45041763  0.95041763  0.75601609  1
+  Ge  Ge27  1  0.79356628  0.29356628  0.75601609  1

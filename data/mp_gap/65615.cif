@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Cu3PdAu4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.90296131
+_cell_length_b   2.90296131
+_cell_length_c   14.68051574
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3PdAu4
+_chemical_formula_sum   'Cu3 Pd1 Au4'
+_cell_volume   123.71541275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  0.37862947  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.62500000  1
+  Cu  Cu2  1  0.50000000  0.50000000  0.87137053  1
+  Pd  Pd3  1  0.50000000  0.50000000  0.12500000  1
+  Au  Au4  1  0.00000000  0.00000000  0.99022918  1
+  Au  Au5  1  -0.00000000  0.00000000  0.25977082  1
+  Au  Au6  1  -0.00000000  0.00000000  0.50145152  1
+  Au  Au7  1  -0.00000000  0.00000000  0.74854848  1

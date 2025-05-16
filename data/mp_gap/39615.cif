@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Pr3(SiC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29858276
+_cell_length_b   4.22644721
+_cell_length_c   8.65050909
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   75.61369485
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3(SiC)2
+_chemical_formula_sum   'Pr3 Si2 C2'
+_cell_volume   152.23200312
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.65756897  0.53931471  0.68486206  1
+  Pr  Pr1  1  0.34243103  0.53931471  0.31513794  1
+  Pr  Pr2  1  0.00000000  0.04209369  -0.00000000  1
+  Si  Si3  1  0.79684094  0.03879400  0.40631812  1
+  Si  Si4  1  0.20315906  0.03879400  0.59368188  1
+  C  C5  1  0.64924977  0.54204444  0.00000000  1
+  C  C6  1  0.35075023  0.54204444  -0.00000000  1

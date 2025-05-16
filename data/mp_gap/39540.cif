@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_RbLu(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45732552
+_cell_length_b   7.45732552
+_cell_length_c   7.67739068
+_cell_angle_alpha   61.93379311
+_cell_angle_beta   61.93379311
+_cell_angle_gamma   87.96754166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLu(MoO4)2
+_chemical_formula_sum   'Rb2 Lu2 Mo4 O16'
+_cell_volume   322.82801578
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.80223631  0.19776369  0.75000000  1
+  Rb  Rb1  1  0.19776369  0.80223631  0.25000000  1
+  Lu  Lu2  1  0.22844676  0.77155324  0.75000000  1
+  Lu  Lu3  1  0.77155324  0.22844676  0.25000000  1
+  Mo  Mo4  1  0.30253011  0.30329550  0.73584525  1
+  Mo  Mo5  1  0.69746989  0.69670450  0.26415475  1
+  Mo  Mo6  1  0.69670450  0.69746989  0.76415475  1
+  Mo  Mo7  1  0.30329550  0.30253011  0.23584525  1
+  O  O8  1  0.38531057  0.23356015  0.93942919  1
+  O  O9  1  0.61468943  0.76643985  0.06057081  1
+  O  O10  1  0.76643985  0.61468943  0.56057081  1
+  O  O11  1  0.23356015  0.38531057  0.43942919  1
+  O  O12  1  0.61957814  0.93668732  0.61915789  1
+  O  O13  1  0.38042186  0.06331268  0.38084211  1
+  O  O14  1  0.06331268  0.38042186  0.88084211  1
+  O  O15  1  0.93668732  0.61957814  0.11915789  1
+  O  O16  1  0.41185489  0.63357709  0.53414989  1
+  O  O17  1  0.58814511  0.36642291  0.46585011  1
+  O  O18  1  0.36642291  0.58814511  0.96585011  1
+  O  O19  1  0.63357709  0.41185489  0.03414989  1
+  O  O20  1  0.20860767  0.04370279  0.80578565  1
+  O  O21  1  0.79139233  0.95629721  0.19421435  1
+  O  O22  1  0.95629721  0.79139233  0.69421435  1
+  O  O23  1  0.04370279  0.20860767  0.30578565  1

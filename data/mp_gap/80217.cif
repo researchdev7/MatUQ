@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PuB4Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.53845149
+_cell_length_b   6.00033260
+_cell_length_c   6.00033260
+_cell_angle_alpha   104.05175106
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuB4Os
+_chemical_formula_sum   'Pu2 B8 Os2'
+_cell_volume   123.58621221
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  -0.00000000  0.30046595  0.69953405  1
+  Pu  Pu1  1  0.00000000  0.69953405  0.30046595  1
+  B  B2  1  0.50000000  0.93624523  0.61912624  1
+  B  B3  1  0.50000000  0.06375477  0.38087376  1
+  B  B4  1  0.50000000  0.61912624  0.93624523  1
+  B  B5  1  0.50000000  0.38087376  0.06375477  1
+  B  B6  1  0.50000000  0.62300036  0.62300036  1
+  B  B7  1  0.50000000  0.37699964  0.37699964  1
+  B  B8  1  0.50000000  0.09272354  0.90727646  1
+  B  B9  1  0.50000000  0.90727646  0.09272354  1
+  Os  Os10  1  -0.00000000  0.81547156  0.81547156  1
+  Os  Os11  1  0.00000000  0.18452844  0.18452844  1

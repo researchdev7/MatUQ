@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_YbH2ClO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69887416
+_cell_length_b   6.13855508
+_cell_length_c   13.44591124
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbH2ClO2
+_chemical_formula_sum   'Yb4 H8 Cl4 O8'
+_cell_volume   305.29940186
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.75000000  0.23890722  0.53900164  1
+  Yb  Yb1  1  0.75000000  0.26109278  0.03900164  1
+  Yb  Yb2  1  0.25000000  0.76109278  0.46099836  1
+  Yb  Yb3  1  0.25000000  0.73890722  0.96099836  1
+  H  H4  1  0.25000000  0.55656677  0.65870743  1
+  H  H5  1  0.25000000  0.94343323  0.15870743  1
+  H  H6  1  0.75000000  0.44343323  0.34129257  1
+  H  H7  1  0.75000000  0.05656677  0.84129257  1
+  H  H8  1  0.25000000  0.17804124  0.37631854  1
+  H  H9  1  0.25000000  0.32195876  0.87631854  1
+  H  H10  1  0.75000000  0.82195876  0.62368146  1
+  H  H11  1  0.75000000  0.67804124  0.12368146  1
+  Cl  Cl12  1  0.25000000  0.15979832  0.70584132  1
+  Cl  Cl13  1  0.25000000  0.34020168  0.20584132  1
+  Cl  Cl14  1  0.75000000  0.84020168  0.29415868  1
+  Cl  Cl15  1  0.75000000  0.65979832  0.79415868  1
+  O  O16  1  0.25000000  0.47507871  0.59621280  1
+  O  O17  1  0.25000000  0.02492129  0.09621280  1
+  O  O18  1  0.75000000  0.52492129  0.40378720  1
+  O  O19  1  0.75000000  0.97507871  0.90378720  1
+  O  O20  1  0.25000000  0.13983627  0.44682977  1
+  O  O21  1  0.25000000  0.36016373  0.94682977  1
+  O  O22  1  0.75000000  0.86016373  0.55317023  1
+  O  O23  1  0.75000000  0.63983627  0.05317023  1

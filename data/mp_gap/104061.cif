@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiErSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.34278931
+_cell_length_b   9.34266145
+_cell_length_c   7.25810481
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00044913
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiErSn
+_chemical_formula_sum   'Li8 Er8 Sn8'
+_cell_volume   548.65465516
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.16674420  0.33348841  0.21174577  1
+  Li  Li1  1  0.16674692  0.83325501  0.21174646  1
+  Li  Li2  1  0.66650909  0.83325501  0.21174646  1
+  Li  Li3  1  0.66666947  0.33333794  0.33128419  1
+  Li  Li4  1  0.83325580  0.66651159  0.71174577  1
+  Li  Li5  1  0.33349091  0.16674399  0.71174646  1
+  Li  Li6  1  0.83325208  0.16674399  0.71174646  1
+  Li  Li7  1  0.33333153  0.66666206  0.83128519  1
+  Er  Er8  1  0.00000190  0.00000380  0.99969926  1
+  Er  Er9  1  0.51233888  0.02467676  0.00604013  1
+  Er  Er10  1  0.51234057  0.48766501  0.00603675  1
+  Er  Er11  1  0.97532543  0.48766501  0.00603675  1
+  Er  Er12  1  0.99999810  0.99999620  0.49969926  1
+  Er  Er13  1  0.48766112  0.97532324  0.50604013  1
+  Er  Er14  1  0.02467457  0.51233599  0.50603675  1
+  Er  Er15  1  0.48766043  0.51233599  0.50603675  1
+  Sn  Sn16  1  0.33333201  0.66666402  0.23804701  1
+  Sn  Sn17  1  0.83300897  0.66601693  0.26886845  1
+  Sn  Sn18  1  0.33399104  0.16699548  0.26887489  1
+  Sn  Sn19  1  0.83300444  0.16699548  0.26887489  1
+  Sn  Sn20  1  0.66666899  0.33333698  0.73804901  1
+  Sn  Sn21  1  0.16699203  0.33398307  0.76886745  1
+  Sn  Sn22  1  0.16699556  0.83300452  0.76887489  1
+  Sn  Sn23  1  0.66600796  0.83300452  0.76887489  1

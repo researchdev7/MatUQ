@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sr(AlTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73272551
+_cell_length_b   6.84784507
+_cell_length_c   6.84784507
+_cell_angle_alpha   76.01564730
+_cell_angle_beta   60.55875239
+_cell_angle_gamma   60.55875239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(AlTe2)2
+_chemical_formula_sum   'Sr1 Al2 Te4'
+_cell_volume   239.43940555
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.25000000  0.50002310  0.49997690  1
+  Al  Al1  1  0.75000000  0.50000688  0.49999312  1
+  Sr  Sr2  1  0.75000000  0.99998555  0.00001445  1
+  Te  Te3  1  0.17191551  0.49999579  0.15618368  1
+  Te  Te4  1  0.32808449  0.84381632  0.50000421  1
+  Te  Te5  1  0.67190178  0.15619018  0.50001782  1
+  Te  Te6  1  0.82809822  0.49998218  0.84380982  1

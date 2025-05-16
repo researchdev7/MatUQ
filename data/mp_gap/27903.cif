@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LuGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20806196
+_cell_length_b   5.53821339
+_cell_length_c   7.58419425
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuGaO3
+_chemical_formula_sum   'Lu4 Ga4 O12'
+_cell_volume   218.75363356
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.02209331  0.07160346  0.00886901  1
+  Lu  Lu1  1  0.47790669  0.57160346  0.00886901  1
+  Lu  Lu2  1  0.52209331  0.42839654  0.50886901  1
+  Lu  Lu3  1  0.97790669  0.92839654  0.50886901  1
+  Ga  Ga4  1  0.00003172  0.49981487  0.75895502  1
+  Ga  Ga5  1  0.49996828  0.99981487  0.75895502  1
+  Ga  Ga6  1  0.50003172  0.00018513  0.25895502  1
+  Ga  Ga7  1  0.99996828  0.50018513  0.25895502  1
+  O  O8  1  0.12451724  0.54878246  0.50911582  1
+  O  O9  1  0.19031481  0.80670888  0.82221518  1
+  O  O10  1  0.18992165  0.80755677  0.19621597  1
+  O  O11  1  0.31007835  0.30755677  0.19621597  1
+  O  O12  1  0.30968519  0.30670888  0.82221518  1
+  O  O13  1  0.37548276  0.04878246  0.50911582  1
+  O  O14  1  0.62451724  0.95121754  0.00911582  1
+  O  O15  1  0.69031481  0.69329112  0.32221518  1
+  O  O16  1  0.68992165  0.69244323  0.69621597  1
+  O  O17  1  0.81007835  0.19244323  0.69621597  1
+  O  O18  1  0.80968519  0.19329112  0.32221518  1
+  O  O19  1  0.87548276  0.45121754  0.00911582  1

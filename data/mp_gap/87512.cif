@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tm2InPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65918024
+_cell_length_b   7.68831989
+_cell_length_c   7.68831989
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm2InPd2
+_chemical_formula_sum   'Tm4 In2 Pd4'
+_cell_volume   216.29510537
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.00000000  0.12842696  0.37157304  1
+  Pd  Pd1  1  0.00000000  0.37157304  0.87157304  1
+  Pd  Pd2  1  0.00000000  0.62842696  0.12842696  1
+  Pd  Pd3  1  0.00000000  0.87157304  0.62842696  1
+  In  In4  1  0.00000000  0.00000000  0.00000000  1
+  In  In5  1  0.00000000  0.50000000  0.50000000  1
+  Tm  Tm6  1  0.50000000  0.82760753  0.32760753  1
+  Tm  Tm7  1  0.50000000  0.67239247  0.82760753  1
+  Tm  Tm8  1  0.50000000  0.32760753  0.17239247  1
+  Tm  Tm9  1  0.50000000  0.17239247  0.67239247  1

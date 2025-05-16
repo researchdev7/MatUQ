@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsK(ClO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11370678
+_cell_length_b   8.11370644
+_cell_length_c   8.11370669
+_cell_angle_alpha   42.66300752
+_cell_angle_beta   42.66301009
+_cell_angle_gamma   42.66301058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsK(ClO4)2
+_chemical_formula_sum   'Cs1 K1 Cl2 O8'
+_cell_volume   222.19612833
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50000000  0.50000000  0.50000000  1
+  K  K1  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl2  1  0.26595906  0.26595906  0.26595906  1
+  Cl  Cl3  1  0.73404094  0.73404094  0.73404094  1
+  O  O4  1  0.48698948  0.89152150  0.89152150  1
+  O  O5  1  0.66806482  0.66806482  0.66806482  1
+  O  O6  1  0.51301052  0.10847850  0.10847850  1
+  O  O7  1  0.89152150  0.89152150  0.48698948  1
+  O  O8  1  0.10847850  0.10847850  0.51301052  1
+  O  O9  1  0.10847850  0.51301052  0.10847850  1
+  O  O10  1  0.33193518  0.33193518  0.33193518  1
+  O  O11  1  0.89152150  0.48698948  0.89152150  1

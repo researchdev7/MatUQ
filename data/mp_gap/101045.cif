@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaZrCuTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08747763
+_cell_length_b   11.09243904
+_cell_length_c   14.78644416
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZrCuTe3
+_chemical_formula_sum   'Na4 Zr4 Cu4 Te12'
+_cell_volume   670.41880419
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.04990259  0.22699425  1
+  Na  Na1  1  0.75000000  0.95009741  0.77300575  1
+  Na  Na2  1  0.75000000  0.54990259  0.27300575  1
+  Na  Na3  1  0.25000000  0.45009741  0.72699425  1
+  Cu  Cu4  1  0.25000000  0.59321684  0.49162467  1
+  Cu  Cu5  1  0.75000000  0.40678316  0.50837533  1
+  Cu  Cu6  1  0.75000000  0.09321684  0.00837533  1
+  Cu  Cu7  1  0.25000000  0.90678316  0.99162467  1
+  Zr  Zr8  1  0.25000000  0.31664481  0.01014860  1
+  Zr  Zr9  1  0.75000000  0.68335519  0.98985140  1
+  Zr  Zr10  1  0.75000000  0.81664481  0.48985140  1
+  Zr  Zr11  1  0.25000000  0.18335519  0.51014860  1
+  Te  Te12  1  0.25000000  0.56223821  0.10215318  1
+  Te  Te13  1  0.75000000  0.43776179  0.89784682  1
+  Te  Te14  1  0.75000000  0.06223821  0.39784682  1
+  Te  Te15  1  0.25000000  0.93776179  0.60215318  1
+  Te  Te16  1  0.25000000  0.38571508  0.39416751  1
+  Te  Te17  1  0.75000000  0.61428492  0.60583249  1
+  Te  Te18  1  0.75000000  0.88571508  0.10583249  1
+  Te  Te19  1  0.25000000  0.11428492  0.89416751  1
+  Te  Te20  1  0.25000000  0.75143154  0.35897504  1
+  Te  Te21  1  0.75000000  0.24856846  0.64102496  1
+  Te  Te22  1  0.75000000  0.25143154  0.14102496  1
+  Te  Te23  1  0.25000000  0.74856846  0.85897504  1

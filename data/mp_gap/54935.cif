@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cu2Te2Cl2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39190347
+_cell_length_b   7.75237335
+_cell_length_c   7.75237335
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2Te2Cl2O5
+_chemical_formula_sum   'Cu4 Te4 Cl4 O10'
+_cell_volume   384.14887664
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.84472891  0.45557262  0.26787651  1
+  Cu  Cu1  1  0.84472891  0.54442738  0.73212349  1
+  Cu  Cu2  1  0.15527109  0.73212349  0.45557262  1
+  Cu  Cu3  1  0.15527109  0.26787651  0.54442738  1
+  Te  Te4  1  0.36159149  0.64687437  0.82653020  1
+  Te  Te5  1  0.63840851  0.17346980  0.64687437  1
+  Te  Te6  1  0.63840851  0.82653020  0.35312563  1
+  Te  Te7  1  0.36159149  0.35312563  0.17346980  1
+  Cl  Cl8  1  0.80456513  0.77507676  0.90332860  1
+  Cl  Cl9  1  0.80456513  0.22492324  0.09667140  1
+  Cl  Cl10  1  0.19543487  0.90332860  0.22492324  1
+  Cl  Cl11  1  0.19543487  0.09667140  0.77507676  1
+  O  O12  1  0.22243668  0.50000000  0.00000000  1
+  O  O13  1  0.86092821  0.33183710  0.58609271  1
+  O  O14  1  0.55599906  0.53222600  0.23011221  1
+  O  O15  1  0.44400094  0.76988779  0.53222600  1
+  O  O16  1  0.55599906  0.46777400  0.76988779  1
+  O  O17  1  0.13907179  0.41390729  0.33183710  1
+  O  O18  1  0.77756332  0.00000000  0.50000000  1
+  O  O19  1  0.44400094  0.23011221  0.46777400  1
+  O  O20  1  0.86092821  0.66816290  0.41390729  1
+  O  O21  1  0.13907179  0.58609271  0.66816290  1

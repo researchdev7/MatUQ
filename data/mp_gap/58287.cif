@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na(GeAs)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88851873
+_cell_length_b   7.34268169
+_cell_length_c   11.46830320
+_cell_angle_alpha   92.79953604
+_cell_angle_beta   99.76068567
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(GeAs)6
+_chemical_formula_sum   'Na1 Ge6 As6'
+_cell_volume   322.30829171
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Ge  Ge1  1  0.94626653  0.53162076  0.89253306  1
+  Ge  Ge2  1  0.05373347  0.46837924  0.10746694  1
+  Ge  Ge3  1  0.68067760  0.67023431  0.36135520  1
+  Ge  Ge4  1  0.31932240  0.32976569  0.63864480  1
+  Ge  Ge5  1  0.67989954  0.32421008  0.35979908  1
+  Ge  Ge6  1  0.32010046  0.67578992  0.64020092  1
+  As  As7  1  0.88222556  0.23764596  0.76445113  1
+  As  As8  1  0.11777444  0.76235404  0.23554887  1
+  As  As9  1  0.77932798  0.84588050  0.55865597  1
+  As  As10  1  0.22067202  0.15411950  0.44134403  1
+  As  As11  1  0.42872867  0.74164096  0.85745735  1
+  As  As12  1  0.57127133  0.25835904  0.14254265  1

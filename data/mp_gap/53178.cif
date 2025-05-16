@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ScAlCO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.27069907
+_cell_length_b   10.27069907
+_cell_length_c   10.27069915
+_cell_angle_alpha   18.42147660
+_cell_angle_beta   18.42147660
+_cell_angle_gamma   18.42148285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAlCO
+_chemical_formula_sum   'Sc2 Al2 C2 O2'
+_cell_volume   94.50226211
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc1  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al2  1  0.73862149  0.73862149  0.73862049  1
+  Al  Al3  1  0.26137851  0.26137851  0.26137851  1
+  C  C4  1  0.61844148  0.61844148  0.61844148  1
+  C  C5  1  0.38155852  0.38155852  0.38155852  1
+  O  O6  1  0.20005692  0.20005692  0.20005692  1
+  O  O7  1  0.79994308  0.79994308  0.79994208  1

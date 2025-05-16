@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TaI2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47161876
+_cell_length_b   3.89601947
+_cell_length_c   26.17293800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.53255077
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaI2O
+_chemical_formula_sum   'Ta2 I4 O2'
+_cell_volume   627.64249140
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.77969379  0.57171100  0.17370035  1
+  Ta  Ta1  1  0.36709821  0.57171100  0.17370665  1
+  I  I2  1  0.35895103  0.57171100  0.06571816  1
+  I  I3  1  -0.10099118  0.57171100  0.08588676  1
+  I  I4  1  0.78784097  0.57171100  0.28168884  1
+  I  I5  1  0.24778318  0.57171100  0.26152024  1
+  O  O6  1  0.78606515  0.07171100  0.17370688  1
+  O  O7  1  0.36072685  0.07171100  0.17370112  1

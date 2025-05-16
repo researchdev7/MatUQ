@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Th2Se5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00864364
+_cell_length_b   8.02505226
+_cell_length_c   10.78534768
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2Se5
+_chemical_formula_sum   'Th8 Se20'
+_cell_volume   693.17196298
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.75757736  0.49175160  0.14743653  1
+  Th  Th1  1  0.74242264  0.99175160  0.35256347  1
+  Th  Th2  1  0.25757736  0.50824840  0.35256347  1
+  Th  Th3  1  0.24242264  0.00824840  0.14743653  1
+  Th  Th4  1  0.24242264  0.50824840  0.85256347  1
+  Th  Th5  1  0.25757736  0.00824840  0.64743653  1
+  Th  Th6  1  0.74242264  0.49175160  0.64743653  1
+  Th  Th7  1  0.75757736  0.99175160  0.85256347  1
+  Se  Se8  1  0.62956328  0.12089980  0.60660847  1
+  Se  Se9  1  0.87043672  0.62089980  0.89339153  1
+  Se  Se10  1  0.12956328  0.87910020  0.89339153  1
+  Se  Se11  1  0.37043672  0.37910020  0.60660847  1
+  Se  Se12  1  0.37043672  0.87910020  0.39339153  1
+  Se  Se13  1  0.12956328  0.37910020  0.10660847  1
+  Se  Se14  1  0.87043672  0.12089980  0.10660847  1
+  Se  Se15  1  0.62956328  0.62089980  0.39339153  1
+  Se  Se16  1  0.11394359  0.63521345  0.60330869  1
+  Se  Se17  1  0.38605641  0.13521345  0.89669131  1
+  Se  Se18  1  0.61394359  0.36478655  0.89669131  1
+  Se  Se19  1  0.88605641  0.86478655  0.60330869  1
+  Se  Se20  1  0.88605641  0.36478655  0.39669131  1
+  Se  Se21  1  0.61394359  0.86478655  0.10330869  1
+  Se  Se22  1  0.38605641  0.63521345  0.10330869  1
+  Se  Se23  1  0.11394359  0.13521345  0.39669131  1
+  Se  Se24  1  -0.00000000  0.25000000  0.75202273  1
+  Se  Se25  1  0.50000000  0.75000000  0.74797727  1
+  Se  Se26  1  -0.00000000  0.75000000  0.24797727  1
+  Se  Se27  1  0.50000000  0.25000000  0.25202273  1

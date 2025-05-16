@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2FeCu(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92305329
+_cell_length_b   3.97830618
+_cell_length_c   12.27314266
+_cell_angle_alpha   88.43025366
+_cell_angle_beta   89.83566026
+_cell_angle_gamma   89.83271201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2FeCu(PbO3)2
+_chemical_formula_sum   'Sr2 Fe1 Cu1 Pb2 O6'
+_cell_volume   191.47480734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.99804814  0.98286680  0.64283917  1
+  Sr  Sr1  1  0.00195186  0.01713320  0.35716083  1
+  Fe  Fe2  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu3  1  -0.00000000  0.00000000  -0.00000000  1
+  Pb  Pb4  1  0.49598082  0.49792473  0.85677265  1
+  Pb  Pb5  1  0.50401918  0.50207527  0.14322735  1
+  O  O6  1  0.49799048  0.48241292  0.67884613  1
+  O  O7  1  0.50200952  0.51758708  0.32115387  1
+  O  O8  1  -0.00000000  0.50000000  0.50000000  1
+  O  O9  1  0.50000000  0.00000000  0.50000000  1
+  O  O10  1  0.99578938  0.87680645  0.85592376  1
+  O  O11  1  0.00421062  0.12319355  0.14407624  1

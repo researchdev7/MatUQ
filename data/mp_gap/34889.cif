@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiGa(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34004535
+_cell_length_b   6.53237565
+_cell_length_c   6.53237565
+_cell_angle_alpha   83.62432121
+_cell_angle_beta   74.63781392
+_cell_angle_gamma   74.63781393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGa(SiO3)2
+_chemical_formula_sum   'Li2 Ga2 Si4 O12'
+_cell_volume   211.67284151
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75000000  0.25847917  0.74152083  1
+  Li  Li1  1  0.25000000  0.74152083  0.25847917  1
+  O  O2  1  0.94859399  0.35487882  0.35582129  1
+  O  O3  1  0.44859399  0.35582129  0.35487882  1
+  O  O4  1  0.05140601  0.64512118  0.64417871  1
+  O  O5  1  0.55140601  0.64417871  0.64512118  1
+  O  O6  1  0.14403243  0.80170207  0.97042390  1
+  O  O7  1  0.17148900  0.10775464  0.62726190  1
+  O  O8  1  0.85596757  0.19829793  0.02957610  1
+  O  O9  1  0.64403243  0.97042390  0.80170207  1
+  O  O10  1  0.35596757  0.02957610  0.19829793  1
+  O  O11  1  0.82851100  0.89224536  0.37273810  1
+  O  O12  1  0.67148900  0.62726190  0.10775464  1
+  O  O13  1  0.32851100  0.37273810  0.89224536  1
+  Si  Si14  1  0.76237191  0.79410030  0.61287266  1
+  Si  Si15  1  0.23762809  0.20589970  0.38712734  1
+  Si  Si16  1  0.26237191  0.61287266  0.79410030  1
+  Si  Si17  1  0.73762809  0.38712734  0.20589970  1
+  Ga  Ga18  1  0.75000000  0.89855563  0.10144437  1
+  Ga  Ga19  1  0.25000000  0.10144437  0.89855563  1

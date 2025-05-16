@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrLiBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94864727
+_cell_length_b   8.23367775
+_cell_length_c   8.69123759
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLiBi
+_chemical_formula_sum   'Sr4 Li4 Bi4'
+_cell_volume   354.12940284
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.75000000  0.72377269  0.90618705  1
+  Bi  Bi1  1  0.25000000  0.27622731  0.09381295  1
+  Bi  Bi2  1  0.75000000  0.22377269  0.59381295  1
+  Bi  Bi3  1  0.25000000  0.77622731  0.40618705  1
+  Li  Li4  1  0.75000000  0.33708473  0.92509283  1
+  Li  Li5  1  0.25000000  0.66291527  0.07490717  1
+  Li  Li6  1  0.75000000  0.83708473  0.57490717  1
+  Li  Li7  1  0.25000000  0.16291527  0.42509283  1
+  Sr  Sr8  1  0.75000000  0.49688284  0.29140931  1
+  Sr  Sr9  1  0.25000000  0.50311716  0.70859069  1
+  Sr  Sr10  1  0.75000000  0.99688284  0.20859069  1
+  Sr  Sr11  1  0.25000000  0.00311716  0.79140931  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2HfO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26663165
+_cell_length_b   5.26663165
+_cell_length_c   5.41137442
+_cell_angle_alpha   78.47069136
+_cell_angle_beta   101.52930864
+_cell_angle_gamma   62.16081432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2HfO3
+_chemical_formula_sum   'Li4 Hf2 O6'
+_cell_volume   122.37440438
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.56508292  0.58653229  0.49396371  1
+  Li  Li1  1  0.25340307  0.26294685  0.49128488  1
+  Li  Li2  1  0.41346771  0.43491708  0.99396371  1
+  Li  Li3  1  0.73705315  0.74659693  0.99128488  1
+  Hf  Hf4  1  0.90036967  0.91807410  0.49025598  1
+  Hf  Hf5  1  0.08192590  0.09963033  0.99025598  1
+  O  O6  1  0.29403978  0.85698017  0.75560796  1
+  O  O7  1  0.14301983  0.70596022  0.25560796  1
+  O  O8  1  0.99039297  0.50963204  0.74164567  1
+  O  O9  1  0.68887894  0.16040190  0.72504180  1
+  O  O10  1  0.49036796  0.00960703  0.24164567  1
+  O  O11  1  0.83959810  0.31112106  0.22504180  1

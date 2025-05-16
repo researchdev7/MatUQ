@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KNaZnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61989645
+_cell_length_b   5.88340035
+_cell_length_c   9.79715108
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.65898507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaZnO2
+_chemical_formula_sum   'K4 Na4 Zn4 O8'
+_cell_volume   314.77262194
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49984555  0.75045773  0.37380759  1
+  K  K1  1  0.99984555  0.75045773  0.12619241  1
+  K  K2  1  0.00015445  0.24954227  0.87380759  1
+  K  K3  1  0.50015445  0.24954227  0.62619241  1
+  Na  Na4  1  0.99870541  0.74899275  0.47943933  1
+  Na  Na5  1  0.49870541  0.74899275  0.02056067  1
+  Na  Na6  1  0.50129459  0.25100725  0.97943933  1
+  Na  Na7  1  0.00129459  0.25100725  0.52056067  1
+  Zn  Zn8  1  0.99643188  0.24876031  0.23968428  1
+  Zn  Zn9  1  0.50356812  0.75123969  0.73968428  1
+  Zn  Zn10  1  0.49643188  0.24876031  0.26031572  1
+  Zn  Zn11  1  0.00356812  0.75123969  0.76031572  1
+  O  O12  1  0.29464283  0.42905148  0.14228665  1
+  O  O13  1  0.69864565  0.06753363  0.14332100  1
+  O  O14  1  0.20535717  0.57094852  0.64228665  1
+  O  O15  1  0.30135435  0.93246637  0.85667900  1
+  O  O16  1  0.70535717  0.57094852  0.85771335  1
+  O  O17  1  0.79464283  0.42905148  0.35771335  1
+  O  O18  1  0.80135435  0.93246637  0.64332100  1
+  O  O19  1  0.19864565  0.06753363  0.35667900  1

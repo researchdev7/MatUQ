@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaSrBi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92154797
+_cell_length_b   7.10970864
+_cell_length_c   15.50380036
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrBi3
+_chemical_formula_sum   'Ba4 Sr4 Bi12'
+_cell_volume   762.94495220
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.95423242  0.00000000  0.75000000  1
+  Ba  Ba1  1  0.04576758  -0.00000000  0.25000000  1
+  Ba  Ba2  1  0.54576758  0.50000000  0.75000000  1
+  Ba  Ba3  1  0.45423242  0.50000000  0.25000000  1
+  Sr  Sr4  1  0.75000000  0.75000000  0.99997141  1
+  Sr  Sr5  1  0.25000000  0.25000000  0.00002859  1
+  Sr  Sr6  1  0.75000000  0.25000000  0.50002859  1
+  Sr  Sr7  1  0.25000000  0.75000000  0.49997141  1
+  Bi  Bi8  1  0.75000000  0.75000000  0.55824561  1
+  Bi  Bi9  1  0.25000000  0.25000000  0.44175439  1
+  Bi  Bi10  1  0.75000000  0.25000000  0.94175439  1
+  Bi  Bi11  1  0.25000000  0.75000000  0.05824561  1
+  Bi  Bi12  1  0.43417344  0.94802646  0.85108285  1
+  Bi  Bi13  1  0.56582656  0.05197354  0.14891715  1
+  Bi  Bi14  1  0.43417344  0.05197354  0.64891715  1
+  Bi  Bi15  1  0.06582656  0.44802646  0.64891715  1
+  Bi  Bi16  1  0.56582656  0.94802646  0.35108285  1
+  Bi  Bi17  1  0.93417344  0.55197354  0.35108285  1
+  Bi  Bi18  1  0.06582656  0.55197354  0.85108285  1
+  Bi  Bi19  1  0.93417344  0.44802646  0.14891715  1

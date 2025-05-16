@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MgInGaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38574339
+_cell_length_b   3.38574355
+_cell_length_c   8.73528703
+_cell_angle_alpha   78.82555146
+_cell_angle_beta   101.17444948
+_cell_angle_gamma   119.99999131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgInGaO4
+_chemical_formula_sum   'Mg1 In1 Ga1 O4'
+_cell_volume   84.52015954
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.78498493  0.21501507  0.35495479  1
+  In  In1  1  0.99836986  0.00163014  0.99510957  1
+  Ga  Ga2  1  0.21226030  0.78773970  0.63678091  1
+  O  O3  1  0.87530986  0.12469014  0.62592957  1
+  O  O4  1  0.13480975  0.86519025  0.40442926  1
+  O  O5  1  0.70581419  0.29418581  0.11744258  1
+  O  O6  1  0.28845110  0.71154890  0.86535331  1

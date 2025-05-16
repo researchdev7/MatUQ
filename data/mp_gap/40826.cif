@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cs2Ni(PS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94557771
+_cell_length_b   7.87291803
+_cell_length_c   12.93796636
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   93.52745350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Ni(PS3)2
+_chemical_formula_sum   'Cs4 Ni2 P4 S12'
+_cell_volume   604.46648495
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.73507468  0.03094734  0.32806968  1
+  Cs  Cs1  1  0.26492532  0.96905266  0.67193032  1
+  Cs  Cs2  1  0.23507468  0.53094734  0.17193032  1
+  Cs  Cs3  1  0.76492532  0.46905266  0.82806968  1
+  Ni  Ni4  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni5  1  0.50000000  0.50000000  0.50000000  1
+  P  P6  1  0.45213672  0.11871361  0.03800852  1
+  P  P7  1  0.54786328  0.88128639  0.96199148  1
+  P  P8  1  0.95213672  0.61871361  0.46199148  1
+  P  P9  1  0.04786328  0.38128639  0.53800852  1
+  S  S10  1  0.74176531  0.27011856  0.57327559  1
+  S  S11  1  0.75823469  0.22988144  0.07327559  1
+  S  S12  1  0.25642934  0.23182076  0.93280893  1
+  S  S13  1  0.75642934  0.73182076  0.56719107  1
+  S  S14  1  0.24357066  0.26817924  0.43280893  1
+  S  S15  1  0.74203504  0.53817696  0.34557509  1
+  S  S16  1  0.75796496  0.96182304  0.84557509  1
+  S  S17  1  0.24203504  0.03817696  0.15442491  1
+  S  S18  1  0.25823469  0.72988144  0.42672441  1
+  S  S19  1  0.24176531  0.77011856  0.92672441  1
+  S  S20  1  0.74357066  0.76817924  0.06719107  1
+  S  S21  1  0.25796496  0.46182304  0.65442491  1

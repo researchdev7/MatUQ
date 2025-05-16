@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba(GaAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59016211
+_cell_length_b   9.93938099
+_cell_length_c   7.74096201
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   115.06480717
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(GaAs)2
+_chemical_formula_sum   'Ba4 Ga8 As8'
+_cell_volume   528.99508266
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.40726074  0.40851524  0.21911655  1
+  Ba  Ba1  1  0.59273926  0.90851524  0.28088245  1
+  Ba  Ba2  1  0.59273926  0.59148476  0.78088245  1
+  Ba  Ba3  1  0.40726074  0.09148476  0.71911655  1
+  Ga  Ga4  1  0.06251811  0.00810960  0.23968589  1
+  Ga  Ga5  1  0.93748189  0.50810960  0.26031311  1
+  Ga  Ga6  1  0.93748289  0.99189040  0.76031311  1
+  Ga  Ga7  1  0.06251811  0.49189040  0.73968789  1
+  Ga  Ga8  1  0.05859758  0.70563027  0.12489513  1
+  Ga  Ga9  1  0.94140242  0.20563127  0.37510487  1
+  Ga  Ga10  1  0.94140242  0.29436873  0.87510487  1
+  Ga  Ga11  1  0.05859758  0.79436873  0.62489613  1
+  As  As12  1  0.72751083  0.31180451  0.05327407  1
+  As  As13  1  0.27248917  0.81180451  0.44672493  1
+  As  As14  1  0.27248817  0.68819549  0.94672493  1
+  As  As15  1  0.72750983  0.18819549  0.55327407  1
+  As  As16  1  0.21066703  0.11572105  0.03374156  1
+  As  As17  1  0.78933397  0.61572105  0.46625944  1
+  As  As18  1  0.78933397  0.88427995  0.96625844  1
+  As  As19  1  0.21066603  0.38427895  0.53374156  1

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_In4Ag3(GeSe4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.26499684
+_cell_length_b   8.26499684
+_cell_length_c   12.59495334
+_cell_angle_alpha   70.84605250
+_cell_angle_beta   70.84605250
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In4Ag3(GeSe4)4
+_chemical_formula_sum   'In4 Ag3 Ge4 Se16'
+_cell_volume   762.13388578
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.37230957  0.87739311  0.75476391  1
+  In  In1  1  0.87292652  0.36784298  0.75476391  1
+  In  In2  1  0.13215702  0.12769043  0.24523609  1
+  In  In3  1  0.62260689  0.62707348  0.24523609  1
+  Ag  Ag4  1  0.75024833  0.25024833  0.49950335  1
+  Ag  Ag5  1  0.24975167  0.74975167  0.50049665  1
+  Ag  Ag6  1  -0.00000000  0.50000000  0.00000000  1
+  Ge  Ge7  1  0.25000000  0.25000000  0.50000000  1
+  Ge  Ge8  1  0.75000000  0.75000000  0.50000000  1
+  Ge  Ge9  1  0.49659088  0.49659088  0.00681824  1
+  Ge  Ge10  1  0.00340912  0.00340912  0.99318176  1
+  Se  Se11  1  0.65941945  0.45066528  0.62902227  1
+  Se  Se12  1  0.15843094  0.95140765  0.62953619  1
+  Se  Se13  1  0.71155829  0.92031245  0.62902227  1
+  Se  Se14  1  0.21203287  0.41905616  0.62953619  1
+  Se  Se15  1  0.80996998  0.03699449  0.88418883  1
+  Se  Se16  1  0.33101567  0.53807021  0.87242664  1
+  Se  Se17  1  0.30584119  0.07881669  0.88418883  1
+  Se  Se18  1  0.79655769  0.58950315  0.87242664  1
+  Se  Se19  1  0.08094384  0.34156906  0.37046381  1
+  Se  Se20  1  0.57968755  0.84058055  0.37097773  1
+  Se  Se21  1  0.54859235  0.28796713  0.37046381  1
+  Se  Se22  1  0.04933472  0.78844171  0.37097773  1
+  Se  Se23  1  0.91049685  0.16898433  0.12757336  1
+  Se  Se24  1  0.42118331  0.69003002  0.11581117  1
+  Se  Se25  1  0.96192979  0.70344231  0.12757336  1
+  Se  Se26  1  0.46300551  0.19415881  0.11581117  1

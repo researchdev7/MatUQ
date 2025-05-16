@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ti4Fe2P3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46562388
+_cell_length_b   6.39222013
+_cell_length_c   6.21062365
+_cell_angle_alpha   120.97204391
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4Fe2P3
+_chemical_formula_sum   'Ti4 Fe2 P3'
+_cell_volume   117.96718374
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.40906259  0.00000000  1
+  Ti  Ti1  1  0.50000000  0.57793394  0.58487864  1
+  Ti  Ti2  1  0.50000000  0.99305530  0.41512136  1
+  Ti  Ti3  1  -0.00000000  0.75826393  0.00000000  1
+  Fe  Fe4  1  0.00000000  0.24992817  0.24664958  1
+  Fe  Fe5  1  0.00000000  0.00327860  0.75335042  1
+  P  P6  1  -0.00000000  0.32129165  0.65756520  1
+  P  P7  1  -0.00000000  0.66372645  0.34243480  1
+  P  P8  1  0.50000000  0.02335938  1.00000000  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na(CoO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.61405635
+_cell_length_b   4.99349157
+_cell_length_c   5.46641042
+_cell_angle_alpha   62.30525192
+_cell_angle_beta   57.40121894
+_cell_angle_gamma   30.30759591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(CoO2)3
+_chemical_formula_sum   'Na1 Co3 O6'
+_cell_volume   99.96520311
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.20980023  0.96320822  0.42298982  1
+  Co  Co1  1  0.99967075  0.96066120  0.06971357  1
+  Co  Co2  1  0.47957115  0.94857483  0.63000421  1
+  Co  Co3  1  0.66742963  0.97056878  0.02792265  1
+  O  O4  1  0.08412104  0.27236774  0.82705080  1
+  O  O5  1  0.26638730  0.53757231  0.28126195  1
+  O  O6  1  0.40396858  0.30932737  0.83016392  1
+  O  O7  1  0.65936369  0.58335051  0.28716993  1
+  O  O8  1  0.75499713  0.28397912  0.83352788  1
+  O  O9  1  0.83202349  0.79238992  0.28519527  1

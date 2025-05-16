@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiCaAlN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79045067
+_cell_length_b   6.89955196
+_cell_length_c   5.82857297
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.26397941
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaAlN2
+_chemical_formula_sum   'Li4 Ca4 Al4 N8'
+_cell_volume   232.85785040
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.36810558  0.40168738  0.90842962  1
+  Li  Li1  1  0.63189442  0.90168738  0.59157038  1
+  Li  Li2  1  0.63189442  0.59831262  0.09157038  1
+  Li  Li3  1  0.36810558  0.09831262  0.40842962  1
+  Ca  Ca4  1  0.02738255  0.12821077  0.74101554  1
+  Ca  Ca5  1  0.97261745  0.62821077  0.75898446  1
+  Ca  Ca6  1  0.97261745  0.87178923  0.25898446  1
+  Ca  Ca7  1  0.02738255  0.37178923  0.24101554  1
+  Al  Al8  1  0.62081895  0.36024299  0.57328257  1
+  Al  Al9  1  0.37918105  0.86024299  0.92671743  1
+  Al  Al10  1  0.37918105  0.63975701  0.42671743  1
+  Al  Al11  1  0.62081895  0.13975701  0.07328257  1
+  N  N12  1  0.26777125  0.85295221  0.60706301  1
+  N  N13  1  0.73222875  0.35295221  0.89293699  1
+  N  N14  1  0.73222875  0.14704779  0.39293699  1
+  N  N15  1  0.26777125  0.64704779  0.10706301  1
+  N  N16  1  0.28801254  0.39338021  0.56497115  1
+  N  N17  1  0.71198746  0.89338021  0.93502885  1
+  N  N18  1  0.71198746  0.60661979  0.43502885  1
+  N  N19  1  0.28801254  0.10661979  0.06497115  1

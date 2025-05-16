@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ba2Sb2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02114484
+_cell_length_b   6.51727131
+_cell_length_c   7.62946004
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   74.72052591
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Sb2O5
+_chemical_formula_sum   'Ba2 Sb2 O5'
+_cell_volume   192.87677620
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.32408111  0.75000000  0.35183779  1
+  Ba  Ba1  1  0.67770307  0.25000000  0.64459386  1
+  Sb  Sb2  1  0.06992083  0.75000000  0.86015835  1
+  Sb  Sb3  1  0.93058623  0.25000000  0.13882754  1
+  O  O4  1  0.15676125  0.52505744  0.68647750  1
+  O  O5  1  0.84106113  0.47236831  0.31787774  1
+  O  O6  1  0.15676125  0.97494256  0.68647750  1
+  O  O7  1  0.84106113  0.02763169  0.31787774  1
+  O  O8  1  0.52406401  0.75000000  0.95187199  1

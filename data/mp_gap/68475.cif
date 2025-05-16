@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrEu(PPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15158597
+_cell_length_b   4.15077619
+_cell_length_c   8.88322957
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.04217847
+_cell_angle_gamma   60.00644334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEu(PPt)2
+_chemical_formula_sum   'Sr1 Eu1 P2 Pt2'
+_cell_volume   132.57844088
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  -0.00000000  0.50000000  1
+  Eu  Eu1  1  0.00000000  -0.00000000  0.00000000  1
+  P  P2  1  0.33402352  0.33298824  0.23747863  1
+  P  P3  1  0.66597648  0.66701176  0.76252137  1
+  Pt  Pt4  1  0.33391259  0.33304370  0.75649773  1
+  Pt  Pt5  1  0.66608741  0.66695630  0.24350227  1

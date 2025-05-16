@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Co(MoS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20732812
+_cell_length_b   5.93824558
+_cell_length_c   6.40221711
+_cell_angle_alpha   113.99314923
+_cell_angle_beta   104.50625733
+_cell_angle_gamma   89.99999995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(MoS2)2
+_chemical_formula_sum   'Co1 Mo2 S4'
+_cell_volume   107.13110177
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.90224809  0.57165378  0.80449619  1
+  S  S1  1  0.09775191  0.42834622  0.19550381  1
+  S  S2  1  0.63183654  0.97621140  0.26367308  1
+  S  S3  1  0.36816346  0.02378860  0.73632692  1
+  Co  Co4  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo5  1  0.26057398  0.31690877  0.52114796  1
+  Mo  Mo6  1  0.73942602  0.68309123  0.47885204  1

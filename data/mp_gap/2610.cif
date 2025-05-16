@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ba2Zn3(PO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16128803
+_cell_length_b   4.16128777
+_cell_length_c   10.31175710
+_cell_angle_alpha   101.64071629
+_cell_angle_beta   101.64071666
+_cell_angle_gamma   89.99999718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Zn3(PO)2
+_chemical_formula_sum   'Ba2 Zn3 P2 O2'
+_cell_volume   171.13758490
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.59201021  0.59201021  0.18402042  1
+  Ba  Ba1  1  0.40798979  0.40798979  0.81597958  1
+  Zn  Zn2  1  -0.00000000  -0.00000000  0.00000000  1
+  Zn  Zn3  1  0.75000000  0.25000000  0.50000000  1
+  Zn  Zn4  1  0.25000000  0.75000000  0.50000000  1
+  P  P5  1  0.17870376  0.17870376  0.35740751  1
+  P  P6  1  0.82129624  0.82129624  0.64259249  1
+  O  O7  1  -0.00000000  0.50000000  0.00000000  1
+  O  O8  1  0.50000000  -0.00000000  0.00000000  1

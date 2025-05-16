@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Si5(H2Cl)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18884133
+_cell_length_b   7.51525529
+_cell_length_c   7.51525529
+_cell_angle_alpha   76.77622375
+_cell_angle_beta   61.42666220
+_cell_angle_gamma   61.42666220
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si5(H2Cl)4
+_chemical_formula_sum   'Si5 H8 Cl4'
+_cell_volume   313.14019260
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.75000000  0.50000000  0.50000000  1
+  Si  Si1  1  0.14003805  0.37789958  0.23967851  1
+  Si  Si2  1  0.75761614  0.62210042  0.76032149  1
+  Si  Si3  1  0.62028344  0.23967851  0.62210042  1
+  Si  Si4  1  0.48206237  0.76032149  0.37789958  1
+  H  H5  1  0.20960772  0.19471539  0.13464242  1
+  H  H6  1  0.53896553  0.80528461  0.86535758  1
+  H  H7  1  0.65574986  0.13464242  0.80528461  1
+  H  H8  1  0.59567689  0.86535758  0.19471539  1
+  H  H9  1  0.31454949  0.33903312  0.31462043  1
+  H  H10  1  0.96820304  0.66096688  0.68537957  1
+  H  H11  1  0.37083008  0.31462043  0.66096688  1
+  H  H12  1  0.34641740  0.68537957  0.33903312  1
+  Cl  Cl13  1  0.17054634  0.60204533  0.01723482  1
+  Cl  Cl14  1  0.78982649  0.39795467  0.98276518  1
+  Cl  Cl15  1  0.81221884  0.01723482  0.39795467  1
+  Cl  Cl16  1  0.22740833  0.98276518  0.60204533  1

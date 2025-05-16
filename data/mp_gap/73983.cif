@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ta10Al6B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29210603
+_cell_length_b   7.84161059
+_cell_length_c   7.84161080
+_cell_angle_alpha   60.00466824
+_cell_angle_beta   89.99916933
+_cell_angle_gamma   90.00083068
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta10Al6B
+_chemical_formula_sum   'Ta10 Al6 B1'
+_cell_volume   281.83190141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000079  0.33335213  0.33336292  1
+  Ta  Ta1  1  0.50000079  0.66663708  0.66664787  1
+  Ta  Ta2  1  -0.00000020  0.66669612  0.66669392  1
+  Ta  Ta3  1  -0.00000020  0.33330608  0.33330388  1
+  Ta  Ta4  1  0.75783502  0.23872537  0.76127463  1
+  Ta  Ta5  1  0.75796048  0.76118355  0.00001899  1
+  Ta  Ta6  1  0.75796048  0.99998101  0.23881645  1
+  Ta  Ta7  1  0.24215593  0.76127203  0.23872797  1
+  Ta  Ta8  1  0.24204427  0.23881886  0.99997405  1
+  Ta  Ta9  1  0.24204427  0.00002595  0.76118114  1
+  Al  Al10  1  0.74781883  0.59879872  0.40120128  1
+  Al  Al11  1  0.74761980  0.40112260  0.00002881  1
+  Al  Al12  1  0.74761980  0.99997119  0.59887740  1
+  Al  Al13  1  0.25217603  0.40118876  0.59881124  1
+  Al  Al14  1  0.25238204  0.59887485  0.99996379  1
+  Al  Al15  1  0.25238204  0.00003621  0.40112515  1
+  B  B16  1  0.49999982  0.00000950  -0.00000950  1

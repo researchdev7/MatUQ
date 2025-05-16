@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Eu2C(NCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22697989
+_cell_length_b   5.27970388
+_cell_length_c   7.24251766
+_cell_angle_alpha   97.54359590
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   113.59722425
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2C(NCl)2
+_chemical_formula_sum   'Eu2 C1 N2 Cl2'
+_cell_volume   146.58953598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.31808867  0.63617734  0.72882671  1
+  Eu  Eu1  1  0.68191133  0.36382266  0.27117329  1
+  C  C2  1  0.00000000  0.00000000  0.50000000  1
+  N  N3  1  0.11640394  0.23280788  0.44748310  1
+  N  N4  1  0.88359606  0.76719212  0.55251690  1
+  Cl  Cl5  1  0.62964795  0.25929591  0.85050318  1
+  Cl  Cl6  1  0.37035205  0.74070409  0.14949682  1

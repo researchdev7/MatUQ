@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TaSi4Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71636160
+_cell_length_b   4.74551610
+_cell_length_c   13.12593495
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.95563402
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaSi4Mo
+_chemical_formula_sum   'Ta3 Si12 Mo3'
+_cell_volume   254.53376860
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000000  0.50000000  0.75045392  1
+  Ta  Ta1  1  -0.00000000  0.50000000  0.41649566  1
+  Ta  Ta2  1  -0.00000000  0.50000000  0.91644667  1
+  Si  Si3  1  0.83352117  0.67596095  0.08411855  1
+  Si  Si4  1  0.84151304  0.67984416  0.58339617  1
+  Si  Si5  1  0.83557872  0.15916951  0.24907087  1
+  Si  Si6  1  0.83792200  0.15815769  0.74896798  1
+  Si  Si7  1  0.32461355  0.16427494  0.41663006  1
+  Si  Si8  1  0.32024887  0.15646986  0.91782078  1
+  Si  Si9  1  0.16647883  0.32403905  0.08411855  1
+  Si  Si10  1  0.15848696  0.32015584  0.58339617  1
+  Si  Si11  1  0.16442128  0.84083049  0.24907087  1
+  Si  Si12  1  0.16207800  0.84184231  0.74896798  1
+  Si  Si13  1  0.67538645  0.83572506  0.41663006  1
+  Si  Si14  1  0.67975113  0.84353014  0.91782078  1
+  Mo  Mo15  1  0.50000000  -0.00000000  0.08362592  1
+  Mo  Mo16  1  0.50000000  -0.00000000  0.58346187  1
+  Mo  Mo17  1  0.50000000  0.50000000  0.24950714  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrTiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29459162
+_cell_length_b   5.54055159
+_cell_length_c   8.55593548
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.55408573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiRh
+_chemical_formula_sum   'Zr4 Ti4 Rh4'
+_cell_volume   213.87856763
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.65693589  0.32847847  0.56617324  1
+  Zr  Zr1  1  0.32904324  0.66451187  0.45144774  1
+  Zr  Zr2  1  0.32904324  0.66451187  0.04855226  1
+  Zr  Zr3  1  0.65693589  0.32847847  0.93382676  1
+  Ti  Ti4  1  0.68882553  0.84438679  0.75000000  1
+  Ti  Ti5  1  0.82623019  0.65213515  0.25000000  1
+  Ti  Ti6  1  0.82614085  0.17405246  0.25000000  1
+  Ti  Ti7  1  0.33114938  0.16554316  0.25000000  1
+  Rh  Rh8  1  0.98840965  0.99423323  0.49172560  1
+  Rh  Rh9  1  0.98840965  0.99423323  0.00827440  1
+  Rh  Rh10  1  0.18944009  0.35007994  0.75000000  1
+  Rh  Rh11  1  0.18943639  0.83935537  0.75000000  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CrFe3As4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45428599
+_cell_length_b   5.38382541
+_cell_length_c   6.03762653
+_cell_angle_alpha   90.07575685
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrFe3As4
+_chemical_formula_sum   'Cr1 Fe3 As4'
+_cell_volume   112.28328881
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.75000000  0.49705137  0.70211984  1
+  Fe  Fe1  1  0.75000000  0.00351114  0.79252710  1
+  Fe  Fe2  1  0.25000000  0.50265227  0.30619543  1
+  Fe  Fe3  1  0.25000000  0.00343889  0.20228160  1
+  As  As4  1  0.75000000  0.29206567  0.08709315  1
+  As  As5  1  0.75000000  0.80611439  0.41109919  1
+  As  As6  1  0.25000000  0.70743848  0.92349327  1
+  As  As7  1  0.25000000  0.18772779  0.57519042  1

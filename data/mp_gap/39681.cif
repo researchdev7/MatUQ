@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErAlCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28943528
+_cell_length_b   5.28933164
+_cell_length_c   8.35610814
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.89115080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErAlCo
+_chemical_formula_sum   'Er4 Al4 Co4'
+_cell_volume   204.25610748
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.33390652  0.33388239  0.54679982  1
+  Er  Er1  1  0.67060075  0.67057544  0.42494544  1
+  Er  Er2  1  0.67060075  0.67057544  0.07505456  1
+  Er  Er3  1  0.33390652  0.33388239  0.95320018  1
+  Al  Al4  1  0.99650414  0.99654248  0.47779091  1
+  Al  Al5  1  0.99650414  0.99654248  0.02220909  1
+  Al  Al6  1  0.83458966  0.33927871  0.75000000  1
+  Al  Al7  1  0.33931028  0.83458950  0.75000000  1
+  Co  Co8  1  0.83358464  0.83359601  0.75000000  1
+  Co  Co9  1  0.17416964  0.64251170  0.25000000  1
+  Co  Co10  1  0.64245142  0.17416610  0.25000000  1
+  Co  Co11  1  0.17387156  0.17385734  0.25000000  1

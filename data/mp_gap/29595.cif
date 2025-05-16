@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mn3Fe2SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34408420
+_cell_length_b   6.34408420
+_cell_length_c   7.41388536
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.51547730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Fe2SiC
+_chemical_formula_sum   'Mn12 Fe8 Si4 C4'
+_cell_volume   290.12628544
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.14678820  0.14678820  0.41170763  1
+  Mn  Mn1  1  0.85321180  0.85321180  0.91170763  1
+  Mn  Mn2  1  0.48610594  0.19088172  0.22491963  1
+  Mn  Mn3  1  0.51389406  0.80911828  0.72491963  1
+  Mn  Mn4  1  0.80911828  0.51389406  0.72491963  1
+  Mn  Mn5  1  0.19088172  0.48610594  0.22491963  1
+  Mn  Mn6  1  0.46402066  0.46402066  0.92169403  1
+  Mn  Mn7  1  0.53597934  0.53597934  0.42169403  1
+  Mn  Mn8  1  0.51571595  0.81357750  0.09843803  1
+  Mn  Mn9  1  0.48428405  0.18642250  0.59843803  1
+  Mn  Mn10  1  0.18642250  0.48428405  0.59843803  1
+  Mn  Mn11  1  0.81357750  0.51571595  0.09843803  1
+  Fe  Fe12  1  0.69258802  0.93353503  0.40999084  1
+  Fe  Fe13  1  0.30741198  0.06646497  0.90999084  1
+  Fe  Fe14  1  0.06646497  0.30741198  0.90999084  1
+  Fe  Fe15  1  0.93353503  0.69258802  0.40999084  1
+  Fe  Fe16  1  0.12578879  0.87845922  0.16107829  1
+  Fe  Fe17  1  0.87421121  0.12154078  0.66107829  1
+  Fe  Fe18  1  0.12154078  0.87421121  0.66107829  1
+  Fe  Fe19  1  0.87845922  0.12578879  0.16107829  1
+  Si  Si20  1  0.32757867  0.82207391  0.41136671  1
+  Si  Si21  1  0.67242133  0.17792609  0.91136671  1
+  Si  Si22  1  0.17792609  0.67242133  0.91136671  1
+  Si  Si23  1  0.82207391  0.32757867  0.41136671  1
+  C  C24  1  0.19159670  0.19159670  0.69865475  1
+  C  C25  1  0.80840330  0.80840330  0.19865475  1
+  C  C26  1  0.19633764  0.19633764  0.12135659  1
+  C  C27  1  0.80366236  0.80366236  0.62135659  1

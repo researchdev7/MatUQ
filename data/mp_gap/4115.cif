@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YbAlO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39708038
+_cell_length_b   3.39737888
+_cell_length_c   11.91768001
+_cell_angle_alpha   89.99748291
+_cell_angle_beta   89.99967664
+_cell_angle_gamma   119.99806139
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAlO3
+_chemical_formula_sum   'Yb2 Al2 O6'
+_cell_volume   119.11889087
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.99999550  0.99982432  -0.00001310  1
+  Yb  Yb1  1  0.99999610  0.00020859  0.50001488  1
+  Al  Al2  1  0.33333086  0.66664497  0.25008381  1
+  Al  Al3  1  0.66668351  0.33340454  0.74991655  1
+  O  O4  1  0.33329535  0.66650593  0.10003504  1
+  O  O5  1  0.33332819  0.66705874  0.39983681  1
+  O  O6  1  0.99997400  0.99983802  0.25001951  1
+  O  O7  1  0.00004142  0.00022171  0.74998020  1
+  O  O8  1  0.66668571  0.33302810  0.89999813  1
+  O  O9  1  0.66666836  0.33346506  0.60012917  1

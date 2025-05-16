@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaFeCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33539758
+_cell_length_b   10.05616305
+_cell_length_c   10.55877332
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaFeCl4
+_chemical_formula_sum   'Na4 Fe4 Cl16'
+_cell_volume   672.69724197
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.31127320  0.78540562  0.88308497  1
+  Na  Na1  1  0.68872680  0.71459438  0.38308497  1
+  Na  Na2  1  0.18872680  0.28540562  0.11691503  1
+  Na  Na3  1  0.81127320  0.21459438  0.61691503  1
+  Cl  Cl4  1  0.57652063  0.82827565  0.12769295  1
+  Cl  Cl5  1  0.42347937  0.67172435  0.62769295  1
+  Cl  Cl6  1  0.92347937  0.32827565  0.87230705  1
+  Cl  Cl7  1  0.07652063  0.17172435  0.37230705  1
+  Cl  Cl8  1  0.44172251  0.50907513  0.96618017  1
+  Cl  Cl9  1  0.94172251  0.49092487  0.53381983  1
+  Cl  Cl10  1  0.05827749  0.00907513  0.03381983  1
+  Cl  Cl11  1  0.55827749  0.99092487  0.46618017  1
+  Cl  Cl12  1  0.89728104  0.68551511  0.85276203  1
+  Cl  Cl13  1  0.39728104  0.31448489  0.64723797  1
+  Cl  Cl14  1  0.60271896  0.18551511  0.14723797  1
+  Cl  Cl15  1  0.10271896  0.81448489  0.35276203  1
+  Cl  Cl16  1  0.07421464  0.98557490  0.65510381  1
+  Cl  Cl17  1  0.57421464  0.01442510  0.84489619  1
+  Cl  Cl18  1  0.42578536  0.48557490  0.34489619  1
+  Cl  Cl19  1  0.92578536  0.51442510  0.15510381  1
+  Fe  Fe20  1  0.20827472  0.98966946  0.46144568  1
+  Fe  Fe21  1  0.70827472  0.01033054  0.03855432  1
+  Fe  Fe22  1  0.29172528  0.48966946  0.53855432  1
+  Fe  Fe23  1  0.79172528  0.51033054  0.96144568  1

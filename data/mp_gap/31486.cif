@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Nb4SiC3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20603943
+_cell_length_b   3.20603943
+_cell_length_c   23.00489868
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00060687
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb4SiC3
+_chemical_formula_sum   'Nb8 Si2 C6'
+_cell_volume   204.77928339
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.66667001  0.33332999  0.55766079  1
+  Nb  Nb1  1  0.33332999  0.66667001  0.44233921  1
+  Nb  Nb2  1  0.33332999  0.66667001  0.05766079  1
+  Nb  Nb3  1  0.66667001  0.33332999  0.94233921  1
+  Nb  Nb4  1  0.99999582  0.00000418  0.66519833  1
+  Nb  Nb5  1  0.00000418  0.99999582  0.33480167  1
+  Nb  Nb6  1  0.00000418  0.99999582  0.16519833  1
+  Nb  Nb7  1  0.99999582  0.00000418  0.83480167  1
+  Si  Si8  1  0.66668163  0.33331837  0.75000000  1
+  Si  Si9  1  0.33331837  0.66668163  0.25000000  1
+  C  C10  1  0.00000000  -0.00000000  0.50000000  1
+  C  C11  1  0.00000000  -0.00000000  0.00000000  1
+  C  C12  1  0.33333262  0.66666738  0.61347432  1
+  C  C13  1  0.66666738  0.33333262  0.38652568  1
+  C  C14  1  0.66666738  0.33333262  0.11347432  1
+  C  C15  1  0.33333262  0.66666738  0.88652568  1

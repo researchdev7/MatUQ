@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ca3MnCoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40087347
+_cell_length_b   6.40087413
+_cell_length_c   6.40087366
+_cell_angle_alpha   92.17151810
+_cell_angle_beta   92.17151827
+_cell_angle_gamma   92.17152089
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3MnCoO6
+_chemical_formula_sum   'Ca6 Mn2 Co2 O12'
+_cell_volume   261.67168877
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.38876822  0.11123178  0.75000000  1
+  Ca  Ca1  1  0.61123178  0.88876822  0.25000000  1
+  Ca  Ca2  1  0.11123178  0.75000000  0.38876822  1
+  Ca  Ca3  1  0.75000000  0.38876822  0.11123178  1
+  Ca  Ca4  1  0.88876822  0.25000000  0.61123178  1
+  Ca  Ca5  1  0.25000000  0.61123178  0.88876822  1
+  Mn  Mn6  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn7  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co8  1  0.25000000  0.25000000  0.25000000  1
+  Co  Co9  1  0.75000000  0.75000000  0.75000000  1
+  O  O10  1  0.45456198  0.78736693  0.58360347  1
+  O  O11  1  0.08360347  0.28736693  0.95456198  1
+  O  O12  1  0.58360347  0.45456198  0.78736693  1
+  O  O13  1  0.91639653  0.71263307  0.04543802  1
+  O  O14  1  0.71263307  0.04543802  0.91639653  1
+  O  O15  1  0.78736693  0.58360347  0.45456198  1
+  O  O16  1  0.28736693  0.95456198  0.08360347  1
+  O  O17  1  0.54543802  0.21263307  0.41639653  1
+  O  O18  1  0.21263307  0.41639653  0.54543802  1
+  O  O19  1  0.95456198  0.08360347  0.28736693  1
+  O  O20  1  0.41639653  0.54543802  0.21263307  1
+  O  O21  1  0.04543802  0.91639653  0.71263307  1

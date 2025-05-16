@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_FeOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11705936
+_cell_length_b   4.70340417
+_cell_length_c   5.77287208
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.40973592
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeOF
+_chemical_formula_sum   'Fe4 O4 F4'
+_cell_volume   138.89711282
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.22055411  0.47703049  0.66549936  1
+  Fe  Fe1  1  0.22055411  0.02296951  0.16549936  1
+  Fe  Fe2  1  0.77944589  0.97703049  0.83450064  1
+  Fe  Fe3  1  0.77944589  0.52296951  0.33450064  1
+  O  O4  1  0.08068266  0.22445585  0.89131945  1
+  O  O5  1  0.08068266  0.27554415  0.39131945  1
+  O  O6  1  0.91931734  0.72445585  0.60868055  1
+  O  O7  1  0.91931734  0.77554415  0.10868055  1
+  F  F8  1  0.42542742  0.76558821  0.87404809  1
+  F  F9  1  0.42542742  0.73441179  0.37404809  1
+  F  F10  1  0.57457258  0.26558821  0.62595191  1
+  F  F11  1  0.57457258  0.23441179  0.12595191  1

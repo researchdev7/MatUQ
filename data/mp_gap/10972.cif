@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HfCoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42594740
+_cell_length_b   7.82319332
+_cell_length_c   5.40062404
+_cell_angle_alpha   89.99997249
+_cell_angle_beta   90.00006997
+_cell_angle_gamma   89.99996971
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCoO3
+_chemical_formula_sum   'Hf4 Co4 O12'
+_cell_volume   229.24696085
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.99999987  0.99999949  0.50000085  1
+  Hf  Hf1  1  -0.00000001  0.49999982  0.49999977  1
+  Hf  Hf2  1  0.49999953  -0.00000004  0.00000009  1
+  Hf  Hf3  1  0.49999968  0.50000050  0.99999891  1
+  Co  Co4  1  0.02677107  0.25000018  0.01484948  1
+  Co  Co5  1  0.47322730  0.75000229  0.51484908  1
+  Co  Co6  1  0.52676957  0.24999916  0.48514808  1
+  Co  Co7  1  0.97322484  0.74999648  0.98515089  1
+  O  O8  1  0.08655061  0.75000154  0.62013922  1
+  O  O9  1  0.16748292  0.56591834  0.16514076  1
+  O  O10  1  0.16748231  0.93408353  0.16514004  1
+  O  O11  1  0.33251819  0.06591767  0.66514116  1
+  O  O12  1  0.33251689  0.43408186  0.66513982  1
+  O  O13  1  0.41345343  0.25000054  0.12013908  1
+  O  O14  1  0.58655011  0.74999790  0.87985978  1
+  O  O15  1  0.66748334  0.56591855  0.33485894  1
+  O  O16  1  0.66748234  0.93408153  0.33485917  1
+  O  O17  1  0.83251627  0.06591800  0.83486103  1
+  O  O18  1  0.83251834  0.43408288  0.83486005  1
+  O  O19  1  0.91345339  0.24999977  0.37986382  1

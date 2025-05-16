@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SmInO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95257063
+_cell_length_b   8.23891660
+_cell_length_c   5.62297265
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmInO3
+_chemical_formula_sum   'Sm4 In4 O12'
+_cell_volume   275.76594621
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.06453719  0.25000000  0.97958316  1
+  Sm  Sm1  1  0.43546281  0.75000000  0.47958316  1
+  Sm  Sm2  1  0.56453719  0.25000000  0.52041684  1
+  Sm  Sm3  1  0.93546281  0.75000000  0.02041684  1
+  In  In4  1  0.00000000  0.00000000  0.50000000  1
+  In  In5  1  0.00000000  0.50000000  0.50000000  1
+  In  In6  1  0.50000000  0.00000000  0.00000000  1
+  In  In7  1  0.50000000  0.50000000  0.00000000  1
+  O  O8  1  0.06224829  0.75000000  0.63467806  1
+  O  O9  1  0.19049120  0.56838003  0.18738065  1
+  O  O10  1  0.19049120  0.93161997  0.18738065  1
+  O  O11  1  0.30950880  0.43161997  0.68738065  1
+  O  O12  1  0.30950880  0.06838003  0.68738065  1
+  O  O13  1  0.43775171  0.25000000  0.13467806  1
+  O  O14  1  0.56224829  0.75000000  0.86532194  1
+  O  O15  1  0.69049120  0.93161997  0.31261935  1
+  O  O16  1  0.69049120  0.56838003  0.31261935  1
+  O  O17  1  0.80950880  0.06838003  0.81261935  1
+  O  O18  1  0.80950880  0.43161997  0.81261935  1
+  O  O19  1  0.93775171  0.25000000  0.36532194  1

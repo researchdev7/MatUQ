@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaTeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00727629
+_cell_length_b   7.49535170
+_cell_length_c   11.21033143
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTeS3
+_chemical_formula_sum   'Ba4 Te4 S12'
+_cell_volume   588.78903020
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.48763889  0.12379429  0.84020282  1
+  S  S1  1  0.98763889  0.87620571  0.15979718  1
+  S  S2  1  0.01236111  0.62379429  0.65979718  1
+  S  S3  1  0.51236111  0.37620571  0.34020282  1
+  S  S4  1  0.51236111  0.87620571  0.15979718  1
+  S  S5  1  0.01236111  0.12379429  0.84020282  1
+  S  S6  1  0.98763889  0.37620571  0.34020282  1
+  S  S7  1  0.48763889  0.62379429  0.65979718  1
+  S  S8  1  0.75000000  0.62818875  0.94209277  1
+  S  S9  1  0.25000000  0.37181125  0.05790723  1
+  S  S10  1  0.75000000  0.12818875  0.55790723  1
+  S  S11  1  0.25000000  0.87181125  0.44209277  1
+  Te  Te12  1  0.25000000  0.02521264  0.25506974  1
+  Te  Te13  1  0.75000000  0.97478736  0.74493026  1
+  Te  Te14  1  0.25000000  0.52521264  0.24493026  1
+  Te  Te15  1  0.75000000  0.47478736  0.75506974  1
+  Ba  Ba16  1  0.25000000  0.75708172  0.91368771  1
+  Ba  Ba17  1  0.75000000  0.24291828  0.08631229  1
+  Ba  Ba18  1  0.25000000  0.25708172  0.58631229  1
+  Ba  Ba19  1  0.75000000  0.74291828  0.41368771  1

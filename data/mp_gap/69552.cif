@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Mn4Fe8Si3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97139569
+_cell_length_b   3.97139569
+_cell_length_c   13.18295113
+_cell_angle_alpha   81.33678563
+_cell_angle_beta   98.66321437
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4Fe8Si3Ge
+_chemical_formula_sum   'Mn4 Fe8 Si3 Ge1'
+_cell_volume   177.32063083
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.24965586  0.75034414  0.74896759  1
+  Mn  Mn1  1  0.50034414  0.49965586  0.50103241  1
+  Mn  Mn2  1  0.99974816  0.00025184  0.99924447  1
+  Mn  Mn3  1  0.75025184  0.24974816  0.25075553  1
+  Fe  Fe4  1  0.93744065  0.06255935  0.81232194  1
+  Fe  Fe5  1  0.18761418  0.81238582  0.56284255  1
+  Fe  Fe6  1  0.68622042  0.31377958  0.05866127  1
+  Fe  Fe7  1  0.43910855  0.56089145  0.31732566  1
+  Fe  Fe8  1  0.31089145  0.68910855  0.93267434  1
+  Fe  Fe9  1  0.56238582  0.43761418  0.68715745  1
+  Fe  Fe10  1  0.06377958  0.93622042  0.19133873  1
+  Fe  Fe11  1  0.81255935  0.18744065  0.43767806  1
+  Si  Si12  1  0.12529488  0.87470512  0.37588465  1
+  Si  Si13  1  0.87500000  0.12500000  0.62500000  1
+  Si  Si14  1  0.62470512  0.37529488  0.87411535  1
+  Ge  Ge15  1  0.37500000  0.62500000  0.12500000  1

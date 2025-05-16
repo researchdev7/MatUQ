@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2CuGe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07611301
+_cell_length_b   4.06945373
+_cell_length_c   10.88388368
+_cell_angle_alpha   100.77476337
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2CuGe6
+_chemical_formula_sum   'Tb2 Cu1 Ge6'
+_cell_volume   177.35407717
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00364281  0.00728561  1
+  Tb  Tb1  1  -0.00000000  0.67034232  0.34068463  1
+  Cu  Cu2  1  0.50000000  0.22428813  0.44857626  1
+  Ge  Ge3  1  0.00000000  0.28477095  0.56954191  1
+  Ge  Ge4  1  -0.00000000  0.40034573  0.80069146  1
+  Ge  Ge5  1  0.50000000  0.54616946  0.09233891  1
+  Ge  Ge6  1  0.50000000  0.11560110  0.23120221  1
+  Ge  Ge7  1  0.50000000  0.90103882  0.80207765  1
+  Ge  Ge8  1  0.50000000  0.78480068  0.56960136  1

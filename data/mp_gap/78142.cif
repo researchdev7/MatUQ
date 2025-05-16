@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ba3Fe2(Ge2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34900032
+_cell_length_b   8.66807833
+_cell_length_c   8.66840497
+_cell_angle_alpha   120.36307859
+_cell_angle_beta   90.69282451
+_cell_angle_gamma   89.30899189
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Fe2(Ge2O7)2
+_chemical_formula_sum   'Ba3 Fe2 Ge4 O14'
+_cell_volume   346.75491832
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  -0.00001679  0.57487929  0.57488493  1
+  Ba  Ba1  1  0.00423418  0.41807416  0.00382089  1
+  Ba  Ba2  1  0.99578388  0.00382506  0.41809155  1
+  Fe  Fe3  1  0.00000328  0.00302802  0.00303568  1
+  Fe  Fe4  1  0.50000950  0.23620820  0.23621586  1
+  Ge  Ge5  1  0.49368210  0.75499549  0.00152383  1
+  Ge  Ge6  1  0.50630349  0.00150739  0.75495656  1
+  Ge  Ge7  1  0.50848375  0.33423359  0.66771967  1
+  Ge  Ge8  1  0.49153685  0.66768936  0.33417878  1
+  O  O9  1  0.75845630  0.88428145  0.77814716  1
+  O  O10  1  0.77511590  0.21593400  0.09580775  1
+  O  O11  1  0.74948300  0.89334747  0.10803387  1
+  O  O12  1  0.25050023  0.10802476  0.89332601  1
+  O  O13  1  0.22488688  0.09581097  0.21595368  1
+  O  O14  1  0.24156649  0.77813475  0.88426987  1
+  O  O15  1  0.18596253  0.33435309  0.67069704  1
+  O  O16  1  0.81406421  0.67070455  0.33437225  1
+  O  O17  1  0.35427770  0.84468189  0.53874631  1
+  O  O18  1  0.34253855  0.47112083  0.29875945  1
+  O  O19  1  0.35007282  0.70659860  0.16503662  1
+  O  O20  1  0.64992246  0.16504224  0.70661156  1
+  O  O21  1  0.65744104  0.29876828  0.47112610  1
+  O  O22  1  0.64569165  0.53875656  0.84468458  1

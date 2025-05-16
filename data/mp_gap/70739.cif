@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaLiV2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93827967
+_cell_length_b   7.31949978
+_cell_length_c   7.31949978
+_cell_angle_alpha   85.55163299
+_cell_angle_beta   73.23159348
+_cell_angle_gamma   73.23159348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiV2O6
+_chemical_formula_sum   'Na2 Li2 V4 O12'
+_cell_volume   291.65766969
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75000000  0.09834480  0.90165520  1
+  Na  Na1  1  0.25000000  0.90165520  0.09834480  1
+  Li  Li2  1  0.25000000  0.22612256  0.77387744  1
+  Li  Li3  1  0.75000000  0.77387744  0.22612256  1
+  V  V4  1  0.79726076  0.61198644  0.79173868  1
+  V  V5  1  0.70273924  0.20826132  0.38801356  1
+  V  V6  1  0.20273924  0.38801356  0.20826132  1
+  V  V7  1  0.29726076  0.79173868  0.61198644  1
+  O  O8  1  0.67811342  0.76729889  0.97789241  1
+  O  O9  1  0.82188658  0.02210759  0.23270111  1
+  O  O10  1  0.32188658  0.23270111  0.02210759  1
+  O  O11  1  0.17811342  0.97789241  0.76729889  1
+  O  O12  1  0.88254037  0.38611347  0.86450481  1
+  O  O13  1  0.61745963  0.13549519  0.61388653  1
+  O  O14  1  0.11745963  0.61388653  0.13549519  1
+  O  O15  1  0.38254037  0.86450481  0.38611347  1
+  O  O16  1  0.56749279  0.63666811  0.66601364  1
+  O  O17  1  0.93250721  0.33398636  0.36333189  1
+  O  O18  1  0.43250721  0.36333189  0.33398636  1
+  O  O19  1  0.06749279  0.66601364  0.63666811  1

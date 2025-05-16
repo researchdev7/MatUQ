@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba2Cu(SCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59544684
+_cell_length_b   6.59333021
+_cell_length_c   9.20183270
+_cell_angle_alpha   90.02949533
+_cell_angle_beta   111.00053767
+_cell_angle_gamma   89.91769728
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Cu(SCl)2
+_chemical_formula_sum   'Ba4 Cu2 S4 Cl4'
+_cell_volume   373.57096101
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.12689712  0.50000000  0.25379424  1
+  Ba  Ba1  1  0.62689451  0.00000000  0.25378902  1
+  Ba  Ba2  1  0.87310288  0.50000000  0.74620576  1
+  Ba  Ba3  1  0.37310549  1.00000000  0.74621098  1
+  Cu  Cu4  1  0.00000000  -0.00000000  0.00000000  1
+  Cu  Cu5  1  0.50000000  0.50000000  0.00000000  1
+  S  S6  1  0.75036603  0.24963375  1.00000000  1
+  S  S7  1  0.24963397  0.75036625  0.00000000  1
+  S  S8  1  0.25032166  0.25033584  1.00000000  1
+  S  S9  1  0.74967834  0.74966416  0.00000000  1
+  Cl  Cl10  1  0.18505747  1.00000000  0.37011395  1
+  Cl  Cl11  1  0.81494253  0.00000000  0.62988605  1
+  Cl  Cl12  1  0.68506480  0.50000000  0.37012859  1
+  Cl  Cl13  1  0.31493520  0.50000000  0.62987141  1

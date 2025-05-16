@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NaTaCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36591519
+_cell_length_b   7.35654357
+_cell_length_c   7.34832049
+_cell_angle_alpha   59.95477076
+_cell_angle_beta   59.87847610
+_cell_angle_gamma   59.95498165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaTaCl6
+_chemical_formula_sum   'K2 Na1 Ta1 Cl6'
+_cell_volume   281.11056242
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.24987685  0.24998207  0.25033853  1
+  K  K1  1  0.75012401  0.75001815  0.74966111  1
+  Na  Na2  1  0.49999989  0.49999992  0.50000004  1
+  Ta  Ta3  1  -0.00000003  0.00000004  0.00000003  1
+  Cl  Cl4  1  0.23743775  0.76201884  0.23823366  1
+  Cl  Cl5  1  0.76216969  0.76203978  0.23836437  1
+  Cl  Cl6  1  0.76256204  0.23798111  0.76176639  1
+  Cl  Cl7  1  0.76188409  0.23772406  0.23834779  1
+  Cl  Cl8  1  0.23811572  0.76227589  0.76165222  1
+  Cl  Cl9  1  0.23782998  0.23796014  0.76163587  1

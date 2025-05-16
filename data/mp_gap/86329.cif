@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Er2Cr2C3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.33572705
+_cell_length_b   5.48582556
+_cell_length_c   5.50824168
+_cell_angle_alpha   105.43047701
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   107.69990831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Cr2C3
+_chemical_formula_sum   'Er2 Cr2 C3'
+_cell_volume   92.20385945
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.39204574  0.78409147  0.18384200  1
+  Er  Er1  1  0.60795426  0.21590853  0.81615800  1
+  Cr  Cr2  1  0.15536444  0.31072887  0.38717349  1
+  Cr  Cr3  1  0.84463556  0.68927113  0.61282651  1
+  C  C4  1  0.00000000  0.00000000  0.50000000  1
+  C  C5  1  0.71786250  0.43572499  0.26736710  1
+  C  C6  1  0.28213750  0.56427501  0.73263290  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuSnHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98644351
+_cell_length_b   4.98290611
+_cell_length_c   7.87916126
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.02348623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuSnHg
+_chemical_formula_sum   'Eu2 Sn2 Hg2'
+_cell_volume   169.50456490
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00011418  0.00022837  0.75096787  1
+  Eu  Eu1  1  0.99988582  0.99977163  0.25096787  1
+  Sn  Sn2  1  0.66672937  0.33345873  0.96441613  1
+  Sn  Sn3  1  0.33327063  0.66654127  0.46441613  1
+  Hg  Hg4  1  0.66677843  0.33355686  0.55461600  1
+  Hg  Hg5  1  0.33322157  0.66644314  0.05461600  1

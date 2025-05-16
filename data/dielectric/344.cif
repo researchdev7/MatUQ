@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LuBO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60034750
+_cell_length_b   4.60046283
+_cell_length_c   7.96624790
+_cell_angle_alpha   90.01613355
+_cell_angle_beta   89.98579233
+_cell_angle_gamma   135.72867239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuBO3
+_chemical_formula_sum   'Lu2 B2 O6'
+_cell_volume   117.68927256
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.00023507  0.99985521  0.00000964  1
+  Lu  Lu1  1  0.00007080  0.99995272  0.49999613  1
+  B  B2  1  0.28198343  0.71800920  0.25081292  1
+  B  B3  1  0.71800157  0.28198908  0.74916822  1
+  O  O4  1  0.12102958  0.87898691  0.25017492  1
+  O  O5  1  0.36502780  0.63488918  0.09999256  1
+  O  O6  1  0.36452852  0.63554307  0.40173629  1
+  O  O7  1  0.63537072  0.36468937  0.59833637  1
+  O  O8  1  0.63482462  0.36511651  0.89994882  1
+  O  O9  1  0.87892790  0.12106975  0.74982513  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pr3(AgSn)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73127738
+_cell_length_b   7.43149544
+_cell_length_c   8.99606668
+_cell_angle_alpha   114.39603275
+_cell_angle_beta   105.24598597
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3(AgSn)4
+_chemical_formula_sum   'Pr3 Ag4 Sn4'
+_cell_volume   275.79388786
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.50000000  -0.00000000  1
+  Pr  Pr1  1  0.87065909  0.87065909  0.74131818  1
+  Pr  Pr2  1  0.12934091  0.12934091  0.25868182  1
+  Ag  Ag3  1  0.67028872  0.47581843  0.34057745  1
+  Ag  Ag4  1  0.67028872  0.86475902  0.34057745  1
+  Ag  Ag5  1  0.32971128  0.13524098  0.65942255  1
+  Ag  Ag6  1  0.32971128  0.52418157  0.65942255  1
+  Sn  Sn7  1  0.78500944  0.28500944  0.57001887  1
+  Sn  Sn8  1  0.21499056  0.71499056  0.42998113  1
+  Sn  Sn9  1  0.50000000  0.80610366  -0.00000000  1
+  Sn  Sn10  1  0.50000000  0.19389634  -0.00000000  1

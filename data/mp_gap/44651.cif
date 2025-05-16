@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Na2SrAl4(B2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95289966
+_cell_length_b   4.95287562
+_cell_length_c   15.98951979
+_cell_angle_alpha   90.00116521
+_cell_angle_beta   90.00029517
+_cell_angle_gamma   60.00022308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SrAl4(B2O7)2
+_chemical_formula_sum   'Na2 Sr1 Al4 B4 O14'
+_cell_volume   339.69095293
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99999306  0.00000279  0.70584723  1
+  Na  Na1  1  0.99998793  0.99999498  0.47808402  1
+  Sr  Sr2  1  0.00000069  0.99999386  0.00888370  1
+  Al  Al3  1  0.33332332  0.33334645  0.15060955  1
+  Al  Al4  1  0.66668630  0.66666508  0.63911032  1
+  Al  Al5  1  0.66667955  0.66666522  0.85541549  1
+  Al  Al6  1  0.33332001  0.33333555  0.36333839  1
+  B  B7  1  0.33333881  0.33333380  0.60971647  1
+  B  B8  1  0.66666051  0.66667053  0.10166908  1
+  B  B9  1  0.66665045  0.66666125  0.40361687  1
+  B  B10  1  0.33334350  0.33333176  0.89500804  1
+  O  O11  1  0.66669748  0.66668073  0.74873712  1
+  O  O12  1  0.33328700  0.33336617  0.25487670  1
+  O  O13  1  0.96853342  0.42005820  0.40617404  1
+  O  O14  1  0.61139639  0.96853041  0.40616023  1
+  O  O15  1  0.42005900  0.61136852  0.40616798  1
+  O  O16  1  0.03424813  0.58851542  0.89720433  1
+  O  O17  1  0.37725252  0.03423829  0.89720637  1
+  O  O18  1  0.58852150  0.37724804  0.89720406  1
+  O  O19  1  0.04150114  0.59910040  0.61166423  1
+  O  O20  1  0.35941462  0.04149419  0.61167080  1
+  O  O21  1  0.59910679  0.35940206  0.61166685  1
+  O  O22  1  0.97482651  0.43492742  0.09665349  1
+  O  O23  1  0.59024285  0.97482786  0.09666085  1
+  O  O24  1  0.43492855  0.59024101  0.09665378  1

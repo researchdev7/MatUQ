@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CrCuRhSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33747525
+_cell_length_b   7.21266029
+_cell_length_c   7.46901098
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.40520092
+_cell_angle_gamma   119.43887082
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrCuRhSe4
+_chemical_formula_sum   'Cr2 Cu2 Rh2 Se8'
+_cell_volume   279.33468200
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.50000000  0.50000000  -0.00000000  1
+  Cr  Cr1  1  0.50000000  0.00000000  -0.00000000  1
+  Cu  Cu2  1  0.74449335  0.37224668  0.37775332  1
+  Cu  Cu3  1  0.25550665  0.62775332  0.62224668  1
+  Rh  Rh4  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh5  1  0.00000000  0.00000000  -0.00000000  1
+  Se  Se6  1  0.01675245  0.77575419  0.24162378  1
+  Se  Se7  1  0.01675245  0.24099826  0.24162378  1
+  Se  Se8  1  0.48589741  0.24294870  0.77235288  1
+  Se  Se9  1  0.48589741  0.24294870  0.24174971  1
+  Se  Se10  1  0.98324755  0.22424581  0.75837622  1
+  Se  Se11  1  0.98324755  0.75900174  0.75837622  1
+  Se  Se12  1  0.51410259  0.75705130  0.22764712  1
+  Se  Se13  1  0.51410259  0.75705130  0.75825029  1

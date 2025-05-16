@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Rb3Na(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29070298
+_cell_length_b   6.29073031
+_cell_length_c   8.00757563
+_cell_angle_alpha   89.99979193
+_cell_angle_beta   89.99628783
+_cell_angle_gamma   120.00036863
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3Na(MoO4)2
+_chemical_formula_sum   'Rb3 Na1 Mo2 O8'
+_cell_volume   274.42919596
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.66661924  0.33331037  0.33185794  1
+  Rb  Rb1  1  0.33338076  0.66668963  0.66814206  1
+  Rb  Rb2  1  0.00000000  -0.00000000  0.00000000  1
+  Na  Na3  1  0.00000000  -0.00000000  0.50000000  1
+  Mo  Mo4  1  0.33334083  0.66666916  0.22541146  1
+  Mo  Mo5  1  0.66665917  0.33333084  0.77458854  1
+  O  O6  1  0.17838123  0.82155087  0.30586578  1
+  O  O7  1  0.17847980  0.35683012  0.30586615  1
+  O  O8  1  0.64320871  0.82165341  0.30588315  1
+  O  O9  1  0.82161877  0.17844913  0.69413422  1
+  O  O10  1  0.82152020  0.64316988  0.69413385  1
+  O  O11  1  0.35679129  0.17834659  0.69411685  1
+  O  O12  1  0.33339242  0.66669641  0.00273805  1
+  O  O13  1  0.66660758  0.33330359  0.99726195  1

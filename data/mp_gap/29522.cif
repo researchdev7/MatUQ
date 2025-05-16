@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf10SiMo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78286084
+_cell_length_b   8.68577330
+_cell_length_c   8.68577330
+_cell_angle_alpha   119.93438567
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf10SiMo3
+_chemical_formula_sum   'Hf20 Si2 Mo6'
+_cell_volume   574.20950587
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.54515732  0.79974554  0.59938659  1
+  Hf  Hf1  1  0.54503959  0.79976418  0.20023582  1
+  Hf  Hf2  1  0.54515732  0.40061341  0.20025446  1
+  Hf  Hf3  1  0.45484268  0.20025446  0.40061341  1
+  Hf  Hf4  1  0.45496041  0.20023582  0.79976418  1
+  Hf  Hf5  1  0.45484268  0.59938659  0.79974554  1
+  Hf  Hf6  1  0.04515732  0.20025446  0.40061341  1
+  Hf  Hf7  1  0.04503959  0.20023582  0.79976418  1
+  Hf  Hf8  1  0.04515732  0.59938659  0.79974554  1
+  Hf  Hf9  1  0.95484268  0.79974554  0.59938659  1
+  Hf  Hf10  1  0.95496041  0.79976418  0.20023582  1
+  Hf  Hf11  1  0.95484268  0.40061341  0.20025446  1
+  Hf  Hf12  1  0.75000000  0.46128930  0.92236331  1
+  Hf  Hf13  1  0.75000000  0.46128187  0.53871813  1
+  Hf  Hf14  1  0.75000000  0.07763669  0.53871070  1
+  Hf  Hf15  1  0.25000000  0.53871070  0.07763669  1
+  Hf  Hf16  1  0.25000000  0.53871813  0.46128187  1
+  Hf  Hf17  1  0.25000000  0.92236331  0.46128930  1
+  Hf  Hf18  1  0.50000000  0.00000000  -0.00000000  1
+  Hf  Hf19  1  0.00000000  0.00000000  -0.00000000  1
+  Si  Si20  1  0.75000000  0.66661807  0.33338193  1
+  Si  Si21  1  0.25000000  0.33338193  0.66661807  1
+  Mo  Mo22  1  0.75000000  0.11447954  0.22884276  1
+  Mo  Mo23  1  0.75000000  0.11423803  0.88576197  1
+  Mo  Mo24  1  0.75000000  0.77115724  0.88552046  1
+  Mo  Mo25  1  0.25000000  0.88552046  0.77115724  1
+  Mo  Mo26  1  0.25000000  0.88576197  0.11423803  1
+  Mo  Mo27  1  0.25000000  0.22884276  0.11447954  1

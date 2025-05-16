@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrGeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64071929
+_cell_length_b   6.73893988
+_cell_length_c   9.43906995
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrGeAs
+_chemical_formula_sum   'Zr4 Ge4 As4'
+_cell_volume   231.58369625
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.75000000  0.77450128  0.66242326  1
+  Zr  Zr1  1  0.25000000  0.22549872  0.33757674  1
+  Zr  Zr2  1  0.25000000  0.72549872  0.16242326  1
+  Zr  Zr3  1  0.75000000  0.27450128  0.83757674  1
+  Ge  Ge4  1  0.75000000  0.87721235  0.95583338  1
+  Ge  Ge5  1  0.25000000  0.12278765  0.04416662  1
+  Ge  Ge6  1  0.25000000  0.62278765  0.45583338  1
+  Ge  Ge7  1  0.75000000  0.37721235  0.54416662  1
+  As  As8  1  0.75000000  0.89748737  0.35438796  1
+  As  As9  1  0.25000000  0.10251263  0.64561204  1
+  As  As10  1  0.25000000  0.60251263  0.85438796  1
+  As  As11  1  0.75000000  0.39748737  0.14561204  1

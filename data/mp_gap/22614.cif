@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaCo4Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72103777
+_cell_length_b   4.72103777
+_cell_length_c   7.70091115
+_cell_angle_alpha   89.99908473
+_cell_angle_beta   90.00091527
+_cell_angle_gamma   119.99760008
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCo4Mo
+_chemical_formula_sum   'Ta2 Co8 Mo2'
+_cell_volume   148.64770065
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.33332710  0.66667290  0.07563897  1
+  Ta  Ta1  1  0.66667290  0.33332710  0.92436103  1
+  Co  Co2  1  0.00000000  -0.00000000  0.50000000  1
+  Co  Co3  1  0.00000000  -0.00000000  0.00000000  1
+  Co  Co4  1  0.16907930  0.33810571  0.74949671  1
+  Co  Co5  1  0.16903896  0.83096104  0.74953680  1
+  Co  Co6  1  0.66189429  0.83092070  0.74949671  1
+  Co  Co7  1  0.83092070  0.66189429  0.25050329  1
+  Co  Co8  1  0.83096104  0.16903896  0.25046320  1
+  Co  Co9  1  0.33810571  0.16907930  0.25050329  1
+  Mo  Mo10  1  0.66671228  0.33328772  0.55580253  1
+  Mo  Mo11  1  0.33328772  0.66671228  0.44419747  1

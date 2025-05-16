@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_DyMgAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27330536
+_cell_length_b   7.60817980
+_cell_length_c   7.60923413
+_cell_angle_alpha   119.99541404
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMgAg
+_chemical_formula_sum   'Dy3 Mg3 Ag3'
+_cell_volume   214.25765203
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.50000000  0.58579355  -0.00000000  1
+  Dy  Dy1  1  0.50000000  0.41420405  0.41423034  1
+  Dy  Dy2  1  0.50000000  0.99997371  0.58576966  1
+  Mg  Mg3  1  0.00000000  0.24398908  0.00000000  1
+  Mg  Mg4  1  -0.00000000  0.75595780  0.75595340  1
+  Mg  Mg5  1  -0.00000000  0.00000440  0.24404660  1
+  Ag  Ag6  1  -0.00000000  0.33332709  0.66665518  1
+  Ag  Ag7  1  -0.00000000  0.66667191  0.33334482  1
+  Ag  Ag8  1  0.50000000  0.99997841  -0.00000000  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CeInPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63070091
+_cell_length_b   7.63438332
+_cell_length_c   4.07303362
+_cell_angle_alpha   90.00514545
+_cell_angle_beta   89.99591328
+_cell_angle_gamma   120.01346404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeInPt
+_chemical_formula_sum   'Ce3 In3 Pt3'
+_cell_volume   205.46037686
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.41239204  0.99999140  0.99996219  1
+  Ce  Ce1  1  0.58754571  0.58752096  0.99997367  1
+  Ce  Ce2  1  -0.00004643  0.41232495  0.00001291  1
+  In  In3  1  0.00021450  0.74846847  0.50004705  1
+  In  In4  1  0.74887051  0.00049216  0.49996683  1
+  In  In5  1  0.25099309  0.25120370  0.49999154  1
+  Pt  Pt6  1  0.00013016  0.00024833  0.00002131  1
+  Pt  Pt7  1  0.66699502  0.33321694  0.49996828  1
+  Pt  Pt8  1  0.33290540  0.66653309  0.50005623  1

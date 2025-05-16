@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnZn(GaSe2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82630231
+_cell_length_b   6.82628681
+_cell_length_c   8.00134462
+_cell_angle_alpha   90.00204468
+_cell_angle_beta   89.99707916
+_cell_angle_gamma   71.72431582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn(GaSe2)4
+_chemical_formula_sum   'Mn1 Zn1 Ga4 Se8'
+_cell_volume   354.04202577
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00007498  0.50004446  0.25000154  1
+  Zn  Zn1  1  0.49989380  0.99989447  0.74999984  1
+  Ga  Ga2  1  0.00001017  0.99994938  0.99955627  1
+  Ga  Ga3  1  0.49994834  0.50001420  0.50044244  1
+  Ga  Ga4  1  0.00003834  0.50004185  0.75000004  1
+  Ga  Ga5  1  0.49997709  0.99998223  0.24999996  1
+  Se  Se6  1  0.12132064  0.11109241  0.26096989  1
+  Se  Se7  1  0.62047340  0.61424948  0.76128910  1
+  Se  Se8  1  0.11424649  0.12047571  0.73870951  1
+  Se  Se9  1  0.61108614  0.62131823  0.23903130  1
+  Se  Se10  1  0.14486037  0.62249874  0.99466037  1
+  Se  Se11  1  0.64399311  0.12157909  0.49695029  1
+  Se  Se12  1  0.62157990  0.14399716  0.00305172  1
+  Se  Se13  1  0.12249722  0.64486260  0.50533772  1

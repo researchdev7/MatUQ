@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2In2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.59019752
+_cell_length_b   6.10107503
+_cell_length_c   6.10107503
+_cell_angle_alpha   59.21758423
+_cell_angle_beta   69.56365424
+_cell_angle_gamma   69.56365424
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2In2O5
+_chemical_formula_sum   'Ba4 In4 O10'
+_cell_volume   310.15234671
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.62500000  0.10864589  0.14135411  1
+  Ba  Ba1  1  0.12500000  0.64135411  0.60864589  1
+  Ba  Ba2  1  0.87500000  0.37500000  0.37500000  1
+  Ba  Ba3  1  0.37500000  0.87500000  0.87500000  1
+  In  In4  1  0.01397399  0.96633196  0.00550637  1
+  In  In5  1  0.23602601  0.24449363  0.28366804  1
+  In  In6  1  0.51397399  0.50550637  0.46633196  1
+  In  In7  1  0.73602601  0.78366804  0.74449363  1
+  O  O8  1  0.12500000  0.13668061  0.11331939  1
+  O  O9  1  0.07762585  0.23439486  0.61634735  1
+  O  O10  1  0.17237415  0.63365265  0.01560514  1
+  O  O11  1  0.37500000  0.37500000  0.37500000  1
+  O  O12  1  0.67237415  0.51560514  0.13365265  1
+  O  O13  1  0.57762585  0.11634735  0.73439486  1
+  O  O14  1  0.37500000  0.87500000  0.37500000  1
+  O  O15  1  0.62500000  0.61331939  0.63668061  1
+  O  O16  1  0.87500000  0.87500000  0.37500000  1
+  O  O17  1  0.87500000  0.87500000  0.87500000  1

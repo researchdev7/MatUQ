@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_SrInAu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55617352
+_cell_length_b   5.90329316
+_cell_length_c   5.90329316
+_cell_angle_alpha   102.79503287
+_cell_angle_beta   118.07322310
+_cell_angle_gamma   61.92677690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrInAu5
+_chemical_formula_sum   'Sr1 In1 Au5'
+_cell_volume   150.74510718
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  In  In1  1  0.75000000  0.50000000  0.50000000  1
+  Au  Au2  1  0.30620546  0.00000000  0.61241092  1
+  Au  Au3  1  0.69379454  0.00000000  0.38758908  1
+  Au  Au4  1  0.69379454  0.61241092  0.00000000  1
+  Au  Au5  1  0.30620546  0.38758908  0.00000000  1
+  Au  Au6  1  0.25000000  0.50000000  0.50000000  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CoN6(ClO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70881717
+_cell_length_b   7.70881717
+_cell_length_c   10.24299603
+_cell_angle_alpha   71.05902171
+_cell_angle_beta   71.05902171
+_cell_angle_gamma   92.56842903
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoN6(ClO)2
+_chemical_formula_sum   'Co2 N12 Cl4 O4'
+_cell_volume   536.83869746
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.03072595  0.96927405  0.25000000  1
+  Co  Co1  1  0.96927405  0.03072595  0.75000000  1
+  N  N2  1  0.30415145  0.69584855  0.25000000  1
+  N  N3  1  0.69584855  0.30415145  0.75000000  1
+  N  N4  1  0.18947826  0.81052174  0.25000000  1
+  N  N5  1  0.81052174  0.18947826  0.75000000  1
+  N  N6  1  0.48590511  0.18779909  0.17709455  1
+  N  N7  1  0.81220091  0.51409489  0.32290545  1
+  N  N8  1  0.51409489  0.81220091  0.82290545  1
+  N  N9  1  0.18779909  0.48590511  0.67709455  1
+  N  N10  1  0.63463871  0.25330416  0.13459500  1
+  N  N11  1  0.74669584  0.36536129  0.36540500  1
+  N  N12  1  0.36536129  0.74669584  0.86540500  1
+  N  N13  1  0.25330416  0.63463871  0.63459500  1
+  Cl  Cl14  1  0.20360756  0.08497167  0.55778179  1
+  Cl  Cl15  1  0.91502833  0.79639244  0.94221821  1
+  Cl  Cl16  1  0.79639244  0.91502833  0.44221821  1
+  Cl  Cl17  1  0.08497167  0.20360756  0.05778179  1
+  O  O18  1  0.42568345  0.71185290  0.30412577  1
+  O  O19  1  0.28814710  0.57431655  0.19587423  1
+  O  O20  1  0.57431655  0.28814710  0.69587423  1
+  O  O21  1  0.71185290  0.42568345  0.80412577  1

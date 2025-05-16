@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Li2EuGeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04114469
+_cell_length_b   6.04533113
+_cell_length_c   6.04015353
+_cell_angle_alpha   100.59566509
+_cell_angle_beta   114.08492598
+_cell_angle_gamma   114.12055715
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2EuGeS4
+_chemical_formula_sum   'Li2 Eu1 Ge1 S4'
+_cell_volume   166.73512016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00005226  0.00000711  0.00004865  1
+  Li  Li1  1  0.50002140  0.24996860  0.74997694  1
+  Li  Li2  1  0.49998806  0.74997198  0.25001389  1
+  Ge  Ge3  1  -0.00008809  0.49978888  0.49996791  1
+  S  S4  1  0.00000959  0.53308263  0.13586011  1
+  S  S5  1  0.00005512  0.13602924  0.53310024  1
+  S  S6  1  0.39721890  0.86427636  0.86420726  1
+  S  S7  1  0.60274276  0.46687519  0.46682499  1

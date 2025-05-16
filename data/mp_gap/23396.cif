@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_CuPb2(ClO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01012093
+_cell_length_b   4.01012134
+_cell_length_c   8.63439270
+_cell_angle_alpha   103.42767582
+_cell_angle_beta   103.42767742
+_cell_angle_gamma   90.00000282
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuPb2(ClO)2
+_chemical_formula_sum   'Cu1 Pb2 Cl2 O2'
+_cell_volume   131.14920823
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  -0.00000000  0.00000000  -0.00000000  1
+  Pb  Pb1  1  0.60729400  0.60729400  0.21458799  1
+  Pb  Pb2  1  0.39270600  0.39270600  0.78541201  1
+  Cl  Cl3  1  0.18055205  0.18055205  0.36110410  1
+  Cl  Cl4  1  0.81944795  0.81944795  0.63889590  1
+  O  O5  1  0.50000000  0.00000000  -0.00000000  1
+  O  O6  1  -0.00000000  0.50000000  -0.00000000  1

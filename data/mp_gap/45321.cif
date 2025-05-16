@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ho3Ga9Pt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27645269
+_cell_length_b   8.16178807
+_cell_length_c   8.16178807
+_cell_angle_alpha   72.07279019
+_cell_angle_beta   74.81241116
+_cell_angle_gamma   74.81241116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Ga9Pt2
+_chemical_formula_sum   'Ho3 Ga9 Pt2'
+_cell_volume   256.42526035
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  -0.00000000  0.00000000  1
+  Ho  Ho1  1  0.30368939  0.69631061  0.69631061  1
+  Ho  Ho2  1  0.69631061  0.30368939  0.30368939  1
+  Ga  Ga3  1  0.00000000  0.50000000  0.50000000  1
+  Ga  Ga4  1  0.34378559  0.28715947  0.02526934  1
+  Ga  Ga5  1  0.65621441  0.71284053  0.97473066  1
+  Ga  Ga6  1  0.34378559  0.02526934  0.28715947  1
+  Ga  Ga7  1  0.65621441  0.97473066  0.71284053  1
+  Ga  Ga8  1  0.13941958  0.57900797  0.14215286  1
+  Ga  Ga9  1  0.86058042  0.42099203  0.85784714  1
+  Ga  Ga10  1  0.13941958  0.14215286  0.57900797  1
+  Ga  Ga11  1  0.86058042  0.85784714  0.42099203  1
+  Pt  Pt12  1  0.50000000  0.30898456  0.69101544  1
+  Pt  Pt13  1  0.50000000  0.69101544  0.30898456  1

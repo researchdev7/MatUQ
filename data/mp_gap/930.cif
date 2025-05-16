@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Al5O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64950881
+_cell_length_b   5.64950881
+_cell_length_c   5.64950881
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al5O8
+_chemical_formula_sum   'Al5 O8'
+_cell_volume   127.50202223
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50618240  0.50927360  0.99690880  1
+  Al  Al1  1  0.50618240  0.99690880  0.99690880  1
+  Al  Al2  1  0.99381760  0.99690880  0.50927360  1
+  Al  Al3  1  0.99381760  0.99690880  0.99690880  1
+  Al  Al4  1  0.75000000  0.37500000  0.37500000  1
+  O  O5  1  0.01614875  0.77422313  0.24192562  1
+  O  O6  1  0.01614875  0.24192562  0.24192562  1
+  O  O7  1  0.48385125  0.24192562  0.77422313  1
+  O  O8  1  0.48385125  0.24192562  0.24192562  1
+  O  O9  1  0.97335684  0.21003526  0.76332158  1
+  O  O10  1  0.97335684  0.76332158  0.76332158  1
+  O  O11  1  0.52664316  0.76332158  0.21003526  1
+  O  O12  1  0.52664316  0.76332158  0.76332158  1

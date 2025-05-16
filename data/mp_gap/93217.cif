@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CsFeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42348879
+_cell_length_b   7.10822746
+_cell_length_c   7.48196274
+_cell_angle_alpha   118.37322086
+_cell_angle_beta   111.26137943
+_cell_angle_gamma   89.99520390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsFeS2
+_chemical_formula_sum   'Cs2 Fe2 S4'
+_cell_volume   231.23935177
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.32780132  0.32783430  0.65561124  1
+  Cs  Cs1  1  0.67219868  0.67216570  0.34438876  1
+  Fe  Fe2  1  0.24662326  0.99996849  0.99995842  1
+  Fe  Fe3  1  0.75337674  0.00003151  0.00004158  1
+  S  S4  1  0.99997403  0.24289411  0.99998638  1
+  S  S5  1  0.00002597  0.75710589  0.00001362  1
+  S  S6  1  0.64199768  0.14201134  0.28393164  1
+  S  S7  1  0.35800232  0.85798866  0.71606836  1

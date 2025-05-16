@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64191846
+_cell_length_b   5.64191782
+_cell_length_c   5.64191761
+_cell_angle_alpha   55.41961381
+_cell_angle_beta   55.41960791
+_cell_angle_gamma   55.41961492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTiO3
+_chemical_formula_sum   'Sc2 Ti2 O6'
+_cell_volume   113.47906252
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.35590936  0.35590936  0.35590936  1
+  Sc  Sc1  1  0.64409064  0.64409064  0.64409064  1
+  Ti  Ti2  1  0.15118902  0.15118902  0.15118902  1
+  Ti  Ti3  1  0.84881098  0.84881098  0.84881098  1
+  O  O4  1  0.05052438  0.76127445  0.44392269  1
+  O  O5  1  0.44392269  0.05052438  0.76127445  1
+  O  O6  1  0.76127445  0.44392269  0.05052438  1
+  O  O7  1  0.23872555  0.55607731  0.94947562  1
+  O  O8  1  0.55607731  0.94947562  0.23872555  1
+  O  O9  1  0.94947562  0.23872555  0.55607731  1

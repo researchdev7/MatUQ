@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsAlNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23604071
+_cell_length_b   7.33643389
+_cell_length_c   7.14876333
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.39819496
+_cell_angle_gamma   120.46002095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAlNiF6
+_chemical_formula_sum   'Cs2 Al2 Ni2 F12'
+_cell_volume   268.08419853
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75093768  0.37546884  0.37453116  1
+  Cs  Cs1  1  0.24906232  0.62453116  0.62546884  1
+  Al  Al2  1  0.00000000  -0.00000000  0.50000000  1
+  Al  Al3  1  0.00000000  -0.00000000  -0.00000000  1
+  Ni  Ni4  1  0.50000000  0.50000000  -0.00000000  1
+  Ni  Ni5  1  0.50000000  -0.00000000  -0.00000000  1
+  F  F6  1  0.90078759  0.95039380  0.29960620  1
+  F  F7  1  0.66139484  0.33069742  0.91930258  1
+  F  F8  1  0.24199256  0.94335972  0.92225418  1
+  F  F9  1  0.24199256  0.29863284  0.33575326  1
+  F  F10  1  0.24199256  0.29863284  0.92225418  1
+  F  F11  1  0.24199256  0.94335972  0.33575326  1
+  F  F12  1  0.09921241  0.04960620  0.70039380  1
+  F  F13  1  0.33860516  0.66930258  0.08069742  1
+  F  F14  1  0.75800744  0.05664028  0.07774582  1
+  F  F15  1  0.75800744  0.70136716  0.66424674  1
+  F  F16  1  0.75800744  0.70136716  0.07774582  1
+  F  F17  1  0.75800744  0.05664028  0.66424674  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaNb2Ga2(CuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57554267
+_cell_length_b   6.54614216
+_cell_length_c   6.57554267
+_cell_angle_alpha   70.39913972
+_cell_angle_beta   70.33247088
+_cell_angle_gamma   109.32658747
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNb2Ga2(CuO4)3
+_chemical_formula_sum   'Ca1 Nb2 Ga2 Cu3 O12'
+_cell_volume   217.39416389
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb1  1  0.50000000  0.00000000  0.00000000  1
+  Nb  Nb2  1  0.00000000  0.00000000  0.50000000  1
+  Ga  Ga3  1  0.00000000  0.50000000  0.00000000  1
+  Ga  Ga4  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu5  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu6  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu7  1  0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.82685135  0.52229533  0.30455602  1
+  O  O9  1  0.17314865  0.47770467  0.69544398  1
+  O  O10  1  0.82620142  0.13013718  0.69606424  1
+  O  O11  1  0.17379858  0.86986282  0.30393576  1
+  O  O12  1  0.69264870  0.17126842  0.13116285  1
+  O  O13  1  0.30735130  0.82873158  0.86883715  1
+  O  O14  1  0.30243127  0.17126842  0.52138028  1
+  O  O15  1  0.69756873  0.82873158  0.47861972  1
+  O  O16  1  0.47887112  0.30383781  0.82676822  1
+  O  O17  1  0.52112888  0.69616219  0.17323178  1
+  O  O18  1  0.86939397  0.69616219  0.82496669  1
+  O  O19  1  0.13060603  0.30383781  0.17503331  1

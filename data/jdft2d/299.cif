@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CrSiTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82718914
+_cell_length_b   6.82718986
+_cell_length_c   27.80152000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000133
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrSiTe3
+_chemical_formula_sum   'Cr2 Si2 Te6'
+_cell_volume   1122.23312116
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.13670261  1
+  Cr  Cr1  1  0.66666700  0.33333300  0.13668239  1
+  Si  Si2  1  0.33333300  0.66666700  0.09543344  1
+  Si  Si3  1  0.33333300  0.66666700  0.17795056  1
+  Te  Te4  1  0.69713549  0.66667606  0.07432310  1
+  Te  Te5  1  0.96954057  0.30286451  0.07432310  1
+  Te  Te6  1  0.33332394  0.03045943  0.07432310  1
+  Te  Te7  1  0.69712543  0.03046849  0.19906090  1
+  Te  Te8  1  0.96953151  0.66665694  0.19906090  1
+  Te  Te9  1  0.33334306  0.30287457  0.19906090  1

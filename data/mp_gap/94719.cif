@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2Al4NiGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15060229
+_cell_length_b   4.15060182
+_cell_length_c   10.16489121
+_cell_angle_alpha   101.78054936
+_cell_angle_beta   101.78054804
+_cell_angle_gamma   89.99999624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Al4NiGe2
+_chemical_formula_sum   'Tb2 Al4 Ni1 Ge2'
+_cell_volume   167.65750259
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.81401922  0.81401922  0.62803845  1
+  Tb  Tb1  1  0.18598078  0.18598078  0.37196155  1
+  Al  Al2  1  0.93269517  0.43269517  0.86539035  1
+  Al  Al3  1  0.43269517  0.93269517  0.86539035  1
+  Al  Al4  1  0.56730483  0.06730483  0.13460965  1
+  Al  Al5  1  0.06730483  0.56730483  0.13460965  1
+  Ni  Ni6  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge7  1  0.66227413  0.66227413  0.32454826  1
+  Ge  Ge8  1  0.33772587  0.33772587  0.67545174  1

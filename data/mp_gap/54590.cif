@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ta3(InSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49436472
+_cell_length_b   3.49671466
+_cell_length_c   25.93363160
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.97775154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3(InSe3)2
+_chemical_formula_sum   'Ta3 In2 Se6'
+_cell_volume   274.36264844
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00029890  -0.00014945  0.16666700  1
+  Ta  Ta1  1  0.00005053  -0.00002526  0.49956429  1
+  Ta  Ta2  1  0.00005053  -0.00002526  0.83376871  1
+  In  In3  1  -0.00024717  0.00012358  0.99903234  1
+  In  In4  1  -0.00024717  0.00012358  0.33430066  1
+  Se  Se5  1  0.33328996  0.33335502  0.10229314  1
+  Se  Se6  1  0.33337846  0.33331077  0.43475669  1
+  Se  Se7  1  0.33357877  0.33321062  0.76987896  1
+  Se  Se8  1  0.33328996  0.33335502  0.23104086  1
+  Se  Se9  1  0.33357877  0.33321062  0.56345404  1
+  Se  Se10  1  0.33337846  0.33331077  0.89857631  1

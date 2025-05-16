@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2CuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80618159
+_cell_length_b   5.80493001
+_cell_length_c   8.78729855
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.29145067
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CuF6
+_chemical_formula_sum   'Sr4 Cu2 F12'
+_cell_volume   279.54136602
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.66173214  0.50000000  0.32346428  1
+  Sr  Sr1  1  0.16173214  0.00000000  0.32346428  1
+  Sr  Sr2  1  0.83826786  0.00000000  0.67653572  1
+  Sr  Sr3  1  0.33826786  0.50000000  0.67653572  1
+  Cu  Cu4  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu5  1  0.50000000  0.00000000  0.00000000  1
+  F  F6  1  0.75310778  0.33297595  0.83818309  1
+  F  F7  1  0.99500275  0.25000000  0.50000000  1
+  F  F8  1  0.50499725  0.75000000  0.50000000  1
+  F  F9  1  0.24689222  0.66702405  0.16181691  1
+  F  F10  1  0.00499725  0.75000000  0.50000000  1
+  F  F11  1  0.08507530  0.66702405  0.83818309  1
+  F  F12  1  0.74689222  0.83297595  0.16181691  1
+  F  F13  1  0.58507530  0.83297595  0.83818309  1
+  F  F14  1  0.49500275  0.25000000  0.50000000  1
+  F  F15  1  0.41492470  0.16702405  0.16181691  1
+  F  F16  1  0.25310778  0.16702405  0.83818309  1
+  F  F17  1  0.91492470  0.33297595  0.16181691  1

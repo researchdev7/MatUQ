@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_PrCuSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71245358
+_cell_length_b   4.49120339
+_cell_length_c   9.56721348
+_cell_angle_alpha   103.57502654
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrCuSn2
+_chemical_formula_sum   'Pr2 Cu2 Sn4'
+_cell_volume   196.82935276
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.75000000  0.10452410  0.20904820  1
+  Pr  Pr1  1  0.25000000  0.89547590  0.79095180  1
+  Cu  Cu2  1  0.75000000  0.32386731  0.64773461  1
+  Cu  Cu3  1  0.25000000  0.67613269  0.35226539  1
+  Sn  Sn4  1  0.75000000  0.45916330  0.91832659  1
+  Sn  Sn5  1  0.25000000  0.54083670  0.08167341  1
+  Sn  Sn6  1  0.75000000  0.75068807  0.50137614  1
+  Sn  Sn7  1  0.25000000  0.24931193  0.49862386  1

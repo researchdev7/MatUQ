@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2NiRhO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61627096
+_cell_length_b   5.65701437
+_cell_length_c   7.94239254
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.14608629
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2NiRhO6
+_chemical_formula_sum   'La4 Ni2 Rh2 O12'
+_cell_volume   252.33951893
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.49062604  0.54602629  0.25048948  1
+  La  La1  1  0.00937396  0.04602629  0.24951052  1
+  La  La2  1  0.50937396  0.45397371  0.74951052  1
+  La  La3  1  0.99062604  0.95397371  0.75048948  1
+  Ni  Ni4  1  0.00000000  0.50000000  -0.00000000  1
+  Ni  Ni5  1  0.50000000  0.00000000  0.50000000  1
+  Rh  Rh6  1  0.00000000  0.50000000  0.50000000  1
+  Rh  Rh7  1  0.50000000  0.00000000  -0.00000000  1
+  O  O8  1  0.20872933  0.79508331  0.04831154  1
+  O  O9  1  0.29127067  0.29508331  0.45168846  1
+  O  O10  1  0.79748624  0.20918720  0.54759831  1
+  O  O11  1  0.70251376  0.70918720  0.95240169  1
+  O  O12  1  0.79127067  0.20491669  0.95168846  1
+  O  O13  1  0.70872933  0.70491669  0.54831154  1
+  O  O14  1  0.20251376  0.79081280  0.45240169  1
+  O  O15  1  0.29748624  0.29081280  0.04759831  1
+  O  O16  1  0.58889907  0.98034538  0.24764828  1
+  O  O17  1  0.91110093  0.48034538  0.25235172  1
+  O  O18  1  0.41110093  0.01965462  0.75235172  1
+  O  O19  1  0.08889907  0.51965462  0.74764828  1

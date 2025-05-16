@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyCuPbS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92947160
+_cell_length_b   6.83335887
+_cell_length_c   10.21746568
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   73.29039041
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCuPbS3
+_chemical_formula_sum   'Dy2 Cu2 Pb2 S6'
+_cell_volume   262.76937239
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.99657397  0.00685206  0.49791916  1
+  Dy  Dy1  1  0.00342603  0.99314794  0.99791916  1
+  Cu  Cu2  1  0.46763682  0.06472636  0.24909634  1
+  Cu  Cu3  1  0.53236318  0.93527364  0.74909634  1
+  Pb  Pb4  1  0.74785218  0.50429564  0.22234322  1
+  Pb  Pb5  1  0.25214782  0.49570436  0.72234322  1
+  S  S6  1  0.36177576  0.27644849  0.43303975  1
+  S  S7  1  0.63598294  0.72803412  0.56558862  1
+  S  S8  1  0.36401706  0.27196588  0.06558862  1
+  S  S9  1  0.63822424  0.72355151  0.93303975  1
+  S  S10  1  0.07365517  0.85268966  0.24991291  1
+  S  S11  1  0.92634483  0.14731034  0.74991291  1

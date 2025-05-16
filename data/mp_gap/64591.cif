@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_K2NbO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01390844
+_cell_length_b   4.01390844
+_cell_length_c   7.52546629
+_cell_angle_alpha   74.53269606
+_cell_angle_beta   74.53269606
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NbO3F
+_chemical_formula_sum   'K2 Nb1 O3 F1'
+_cell_volume   112.29226860
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.34948758  0.34948758  0.30102485  1
+  K  K1  1  0.65551692  0.65551692  0.68896615  1
+  Nb  Nb2  1  0.01259566  0.01259566  0.97480868  1
+  O  O3  1  0.99606139  0.49606139  0.00787722  1
+  O  O4  1  0.49606139  0.99606139  0.00787722  1
+  O  O5  1  0.14481128  0.14481128  0.71037743  1
+  F  F6  1  0.84546577  0.84546577  0.30906846  1

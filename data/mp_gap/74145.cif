@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs(ThTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47460798
+_cell_length_b   6.27526166
+_cell_length_c   12.77826341
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   79.91629637
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs(ThTe3)2
+_chemical_formula_sum   'Cs1 Th2 Te6'
+_cell_volume   353.26269423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49668666  0.75000000  0.00662669  1
+  Th  Th1  1  0.68216114  0.75000000  0.63567771  1
+  Th  Th2  1  0.31795169  0.25000000  0.36409661  1
+  Te  Te3  1  0.27327876  0.75000000  0.45344249  1
+  Te  Te4  1  0.72708857  0.25000000  0.54582286  1
+  Te  Te5  1  0.11280622  0.50440803  0.77438756  1
+  Te  Te6  1  0.88696037  0.49258004  0.22607926  1
+  Te  Te7  1  0.11280622  0.99559197  0.77438756  1
+  Te  Te8  1  0.88696037  0.00741996  0.22607926  1

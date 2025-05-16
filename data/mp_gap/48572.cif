@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaCeCuTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47455121
+_cell_length_b   4.47129575
+_cell_length_c   19.85411008
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCeCuTe4
+_chemical_formula_sum   'Na2 Ce2 Cu2 Te8'
+_cell_volume   397.22201044
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  0.50000000  0.12617783  1
+  Na  Na1  1  0.50000000  0.00000000  0.87382217  1
+  Ce  Ce2  1  -0.00000000  0.50000000  0.60814336  1
+  Ce  Ce3  1  0.50000000  -0.00000000  0.39185664  1
+  Cu  Cu4  1  0.00000000  -0.00000000  0.00002351  1
+  Cu  Cu5  1  0.50000000  0.50000000  0.99997649  1
+  Te  Te6  1  -0.00000000  0.00000000  0.26847185  1
+  Te  Te7  1  0.50000000  0.50000000  0.73152815  1
+  Te  Te8  1  -0.00000000  0.50000000  0.92238869  1
+  Te  Te9  1  0.50000000  0.00000000  0.07761131  1
+  Te  Te10  1  -0.00000000  0.00000000  0.73152192  1
+  Te  Te11  1  0.50000000  0.50000000  0.26847808  1
+  Te  Te12  1  -0.00000000  0.50000000  0.43939785  1
+  Te  Te13  1  0.50000000  0.00000000  0.56060215  1

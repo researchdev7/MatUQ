@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_La2Sn4Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69123751
+_cell_length_b   4.72994318
+_cell_length_c   8.90440977
+_cell_angle_alpha   74.59765513
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Sn4Ir
+_chemical_formula_sum   'La2 Sn4 Ir1'
+_cell_volume   190.48623535
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25000000  0.89735407  0.20529185  1
+  La  La1  1  0.75000000  0.10249433  0.79501135  1
+  Sn  Sn2  1  0.25000000  0.54029380  0.91941239  1
+  Sn  Sn3  1  0.75000000  0.42674170  0.14651659  1
+  Sn  Sn4  1  0.25000000  0.26189441  0.47621117  1
+  Sn  Sn5  1  0.75000000  0.76363182  0.47273636  1
+  Ir  Ir6  1  0.25000000  0.69158986  0.61682029  1

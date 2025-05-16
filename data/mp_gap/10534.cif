@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsLiO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65683529
+_cell_length_b   7.65684454
+_cell_length_c   7.65684769
+_cell_angle_alpha   99.40965123
+_cell_angle_beta   99.40836335
+_cell_angle_gamma   132.30234329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLiO
+_chemical_formula_sum   'Cs4 Li4 O4'
+_cell_volume   303.65846901
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.44057920  0.25000008  0.19057878  1
+  Cs  Cs1  1  0.74999970  0.94057996  0.19058011  1
+  Cs  Cs2  1  0.75000030  0.55942004  0.80941989  1
+  Cs  Cs3  1  0.05942080  0.24999992  0.80942122  1
+  Li  Li4  1  0.38524782  0.61474894  0.49999665  1
+  Li  Li5  1  0.11475219  0.61474869  0.22950146  1
+  Li  Li6  1  0.11475218  0.88525106  0.50000335  1
+  Li  Li7  1  0.38524781  0.88525131  0.77049854  1
+  O  O8  1  0.99171520  0.74999901  0.24171561  1
+  O  O9  1  0.24999984  0.49171102  0.24171092  1
+  O  O10  1  0.25000016  0.00828898  0.75828908  1
+  O  O11  1  0.50828480  0.75000099  0.75828439  1

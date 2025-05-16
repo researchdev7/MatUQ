@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho3(CuSn)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46496753
+_cell_length_b   6.93684593
+_cell_length_c   8.41496282
+_cell_angle_alpha   114.34143467
+_cell_angle_beta   105.38474139
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3(CuSn)4
+_chemical_formula_sum   'Ho3 Cu4 Sn4'
+_cell_volume   227.17577360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  -0.00000000  -0.00000000  1
+  Ho  Ho1  1  0.86905309  0.36905309  0.73810618  1
+  Ho  Ho2  1  0.13094691  0.63094691  0.26189382  1
+  Cu  Cu3  1  0.32852089  0.01724068  0.65704178  1
+  Cu  Cu4  1  0.32852089  0.63980110  0.65704178  1
+  Cu  Cu5  1  0.67147911  0.98275932  0.34295822  1
+  Cu  Cu6  1  0.67147911  0.36019890  0.34295822  1
+  Sn  Sn7  1  0.21584854  0.21584854  0.43169708  1
+  Sn  Sn8  1  0.78415146  0.78415146  0.56830292  1
+  Sn  Sn9  1  0.50000000  0.29692155  1.00000000  1
+  Sn  Sn10  1  0.50000000  0.70307845  0.00000000  1

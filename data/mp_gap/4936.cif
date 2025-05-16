@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ce2(MnNi)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99837776
+_cell_length_b   5.13016505
+_cell_length_c   8.76054290
+_cell_angle_alpha   90.00000508
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2(MnNi)5
+_chemical_formula_sum   'Ce2 Mn5 Ni5'
+_cell_volume   179.69921576
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00004127  0.00000000  1
+  Ce  Ce1  1  0.00000000  0.49990809  0.50000000  1
+  Mn  Mn2  1  0.00000000  0.99998785  0.34109639  1
+  Mn  Mn3  1  0.00000000  0.49997667  0.83328541  1
+  Mn  Mn4  1  0.00000000  0.49997667  0.16671459  1
+  Mn  Mn5  1  0.00000000  0.99998785  0.65890361  1
+  Mn  Mn6  1  0.50000000  0.99998846  0.50000000  1
+  Ni  Ni7  1  0.50000000  0.49998609  1.00000000  1
+  Ni  Ni8  1  0.50000000  0.25181825  0.25250920  1
+  Ni  Ni9  1  0.50000000  0.74815527  0.74747975  1
+  Ni  Ni10  1  0.50000000  0.74815527  0.25252025  1
+  Ni  Ni11  1  0.50000000  0.25181825  0.74749080  1

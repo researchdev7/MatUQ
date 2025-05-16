@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Fe2Pb(SeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31603013
+_cell_length_b   6.91069047
+_cell_length_c   7.76690156
+_cell_angle_alpha   94.09074422
+_cell_angle_beta   90.62700098
+_cell_angle_gamma   95.19391819
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2Pb(SeO3)4
+_chemical_formula_sum   'Fe2 Pb1 Se4 O12'
+_cell_volume   283.39703362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00113257  0.00007989  0.50178045  1
+  Fe  Fe1  1  0.49863036  0.50028735  0.99893025  1
+  Pb  Pb2  1  0.96030116  0.00626321  0.01050680  1
+  Se  Se3  1  0.00943021  0.55020357  0.25850704  1
+  Se  Se4  1  0.99168424  0.45059774  0.74169447  1
+  Se  Se5  1  0.48066061  0.80048997  0.67661562  1
+  Se  Se6  1  0.51589023  0.19901308  0.32372188  1
+  O  O7  1  0.98522257  0.70987783  0.43594173  1
+  O  O8  1  0.01428720  0.29027424  0.56366376  1
+  O  O9  1  0.29459610  0.98954173  0.66452454  1
+  O  O10  1  0.70686938  0.01066367  0.33353076  1
+  O  O11  1  0.84472262  0.65227481  0.09307070  1
+  O  O12  1  0.15402218  0.34791335  0.90716152  1
+  O  O13  1  0.77835474  0.92990602  0.70561128  1
+  O  O14  1  0.22042578  0.07003764  0.29415450  1
+  O  O15  1  0.32432688  0.59849933  0.21021288  1
+  O  O16  1  0.67654779  0.40024925  0.79039070  1
+  O  O17  1  0.42722170  0.75333708  0.89159659  1
+  O  O18  1  0.57697370  0.24639023  0.10888452  1

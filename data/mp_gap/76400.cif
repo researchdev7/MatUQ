@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Fe3Sb2(BrO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43392108
+_cell_length_b   7.11890010
+_cell_length_c   14.96173983
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   116.86501617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Sb2(BrO)4
+_chemical_formula_sum   'Fe6 Sb4 Br8 O8'
+_cell_volume   611.32396275
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  -0.00000000  0.00000000  1
+  Fe  Fe1  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe2  1  0.24044727  0.98089453  0.25000000  1
+  Fe  Fe3  1  0.25955273  0.01910547  0.75000000  1
+  Fe  Fe4  1  0.75955273  0.01910547  0.75000000  1
+  Fe  Fe5  1  0.74044727  0.98089453  0.25000000  1
+  Sb  Sb6  1  0.38949445  0.77898889  0.05652954  1
+  Sb  Sb7  1  0.61050555  0.22101111  0.94347046  1
+  Sb  Sb8  1  0.11050555  0.22101111  0.55652954  1
+  Sb  Sb9  1  0.88949445  0.77898889  0.44347046  1
+  Br  Br10  1  0.87761213  0.75522426  0.83881047  1
+  Br  Br11  1  0.12238787  0.24477574  0.16118953  1
+  Br  Br12  1  0.62238787  0.24477574  0.33881047  1
+  Br  Br13  1  0.37761213  0.75522426  0.66118953  1
+  Br  Br14  1  0.83630395  0.67260791  0.11867781  1
+  Br  Br15  1  0.16369605  0.32739209  0.88132219  1
+  Br  Br16  1  0.66369605  0.32739209  0.61867781  1
+  Br  Br17  1  0.33630395  0.67260791  0.38132219  1
+  O  O18  1  0.30593437  -0.00000000  0.00000000  1
+  O  O19  1  0.80593437  -0.00000000  0.50000000  1
+  O  O20  1  0.69406563  0.00000000  0.00000000  1
+  O  O21  1  0.19406563  0.00000000  0.50000000  1
+  O  O22  1  0.45839107  0.91678215  0.17508633  1
+  O  O23  1  0.54160893  0.08321785  0.82491367  1
+  O  O24  1  0.04160893  0.08321785  0.67508633  1
+  O  O25  1  0.95839107  0.91678215  0.32491367  1

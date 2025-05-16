@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Mg(AuF6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96319934
+_cell_length_b   5.96319934
+_cell_length_c   7.03618752
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(AuF6)2
+_chemical_formula_sum   'Mg1 Au2 F12'
+_cell_volume   250.20504361
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Au  Au1  1  -0.00000000  0.50000000  0.21628585  1
+  Au  Au2  1  0.50000000  -0.00000000  0.78371415  1
+  F  F3  1  0.24176883  0.20432087  0.80064298  1
+  F  F4  1  0.75823117  0.79567913  0.80064298  1
+  F  F5  1  0.20432087  0.75823117  0.19935702  1
+  F  F6  1  0.79567913  0.24176883  0.19935702  1
+  F  F7  1  0.00000000  0.50000000  0.49113174  1
+  F  F8  1  0.50000000  -0.00000000  0.50886826  1
+  F  F9  1  -0.00000000  0.50000000  0.93968268  1
+  F  F10  1  0.50000000  -0.00000000  0.06031732  1
+  F  F11  1  0.20432087  0.24176883  0.19935702  1
+  F  F12  1  0.79567913  0.75823117  0.19935702  1
+  F  F13  1  0.24176883  0.79567913  0.80064298  1
+  F  F14  1  0.75823117  0.20432087  0.80064298  1

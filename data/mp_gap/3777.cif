@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CeRhC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87871337
+_cell_length_b   3.87871337
+_cell_length_c   15.44647779
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeRhC2
+_chemical_formula_sum   'Ce4 Rh4 C8'
+_cell_volume   232.38325933
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.14443876  0.85140307  0.62408824  1
+  Ce  Ce1  1  0.85556124  0.14859693  0.12408824  1
+  Ce  Ce2  1  0.85140307  0.85556124  0.37408824  1
+  Ce  Ce3  1  0.14859693  0.14443876  0.87408824  1
+  Rh  Rh4  1  0.35424892  0.65547538  0.21947374  1
+  Rh  Rh5  1  0.64575108  0.34452462  0.71947374  1
+  Rh  Rh6  1  0.65547538  0.64575108  0.96947374  1
+  Rh  Rh7  1  0.34452462  0.35424892  0.46947374  1
+  C  C8  1  0.33537290  0.35180662  0.33618733  1
+  C  C9  1  0.66462710  0.64819338  0.83618733  1
+  C  C10  1  0.35180662  0.66462710  0.08618733  1
+  C  C11  1  0.64819338  0.33537290  0.58618733  1
+  C  C12  1  0.35031475  0.14768337  0.26425069  1
+  C  C13  1  0.64968525  0.85231663  0.76425069  1
+  C  C14  1  0.14768337  0.64968525  0.01425069  1
+  C  C15  1  0.85231663  0.35031475  0.51425069  1

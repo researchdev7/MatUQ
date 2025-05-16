@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Tb(Mo3Se4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78283218
+_cell_length_b   6.78283218
+_cell_length_c   6.78283221
+_cell_angle_alpha   89.16676050
+_cell_angle_beta   89.16676050
+_cell_angle_gamma   89.16676976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb(Mo3Se4)2
+_chemical_formula_sum   'Tb1 Mo6 Se8'
+_cell_volume   311.95844484
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  -0.00000000  1
+  Mo  Mo1  1  0.57726106  0.76584671  0.44054022  1
+  Mo  Mo2  1  0.76584671  0.44054022  0.57726106  1
+  Mo  Mo3  1  0.44054022  0.57726106  0.76584671  1
+  Mo  Mo4  1  0.42273894  0.23415329  0.55945978  1
+  Mo  Mo5  1  0.23415329  0.55945978  0.42273894  1
+  Mo  Mo6  1  0.55945978  0.42273894  0.23415329  1
+  Se  Se7  1  0.76284542  0.76284542  0.76284542  1
+  Se  Se8  1  0.23715458  0.23715458  0.23715458  1
+  Se  Se9  1  0.62837454  0.24374628  0.87826164  1
+  Se  Se10  1  0.24374628  0.87826164  0.62837454  1
+  Se  Se11  1  0.87826164  0.62837454  0.24374628  1
+  Se  Se12  1  0.37162546  0.75625372  0.12173836  1
+  Se  Se13  1  0.75625372  0.12173836  0.37162546  1
+  Se  Se14  1  0.12173836  0.37162546  0.75625372  1

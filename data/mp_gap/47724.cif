@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdGa4As4S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08587052
+_cell_length_b   4.08587052
+_cell_length_c   16.90742718
+_cell_angle_alpha   96.94004360
+_cell_angle_beta   83.05995640
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGa4As4S
+_chemical_formula_sum   'Cd1 Ga4 As4 S1'
+_cell_volume   242.05191602
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.99991468  0.00008532  0.00025595  1
+  Ga  Ga1  1  0.59859896  0.40140104  0.20420311  1
+  Ga  Ga2  1  0.19942495  0.80057505  0.40172515  1
+  Ga  Ga3  1  0.79994877  0.20005123  0.60015369  1
+  Ga  Ga4  1  0.40086936  0.59913064  0.79739193  1
+  As  As5  1  0.94795644  0.05204356  0.15613068  1
+  As  As6  1  0.54899330  0.45100670  0.35302009  1
+  As  As7  1  0.14962766  0.85037234  0.55111701  1
+  As  As8  1  0.75013771  0.24986229  0.74958688  1
+  S  S9  1  0.35452816  0.64547184  0.93641552  1

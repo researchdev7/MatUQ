@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaFeSeO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93730263
+_cell_length_b   6.03420075
+_cell_length_c   13.49444437
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaFeSeO
+_chemical_formula_sum   'Ca4 Fe4 Se4 O4'
+_cell_volume   320.60741223
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.75000000  0.25111382  0.08157568  1
+  Ca  Ca1  1  0.75000000  0.75111382  0.41842432  1
+  Ca  Ca2  1  0.25000000  0.74888618  0.91842432  1
+  Ca  Ca3  1  0.25000000  0.24888618  0.58157568  1
+  Fe  Fe4  1  0.75000000  0.38764482  0.79441891  1
+  Fe  Fe5  1  0.75000000  0.88764482  0.70558109  1
+  Fe  Fe6  1  0.25000000  0.61235518  0.20558109  1
+  Fe  Fe7  1  0.25000000  0.11235518  0.29441891  1
+  Se  Se8  1  0.75000000  0.25770829  0.40558501  1
+  Se  Se9  1  0.75000000  0.75770829  0.09441499  1
+  Se  Se10  1  0.25000000  0.74229171  0.59441499  1
+  Se  Se11  1  0.25000000  0.24229171  0.90558501  1
+  O  O12  1  0.75000000  0.20726597  0.67258352  1
+  O  O13  1  0.75000000  0.70726597  0.82741648  1
+  O  O14  1  0.25000000  0.79273403  0.32741648  1
+  O  O15  1  0.25000000  0.29273403  0.17258352  1

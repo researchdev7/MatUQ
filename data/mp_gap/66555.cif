@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta6Cr(CS2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73536888
+_cell_length_b   5.73099401
+_cell_length_c   8.77777267
+_cell_angle_alpha   77.44814213
+_cell_angle_beta   96.23339212
+_cell_angle_gamma   119.97477563
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta6Cr(CS2)3
+_chemical_formula_sum   'Ta6 Cr1 C3 S6'
+_cell_volume   243.95559670
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.33303516  0.78814900  0.63485910  1
+  Ta  Ta1  1  0.00000000  0.12289766  0.63092032  1
+  Ta  Ta2  1  0.66696484  0.45511285  0.63485910  1
+  Ta  Ta3  1  0.66696484  0.21185100  0.36514090  1
+  Ta  Ta4  1  0.33303516  0.54488715  0.36514090  1
+  Ta  Ta5  1  1.00000000  0.87710234  0.36907968  1
+  Cr  Cr6  1  0.00000000  0.00000000  0.00000000  1
+  C  C7  1  0.00000000  0.50000000  0.50000000  1
+  C  C8  1  0.66224746  0.83112323  0.50000000  1
+  C  C9  1  0.33775254  0.16887677  0.50000000  1
+  S  S10  1  0.33473333  0.94237951  0.17235113  1
+  S  S11  1  0.00000000  0.27763896  0.17097826  1
+  S  S12  1  0.66526667  0.60764518  0.17235113  1
+  S  S13  1  0.66526667  0.05762049  0.82764887  1
+  S  S14  1  0.33473333  0.39235482  0.82764887  1
+  S  S15  1  1.00000000  0.72236104  0.82902174  1

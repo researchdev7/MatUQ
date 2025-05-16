@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05357386
+_cell_length_b   5.25913957
+_cell_length_c   6.45795776
+_cell_angle_alpha   111.77027819
+_cell_angle_beta   110.70117304
+_cell_angle_gamma   95.32281809
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuTaO4
+_chemical_formula_sum   'Lu2 Ta2 O8'
+_cell_volume   144.06748859
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00356122  0.78346957  0.06324319  1
+  O  O1  1  0.55968197  0.27977362  0.06324319  1
+  O  O2  1  0.99643878  0.21653043  0.93675681  1
+  O  O3  1  0.44031803  0.72022638  0.93675681  1
+  O  O4  1  0.21356232  0.37331795  0.42255188  1
+  O  O5  1  0.70898956  0.04923392  0.42255188  1
+  O  O6  1  0.78643768  0.62668205  0.57744812  1
+  O  O7  1  0.29101044  0.95076608  0.57744812  1
+  Lu  Lu8  1  0.38152201  0.63152201  0.26304403  1
+  Lu  Lu9  1  0.61847799  0.36847799  0.73695597  1
+  Ta  Ta10  1  0.85313326  0.10313326  0.20626652  1
+  Ta  Ta11  1  0.14686674  0.89686674  0.79373348  1

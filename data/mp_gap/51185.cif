@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ca3(AlSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08697887
+_cell_length_b   4.53210867
+_cell_length_c   9.76391599
+_cell_angle_alpha   103.41983081
+_cell_angle_beta   102.08074449
+_cell_angle_gamma   89.99999995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3(AlSi)2
+_chemical_formula_sum   'Ca3 Al2 Si2'
+_cell_volume   171.79499808
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.06862389  0.56862389  0.13724779  1
+  Al  Al1  1  0.93137611  0.43137611  0.86275221  1
+  Si  Si2  1  0.64428910  0.64428910  0.28857819  1
+  Si  Si3  1  0.35571090  0.35571090  0.71142181  1
+  Ca  Ca4  1  0.50000000  0.00000000  0.00000000  1
+  Ca  Ca5  1  0.81344512  0.81344512  0.62689024  1
+  Ca  Ca6  1  0.18655488  0.18655488  0.37310976  1

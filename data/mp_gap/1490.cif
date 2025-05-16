@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MoOs(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76529201
+_cell_length_b   5.76529201
+_cell_length_c   5.76529201
+_cell_angle_alpha   90.01909196
+_cell_angle_beta   119.98897786
+_cell_angle_gamma   119.98897786
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoOs(PbO3)2
+_chemical_formula_sum   'Mo1 Os1 Pb2 O6'
+_cell_volume   135.52557258
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.00000000  0.00000000  0.00000000  1
+  Os  Os1  1  0.00000000  0.50000000  0.50000000  1
+  Pb  Pb2  1  0.50000000  0.25000000  0.75000000  1
+  Pb  Pb3  1  0.50000000  0.75000000  0.25000000  1
+  O  O4  1  0.00000000  0.25805463  0.25805463  1
+  O  O5  1  0.00000000  0.74194537  0.74194537  1
+  O  O6  1  0.00000000  0.25807473  0.74192527  1
+  O  O7  1  0.00000000  0.74192527  0.25807473  1
+  O  O8  1  0.48385053  0.74192527  0.74192527  1
+  O  O9  1  0.51614947  0.25807473  0.25807473  1

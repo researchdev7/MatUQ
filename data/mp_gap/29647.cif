@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrCr2BiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61355297
+_cell_length_b   5.61355347
+_cell_length_c   5.61355297
+_cell_angle_alpha   59.42496974
+_cell_angle_beta   59.42496822
+_cell_angle_gamma   59.42496977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCr2BiO6
+_chemical_formula_sum   'Sr1 Cr2 Bi1 O6'
+_cell_volume   123.44651893
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.23897977  0.23897977  0.23897977  1
+  Cr  Cr1  1  0.49271374  0.49271374  0.49271374  1
+  Cr  Cr2  1  0.99545687  0.99545687  0.99545687  1
+  Bi  Bi3  1  0.71265548  0.71265548  0.71265548  1
+  O  O4  1  0.16552502  0.74860604  0.33006949  1
+  O  O5  1  0.74860604  0.33006949  0.16552502  1
+  O  O6  1  0.33006949  0.16552502  0.74860604  1
+  O  O7  1  0.27430405  0.68859589  0.80609364  1
+  O  O8  1  0.68859589  0.80609364  0.27430405  1
+  O  O9  1  0.80609364  0.27430405  0.68859589  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NdGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36626043
+_cell_length_b   7.08927877
+_cell_length_c   7.48457089
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdGaNi
+_chemical_formula_sum   'Nd4 Ga4 Ni4'
+_cell_volume   231.67469320
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.75000000  0.47823151  0.70142681  1
+  Nd  Nd1  1  0.75000000  0.97823151  0.79857319  1
+  Nd  Nd2  1  0.25000000  0.52176849  0.29857319  1
+  Nd  Nd3  1  0.25000000  0.02176849  0.20142681  1
+  Ga  Ga4  1  0.75000000  0.31741116  0.07934855  1
+  Ga  Ga5  1  0.75000000  0.81741116  0.42065145  1
+  Ga  Ga6  1  0.25000000  0.68258884  0.92065145  1
+  Ga  Ga7  1  0.25000000  0.18258884  0.57934855  1
+  Ni  Ni8  1  0.75000000  0.70260386  0.09037029  1
+  Ni  Ni9  1  0.75000000  0.20260386  0.40962971  1
+  Ni  Ni10  1  0.25000000  0.29739614  0.90962971  1
+  Ni  Ni11  1  0.25000000  0.79739614  0.59037029  1

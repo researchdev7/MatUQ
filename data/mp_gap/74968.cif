@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Sr4Mn2Cu3(SeO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81060743
+_cell_length_b   5.81079048
+_cell_length_c   9.45830254
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   72.11125553
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Mn2Cu3(SeO)4
+_chemical_formula_sum   'Sr4 Mn2 Cu3 Se4 O4'
+_cell_volume   303.91307133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.40585868  0.00020611  0.18974871  1
+  Sr  Sr1  1  0.90439261  0.49979389  0.18974871  1
+  Sr  Sr2  1  0.09560739  0.49979389  0.81025129  1
+  Sr  Sr3  1  0.59414132  0.00020611  0.81025129  1
+  Mn  Mn4  1  0.50000000  0.49924666  -0.00000000  1
+  Mn  Mn5  1  0.00000000  0.00075334  -0.00000000  1
+  Cu  Cu6  1  0.50000000  0.25000000  0.50000000  1
+  Cu  Cu7  1  0.50000000  0.75000000  0.50000000  1
+  Cu  Cu8  1  -0.00000000  0.25000000  0.50000000  1
+  Se  Se9  1  0.16927982  0.99956246  0.66086728  1
+  Se  Se10  1  0.66985290  0.50043754  0.66086728  1
+  Se  Se11  1  0.33014710  0.50043754  0.33913272  1
+  Se  Se12  1  0.83072018  0.99956246  0.33913272  1
+  O  O13  1  0.24895278  0.25000000  0.00209443  1
+  O  O14  1  0.75001671  0.75000000  0.99996659  1
+  O  O15  1  0.75104722  0.25000000  0.99790557  1
+  O  O16  1  0.24998329  0.75000000  0.00003341  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfFeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89476510
+_cell_length_b   6.39763366
+_cell_length_c   7.20185729
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfFeAs
+_chemical_formula_sum   'Hf4 Fe4 As4'
+_cell_volume   179.45069679
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.75000000  0.01610185  0.31324511  1
+  Hf  Hf1  1  0.25000000  0.98389815  0.68675489  1
+  Hf  Hf2  1  0.25000000  0.48389815  0.81324511  1
+  Hf  Hf3  1  0.75000000  0.51610185  0.18675489  1
+  Fe  Fe4  1  0.75000000  0.64979378  0.56162395  1
+  Fe  Fe5  1  0.25000000  0.35020622  0.43837605  1
+  Fe  Fe6  1  0.25000000  0.85020622  0.06162395  1
+  Fe  Fe7  1  0.75000000  0.14979378  0.93837605  1
+  As  As8  1  0.75000000  0.77768074  0.88308892  1
+  As  As9  1  0.25000000  0.22231926  0.11691108  1
+  As  As10  1  0.25000000  0.72231926  0.38308892  1
+  As  As11  1  0.75000000  0.27768074  0.61691108  1

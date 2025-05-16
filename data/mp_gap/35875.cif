@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2ZnAg2(SeO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15950650
+_cell_length_b   6.18205791
+_cell_length_c   10.46715926
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.75216709
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2ZnAg2(SeO)2
+_chemical_formula_sum   'Ba4 Zn2 Ag4 Se4 O4'
+_cell_volume   381.65769534
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.08887362  0.50026162  0.17709076  1
+  Ba  Ba1  1  0.58887362  -0.00026162  0.17709076  1
+  Ba  Ba2  1  0.41112638  0.00026162  0.82290924  1
+  Ba  Ba3  1  0.91112638  0.49973838  0.82290924  1
+  Zn  Zn4  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn5  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag6  1  0.49852276  0.74843398  0.50108455  1
+  Ag  Ag7  1  0.00147724  0.24843398  0.49891545  1
+  Ag  Ag8  1  0.99852276  0.75156602  0.50108455  1
+  Ag  Ag9  1  0.50147724  0.25156602  0.49891545  1
+  Se  Se10  1  0.33548625  0.49956078  0.67327494  1
+  Se  Se11  1  0.83548625  0.00043922  0.67327494  1
+  Se  Se12  1  0.16451375  0.99956078  0.32672506  1
+  Se  Se13  1  0.66451375  0.50043922  0.32672506  1
+  O  O14  1  0.78650979  0.21659036  -0.00033854  1
+  O  O15  1  0.21349021  0.78340964  0.00033854  1
+  O  O16  1  0.28650979  0.28340964  -0.00033854  1
+  O  O17  1  0.71349021  0.71659036  0.00033854  1

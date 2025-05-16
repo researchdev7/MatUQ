@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnZn(CrS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13488031
+_cell_length_b   7.13488031
+_cell_length_c   7.13488031
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn(CrS2)4
+_chemical_formula_sum   'Mn1 Zn1 Cr4 S8'
+_cell_volume   256.82960176
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.37500000  0.37500000  1
+  Zn  Zn1  1  0.25000000  0.62500000  0.62500000  1
+  Cr  Cr2  1  0.50053204  0.50079806  0.99973398  1
+  Cr  Cr3  1  0.50053204  0.99973398  0.99973398  1
+  Cr  Cr4  1  0.99946796  0.99973398  0.50079806  1
+  Cr  Cr5  1  0.99946796  0.99973398  0.99973398  1
+  S  S6  1  0.02136433  0.78204650  0.23931783  1
+  S  S7  1  0.02136433  0.23931783  0.23931783  1
+  S  S8  1  0.47863567  0.23931783  0.78204650  1
+  S  S9  1  0.47863567  0.23931783  0.23931783  1
+  S  S10  1  0.97919110  0.21878665  0.76040445  1
+  S  S11  1  0.97919110  0.76040445  0.76040445  1
+  S  S12  1  0.52080890  0.76040445  0.21878665  1
+  S  S13  1  0.52080890  0.76040445  0.76040445  1

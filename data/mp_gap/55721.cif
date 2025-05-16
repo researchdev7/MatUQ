@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeIrPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43750943
+_cell_length_b   5.43750943
+_cell_length_c   5.43750943
+_cell_angle_alpha   90.16209721
+_cell_angle_beta   60.56045340
+_cell_angle_gamma   120.75207181
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeIrPt
+_chemical_formula_sum   'Ce2 Ir2 Pt2'
+_cell_volume   113.49646310
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.50000000  0.74833218  0.75166782  1
+  Ce  Ce1  1  0.00000000  0.00166782  0.99833218  1
+  Ir  Ir2  1  0.75000000  0.37500000  0.87500000  1
+  Ir  Ir3  1  0.25000000  0.37500000  0.37500000  1
+  Pt  Pt4  1  0.25000000  0.87500000  0.37500000  1
+  Pt  Pt5  1  0.75000000  0.37500000  0.37500000  1

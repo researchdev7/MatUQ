@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThAl2Fe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12260507
+_cell_length_b   5.10378115
+_cell_length_c   5.10378125
+_cell_angle_alpha   63.06638729
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThAl2Fe3
+_chemical_formula_sum   'Th1 Al2 Fe3'
+_cell_volume   95.73984997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.00000000  0.99997969  0.00002031  1
+  Al  Al1  1  0.50000000  0.49998576  0.00001320  1
+  Al  Al2  1  0.50000000  0.99998680  0.50001424  1
+  Fe  Fe3  1  -0.00000000  0.33987402  0.33990834  1
+  Fe  Fe4  1  -0.00000000  0.66009166  0.66012598  1
+  Fe  Fe5  1  0.50000000  0.49998208  0.50001792  1

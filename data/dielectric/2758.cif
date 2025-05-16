@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_BaMgTe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64036489
+_cell_length_b   7.40296617
+_cell_length_c   8.62474518
+_cell_angle_alpha   115.41490654
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMgTe2O7
+_chemical_formula_sum   'Ba2 Mg2 Te4 O14'
+_cell_volume   325.27789199
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.33699193  0.41778277  1
+  Ba  Ba1  1  0.75000000  0.91920916  0.58221723  1
+  Mg  Mg2  1  0.25000000  0.75937070  0.23238902  1
+  Mg  Mg3  1  0.75000000  0.52698168  0.76761098  1
+  Te  Te4  1  0.25000000  0.81180631  0.84506585  1
+  Te  Te5  1  0.75000000  0.96674047  0.15493415  1
+  Te  Te6  1  0.25000000  0.29959999  0.85241900  1
+  Te  Te7  1  0.75000000  0.44718098  0.14758100  1
+  O  O8  1  0.25000000  0.99542859  0.72946966  1
+  O  O9  1  0.75000000  0.26595893  0.27053034  1
+  O  O10  1  0.50688016  0.29549163  0.71277704  1
+  O  O11  1  0.49311984  0.58271460  0.28722296  1
+  O  O12  1  0.99311984  0.29549163  0.71277704  1
+  O  O13  1  0.00688016  0.58271460  0.28722296  1
+  O  O14  1  0.25000000  0.64890933  0.97202567  1
+  O  O15  1  0.75000000  0.67688366  0.02797433  1
+  O  O16  1  0.49401751  0.66409876  0.68970000  1
+  O  O17  1  0.50598249  0.97439875  0.31030000  1
+  O  O18  1  0.00598249  0.66409876  0.68970000  1
+  O  O19  1  0.99401751  0.97439875  0.31030000  1
+  O  O20  1  0.50000000  0.00514540  0.00000000  1
+  O  O21  1  -0.00000000  0.00514540  0.00000000  1

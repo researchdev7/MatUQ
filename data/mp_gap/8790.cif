@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MnSi2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23912089
+_cell_length_b   5.23912089
+_cell_length_c   6.67769621
+_cell_angle_alpha   105.21538227
+_cell_angle_beta   105.21538228
+_cell_angle_gamma   103.45545916
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSi2O5
+_chemical_formula_sum   'Mn2 Si4 O10'
+_cell_volume   161.46793190
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.12810738  0.70711714  0.90372291  1
+  O  O1  1  0.29288286  0.87189262  0.59627709  1
+  O  O2  1  0.87189262  0.29288286  0.09627709  1
+  O  O3  1  0.70711714  0.12810738  0.40372291  1
+  O  O4  1  0.74564350  0.65244226  0.40063780  1
+  O  O5  1  0.34755774  0.25435650  0.09936220  1
+  O  O6  1  0.93676478  0.06323522  0.75000000  1
+  O  O7  1  0.06323522  0.93676478  0.25000000  1
+  O  O8  1  0.65244226  0.74564350  0.90063780  1
+  O  O9  1  0.25435650  0.34755774  0.59936220  1
+  Si  Si10  1  0.32631722  0.67368278  0.75000000  1
+  Si  Si11  1  0.67368278  0.32631722  0.25000000  1
+  Si  Si12  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si13  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn14  1  0.31860336  0.68139664  0.25000000  1
+  Mn  Mn15  1  0.68139664  0.31860336  0.75000000  1

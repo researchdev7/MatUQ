@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ErB3Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.15850159
+_cell_length_b   5.41759696
+_cell_length_c   6.81616994
+_cell_angle_alpha   101.71632978
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErB3Mo
+_chemical_formula_sum   'Er2 B6 Mo2'
+_cell_volume   114.20472500
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.25000000  0.41846018  0.47606330  1
+  B  B1  1  0.75000000  0.58153982  0.52393670  1
+  B  B2  1  0.25000000  0.41241441  0.99542756  1
+  B  B3  1  0.75000000  0.58758559  0.00457244  1
+  B  B4  1  0.25000000  0.08364753  0.99310825  1
+  B  B5  1  0.75000000  0.91635247  0.00689175  1
+  Mo  Mo6  1  0.75000000  0.31069637  0.22074209  1
+  Mo  Mo7  1  0.25000000  0.68930363  0.77925791  1
+  Er  Er8  1  0.75000000  0.17666956  0.71016927  1
+  Er  Er9  1  0.25000000  0.82333044  0.28983073  1

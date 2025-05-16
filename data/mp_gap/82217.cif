@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuNi4B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93257402
+_cell_length_b   4.93267089
+_cell_length_c   6.93570502
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99935477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuNi4B
+_chemical_formula_sum   'Lu2 Ni8 B2'
+_cell_volume   146.14360645
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.99999105  1.00000000  -0.00000000  1
+  Lu  Lu1  1  0.99999106  1.00000000  0.50000000  1
+  Ni  Ni2  1  0.33330898  0.66670096  -0.00000000  1
+  Ni  Ni3  1  0.66660802  0.33329904  -0.00000000  1
+  Ni  Ni4  1  0.49999438  1.00000000  0.29283564  1
+  Ni  Ni5  1  0.49999559  0.50000766  0.29285069  1
+  Ni  Ni6  1  0.99998793  0.49999234  0.29285069  1
+  Ni  Ni7  1  0.49999438  1.00000000  0.70716436  1
+  Ni  Ni8  1  0.49999559  0.50000766  0.70714931  1
+  Ni  Ni9  1  0.99998793  0.49999234  0.70714931  1
+  B  B10  1  0.33331424  0.66668337  0.50000000  1
+  B  B11  1  0.66663086  0.33331663  0.50000000  1

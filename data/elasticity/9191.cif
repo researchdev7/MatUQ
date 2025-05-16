@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ti(CrTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95914141
+_cell_length_b   7.07828023
+_cell_length_c   7.41259565
+_cell_angle_alpha   117.81992057
+_cell_angle_beta   105.48909689
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(CrTe2)2
+_chemical_formula_sum   'Ti1 Cr2 Te4'
+_cell_volume   175.14456728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Cr  Cr1  1  0.25878950  0.27552564  0.51757901  1
+  Cr  Cr2  1  0.74121050  0.72447436  0.48242099  1
+  Te  Te3  1  0.12237303  0.44868964  0.24474606  1
+  Te  Te4  1  0.87762697  0.55131036  0.75525394  1
+  Te  Te5  1  0.36606602  0.03058037  0.73213204  1
+  Te  Te6  1  0.63393398  0.96941963  0.26786796  1

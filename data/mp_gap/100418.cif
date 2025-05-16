@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuIn4Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59822727
+_cell_length_b   7.49112191
+_cell_length_c   8.93360546
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.91321213
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuIn4Pd
+_chemical_formula_sum   'Eu2 In8 Pd2'
+_cell_volume   297.36070552
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.22428934  0.25000000  0.44857867  1
+  Pd  Pd1  1  0.77571066  0.75000000  0.55142133  1
+  In  In2  1  0.50000000  0.50000000  0.00000000  1
+  In  In3  1  0.50000000  0.00000000  0.00000000  1
+  In  In4  1  0.68399247  0.04803415  0.36798494  1
+  In  In5  1  0.31600753  0.95196585  0.63201506  1
+  In  In6  1  0.31600753  0.54803415  0.63201506  1
+  In  In7  1  0.68399247  0.45196585  0.36798494  1
+  In  In8  1  0.06775090  0.25000000  0.13550180  1
+  In  In9  1  0.93224910  0.75000000  0.86449820  1
+  Eu  Eu10  1  0.12292931  0.75000000  0.24585862  1
+  Eu  Eu11  1  0.87707069  0.25000000  0.75414138  1

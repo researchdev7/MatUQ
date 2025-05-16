@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CuAg4TeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83917763
+_cell_length_b   7.57298241
+_cell_length_c   7.57298250
+_cell_angle_alpha   81.40439156
+_cell_angle_beta   82.64582797
+_cell_angle_gamma   82.64582798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAg4TeO6
+_chemical_formula_sum   'Cu2 Ag8 Te2 O12'
+_cell_volume   326.36190039
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.25000000  0.91719979  0.08280021  1
+  Cu  Cu1  1  0.75000000  0.08280021  0.91719979  1
+  Ag  Ag2  1  0.25000000  0.57164666  0.42835334  1
+  Ag  Ag3  1  0.97132012  0.65141110  0.82129358  1
+  Ag  Ag4  1  0.75000000  0.42835334  0.57164666  1
+  Ag  Ag5  1  0.47132012  0.82129358  0.65141110  1
+  Ag  Ag6  1  0.52867988  0.17870642  0.34858890  1
+  Ag  Ag7  1  0.02867988  0.34858890  0.17870642  1
+  Ag  Ag8  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag9  1  0.00000000  0.00000000  0.50000000  1
+  Te  Te10  1  0.25000000  0.22181766  0.77818234  1
+  Te  Te11  1  0.75000000  0.77818234  0.22181766  1
+  O  O12  1  0.68709746  0.52537590  0.24443379  1
+  O  O13  1  0.18709746  0.24443379  0.52537590  1
+  O  O14  1  0.82034528  0.03305710  0.17432435  1
+  O  O15  1  0.31290254  0.47462410  0.75556621  1
+  O  O16  1  0.81290254  0.75556621  0.47462410  1
+  O  O17  1  0.58137858  0.14805231  0.70187286  1
+  O  O18  1  0.08137858  0.70187286  0.14805231  1
+  O  O19  1  0.91862142  0.29812714  0.85194769  1
+  O  O20  1  0.67965472  0.82567565  0.96694290  1
+  O  O21  1  0.32034528  0.17432435  0.03305710  1
+  O  O22  1  0.41862142  0.85194769  0.29812714  1
+  O  O23  1  0.17965472  0.96694290  0.82567565  1

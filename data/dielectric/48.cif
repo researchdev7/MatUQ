@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2ZnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50031848
+_cell_length_b   6.09319385
+_cell_length_c   6.67608082
+_cell_angle_alpha   117.15151524
+_cell_angle_beta   114.32689760
+_cell_angle_gamma   89.99999997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2ZnO2
+_chemical_formula_sum   'K4 Zn2 O4'
+_cell_volume   176.46884081
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.40454766  0.71893752  0.80909532  1
+  O  O1  1  0.59545234  0.28106248  0.19090468  1
+  O  O2  1  0.09545234  0.90984220  0.19090468  1
+  O  O3  1  0.90454766  0.09015780  0.80909532  1
+  K  K4  1  0.34769808  0.21134868  0.69539616  1
+  K  K5  1  0.65230192  0.78865132  0.30460384  1
+  K  K6  1  0.84769808  0.48404748  0.69539616  1
+  K  K7  1  0.15230192  0.51595252  0.30460384  1
+  Zn  Zn8  1  0.75000000  0.00000000  0.00000000  1
+  Zn  Zn9  1  0.25000000  0.00000000  0.00000000  1

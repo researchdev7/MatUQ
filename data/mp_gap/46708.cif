@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ce2Al2PdPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44794713
+_cell_length_b   7.21283785
+_cell_length_c   7.87911561
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Al2PdPt
+_chemical_formula_sum   'Ce4 Al4 Pd2 Pt2'
+_cell_volume   252.78031946
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.46843718  0.18122899  1
+  Ce  Ce1  1  0.75000000  0.96843718  0.31877101  1
+  Ce  Ce2  1  0.25000000  0.52830472  0.82130808  1
+  Ce  Ce3  1  0.25000000  0.02830472  0.67869192  1
+  Al  Al4  1  0.75000000  0.35216700  0.56983383  1
+  Al  Al5  1  0.75000000  0.85216700  0.93016617  1
+  Al  Al6  1  0.25000000  0.64931271  0.43478645  1
+  Al  Al7  1  0.25000000  0.14931271  0.06521355  1
+  Pd  Pd8  1  0.25000000  0.78307875  0.11146202  1
+  Pd  Pd9  1  0.25000000  0.28307875  0.38853798  1
+  Pt  Pt10  1  0.75000000  0.21869964  0.88847270  1
+  Pt  Pt11  1  0.75000000  0.71869964  0.61152730  1

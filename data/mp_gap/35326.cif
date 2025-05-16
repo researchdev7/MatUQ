@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_YAgSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.09363678
+_cell_length_b   10.92151055
+_cell_length_c   7.32517485
+_cell_angle_alpha   28.82379674
+_cell_angle_beta   56.21370978
+_cell_angle_gamma   41.94498527
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YAgSe2
+_chemical_formula_sum   'Y2 Ag2 Se4'
+_cell_volume   199.28146954
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.99637854  0.00353104  0.99776626  1
+  Y  Y1  1  0.75224697  0.49531830  0.00752771  1
+  Ag  Ag2  1  0.49945014  0.00900642  0.98632087  1
+  Ag  Ag3  1  0.24113200  0.50307755  0.00153910  1
+  Se  Se4  1  0.23788019  0.99632183  0.53120704  1
+  Se  Se5  1  0.75818705  0.00306549  0.47300581  1
+  Se  Se6  1  0.50920223  0.50589080  0.47098802  1
+  Se  Se7  1  0.98406188  0.50252957  0.52568917  1

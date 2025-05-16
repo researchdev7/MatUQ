@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Al2Si4Mo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72211201
+_cell_length_b   4.72211229
+_cell_length_c   6.58186853
+_cell_angle_alpha   89.90316557
+_cell_angle_beta   90.09683438
+_cell_angle_gamma   59.88702919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2Si4Mo3
+_chemical_formula_sum   'Al2 Si4 Mo3'
+_cell_volume   126.95634951
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.15964652  0.67491575  0.17073275  1
+  Al  Al1  1  0.67491575  0.15964652  0.49593425  1
+  Si  Si2  1  0.15951987  0.15951987  0.83333300  1
+  Si  Si3  1  0.83885303  0.32810113  0.16614865  1
+  Si  Si4  1  0.32810113  0.83885303  0.50051835  1
+  Si  Si5  1  0.84114540  0.84114540  0.83333300  1
+  Mo  Mo6  1  0.49684659  0.99933996  0.15728602  1
+  Mo  Mo7  1  0.99933996  0.49684659  0.50938098  1
+  Mo  Mo8  1  0.50163176  0.50163176  0.83333300  1

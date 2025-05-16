@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BaCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59388051
+_cell_length_b   8.00178764
+_cell_length_c   7.19836480
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCrO4
+_chemical_formula_sum   'Ba4 Cr4 O16'
+_cell_volume   379.80610948
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.21201194  0.13684322  0.58761165  1
+  Ba  Ba1  1  0.78798806  0.36315678  0.08761165  1
+  Ba  Ba2  1  0.28798806  0.63684322  0.41238835  1
+  Ba  Ba3  1  0.71201194  0.86315678  0.91238835  1
+  Cr  Cr4  1  0.25784380  0.11490731  0.08327442  1
+  Cr  Cr5  1  0.74215620  0.38509269  0.58327442  1
+  Cr  Cr6  1  0.24215620  0.61490731  0.91672558  1
+  Cr  Cr7  1  0.75784380  0.88509269  0.41672558  1
+  O  O8  1  0.31017820  0.95769422  0.22547590  1
+  O  O9  1  0.68982180  0.54230578  0.72547590  1
+  O  O10  1  0.18982180  0.45769422  0.77452410  1
+  O  O11  1  0.81017820  0.04230578  0.27452410  1
+  O  O12  1  0.19938808  0.28096263  0.20991856  1
+  O  O13  1  0.80061192  0.21903737  0.70991856  1
+  O  O14  1  0.30061192  0.78096263  0.79008144  1
+  O  O15  1  0.69938808  0.71903737  0.29008144  1
+  O  O16  1  0.55970221  0.92641868  0.55363427  1
+  O  O17  1  0.44029779  0.57358132  0.05363427  1
+  O  O18  1  0.94029779  0.42641868  0.44636573  1
+  O  O19  1  0.05970221  0.07358132  0.94636573  1
+  O  O20  1  0.45887988  0.15329955  0.94577374  1
+  O  O21  1  0.54112012  0.34670045  0.44577374  1
+  O  O22  1  0.04112012  0.65329955  0.05422626  1
+  O  O23  1  0.95887988  0.84670045  0.55422626  1

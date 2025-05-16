@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgCrFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02944336
+_cell_length_b   6.02150756
+_cell_length_c   6.03633194
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.96219951
+_cell_angle_gamma   119.95647085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCrFeO4
+_chemical_formula_sum   'Mg2 Cr2 Fe2 O8'
+_cell_volume   154.98081982
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.25155433  0.12577717  0.12422283  1
+  Mg  Mg1  1  0.74844567  0.87422283  0.87577717  1
+  Cr  Cr2  1  0.00000000  0.50000000  -0.00000000  1
+  Cr  Cr3  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe4  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.97987499  0.71746495  0.26006251  1
+  O  O7  1  0.97987499  0.26241004  0.26006251  1
+  O  O8  1  0.52235339  0.26117669  0.71894174  1
+  O  O9  1  0.52235339  0.26117669  0.25870487  1
+  O  O10  1  0.02012501  0.28253505  0.73993749  1
+  O  O11  1  0.02012501  0.73758996  0.73993749  1
+  O  O12  1  0.47764661  0.73882331  0.28105826  1
+  O  O13  1  0.47764661  0.73882331  0.74129513  1

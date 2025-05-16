@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La3(GaNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75849118
+_cell_length_b   8.32143198
+_cell_length_c   13.17825587
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3(GaNi)2
+_chemical_formula_sum   'La12 Ga8 Ni8'
+_cell_volume   631.48742850
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.38970670  0.46634501  0.41221688  1
+  Ni  Ni1  1  0.38970670  0.03365499  0.58778312  1
+  Ni  Ni2  1  0.61029330  0.96634501  0.08778312  1
+  Ni  Ni3  1  0.61029330  0.53365499  0.91221688  1
+  Ni  Ni4  1  0.61029330  0.53365499  0.58778312  1
+  Ni  Ni5  1  0.61029330  0.96634501  0.41221688  1
+  Ni  Ni6  1  0.38970670  0.03365499  0.91221688  1
+  Ni  Ni7  1  0.38970670  0.46634501  0.08778312  1
+  Ga  Ga8  1  0.82783912  0.60264446  0.75000000  1
+  Ga  Ga9  1  0.82783912  0.89735554  0.25000000  1
+  Ga  Ga10  1  0.17216088  0.10264446  0.75000000  1
+  Ga  Ga11  1  0.17216088  0.39735554  0.25000000  1
+  Ga  Ga12  1  0.64607630  0.25000000  0.00000000  1
+  Ga  Ga13  1  0.35392370  0.75000000  0.50000000  1
+  Ga  Ga14  1  0.35392370  0.75000000  0.00000000  1
+  Ga  Ga15  1  0.64607630  0.25000000  0.50000000  1
+  La  La16  1  0.33776857  0.74932172  0.75000000  1
+  La  La17  1  0.33776857  0.75067828  0.25000000  1
+  La  La18  1  0.66223143  0.24932172  0.75000000  1
+  La  La19  1  0.66223143  0.25067828  0.25000000  1
+  La  La20  1  0.15758206  0.10239848  0.40444678  1
+  La  La21  1  0.15758206  0.39760152  0.59555322  1
+  La  La22  1  0.84241794  0.60239848  0.09555322  1
+  La  La23  1  0.84241794  0.89760152  0.90444678  1
+  La  La24  1  0.84241794  0.89760152  0.59555322  1
+  La  La25  1  0.84241794  0.60239848  0.40444678  1
+  La  La26  1  0.15758206  0.39760152  0.90444678  1
+  La  La27  1  0.15758206  0.10239848  0.09555322  1

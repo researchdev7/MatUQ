@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuMgF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08495022
+_cell_length_b   5.60793345
+_cell_length_c   7.75317523
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.27411429
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuMgF4
+_chemical_formula_sum   'Eu2 Mg2 F8'
+_cell_volume   171.33691156
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.00000000  0.00000000  1
+  F  F1  1  0.00000000  0.50000000  0.00000000  1
+  F  F2  1  0.18699536  0.49663488  0.37399071  1
+  F  F3  1  0.81300464  0.50336512  0.62600929  1
+  F  F4  1  0.39924374  0.75000000  0.79848747  1
+  F  F5  1  0.60075626  0.25000000  0.20151253  1
+  F  F6  1  0.18699536  0.00336512  0.37399071  1
+  F  F7  1  0.81300464  0.99663488  0.62600929  1
+  Mg  Mg8  1  0.08861522  0.25000000  0.17723043  1
+  Mg  Mg9  1  0.91138478  0.75000000  0.82276957  1
+  Eu  Eu10  1  0.66700769  0.75000000  0.33401538  1
+  Eu  Eu11  1  0.33299231  0.25000000  0.66598462  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Pr(Re2Si)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13246538
+_cell_length_b   4.17726211
+_cell_length_c   7.34821450
+_cell_angle_alpha   106.51321820
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(Re2Si)2
+_chemical_formula_sum   'Pr1 Re4 Si2'
+_cell_volume   121.61581359
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  -0.00000000  0.00000000  0.00000000  1
+  Re  Re1  1  0.50000000  0.81067252  0.62134504  1
+  Re  Re2  1  0.50000000  0.18932748  0.37865496  1
+  Re  Re3  1  0.00000000  0.69631933  0.39263866  1
+  Re  Re4  1  -0.00000000  0.30368067  0.60736134  1
+  Si  Si5  1  0.50000000  0.58957992  0.17915985  1
+  Si  Si6  1  0.50000000  0.41042008  0.82084015  1

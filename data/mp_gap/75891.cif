@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErTiClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90193353
+_cell_length_b   5.28345084
+_cell_length_c   9.86520463
+_cell_angle_alpha   74.52711782
+_cell_angle_beta   78.59386094
+_cell_angle_gamma   68.33002237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTiClO3
+_chemical_formula_sum   'Er2 Ti2 Cl2 O6'
+_cell_volume   181.03236913
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.27878589  0.23622774  0.20620048  1
+  Er  Er1  1  0.72121411  0.76377226  0.79379952  1
+  Ti  Ti2  1  0.88179504  0.80631678  0.43009314  1
+  Ti  Ti3  1  0.11820496  0.19368322  0.56990686  1
+  Cl  Cl4  1  0.61513291  0.67541408  0.09432009  1
+  Cl  Cl5  1  0.38486709  0.32458592  0.90567991  1
+  O  O6  1  0.84796219  0.05121824  0.25285739  1
+  O  O7  1  0.15203781  0.94878176  0.74714261  1
+  O  O8  1  0.66692944  0.10157761  0.56456350  1
+  O  O9  1  0.33307056  0.89842239  0.43543650  1
+  O  O10  1  0.92083427  0.53316814  0.62516331  1
+  O  O11  1  0.07916573  0.46683186  0.37483669  1

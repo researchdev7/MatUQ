@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_In2AgS3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92481352
+_cell_length_b   7.92481352
+_cell_length_c   7.80790454
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.50344344
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2AgS3Br
+_chemical_formula_sum   'In4 Ag2 S6 Br2'
+_cell_volume   344.10970373
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.75000000  0.37500000  0.87500000  1
+  In  In1  1  0.25000000  0.37500000  0.37500000  1
+  In  In2  1  0.25000000  0.87500000  0.37500000  1
+  In  In3  1  0.75000000  0.37500000  0.37500000  1
+  Ag  Ag4  1  0.58893357  0.79446679  0.61659964  1
+  Ag  Ag5  1  0.91106643  0.95553321  0.13340036  1
+  S  S6  1  0.71674368  0.13392587  0.14933045  1
+  S  S7  1  0.71674368  0.58281780  0.14933045  1
+  S  S8  1  0.26785175  0.13392587  0.14933045  1
+  S  S9  1  0.78325632  0.61607413  0.60066955  1
+  S  S10  1  0.78325632  0.16718220  0.60066955  1
+  S  S11  1  0.23214825  0.61607413  0.60066955  1
+  Br  Br12  1  0.22665425  0.11332712  0.66001863  1
+  Br  Br13  1  0.27334575  0.63667288  0.08998137  1

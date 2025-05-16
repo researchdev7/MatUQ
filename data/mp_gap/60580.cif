@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta2Ti2Ni2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15087249
+_cell_length_b   8.15087249
+_cell_length_c   8.15087249
+_cell_angle_alpha   89.67621624
+_cell_angle_beta   60.18676025
+_cell_angle_gamma   119.81323975
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Ti2Ni2C
+_chemical_formula_sum   'Ta8 Ti8 Ni8 C4'
+_cell_volume   383.98479091
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.25000000  0.44043144  0.80956856  1
+  Ta  Ta1  1  0.25000000  0.80956856  0.44043144  1
+  Ta  Ta2  1  0.38520613  0.19260307  0.55739693  1
+  Ta  Ta3  1  0.11479387  0.55739693  0.19260307  1
+  Ta  Ta4  1  0.75000000  0.19260307  0.19260307  1
+  Ta  Ta5  1  0.75000000  0.55739693  0.55739693  1
+  Ta  Ta6  1  0.75000000  0.55832246  0.19167754  1
+  Ta  Ta7  1  0.75000000  0.19167754  0.55832246  1
+  Ti  Ti8  1  0.50138247  0.50273980  0.99864267  1
+  Ti  Ti9  1  0.50138247  0.99864267  -0.00002513  1
+  Ti  Ti10  1  -0.00138247  0.99864267  0.50273980  1
+  Ti  Ti11  1  -0.00138247  -0.00002513  0.99864267  1
+  Ti  Ti12  1  0.61649960  0.80824980  0.44175020  1
+  Ti  Ti13  1  0.88350040  0.44175020  0.80824980  1
+  Ti  Ti14  1  0.25000000  0.80824980  0.80824980  1
+  Ti  Ti15  1  0.25000000  0.44175020  0.44175020  1
+  Ni  Ni16  1  0.08966975  0.88442843  0.20524132  1
+  Ni  Ni17  1  0.08966975  0.20524132  0.20508893  1
+  Ni  Ni18  1  0.41033025  0.20524132  0.88442843  1
+  Ni  Ni19  1  0.41033025  0.20508893  0.20524132  1
+  Ni  Ni20  1  0.92383919  0.13733332  0.78650587  1
+  Ni  Ni21  1  0.92383919  0.78650587  0.78965494  1
+  Ni  Ni22  1  0.57616081  0.78650587  0.13733332  1
+  Ni  Ni23  1  0.57616081  0.78965494  0.78650587  1
+  C  C24  1  0.49903738  0.99629259  0.50274479  1
+  C  C25  1  0.49903738  0.50274479  0.49821783  1
+  C  C26  1  0.00096262  0.50274479  0.99629259  1
+  C  C27  1  0.00096262  0.49821783  0.50274479  1

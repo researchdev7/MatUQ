@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_InTeBrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04515932
+_cell_length_b   7.30185022
+_cell_length_c   8.79728849
+_cell_angle_alpha   103.01565648
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InTeBrO3
+_chemical_formula_sum   'In4 Te4 Br4 O12'
+_cell_volume   440.92943374
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.25053970  0.70297503  0.32853317  1
+  In  In1  1  0.75053970  0.79702497  0.67146683  1
+  In  In2  1  0.74946030  0.29702497  0.67146683  1
+  In  In3  1  0.24946030  0.20297503  0.32853317  1
+  Te  Te4  1  0.77659358  0.44726010  0.30659057  1
+  Te  Te5  1  0.27659358  0.05273990  0.69340943  1
+  Te  Te6  1  0.22340642  0.55273990  0.69340943  1
+  Te  Te7  1  0.72340642  0.94726010  0.30659057  1
+  Br  Br8  1  0.29459558  0.38749000  0.09116045  1
+  Br  Br9  1  0.79459558  0.11251000  0.90883955  1
+  Br  Br10  1  0.70540442  0.61251000  0.90883955  1
+  Br  Br11  1  0.20540442  0.88749000  0.09116045  1
+  O  O12  1  0.71792492  0.50840991  0.52918233  1
+  O  O13  1  0.21792492  0.99159009  0.47081767  1
+  O  O14  1  0.28207508  0.49159009  0.47081767  1
+  O  O15  1  0.78207508  0.00840991  0.52918233  1
+  O  O16  1  0.94534291  0.24750657  0.32481204  1
+  O  O17  1  0.44534291  0.25249343  0.67518796  1
+  O  O18  1  0.05465709  0.75249343  0.67518796  1
+  O  O19  1  0.55465709  0.74750657  0.32481204  1
+  O  O20  1  0.94661317  0.65482558  0.32096568  1
+  O  O21  1  0.44661317  0.84517442  0.67903432  1
+  O  O22  1  0.05338683  0.34517442  0.67903432  1
+  O  O23  1  0.55338683  0.15482558  0.32096568  1

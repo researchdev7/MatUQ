@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuGa3Co2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27714248
+_cell_length_b   6.26967734
+_cell_length_c   6.26967733
+_cell_angle_alpha   103.90009041
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuGa3Co2
+_chemical_formula_sum   'Eu2 Ga6 Co4'
+_cell_volume   201.36381715
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.79616655  0.20383345  1
+  Co  Co1  1  0.50000000  0.20383345  0.79616655  1
+  Co  Co2  1  0.00000000  0.20383345  0.79616655  1
+  Co  Co3  1  0.50000000  0.79616655  0.20383345  1
+  Ga  Ga4  1  0.75000000  0.08447330  0.47245909  1
+  Ga  Ga5  1  0.25000000  0.91552670  0.52754091  1
+  Ga  Ga6  1  0.25000000  0.94847970  0.94847970  1
+  Ga  Ga7  1  0.75000000  0.05152030  0.05152030  1
+  Ga  Ga8  1  0.25000000  0.52754091  0.91552670  1
+  Ga  Ga9  1  0.75000000  0.47245909  0.08447330  1
+  Eu  Eu10  1  0.75000000  0.65481851  0.65481851  1
+  Eu  Eu11  1  0.25000000  0.34518149  0.34518149  1

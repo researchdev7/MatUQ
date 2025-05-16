@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba5(Ga3H)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80747851
+_cell_length_b   7.80747835
+_cell_length_c   14.46809772
+_cell_angle_alpha   89.99971371
+_cell_angle_beta   90.00028628
+_cell_angle_gamma   120.00008355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5(Ga3H)2
+_chemical_formula_sum   'Ba10 Ga12 H4'
+_cell_volume   763.77121275
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.02415253  0.68946845  0.76308426  1
+  Ba  Ba1  1  0.31053922  0.33467721  0.76308748  1
+  Ba  Ba2  1  0.66530927  0.97584453  0.76308314  1
+  Ba  Ba3  1  0.31053155  0.97584747  0.26308426  1
+  Ba  Ba4  1  0.66532279  0.68946078  0.26308748  1
+  Ba  Ba5  1  0.02415547  0.33469073  0.26308314  1
+  Ba  Ba6  1  0.00000053  0.99999729  0.53088579  1
+  Ba  Ba7  1  0.00000271  -0.00000053  0.03088579  1
+  Ba  Ba8  1  0.33331874  0.66663304  0.49838580  1
+  Ba  Ba9  1  0.33336696  0.66668126  0.99838580  1
+  Ga  Ga10  1  0.47476654  0.12550981  0.58940852  1
+  Ga  Ga11  1  0.87447669  0.34924870  0.58941006  1
+  Ga  Ga12  1  0.65075048  0.52522960  0.58940946  1
+  Ga  Ga13  1  0.87449019  0.52523346  0.08940852  1
+  Ga  Ga14  1  0.65075130  0.12552331  0.08941006  1
+  Ga  Ga15  1  0.47477040  0.34924952  0.08940946  1
+  Ga  Ga16  1  0.45892082  0.14045346  0.93400482  1
+  Ga  Ga17  1  0.85955664  0.31847225  0.93400518  1
+  Ga  Ga18  1  0.68153576  0.54107870  0.93400459  1
+  Ga  Ga19  1  0.85954654  0.54107918  0.43400482  1
+  Ga  Ga20  1  0.68152775  0.14044336  0.43400518  1
+  Ga  Ga21  1  0.45892130  0.31846424  0.43400459  1
+  H  H22  1  0.33331549  0.66662714  0.81636682  1
+  H  H23  1  0.33337286  0.66668451  0.31636682  1
+  H  H24  1  0.99999753  0.00000008  0.71870407  1
+  H  H25  1  -0.00000008  0.00000247  0.21870407  1

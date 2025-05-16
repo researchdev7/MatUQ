@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La4Bi2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57218564
+_cell_length_b   8.57218564
+_cell_length_c   8.57218564
+_cell_angle_alpha   70.43998189
+_cell_angle_beta   70.70622873
+_cell_angle_gamma   109.56001811
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4Bi2Pb
+_chemical_formula_sum   'La8 Bi4 Pb2'
+_cell_volume   484.89721319
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.85493146  0.35652721  0.14435560  1
+  La  La1  1  0.49911719  0.14347279  0.00159574  1
+  La  La2  1  0.64506854  0.50071294  0.49840426  1
+  La  La3  1  0.00088281  0.99928706  0.35564440  1
+  La  La4  1  0.49840426  0.64347279  0.00088281  1
+  La  La5  1  0.35564440  0.85652721  0.64506854  1
+  La  La6  1  0.14435560  0.49928706  0.49911719  1
+  La  La7  1  0.00159574  0.00071294  0.85493146  1
+  Bi  Bi8  1  0.87446311  0.62446311  0.75000000  1
+  Bi  Bi9  1  0.62553689  0.87553689  0.25000000  1
+  Bi  Bi10  1  0.75000000  0.12446311  0.62553689  1
+  Bi  Bi11  1  0.25000000  0.37553689  0.87446311  1
+  Pb  Pb12  1  0.37500000  0.25000000  0.37500000  1
+  Pb  Pb13  1  0.12500000  0.75000000  0.12500000  1

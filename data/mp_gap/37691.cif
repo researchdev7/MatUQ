@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiMn2Cu(RuO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11842201
+_cell_length_b   6.02195945
+_cell_length_c   5.69517497
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   62.26310589
+_cell_angle_gamma   119.47982365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMn2Cu(RuO4)2
+_chemical_formula_sum   'Li1 Mn2 Cu1 Ru2 O8'
+_cell_volume   154.37188352
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.27906054  0.13953027  0.11046973  1
+  Mn  Mn1  1  0.49097068  -0.00645127  0.50451466  1
+  Mn  Mn2  1  0.49097068  0.49742195  0.50451466  1
+  Cu  Cu3  1  0.75590185  0.87795092  0.87204908  1
+  Ru  Ru4  1  -0.00120466  0.49939767  0.02701868  1
+  Ru  Ru5  1  -0.00120466  0.49939767  0.47418598  1
+  O  O6  1  -0.00239797  0.28131622  0.75119899  1
+  O  O7  1  -0.00239797  0.71628581  0.75119899  1
+  O  O8  1  0.45861773  0.72930887  0.28428158  1
+  O  O9  1  0.45861773  0.72930887  0.75710069  1
+  O  O10  1  0.99274209  0.75022347  0.25362896  1
+  O  O11  1  0.99274209  0.24251862  0.25362896  1
+  O  O12  1  0.54379094  0.27189547  0.70083319  1
+  O  O13  1  0.54379094  0.27189547  0.25537587  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HPb2IO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28236248
+_cell_length_b   8.15387317
+_cell_length_c   9.97037526
+_cell_angle_alpha   108.33607187
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   105.22420477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HPb2IO2
+_chemical_formula_sum   'H2 Pb4 I2 O4'
+_cell_volume   317.57065764
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.69237564  0.38475128  0.85982529  1
+  H  H1  1  0.30762436  0.61524872  0.14017471  1
+  Pb  Pb2  1  0.66631440  0.33262880  0.54968799  1
+  Pb  Pb3  1  0.33368560  0.66737120  0.45031201  1
+  Pb  Pb4  1  0.67513844  0.35027688  0.15312029  1
+  Pb  Pb5  1  0.32486156  0.64972312  0.84687971  1
+  I  I6  1  0.48867689  0.97735378  0.22925617  1
+  I  I7  1  0.51132311  0.02264622  0.77074383  1
+  O  O8  1  0.75062678  0.50125355  0.39210752  1
+  O  O9  1  0.24937322  0.49874645  0.60789248  1
+  O  O10  1  0.74757482  0.49514964  0.83419305  1
+  O  O11  1  0.25242518  0.50485036  0.16580695  1

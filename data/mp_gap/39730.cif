@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti5Sb2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23636703
+_cell_length_b   7.86917708
+_cell_length_c   7.86917708
+_cell_angle_alpha   83.64442044
+_cell_angle_beta   70.56642723
+_cell_angle_gamma   70.56642717
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Sb2Rh
+_chemical_formula_sum   'Ti10 Sb4 Rh2'
+_cell_volume   288.36182582
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.07334127  0.13744994  0.71586752  1
+  Ti  Ti1  1  0.78920879  0.28413248  0.13744994  1
+  Ti  Ti2  1  0.21079121  0.71586752  0.86255006  1
+  Ti  Ti3  1  0.92665873  0.86255006  0.28413248  1
+  Ti  Ti4  1  0.28920879  0.13744994  0.28413248  1
+  Ti  Ti5  1  0.71079121  0.86255006  0.71586752  1
+  Ti  Ti6  1  0.42665873  0.28413248  0.86255006  1
+  Ti  Ti7  1  0.57334127  0.71586752  0.13744994  1
+  Ti  Ti8  1  0.25000000  0.50000000  0.50000000  1
+  Ti  Ti9  1  0.75000000  0.50000000  0.50000000  1
+  Rh  Rh10  1  0.25000000  0.00000000  0.00000000  1
+  Rh  Rh11  1  0.75000000  0.00000000  0.00000000  1
+  Sb  Sb12  1  0.16339221  0.50000000  0.17321558  1
+  Sb  Sb13  1  0.33660779  0.82678442  0.50000000  1
+  Sb  Sb14  1  0.66339221  0.17321558  0.50000000  1
+  Sb  Sb15  1  0.83660779  0.50000000  0.82678442  1

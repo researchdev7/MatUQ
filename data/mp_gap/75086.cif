@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErAlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28990760
+_cell_length_b   5.36781507
+_cell_length_c   8.67446249
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.48421502
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErAlFe
+_chemical_formula_sum   'Er4 Al4 Fe4'
+_cell_volume   212.26532215
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.66672733  0.33337627  0.55362555  1
+  Er  Er1  1  0.33837832  0.66916870  0.42591110  1
+  Er  Er2  1  0.33837832  0.66916870  0.07408890  1
+  Er  Er3  1  0.66672733  0.33337627  0.94637445  1
+  Al  Al4  1  0.98944639  0.99474916  0.48598951  1
+  Al  Al5  1  0.98944639  0.99474916  0.01401049  1
+  Al  Al6  1  0.17434825  0.33980654  0.75000000  1
+  Al  Al7  1  0.17433567  0.83452514  0.75000000  1
+  Fe  Fe8  1  0.66581867  0.83292376  0.75000000  1
+  Fe  Fe9  1  0.82531505  0.64671519  0.25000000  1
+  Fe  Fe10  1  0.82525974  0.17854558  0.25000000  1
+  Fe  Fe11  1  0.34581853  0.17289553  0.25000000  1

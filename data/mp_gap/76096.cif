@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cs2Al(TeO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31203126
+_cell_length_b   7.12657964
+_cell_length_c   7.31203126
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   120.86461760
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Al(TeO4)3
+_chemical_formula_sum   'Cs2 Al1 Te3 O12'
+_cell_volume   265.85276329
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.24328116  0.11492174  0.12835942  1
+  Cs  Cs1  1  0.75671884  0.88507826  0.87164058  1
+  Al  Al2  1  0.50000000  -0.00000000  0.50000000  1
+  Te  Te3  1  0.50000000  0.50000000  0.50000000  1
+  Te  Te4  1  0.00000000  0.50000000  0.00000000  1
+  Te  Te5  1  0.00000000  0.50000000  0.50000000  1
+  O  O6  1  0.25236574  0.81884021  0.43352553  1
+  O  O7  1  0.24194991  0.41594435  0.82600555  1
+  O  O8  1  0.84798890  0.41594435  0.82600555  1
+  O  O9  1  0.63294894  0.81884021  0.43352553  1
+  O  O10  1  0.24194991  0.41594435  0.43204454  1
+  O  O11  1  0.25236574  0.81884021  0.81410874  1
+  O  O12  1  0.74763426  0.18115979  0.56647447  1
+  O  O13  1  0.75805009  0.58405565  0.17399445  1
+  O  O14  1  0.15201110  0.58405565  0.17399445  1
+  O  O15  1  0.36705106  0.18115979  0.56647447  1
+  O  O16  1  0.75805009  0.58405565  0.56795546  1
+  O  O17  1  0.74763426  0.18115979  0.18589126  1

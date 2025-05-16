@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na2Zn2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01896281
+_cell_length_b   7.04207806
+_cell_length_c   7.06957241
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.07199256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Zn2S3
+_chemical_formula_sum   'Na4 Zn4 S6'
+_cell_volume   308.32678838
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.85509168  0.09870658  0.33699482  1
+  Na  Na1  1  0.14490832  0.40129342  0.83699482  1
+  Na  Na2  1  0.14490832  0.90129342  0.66300518  1
+  Na  Na3  1  0.85509168  0.59870658  0.16300518  1
+  Zn  Zn4  1  0.65878278  0.43104457  0.61773740  1
+  Zn  Zn5  1  0.34121722  0.06895543  0.11773740  1
+  Zn  Zn6  1  0.34121722  0.56895543  0.38226260  1
+  Zn  Zn7  1  0.65878278  0.93104457  0.88226260  1
+  S  S8  1  0.63533320  0.25870673  0.90611272  1
+  S  S9  1  0.36466680  0.24129327  0.40611272  1
+  S  S10  1  0.36466680  0.74129327  0.09388728  1
+  S  S11  1  0.63533320  0.75870673  0.59388728  1
+  S  S12  1  0.00000000  0.50000000  0.50000000  1
+  S  S13  1  0.00000000  0.00000000  -0.00000000  1

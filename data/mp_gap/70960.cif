@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ag5(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06589662
+_cell_length_b   6.06589673
+_cell_length_c   6.52927896
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag5(PbO3)2
+_chemical_formula_sum   'Ag5 Pb2 O6'
+_cell_volume   208.05869749
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50086436  0.00000000  0.52145616  1
+  Ag  Ag1  1  0.00000000  0.00000000  0.27377611  1
+  Ag  Ag2  1  0.49913564  0.49913564  0.52145616  1
+  Ag  Ag3  1  0.00000000  0.50086436  0.52145616  1
+  Ag  Ag4  1  0.00000000  0.00000000  0.73770711  1
+  Pb  Pb5  1  0.33333300  0.66666700  0.02034120  1
+  Pb  Pb6  1  0.66666700  0.33333300  0.02034120  1
+  O  O7  1  0.00000000  0.62183240  0.21274251  1
+  O  O8  1  0.37611433  0.00000000  0.82907945  1
+  O  O9  1  0.62183240  0.00000000  0.21274251  1
+  O  O10  1  0.37816760  0.37816760  0.21274251  1
+  O  O11  1  1.00000000  0.37611433  0.82907945  1
+  O  O12  1  0.62388567  0.62388567  0.82907945  1

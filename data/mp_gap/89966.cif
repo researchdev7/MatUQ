@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Nd2InGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36167880
+_cell_length_b   7.59632710
+_cell_length_c   7.59632710
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2InGe2
+_chemical_formula_sum   'Nd4 In2 Ge4'
+_cell_volume   251.68712217
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.00000000  0.11911877  0.38088123  1
+  Ge  Ge1  1  0.00000000  0.38088123  0.88088123  1
+  Ge  Ge2  1  0.00000000  0.61911877  0.11911877  1
+  Ge  Ge3  1  0.00000000  0.88088123  0.61911877  1
+  In  In4  1  0.00000000  0.00000000  0.00000000  1
+  In  In5  1  0.00000000  0.50000000  0.50000000  1
+  Nd  Nd6  1  0.50000000  0.82055340  0.32055340  1
+  Nd  Nd7  1  0.50000000  0.67944660  0.82055340  1
+  Nd  Nd8  1  0.50000000  0.32055340  0.17944660  1
+  Nd  Nd9  1  0.50000000  0.17944660  0.67944660  1

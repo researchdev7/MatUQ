@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaTiNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59143838
+_cell_length_b   5.59143838
+_cell_length_c   5.59143838
+_cell_angle_alpha   60.59693511
+_cell_angle_beta   60.81575358
+_cell_angle_gamma   91.22794339
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTiNO2
+_chemical_formula_sum   'La2 Ti2 N2 O4'
+_cell_volume   124.89869037
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.75900263  0.75000000  0.99099737  1
+  La  La1  1  0.24099737  0.25000000  0.00900263  1
+  Ti  Ti2  1  0.50000000  0.97972917  0.52027083  1
+  Ti  Ti3  1  0.00000000  0.52027083  0.47972917  1
+  N  N4  1  0.78879809  0.78879809  0.50000000  1
+  N  N5  1  0.21120191  0.71120191  -0.00000000  1
+  O  O6  1  0.32999031  0.75000000  0.42000969  1
+  O  O7  1  0.67000969  0.25000000  0.57999031  1
+  O  O8  1  0.79725466  0.29725466  -0.00000000  1
+  O  O9  1  0.20274534  0.20274534  0.50000000  1

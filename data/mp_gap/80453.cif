@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Na2OsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20240467
+_cell_length_b   9.66617136
+_cell_length_c   9.66655534
+_cell_angle_alpha   119.99868325
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2OsO4
+_chemical_formula_sum   'Na6 Os3 O12'
+_cell_volume   259.14261447
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000463  0.00000000  1
+  Na  Na1  1  0.50000000  0.33330906  0.66668887  1
+  Na  Na2  1  0.50000000  0.66662018  0.33331113  1
+  Na  Na3  1  0.50000000  0.69436673  0.00000000  1
+  Na  Na4  1  0.50000000  0.30563373  0.30563781  1
+  Na  Na5  1  0.50000000  0.99999592  0.69436219  1
+  Os  Os6  1  0.00000000  0.32947298  0.00000000  1
+  Os  Os7  1  -0.00000000  0.67052377  0.67053125  1
+  Os  Os8  1  -0.00000000  0.99999253  0.32946875  1
+  O  O9  1  0.50000000  0.19410130  1.00000000  1
+  O  O10  1  0.50000000  0.80588610  0.80588820  1
+  O  O11  1  0.50000000  0.99999790  0.19411180  1
+  O  O12  1  0.50000000  0.45682097  0.00000000  1
+  O  O13  1  0.50000000  0.54318487  0.54318272  1
+  O  O14  1  0.50000000  0.00000215  0.45681728  1
+  O  O15  1  -0.00000000  0.43268488  0.21609041  1
+  O  O16  1  -0.00000000  0.78339311  0.56731774  1
+  O  O17  1  0.00000000  0.78392207  0.21660479  1
+  O  O18  1  0.00000000  0.21659447  0.78390959  1
+  O  O19  1  -0.00000000  0.21607537  0.43268226  1
+  O  O20  1  -0.00000000  0.56731728  0.78339521  1

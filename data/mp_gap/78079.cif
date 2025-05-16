@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Er(AlCu)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08906722
+_cell_length_b   6.59717752
+_cell_length_c   6.59717752
+_cell_angle_alpha   99.05914529
+_cell_angle_beta   112.68722979
+_cell_angle_gamma   67.31277021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er(AlCu)6
+_chemical_formula_sum   'Er1 Al6 Cu6'
+_cell_volume   188.53043505
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.00000000  -0.00000000  0.00000000  1
+  Al  Al1  1  0.65124912  0.34875088  0.65124912  1
+  Al  Al2  1  0.34875088  0.65124912  0.34875088  1
+  Al  Al3  1  0.00000000  0.34389602  0.34389602  1
+  Al  Al4  1  -0.00000000  0.65610398  0.65610398  1
+  Al  Al5  1  0.70973072  0.79026928  0.20973072  1
+  Al  Al6  1  0.29026928  0.20973072  0.79026928  1
+  Cu  Cu7  1  0.50000000  -0.00000000  0.50000000  1
+  Cu  Cu8  1  0.00000000  -0.00000000  0.50000000  1
+  Cu  Cu9  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu10  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu11  1  0.50000000  0.77492912  0.77492912  1
+  Cu  Cu12  1  0.50000000  0.22507088  0.22507088  1

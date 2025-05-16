@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2SiP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14686422
+_cell_length_b   6.93077206
+_cell_length_c   7.99660501
+_cell_angle_alpha   115.68080342
+_cell_angle_beta   112.60290424
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SiP2
+_chemical_formula_sum   'K4 Si2 P4'
+_cell_volume   277.70437552
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.75000000  0.50000000  0.00000000  1
+  Si  Si1  1  0.25000000  0.50000000  0.00000000  1
+  P  P2  1  0.59639482  0.75992263  0.19278964  1
+  P  P3  1  0.90360518  0.56713298  0.80721036  1
+  P  P4  1  0.09639482  0.43286702  0.19278964  1
+  P  P5  1  0.40360518  0.24007737  0.80721036  1
+  K  K6  1  0.14591953  0.98407915  0.29183907  1
+  K  K7  1  0.85408047  0.01592085  0.70816093  1
+  K  K8  1  0.35408047  0.69224008  0.70816093  1
+  K  K9  1  0.64591953  0.30775992  0.29183907  1

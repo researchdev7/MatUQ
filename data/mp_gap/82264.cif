@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2Na2U(S2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44813688
+_cell_length_b   6.82573919
+_cell_length_c   6.88010977
+_cell_angle_alpha   81.18773358
+_cell_angle_beta   66.77046412
+_cell_angle_gamma   71.84876864
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Na2U(S2O)2
+_chemical_formula_sum   'Ba2 Na2 U1 S4 O2'
+_cell_volume   264.26087017
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.41891207  0.81143938  0.32640437  1
+  Ba  Ba1  1  0.58108793  0.18856062  0.67359563  1
+  Na  Na2  1  0.86319727  0.59306815  0.78977199  1
+  Na  Na3  1  0.13680273  0.40693185  0.21022801  1
+  U  U4  1  0.00000000  -0.00000000  0.00000000  1
+  S  S5  1  0.90099983  0.80351603  0.37807591  1
+  S  S6  1  0.09900017  0.19648397  0.62192409  1
+  S  S7  1  0.32326290  0.65877261  0.81681224  1
+  S  S8  1  0.67673710  0.34122739  0.18318776  1
+  O  O9  1  0.76371560  0.91599001  0.95595904  1
+  O  O10  1  0.23628440  0.08400999  0.04404096  1

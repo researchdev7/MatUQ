@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sm3(Ni3Sn2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53400665
+_cell_length_b   8.88424098
+_cell_length_c   8.88424098
+_cell_angle_alpha   120.00000490
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3(Ni3Sn2)2
+_chemical_formula_sum   'Sm6 Ni12 Sn8'
+_cell_volume   514.98818957
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.79064762  0.47687878  0.95375755  1
+  Sm  Sm1  1  0.79064762  0.47687878  0.52312122  1
+  Sm  Sm2  1  0.29064762  0.52312122  0.04624245  1
+  Sm  Sm3  1  0.79064762  0.04624245  0.52312122  1
+  Sm  Sm4  1  0.29064762  0.52312122  0.47687878  1
+  Sm  Sm5  1  0.29064762  0.95375755  0.47687878  1
+  Ni  Ni6  1  0.95023260  0.83392029  0.66784057  1
+  Ni  Ni7  1  0.95023260  0.83392029  0.16607971  1
+  Ni  Ni8  1  0.45023260  0.16607971  0.33215943  1
+  Ni  Ni9  1  0.95023260  0.33215943  0.16607971  1
+  Ni  Ni10  1  0.45023260  0.16607971  0.83392029  1
+  Ni  Ni11  1  0.45023260  0.66784057  0.83392029  1
+  Ni  Ni12  1  0.77484318  0.09598401  0.19196802  1
+  Ni  Ni13  1  0.77484318  0.09598401  0.90401599  1
+  Ni  Ni14  1  0.27484318  0.90401599  0.80803198  1
+  Ni  Ni15  1  0.77484318  0.80803198  0.90401599  1
+  Ni  Ni16  1  0.27484318  0.90401599  0.09598401  1
+  Ni  Ni17  1  0.27484318  0.19196802  0.09598401  1
+  Sn  Sn18  1  0.58617811  0.84027201  0.68054402  1
+  Sn  Sn19  1  0.58617811  0.84027201  0.15972799  1
+  Sn  Sn20  1  0.08617811  0.15972799  0.31945598  1
+  Sn  Sn21  1  0.58617811  0.31945598  0.15972799  1
+  Sn  Sn22  1  0.08617811  0.15972799  0.84027201  1
+  Sn  Sn23  1  0.08617811  0.68054402  0.84027201  1
+  Sn  Sn24  1  0.97729544  0.66666700  0.33333300  1
+  Sn  Sn25  1  0.47729544  0.33333300  0.66666700  1

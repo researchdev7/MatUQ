@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NdAlPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50302304
+_cell_length_b   7.17003775
+_cell_length_c   7.88103682
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdAlPt
+_chemical_formula_sum   'Nd4 Al4 Pt4'
+_cell_volume   254.45381571
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.75000000  0.47097998  0.81752622  1
+  Nd  Nd1  1  0.25000000  0.02902002  0.31752622  1
+  Nd  Nd2  1  0.75000000  0.97097998  0.68247378  1
+  Nd  Nd3  1  0.25000000  0.52902002  0.18247378  1
+  Al  Al4  1  0.75000000  0.85437674  0.06692421  1
+  Al  Al5  1  0.25000000  0.64562326  0.56692421  1
+  Al  Al6  1  0.75000000  0.35437674  0.43307579  1
+  Al  Al7  1  0.25000000  0.14562326  0.93307579  1
+  Pt  Pt8  1  0.75000000  0.71761621  0.38854638  1
+  Pt  Pt9  1  0.75000000  0.21761621  0.11145362  1
+  Pt  Pt10  1  0.25000000  0.28238379  0.61145362  1
+  Pt  Pt11  1  0.25000000  0.78238379  0.88854638  1

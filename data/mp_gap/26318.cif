@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ca(TiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50471510
+_cell_length_b   3.54624090
+_cell_length_c   13.47323899
+_cell_angle_alpha   89.99999745
+_cell_angle_beta   152.42010644
+_cell_angle_gamma   103.66634728
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(TiS2)2
+_chemical_formula_sum   'Ca1 Ti2 S4'
+_cell_volume   142.76904782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.75000000  1
+  Ti  Ti1  1  0.03179212  0.01589556  0.01969625  1
+  Ti  Ti2  1  0.96820788  0.98410444  0.48030375  1
+  S  S3  1  0.68351238  0.34175519  0.73719904  1
+  S  S4  1  0.68345687  0.34172793  0.23153619  1
+  S  S5  1  0.31654313  0.65827207  0.26846381  1
+  S  S6  1  0.31648762  0.65824481  0.76280096  1

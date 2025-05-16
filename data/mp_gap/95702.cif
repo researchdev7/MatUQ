@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La3(SiPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25311349
+_cell_length_b   4.30830724
+_cell_length_c   12.76117486
+_cell_angle_alpha   99.71949024
+_cell_angle_beta   99.59371912
+_cell_angle_gamma   89.99810114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3(SiPd)4
+_chemical_formula_sum   'La3 Si4 Pd4'
+_cell_volume   227.15739080
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.14687800  0.64690558  0.29378449  1
+  La  La1  1  0.85312200  0.35309442  0.70621551  1
+  La  La2  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si3  1  0.69775737  0.19775497  0.39549695  1
+  Si  Si4  1  0.54819284  0.54824912  0.09650633  1
+  Si  Si5  1  0.45180716  0.45175088  0.90349367  1
+  Si  Si6  1  0.30224263  0.80224503  0.60450305  1
+  Pd  Pd7  1  0.75158041  0.75160561  0.50317171  1
+  Pd  Pd8  1  0.40221747  0.90220433  0.80440766  1
+  Pd  Pd9  1  0.59778253  0.09779567  0.19559234  1
+  Pd  Pd10  1  0.24841959  0.24839439  0.49682829  1

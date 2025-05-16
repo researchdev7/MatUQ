@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CrFe(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65835065
+_cell_length_b   5.65840839
+_cell_length_c   5.65829910
+_cell_angle_alpha   59.47529218
+_cell_angle_beta   59.47624955
+_cell_angle_gamma   59.47432752
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrFe(BiO3)2
+_chemical_formula_sum   'Cr1 Fe1 Bi2 O6'
+_cell_volume   126.57283775
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.22512919  0.22513011  0.22513020  1
+  Fe  Fe1  1  0.72963083  0.72963028  0.72962214  1
+  Bi  Bi2  1  0.50713819  0.50717274  0.50714122  1
+  Bi  Bi3  1  0.00410446  0.00410099  0.00406252  1
+  O  O4  1  0.39713084  0.54862665  0.94703462  1
+  O  O5  1  0.94706572  0.39712194  0.54863818  1
+  O  O6  1  0.90042577  0.44802555  0.04674706  1
+  O  O7  1  0.04673073  0.90044503  0.44805763  1
+  O  O8  1  0.54864315  0.94702316  0.39712105  1
+  O  O9  1  0.44800012  0.04672254  0.90044437  1

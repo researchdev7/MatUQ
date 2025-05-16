@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mo2W(SeS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.23065904
+_cell_length_b   3.23060192
+_cell_length_c   29.69340585
+_cell_angle_alpha   89.99991757
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00058491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mo2W(SeS2)2
+_chemical_formula_sum   'Mo2 W1 Se2 S4'
+_cell_volume   268.38773070
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.33331056  0.66662112  0.11563651  1
+  Mo  Mo1  1  0.66668791  0.33337582  0.34697299  1
+  W  W2  1  0.33331021  0.66662041  0.57833639  1
+  Se  Se3  1  0.33335491  0.66671083  0.40449143  1
+  Se  Se4  1  0.33335925  0.66671949  0.28945616  1
+  S  S5  1  0.66664369  0.33328638  0.06332217  1
+  S  S6  1  0.66664345  0.33328589  0.52585165  1
+  S  S7  1  0.66664607  0.33329114  0.16796574  1
+  S  S8  1  0.66664496  0.33328892  0.63080795  1

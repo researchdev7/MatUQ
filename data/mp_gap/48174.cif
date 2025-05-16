@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93906319
+_cell_length_b   5.93889931
+_cell_length_c   6.16605418
+_cell_angle_alpha   61.21768250
+_cell_angle_beta   118.77918090
+_cell_angle_gamma   119.99841479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaBiO3
+_chemical_formula_sum   'Ca2 Bi2 O6'
+_cell_volume   156.56118009
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.86237456  0.13762889  0.58713163  1
+  Ca  Ca1  1  0.13763397  0.86235394  0.41290750  1
+  Bi  Bi2  1  0.64673959  0.35322695  0.94018286  1
+  Bi  Bi3  1  0.35326765  0.64675897  0.05985361  1
+  O  O4  1  0.95962835  0.73297004  0.76332814  1
+  O  O5  1  0.53672644  0.04044283  0.76334251  1
+  O  O6  1  0.26713970  0.46324563  0.76335701  1
+  O  O7  1  0.73286952  0.53675966  0.23661444  1
+  O  O8  1  0.46326647  0.95959861  0.23663722  1
+  O  O9  1  0.04035276  0.26701447  0.23664408  1

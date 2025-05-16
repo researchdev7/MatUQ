@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Mg2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65400100
+_cell_length_b   4.61655645
+_cell_length_c   5.55327428
+_cell_angle_alpha   65.43905685
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Pd
+_chemical_formula_sum   'Mg4 Pd2'
+_cell_volume   108.51901419
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.89965926  0.03681637  1
+  Mg  Mg1  1  0.50000000  0.39685737  0.03681737  1
+  Mg  Mg2  1  0.50000000  0.10034074  0.62984963  1
+  Mg  Mg3  1  0.00000000  0.60314263  0.62984963  1
+  Pd  Pd4  1  -0.00000000  0.25185711  0.33333300  1
+  Pd  Pd5  1  0.50000000  0.74814289  0.33333300  1

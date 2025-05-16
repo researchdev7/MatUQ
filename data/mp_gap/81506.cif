@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_DyCrTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18395694
+_cell_length_b   5.18383129
+_cell_length_c   9.80296350
+_cell_angle_alpha   89.99712088
+_cell_angle_beta   90.00143958
+_cell_angle_gamma   119.99919986
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCrTeO6
+_chemical_formula_sum   'Dy2 Cr2 Te2 O12'
+_cell_volume   228.14122166
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.00000000  -0.00000000  1
+  Dy  Dy1  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr2  1  0.33377121  0.66688561  0.25000000  1
+  Cr  Cr3  1  0.66622879  0.33311439  0.75000000  1
+  Te  Te4  1  0.33335042  0.66667521  0.75000000  1
+  Te  Te5  1  0.66664958  0.33332479  0.25000000  1
+  O  O6  1  0.36508860  0.35467590  0.13936979  1
+  O  O7  1  0.64530523  0.01046945  0.13937017  1
+  O  O8  1  0.98953052  0.63487457  0.13937298  1
+  O  O9  1  0.63491140  0.64532410  0.86063021  1
+  O  O10  1  0.35469477  0.98953055  0.86062983  1
+  O  O11  1  0.01046948  0.36512543  0.86062702  1
+  O  O12  1  0.64530523  0.63483578  0.36062983  1
+  O  O13  1  0.36508860  0.01041269  0.36063021  1
+  O  O14  1  0.98953052  0.35465594  0.36062702  1
+  O  O15  1  0.35469477  0.36516422  0.63937017  1
+  O  O16  1  0.63491140  0.98958731  0.63936979  1
+  O  O17  1  0.01046948  0.64534406  0.63937298  1

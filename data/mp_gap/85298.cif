@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ZrGaRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34113524
+_cell_length_b   7.32797757
+_cell_length_c   7.32344081
+_cell_angle_alpha   120.02048524
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrGaRh
+_chemical_formula_sum   'Zr3 Ga3 Rh3'
+_cell_volume   155.25096519
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  0.60701212  1.00000000  1
+  Zr  Zr1  1  0.50000000  0.39281308  0.39283424  1
+  Zr  Zr2  1  0.50000000  -0.00002116  0.60716576  1
+  Ga  Ga3  1  -0.00000000  0.27308982  0.00000000  1
+  Ga  Ga4  1  -0.00000000  0.72684815  0.72689504  1
+  Ga  Ga5  1  0.00000000  -0.00004689  0.27310496  1
+  Rh  Rh6  1  0.00000000  0.33335465  0.66670140  1
+  Rh  Rh7  1  0.00000000  0.66665325  0.33329860  1
+  Rh  Rh8  1  0.50000000  0.00019698  -0.00000000  1

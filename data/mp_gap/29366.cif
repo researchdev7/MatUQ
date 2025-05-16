@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_FeSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67163048
+_cell_length_b   5.24639197
+_cell_length_c   6.94890252
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSiNi
+_chemical_formula_sum   'Fe4 Si4 Ni4'
+_cell_volume   133.85540748
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.75000000  0.46126670  0.19753681  1
+  Fe  Fe1  1  0.75000000  0.96126670  0.30246319  1
+  Fe  Fe2  1  0.25000000  0.53873330  0.80246319  1
+  Fe  Fe3  1  0.25000000  0.03873330  0.69753681  1
+  Si  Si4  1  0.75000000  0.27254961  0.88124669  1
+  Si  Si5  1  0.75000000  0.77254961  0.61875331  1
+  Si  Si6  1  0.25000000  0.72745039  0.11875331  1
+  Si  Si7  1  0.25000000  0.22745039  0.38124669  1
+  Ni  Ni8  1  0.75000000  0.34338466  0.55828419  1
+  Ni  Ni9  1  0.75000000  0.84338466  0.94171581  1
+  Ni  Ni10  1  0.25000000  0.65661534  0.44171581  1
+  Ni  Ni11  1  0.25000000  0.15661534  0.05828419  1

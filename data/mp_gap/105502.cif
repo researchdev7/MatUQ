@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaAuF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78404529
+_cell_length_b   5.78404529
+_cell_length_c   6.72548390
+_cell_angle_alpha   115.46816938
+_cell_angle_beta   115.46816942
+_cell_angle_gamma   89.99999998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAuF4
+_chemical_formula_sum   'Na2 Au2 F8'
+_cell_volume   178.61602371
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.95776033  0.45776033  0.25927604  1
+  F  F1  1  0.69848429  0.19848429  0.74072396  1
+  F  F2  1  0.04223967  0.54223967  0.74072396  1
+  F  F3  1  0.19848429  0.04223967  0.74072396  1
+  F  F4  1  0.30151571  0.80151571  0.25927604  1
+  F  F5  1  0.45776033  0.30151571  0.25927604  1
+  F  F6  1  0.80151571  0.95776033  0.25927604  1
+  F  F7  1  0.54223967  0.69848429  0.74072396  1
+  Na  Na8  1  0.25000000  0.25000000  0.50000000  1
+  Na  Na9  1  0.75000000  0.75000000  0.50000000  1
+  Au  Au10  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au11  1  0.50000000  0.00000000  0.00000000  1

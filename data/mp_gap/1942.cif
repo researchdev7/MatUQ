@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeAlCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36738200
+_cell_length_b   5.36750801
+_cell_length_c   8.30492369
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.38767593
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeAlCo
+_chemical_formula_sum   'Ce4 Al4 Co4'
+_cell_volume   208.01029309
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.33410131  0.33397803  0.53374828  1
+  Ce  Ce1  1  0.67116438  0.67129273  0.41764199  1
+  Ce  Ce2  1  0.67116438  0.67129273  0.08235801  1
+  Ce  Ce3  1  0.33410131  0.33397803  0.96625172  1
+  Al  Al4  1  0.99618492  0.99604267  0.48664680  1
+  Al  Al5  1  0.99618492  0.99604267  0.01335320  1
+  Al  Al6  1  0.83268290  0.33938040  0.75000000  1
+  Al  Al7  1  0.33924435  0.83258288  0.75000000  1
+  Co  Co8  1  0.83340880  0.83348376  0.75000000  1
+  Co  Co9  1  0.16613163  0.66281931  0.25000000  1
+  Co  Co10  1  0.66280535  0.16614478  0.25000000  1
+  Co  Co11  1  0.16282576  0.16296201  0.25000000  1

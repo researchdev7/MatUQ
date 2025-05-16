@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ti5(FeSb)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27090315
+_cell_length_b   4.27090315
+_cell_length_c   13.89867368
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   81.16182540
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5(FeSb)4
+_chemical_formula_sum   'Ti5 Fe4 Sb4'
+_cell_volume   216.07213576
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.87490033  0.43745017  0.68764950  1
+  Ti  Ti1  1  0.38530580  0.69265290  0.92204130  1
+  Ti  Ti2  1  0.86510356  0.93255178  0.20234466  1
+  Ti  Ti3  1  0.36910303  0.18455152  0.44634545  1
+  Ti  Ti4  1  0.24934655  0.62467327  0.12598018  1
+  Fe  Fe5  1  0.99643556  0.49821778  0.50534667  1
+  Fe  Fe6  1  0.49770239  0.74885120  0.75344641  1
+  Fe  Fe7  1  0.99775536  0.99887768  0.00336697  1
+  Fe  Fe8  1  0.50593951  0.25296976  0.24109073  1
+  Sb  Sb9  1  0.63888777  0.31944388  0.04166835  1
+  Sb  Sb10  1  0.11657129  0.55828564  0.32514307  1
+  Sb  Sb11  1  0.62385048  0.81192524  0.56422428  1
+  Sb  Sb12  1  0.12909838  0.06454919  0.80635243  1

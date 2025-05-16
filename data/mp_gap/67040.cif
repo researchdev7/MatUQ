@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2BiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87931777
+_cell_length_b   5.87931777
+_cell_length_c   5.88099160
+_cell_angle_alpha   79.12836832
+_cell_angle_beta   100.87163168
+_cell_angle_gamma   62.07970783
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2BiO3
+_chemical_formula_sum   'Na4 Bi2 O6'
+_cell_volume   167.17456500
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.57296220  0.59130087  0.49176337  1
+  Na  Na1  1  0.24746445  0.26347834  0.49182776  1
+  Na  Na2  1  0.73652166  0.75253555  0.99182776  1
+  Na  Na3  1  0.40869913  0.42703780  0.99176337  1
+  Bi  Bi4  1  0.90068540  0.91745122  0.49108496  1
+  Bi  Bi5  1  0.08254878  0.09931460  0.99108496  1
+  O  O6  1  0.27278462  0.86360958  0.74262161  1
+  O  O7  1  0.13639042  0.72721538  0.24262161  1
+  O  O8  1  0.99141682  0.50862970  0.74113425  1
+  O  O9  1  0.71015860  0.15340238  0.73936704  1
+  O  O10  1  0.49137030  0.00858318  0.24113425  1
+  O  O11  1  0.84659762  0.28984140  0.23936704  1

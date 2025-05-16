@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce2CdCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64858011
+_cell_length_b   5.64858011
+_cell_length_c   7.51493812
+_cell_angle_alpha   77.13597951
+_cell_angle_beta   77.13597951
+_cell_angle_gamma   79.73214629
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2CdCu2
+_chemical_formula_sum   'Ce4 Cd2 Cu4'
+_cell_volume   225.79152620
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.20079537  0.20079537  0.26037363  1
+  Ce  Ce1  1  0.79920463  0.79920463  0.73962637  1
+  Ce  Ce2  1  0.66765271  0.66765271  0.27290798  1
+  Ce  Ce3  1  0.33234729  0.33234729  0.72709202  1
+  Cd  Cd4  1  0.22441305  0.77558695  0.00000000  1
+  Cd  Cd5  1  0.77558695  0.22441305  0.00000000  1
+  Cu  Cu6  1  0.32656906  0.87448652  0.59740658  1
+  Cu  Cu7  1  0.12551348  0.67343094  0.40259342  1
+  Cu  Cu8  1  0.67343094  0.12551348  0.40259342  1
+  Cu  Cu9  1  0.87448652  0.32656906  0.59740658  1

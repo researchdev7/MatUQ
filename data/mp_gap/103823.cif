@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2InPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.13950751
+_cell_length_b   6.82775288
+_cell_length_c   5.27396637
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.43282415
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2InPCO7
+_chemical_formula_sum   'Na4 In2 P2 C2 O14'
+_cell_volume   329.09823425
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.22092524  0.49766217  0.23245217  1
+  Na  Na1  1  0.22092524  0.00233783  0.23245217  1
+  Na  Na2  1  0.77907476  0.50233783  0.76754783  1
+  Na  Na3  1  0.77907476  0.99766217  0.76754783  1
+  In  In4  1  0.35955976  0.75000000  0.77347712  1
+  In  In5  1  0.64044024  0.25000000  0.22652288  1
+  P  P6  1  0.42142783  0.25000000  0.71253685  1
+  P  P7  1  0.57857217  0.75000000  0.28746315  1
+  C  C8  1  0.06973256  0.75000000  0.73098988  1
+  C  C9  1  0.93026744  0.25000000  0.26901012  1
+  O  O10  1  0.06670076  0.25000000  0.29725325  1
+  O  O11  1  0.13560760  0.75000000  0.95336377  1
+  O  O12  1  0.16016950  0.75000000  0.53322403  1
+  O  O13  1  0.33685517  0.06710402  0.80184739  1
+  O  O14  1  0.33685517  0.43289598  0.80184739  1
+  O  O15  1  0.41871467  0.75000000  0.17900163  1
+  O  O16  1  0.43233807  0.25000000  0.41398999  1
+  O  O17  1  0.56766193  0.75000000  0.58601001  1
+  O  O18  1  0.58128533  0.25000000  0.82099837  1
+  O  O19  1  0.66314483  0.56710402  0.19815261  1
+  O  O20  1  0.66314483  0.93289598  0.19815261  1
+  O  O21  1  0.83983050  0.25000000  0.46677597  1
+  O  O22  1  0.86439240  0.25000000  0.04663623  1
+  O  O23  1  0.93329924  0.75000000  0.70274675  1

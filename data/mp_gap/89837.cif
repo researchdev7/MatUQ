@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaCaSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07254655
+_cell_length_b   8.57783628
+_cell_length_c   9.19073236
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaSi
+_chemical_formula_sum   'Ba4 Ca4 Si4'
+_cell_volume   399.90231055
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.25000000  0.78157388  0.39140540  1
+  Si  Si1  1  0.75000000  0.21842612  0.60859460  1
+  Si  Si2  1  0.25000000  0.28157388  0.10859460  1
+  Si  Si3  1  0.75000000  0.71842612  0.89140540  1
+  Ca  Ca4  1  0.75000000  0.35863704  0.92575694  1
+  Ca  Ca5  1  0.25000000  0.64136296  0.07424306  1
+  Ca  Ca6  1  0.75000000  0.85863704  0.57424306  1
+  Ca  Ca7  1  0.25000000  0.14136296  0.42575694  1
+  Ba  Ba8  1  0.25000000  0.02847877  0.82425458  1
+  Ba  Ba9  1  0.75000000  0.97152123  0.17574542  1
+  Ba  Ba10  1  0.25000000  0.52847877  0.67574542  1
+  Ba  Ba11  1  0.75000000  0.47152123  0.32425458  1

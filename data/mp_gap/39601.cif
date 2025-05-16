@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sr2NiO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83438089
+_cell_length_b   3.83438089
+_cell_length_c   7.11198519
+_cell_angle_alpha   74.36121370
+_cell_angle_beta   74.36121370
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2NiO3F
+_chemical_formula_sum   'Sr2 Ni1 O3 F1'
+_cell_volume   96.66707439
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.36408576  0.36408576  0.27182849  1
+  Sr  Sr1  1  0.63875982  0.63875982  0.72248036  1
+  Ni  Ni2  1  0.01928485  0.01928485  0.96143029  1
+  O  O3  1  0.99765840  0.49765840  0.00468320  1
+  O  O4  1  0.49765840  0.99765840  0.00468320  1
+  O  O5  1  0.17255005  0.17255005  0.65489989  1
+  F  F6  1  0.82750272  0.82750272  0.34499457  1

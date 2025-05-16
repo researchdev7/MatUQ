@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ho(CuTe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42870207
+_cell_length_b   8.21848848
+_cell_length_c   7.42925570
+_cell_angle_alpha   63.11892591
+_cell_angle_beta   59.99256156
+_cell_angle_gamma   89.98469341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(CuTe)3
+_chemical_formula_sum   'Ho2 Cu6 Te6'
+_cell_volume   335.02597118
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00023981  0.00065733  0.99957976  1
+  Ho  Ho1  1  0.33309319  0.99934267  0.33375324  1
+  Cu  Cu2  1  0.79336987  0.37575777  0.07361725  1
+  Cu  Cu3  1  0.13254520  0.37533147  0.41770487  1
+  Cu  Cu4  1  0.44958229  0.37549147  0.75720349  1
+  Cu  Cu5  1  0.88375171  0.62450853  0.57613051  1
+  Cu  Cu6  1  0.20078780  0.62466853  0.91562813  1
+  Cu  Cu7  1  0.53996313  0.62424223  0.25971575  1
+  Te  Te8  1  0.58495499  0.75163994  0.50352252  1
+  Te  Te9  1  0.25524927  0.75162616  0.15986434  1
+  Te  Te10  1  0.91149568  0.75166076  0.83336483  1
+  Te  Te11  1  0.42183832  0.24833924  0.49996917  1
+  Te  Te12  1  0.07808373  0.24837384  0.17346866  1
+  Te  Te13  1  0.74837801  0.24836006  0.82981048  1

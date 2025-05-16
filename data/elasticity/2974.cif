@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Li3PrBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73275861
+_cell_length_b   4.73276245
+_cell_length_c   7.50502913
+_cell_angle_alpha   89.99999999
+_cell_angle_beta   89.99585595
+_cell_angle_gamma   120.00002612
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3PrBi2
+_chemical_formula_sum   'Li3 Pr1 Bi2'
+_cell_volume   145.58343405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66666212  0.33333106  0.64964360  1
+  Li  Li1  1  0.33333788  0.66666894  0.35035640  1
+  Li  Li2  1  0.00000000  0.00000000  0.50000000  1
+  Pr  Pr3  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi4  1  0.66667084  0.33333542  0.25552347  1
+  Bi  Bi5  1  0.33332916  0.66666458  0.74447653  1

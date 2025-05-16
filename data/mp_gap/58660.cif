@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CoNiSb6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92611911
+_cell_length_b   7.94630738
+_cell_length_c   7.92611911
+_cell_angle_alpha   70.50975740
+_cell_angle_beta   70.61647588
+_cell_angle_gamma   109.43677091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoNiSb6
+_chemical_formula_sum   'Co2 Ni2 Sb12'
+_cell_volume   384.78299470
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.50000000  -0.00000000  1
+  Co  Co1  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.50000000  0.00000000  -0.00000000  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.50000000  1
+  Sb  Sb4  1  0.66691008  0.50700956  0.15990052  1
+  Sb  Sb5  1  0.33308992  0.49299044  0.84009948  1
+  Sb  Sb6  1  0.66385353  0.82260686  0.84124667  1
+  Sb  Sb7  1  0.33614647  0.17739314  0.15875333  1
+  Sb  Sb8  1  0.84340517  0.33742090  0.82476220  1
+  Sb  Sb9  1  0.15659483  0.66257910  0.17523780  1
+  Sb  Sb10  1  0.16218310  0.33742090  0.50598427  1
+  Sb  Sb11  1  0.83781690  0.66257910  0.49401573  1
+  Sb  Sb12  1  0.49393043  0.16219875  0.66258742  1
+  Sb  Sb13  1  0.50606957  0.83780125  0.33741258  1
+  Sb  Sb14  1  0.17521382  0.83780125  0.66826833  1
+  Sb  Sb15  1  0.82478618  0.16219875  0.33173167  1

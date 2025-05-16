@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeAlNi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89971181
+_cell_length_b   5.11479904
+_cell_length_c   5.11459669
+_cell_angle_alpha   59.99922483
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeAlNi4
+_chemical_formula_sum   'Ce1 Al1 Ni4'
+_cell_volume   88.34861003
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.99998448  0.00001154  1
+  Al  Al1  1  0.00000000  0.33332760  0.33336071  1
+  Ni  Ni2  1  0.00000000  0.66663246  0.66667708  1
+  Ni  Ni3  1  0.50000000  0.50212139  0.50215028  1
+  Ni  Ni4  1  0.50000000  0.50213653  0.99573195  1
+  Ni  Ni5  1  0.50000000  0.99569753  0.50216843  1

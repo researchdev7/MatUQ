@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsMgAlF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22298079
+_cell_length_b   7.29717322
+_cell_length_c   7.17211759
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.23267069
+_cell_angle_gamma   120.34037137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMgAlF6
+_chemical_formula_sum   'Cs2 Mg2 Al2 F12'
+_cell_volume   266.86040128
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75558913  0.37779457  0.37220543  1
+  Cs  Cs1  1  0.24441087  0.62220543  0.62779457  1
+  Mg  Mg2  1  0.50000000  0.50000000  0.00000000  1
+  Mg  Mg3  1  0.50000000  -0.00000000  0.00000000  1
+  Al  Al4  1  0.00000000  -0.00000000  0.50000000  1
+  Al  Al5  1  0.00000000  -0.00000000  0.00000000  1
+  F  F6  1  0.89340783  0.94670391  0.30329609  1
+  F  F7  1  0.65046504  0.32523252  0.92476748  1
+  F  F8  1  0.24136902  0.94387027  0.92731733  1
+  F  F9  1  0.24136902  0.29749875  0.33131366  1
+  F  F10  1  0.24136902  0.29749875  0.92731733  1
+  F  F11  1  0.24136902  0.94387027  0.33131366  1
+  F  F12  1  0.10659217  0.05329609  0.69670391  1
+  F  F13  1  0.34953496  0.67476748  0.07523252  1
+  F  F14  1  0.75863098  0.05612973  0.07268267  1
+  F  F15  1  0.75863098  0.70250125  0.66868634  1
+  F  F16  1  0.75863098  0.70250125  0.07268267  1
+  F  F17  1  0.75863098  0.05612973  0.66868634  1

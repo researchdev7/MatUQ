@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr3Nd(CoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42734070
+_cell_length_b   5.39384056
+_cell_length_c   6.80858025
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   66.51142110
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Nd(CoO4)2
+_chemical_formula_sum   'Sr3 Nd1 Co2 O8'
+_cell_volume   182.80041137
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.35655171  -0.00000000  0.28689658  1
+  Sr  Sr1  1  0.64114543  0.00000000  0.71770915  1
+  Sr  Sr2  1  0.14416237  0.50000000  0.71167527  1
+  Nd  Nd3  1  0.86261194  0.50000000  0.27477612  1
+  Co  Co4  1  0.50171748  0.50000000  0.99656505  1
+  Co  Co5  1  0.00139792  -0.00000000  0.99720416  1
+  O  O6  1  0.15453923  0.00000000  0.69092153  1
+  O  O7  1  0.67366266  0.50000000  0.65267467  1
+  O  O8  1  0.33803741  0.50000000  0.32392518  1
+  O  O9  1  0.84154069  -0.00000000  0.31691862  1
+  O  O10  1  0.23876065  0.25431047  0.00768341  1
+  O  O11  1  0.75355594  0.74568953  0.00768341  1
+  O  O12  1  0.23876065  0.74568953  0.00768341  1
+  O  O13  1  0.75355594  0.25431047  0.00768341  1

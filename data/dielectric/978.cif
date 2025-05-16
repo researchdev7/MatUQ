@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba4NaCu(CO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91011968
+_cell_length_b   5.91011968
+_cell_length_c   8.87900128
+_cell_angle_alpha   109.43968986
+_cell_angle_beta   109.43968989
+_cell_angle_gamma   89.99999995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4NaCu(CO5)2
+_chemical_formula_sum   'Ba4 Na1 Cu1 C2 O10'
+_cell_volume   273.63859866
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.23352530  0.23352530  0.46705061  1
+  C  C1  1  0.76647470  0.76647470  0.53294939  1
+  O  O2  1  0.59059177  0.86267034  0.45326211  1
+  O  O3  1  0.13732966  0.13732966  0.54673789  1
+  O  O4  1  0.85036972  0.85036972  0.70073944  1
+  O  O5  1  0.14963028  0.14963028  0.29926056  1
+  O  O6  1  0.40940823  0.40940823  0.54673789  1
+  O  O7  1  0.86267034  0.59059177  0.45326211  1
+  O  O8  1  0.72055326  0.27387355  0.99442681  1
+  O  O9  1  0.27944674  0.27944674  0.00557319  1
+  O  O10  1  0.72612645  0.72612645  0.00557319  1
+  O  O11  1  0.27387355  0.72055326  0.99442681  1
+  Na  Na12  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu13  1  0.50000000  0.50000000  0.00000000  1
+  Ba  Ba14  1  0.11694410  0.61694410  0.23388819  1
+  Ba  Ba15  1  0.38305590  0.88305590  0.76611181  1
+  Ba  Ba16  1  0.88305590  0.38305590  0.76611181  1
+  Ba  Ba17  1  0.61694410  0.11694410  0.23388819  1

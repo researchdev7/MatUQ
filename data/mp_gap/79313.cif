@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Zr5InPb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02923551
+_cell_length_b   8.98371713
+_cell_length_c   8.98277994
+_cell_angle_alpha   120.00344517
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5InPb3
+_chemical_formula_sum   'Zr10 In2 Pb6'
+_cell_volume   421.35158445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.49998195  0.33332092  0.66664227  1
+  Zr  Zr1  1  0.49998195  0.66667864  0.33335773  1
+  Zr  Zr2  1  0.99998195  0.66667908  0.33335773  1
+  Zr  Zr3  1  0.99998195  0.33332136  0.66664227  1
+  Zr  Zr4  1  0.75002309  0.27913881  1.00000000  1
+  Zr  Zr5  1  0.75000076  0.72086571  0.72087635  1
+  Zr  Zr6  1  0.75000076  0.99998936  0.27912365  1
+  Zr  Zr7  1  0.25002309  0.72086119  0.00000000  1
+  Zr  Zr8  1  0.25000076  0.27913429  0.27912365  1
+  Zr  Zr9  1  0.25000076  0.00001064  0.72087635  1
+  In  In10  1  0.50003844  0.00000672  1.00000000  1
+  In  In11  1  0.00003844  0.99999328  0.00000000  1
+  Pb  Pb12  1  0.74998636  0.61726236  0.00000000  1
+  Pb  Pb13  1  0.74999335  0.38275564  0.38277865  1
+  Pb  Pb14  1  0.74999335  0.99997699  0.61722135  1
+  Pb  Pb15  1  0.24998636  0.38273764  1.00000000  1
+  Pb  Pb16  1  0.24999335  0.61724436  0.61722135  1
+  Pb  Pb17  1  0.24999335  0.00002301  0.38277865  1

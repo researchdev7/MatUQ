@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba2Hg3(PdO2)7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27724741
+_cell_length_b   6.27724689
+_cell_length_c   11.11679202
+_cell_angle_alpha   89.66086451
+_cell_angle_beta   89.66086458
+_cell_angle_gamma   60.90421668
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Hg3(PdO2)7
+_chemical_formula_sum   'Ba2 Hg3 Pd7 O14'
+_cell_volume   382.75751135
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.49747637  0.49747637  0.29524873  1
+  Ba  Ba1  1  0.50252363  0.50252363  0.70475127  1
+  Hg  Hg2  1  0.17491319  0.17491319  0.80450266  1
+  Hg  Hg3  1  0.82508681  0.82508681  0.19549734  1
+  Hg  Hg4  1  0.00000000  0.00000000  0.50000000  1
+  Pd  Pd5  1  0.00000000  0.00000000  0.00000000  1
+  Pd  Pd6  1  0.16672684  0.16672684  0.22158987  1
+  Pd  Pd7  1  0.83327316  0.83327316  0.77841013  1
+  Pd  Pd8  1  0.00000000  0.50000000  0.00000000  1
+  Pd  Pd9  1  0.50000000  0.00000000  0.50000000  1
+  Pd  Pd10  1  0.00000000  0.50000000  0.50000000  1
+  Pd  Pd11  1  0.50000000  0.00000000  0.00000000  1
+  O  O12  1  0.30880861  0.87694403  0.10229114  1
+  O  O13  1  0.31146565  0.31146565  0.10050880  1
+  O  O14  1  0.52027355  0.99162581  0.68365110  1
+  O  O15  1  0.63646660  0.63646660  0.49730985  1
+  O  O16  1  0.00837419  0.47972645  0.31634890  1
+  O  O17  1  0.99419775  0.99419775  0.68658638  1
+  O  O18  1  0.47972645  0.00837419  0.31634890  1
+  O  O19  1  0.87694403  0.30880861  0.10229114  1
+  O  O20  1  0.69119139  0.12305597  0.89770886  1
+  O  O21  1  0.36353340  0.36353340  0.50269015  1
+  O  O22  1  0.68853435  0.68853435  0.89949120  1
+  O  O23  1  0.99162581  0.52027355  0.68365110  1
+  O  O24  1  0.00580225  0.00580225  0.31341362  1
+  O  O25  1  0.12305597  0.69119139  0.89770886  1

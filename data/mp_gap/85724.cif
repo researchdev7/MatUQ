@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_PuGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93615447
+_cell_length_b   6.88764489
+_cell_length_c   6.79567085
+_cell_angle_alpha   120.44873079
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuGaNi
+_chemical_formula_sum   'Pu3 Ga3 Ni3'
+_cell_volume   158.82698139
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.50000000  0.58153244  0.00000000  1
+  Pu  Pu1  1  0.50000000  0.41845463  0.41902048  1
+  Pu  Pu2  1  0.50000000  0.99943416  0.58097952  1
+  Ga  Ga3  1  0.00000000  0.23899170  1.00000000  1
+  Ga  Ga4  1  -0.00000000  0.76140969  0.76150694  1
+  Ga  Ga5  1  -0.00000000  0.99990275  0.23849306  1
+  Ni  Ni6  1  -0.00000000  0.33359207  0.66709008  1
+  Ni  Ni7  1  0.00000000  0.66650199  0.33290992  1
+  Ni  Ni8  1  0.50000000  0.00008057  0.00000000  1

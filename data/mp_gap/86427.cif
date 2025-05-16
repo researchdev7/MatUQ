@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba(TbTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50330776
+_cell_length_b   13.84678124
+_cell_length_c   16.36556044
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(TbTe2)2
+_chemical_formula_sum   'Ba4 Tb8 Te16'
+_cell_volume   1020.49608137
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.25000000  0.97298536  0.71598656  1
+  Te  Te1  1  0.75000000  0.02701464  0.28401344  1
+  Te  Te2  1  0.25000000  0.47298536  0.78401344  1
+  Te  Te3  1  0.75000000  0.52701464  0.21598656  1
+  Te  Te4  1  0.25000000  0.87211369  0.47137595  1
+  Te  Te5  1  0.75000000  0.12788631  0.52862405  1
+  Te  Te6  1  0.25000000  0.37211369  0.02862405  1
+  Te  Te7  1  0.75000000  0.62788631  0.97137595  1
+  Te  Te8  1  0.25000000  0.79503030  0.16170775  1
+  Te  Te9  1  0.75000000  0.20496970  0.83829225  1
+  Te  Te10  1  0.25000000  0.29503030  0.33829225  1
+  Te  Te11  1  0.75000000  0.70496970  0.66170775  1
+  Te  Te12  1  0.75000000  0.90999397  0.92326531  1
+  Te  Te13  1  0.25000000  0.09000603  0.07673469  1
+  Te  Te14  1  0.75000000  0.40999397  0.57673469  1
+  Te  Te15  1  0.25000000  0.59000603  0.42326531  1
+  Ba  Ba16  1  0.75000000  0.76117195  0.33060136  1
+  Ba  Ba17  1  0.25000000  0.23882805  0.66939864  1
+  Ba  Ba18  1  0.75000000  0.26117195  0.16939864  1
+  Ba  Ba19  1  0.25000000  0.73882805  0.83060136  1
+  Tb  Tb20  1  0.25000000  0.58059641  0.09654540  1
+  Tb  Tb21  1  0.75000000  0.41940359  0.90345460  1
+  Tb  Tb22  1  0.25000000  0.08059641  0.40345460  1
+  Tb  Tb23  1  0.75000000  0.91940359  0.59654540  1
+  Tb  Tb24  1  0.75000000  0.44013064  0.39057410  1
+  Tb  Tb25  1  0.25000000  0.55986936  0.60942590  1
+  Tb  Tb26  1  0.75000000  0.94013064  0.10942590  1
+  Tb  Tb27  1  0.25000000  0.05986936  0.89057410  1

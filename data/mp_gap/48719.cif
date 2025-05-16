@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_GaNi4Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81752078
+_cell_length_b   4.96422879
+_cell_length_c   11.50290879
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaNi4Ge3
+_chemical_formula_sum   'Ga2 Ni8 Ge6'
+_cell_volume   217.99216008
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.75000000  0.64184414  0.93557211  1
+  Ga  Ga1  1  0.75000000  0.14184414  0.56442789  1
+  Ni  Ni2  1  0.75000000  0.14091127  0.95445174  1
+  Ni  Ni3  1  0.75000000  0.64091127  0.54554826  1
+  Ni  Ni4  1  0.25000000  0.86246383  0.04855000  1
+  Ni  Ni5  1  0.25000000  0.36246383  0.45145000  1
+  Ni  Ni6  1  0.75000000  0.37912694  0.75441404  1
+  Ni  Ni7  1  0.75000000  0.87912694  0.74558596  1
+  Ni  Ni8  1  0.25000000  0.61953351  0.24454885  1
+  Ni  Ni9  1  0.25000000  0.11953351  0.25545115  1
+  Ge  Ge10  1  0.25000000  0.35744372  0.06266482  1
+  Ge  Ge11  1  0.25000000  0.85744372  0.43733518  1
+  Ge  Ge12  1  0.75000000  0.88722638  0.17686943  1
+  Ge  Ge13  1  0.75000000  0.38722638  0.32313057  1
+  Ge  Ge14  1  0.25000000  0.11145022  0.82183677  1
+  Ge  Ge15  1  0.25000000  0.61145022  0.67816323  1

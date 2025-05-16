@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho2Ge2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76875432
+_cell_length_b   5.03012950
+_cell_length_c   5.76875432
+_cell_angle_alpha   82.60616800
+_cell_angle_beta   74.64249912
+_cell_angle_gamma   97.39383200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Ge2O7
+_chemical_formula_sum   'Ho2 Ge2 O7'
+_cell_volume   157.73982109
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.30638779  0.50000000  0.30638779  1
+  Ho  Ho1  1  0.69361321  0.50000000  0.69361321  1
+  Ge  Ge2  1  0.23093163  0.90934941  0.76906837  1
+  Ge  Ge3  1  0.76906837  0.09065059  0.23093163  1
+  O  O4  1  0.39929303  0.71255718  0.91951331  1
+  O  O5  1  0.08048669  0.71255718  0.60070697  1
+  O  O6  1  0.40245282  0.22323641  0.59754718  1
+  O  O7  1  0.59754718  0.77676359  0.40245282  1
+  O  O8  1  0.00000000  0.00000000  0.00000000  1
+  O  O9  1  0.60070697  0.28744282  0.08048669  1
+  O  O10  1  0.91951331  0.28744282  0.39929303  1

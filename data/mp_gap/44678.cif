@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_K2Fe2SeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45218286
+_cell_length_b   6.68242374
+_cell_length_c   6.69702901
+_cell_angle_alpha   116.07857533
+_cell_angle_beta   101.02191385
+_cell_angle_gamma   101.88593337
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Fe2SeS3
+_chemical_formula_sum   'K2 Fe2 Se1 S3'
+_cell_volume   203.14306155
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.24475201  0.36073146  0.64035016  1
+  K  K1  1  0.74468383  0.63409038  0.35116705  1
+  Fe  Fe2  1  0.24878000  0.99637859  0.00941177  1
+  Fe  Fe3  1  0.75691651  0.00616690  0.00267507  1
+  Se  Se4  1  0.40125221  0.91438277  0.68599017  1
+  S  S5  1  0.10440206  0.29699400  0.09458180  1
+  S  S6  1  0.59782106  0.08553842  0.29495011  1
+  S  S7  1  0.90139231  0.70571748  0.92087387  1

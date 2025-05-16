@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sm3(CuGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29757582
+_cell_length_b   6.70143074
+_cell_length_c   8.14899406
+_cell_angle_alpha   114.27907464
+_cell_angle_beta   105.28897870
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3(CuGe)4
+_chemical_formula_sum   'Sm3 Cu4 Ge4'
+_cell_volume   204.78641663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.50000000  -0.00000000  1
+  Sm  Sm1  1  0.86856227  0.86856227  0.73712454  1
+  Sm  Sm2  1  0.13143773  0.13143773  0.26287546  1
+  Cu  Cu3  1  0.66832575  0.47966396  0.33665150  1
+  Cu  Cu4  1  0.66832575  0.85698754  0.33665150  1
+  Cu  Cu5  1  0.33167425  0.14301246  0.66334850  1
+  Cu  Cu6  1  0.33167425  0.52033604  0.66334850  1
+  Ge  Ge7  1  0.78469872  0.28469872  0.56939744  1
+  Ge  Ge8  1  0.21530128  0.71530128  0.43060256  1
+  Ge  Ge9  1  0.50000000  0.80972140  0.00000000  1
+  Ge  Ge10  1  0.50000000  0.19027860  0.00000000  1

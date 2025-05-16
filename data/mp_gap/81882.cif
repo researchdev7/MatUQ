@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PmAg2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13840404
+_cell_length_b   5.13840311
+_cell_length_c   5.13838712
+_cell_angle_alpha   60.00012050
+_cell_angle_beta   60.00021860
+_cell_angle_gamma   59.99998885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PmAg2Pb
+_chemical_formula_sum   'Pm1 Ag2 Pb1'
+_cell_volume   95.93328623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pm  Pm0  1  0.74999983  0.75000037  0.75000015  1
+  Ag  Ag1  1  0.49999997  0.50000016  0.50000033  1
+  Ag  Ag2  1  -0.00000035  0.00000016  0.00000054  1
+  Pb  Pb3  1  0.25000055  0.24999931  0.24999898  1

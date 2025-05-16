@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pr4CdNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.96976418
+_cell_length_b   9.96976418
+_cell_length_c   9.96976418
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr4CdNi
+_chemical_formula_sum   'Pr16 Cd4 Ni4'
+_cell_volume   700.71216929
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.65271471  0.65271471  0.65271471  1
+  Pr  Pr1  1  0.04185588  0.65271471  0.65271471  1
+  Pr  Pr2  1  0.65271471  0.04185588  0.65271471  1
+  Pr  Pr3  1  0.65271471  0.65271471  0.04185588  1
+  Pr  Pr4  1  0.80895191  0.80895191  0.19104809  1
+  Pr  Pr5  1  0.19104809  0.19104809  0.80895191  1
+  Pr  Pr6  1  0.80895191  0.19104809  0.80895191  1
+  Pr  Pr7  1  0.19104809  0.80895191  0.19104809  1
+  Pr  Pr8  1  0.19104809  0.80895191  0.80895191  1
+  Pr  Pr9  1  0.80895191  0.19104809  0.19104809  1
+  Pr  Pr10  1  0.43656829  0.43656829  0.06343171  1
+  Pr  Pr11  1  0.06343171  0.06343171  0.43656829  1
+  Pr  Pr12  1  0.43656829  0.06343171  0.43656829  1
+  Pr  Pr13  1  0.06343171  0.43656829  0.06343171  1
+  Pr  Pr14  1  0.06343171  0.43656829  0.43656829  1
+  Pr  Pr15  1  0.43656829  0.06343171  0.06343171  1
+  Cd  Cd16  1  0.41969660  0.41969660  0.41969660  1
+  Cd  Cd17  1  0.74091020  0.41969660  0.41969660  1
+  Cd  Cd18  1  0.41969660  0.74091020  0.41969660  1
+  Cd  Cd19  1  0.41969660  0.41969660  0.74091020  1
+  Ni  Ni20  1  0.85867761  0.85867761  0.85867761  1
+  Ni  Ni21  1  0.42396716  0.85867761  0.85867761  1
+  Ni  Ni22  1  0.85867761  0.42396716  0.85867761  1
+  Ni  Ni23  1  0.85867761  0.85867761  0.42396716  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Sn2Pd3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60916307
+_cell_length_b   4.60916307
+_cell_length_c   5.79300463
+_cell_angle_alpha   91.13089541
+_cell_angle_beta   88.86910459
+_cell_angle_gamma   119.51409370
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn2Pd3Au
+_chemical_formula_sum   'Sn2 Pd3 Au1'
+_cell_volume   107.07078201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.66737414  0.33262586  0.78085864  1
+  Sn  Sn1  1  0.33262586  0.66737414  0.21914136  1
+  Pd  Pd2  1  0.66660944  0.33339056  0.27622089  1
+  Pd  Pd3  1  0.33339056  0.66660944  0.72377911  1
+  Pd  Pd4  1  -0.00000000  -0.00000000  0.00000000  1
+  Au  Au5  1  -0.00000000  -0.00000000  0.50000000  1

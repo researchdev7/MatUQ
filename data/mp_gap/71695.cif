@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Si4P4Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98162344
+_cell_length_b   5.65917382
+_cell_length_c   6.21815767
+_cell_angle_alpha   85.71965812
+_cell_angle_beta   68.33311122
+_cell_angle_gamma   70.89452156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si4P4Os
+_chemical_formula_sum   'Si4 P4 Os1'
+_cell_volume   153.72871316
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.99551689  0.00032032  0.99150122  1
+  Si  Si1  1  0.38973673  0.37054851  0.73622300  1
+  Si  Si2  1  0.51354170  0.62015879  0.18405951  1
+  Si  Si3  1  0.82238070  0.80225901  0.53093227  1
+  P  P4  1  0.31277993  0.04052678  0.62193673  1
+  P  P5  1  0.49309117  0.25257857  0.06220040  1
+  P  P6  1  0.77397763  0.43699968  0.42593501  1
+  P  P7  1  0.91958487  0.66707531  0.86668289  1
+  Os  Os8  1  0.15229039  0.02613304  0.30282898  1

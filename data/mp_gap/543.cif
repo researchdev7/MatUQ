@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ho4(CoB2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28522254
+_cell_length_b   5.28522254
+_cell_length_c   7.88364368
+_cell_angle_alpha   70.41519301
+_cell_angle_beta   70.41519301
+_cell_angle_gamma   60.00000276
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4(CoB2)3
+_chemical_formula_sum   'Ho4 Co3 B6'
+_cell_volume   175.84954861
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.25497875  0.25497875  0.23506375  1
+  Ho  Ho1  1  0.74502125  0.74502125  0.76493625  1
+  Ho  Ho2  1  0.41158209  0.41158209  0.76525372  1
+  Ho  Ho3  1  0.58841791  0.58841791  0.23474628  1
+  Co  Co4  1  -0.00000000  0.00000000  -0.00000000  1
+  Co  Co5  1  0.11260332  0.11260332  0.66219003  1
+  Co  Co6  1  0.88739668  0.88739668  0.33780997  1
+  B  B7  1  0.16821902  0.83178098  0.50000000  1
+  B  B8  1  0.83178098  0.50000000  0.50000000  1
+  B  B9  1  0.50000000  0.16821902  0.50000000  1
+  B  B10  1  0.16821902  0.50000000  0.50000000  1
+  B  B11  1  0.50000000  0.83178098  0.50000000  1
+  B  B12  1  0.83178098  0.16821902  0.50000000  1

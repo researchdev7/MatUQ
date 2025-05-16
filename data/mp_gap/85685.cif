@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2CrSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65226307
+_cell_length_b   5.65592556
+_cell_length_c   5.65108349
+_cell_angle_alpha   60.32412945
+_cell_angle_beta   59.99309493
+_cell_angle_gamma   60.02141852
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CrSbO6
+_chemical_formula_sum   'Sr2 Cr1 Sb1 O6'
+_cell_volume   128.06874593
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25107804  0.74554954  0.75229438  1
+  Sr  Sr1  1  0.74892196  0.25445046  0.24770562  1
+  Cr  Cr2  1  -0.00000000  0.50000000  0.50000000  1
+  Sb  Sb3  1  0.50000000  0.00000000  0.00000000  1
+  O  O4  1  0.74810332  0.80546581  0.69832755  1
+  O  O5  1  0.25189668  0.19453419  0.30167245  1
+  O  O6  1  0.28010633  0.72305191  0.21996061  1
+  O  O7  1  0.77688115  0.72305191  0.21996061  1
+  O  O8  1  0.71989367  0.27694809  0.78003939  1
+  O  O9  1  0.22311885  0.27694809  0.78003939  1

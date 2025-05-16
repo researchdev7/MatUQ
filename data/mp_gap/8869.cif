@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NbHg2F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54054109
+_cell_length_b   7.54054180
+_cell_length_c   7.99547367
+_cell_angle_alpha   116.87245757
+_cell_angle_beta   116.87246111
+_cell_angle_gamma   90.14117975
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbHg2F6
+_chemical_formula_sum   'Nb2 Hg4 F12'
+_cell_volume   349.30978526
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.37519004  0.62480996  0.75000000  1
+  Nb  Nb1  1  0.62480996  0.37519004  0.25000000  1
+  Hg  Hg2  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg3  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg4  1  0.50000000  0.00000000  0.50000000  1
+  Hg  Hg5  1  0.00000000  0.50000000  0.00000000  1
+  F  F6  1  0.19464635  0.44453689  0.75391887  1
+  F  F7  1  0.19309089  0.80690911  0.75000000  1
+  F  F8  1  0.21863100  0.47109843  0.43578209  1
+  F  F9  1  0.47109843  0.21863100  0.93578209  1
+  F  F10  1  0.55671049  0.44328951  0.75000000  1
+  F  F11  1  0.55546311  0.80535365  0.74608113  1
+  F  F12  1  0.44453689  0.19464635  0.25391887  1
+  F  F13  1  0.44328951  0.55671049  0.25000000  1
+  F  F14  1  0.52890157  0.78136900  0.06421791  1
+  F  F15  1  0.78136900  0.52890157  0.56421791  1
+  F  F16  1  0.80690911  0.19309089  0.25000000  1
+  F  F17  1  0.80535365  0.55546311  0.24608113  1

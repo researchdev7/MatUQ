@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PrGaSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25145830
+_cell_length_b   4.25145830
+_cell_length_c   7.78803332
+_cell_angle_alpha   74.16022276
+_cell_angle_beta   74.16022276
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGaSi
+_chemical_formula_sum   'Pr2 Ga2 Si2'
+_cell_volume   129.85780639
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.87496336  0.62496336  0.25007328  1
+  Pr  Pr1  1  0.12496336  0.37496336  0.75007328  1
+  Ga  Ga2  1  0.54149764  0.79149764  0.91700472  1
+  Ga  Ga3  1  0.29149764  0.04149764  0.41700472  1
+  Si  Si4  1  0.45853900  0.20853900  0.08292200  1
+  Si  Si5  1  0.70853900  0.95853900  0.58292200  1

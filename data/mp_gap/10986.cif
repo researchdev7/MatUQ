@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li3VF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59875727
+_cell_length_b   6.73788103
+_cell_length_c   6.73788059
+_cell_angle_alpha   87.79523668
+_cell_angle_beta   55.67878664
+_cell_angle_gamma   55.67879438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3VF8
+_chemical_formula_sum   'Li3 V1 F8'
+_cell_volume   158.15677986
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.00000000  0.50000000  0.00000000  1
+  Li  Li2  1  0.50000000  0.50000000  0.50000000  1
+  V  V3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.05761662  0.16330845  0.16330845  1
+  F  F5  1  1.00000000  0.19389836  0.80610164  1
+  F  F6  1  0.00000000  0.80610164  0.19389836  1
+  F  F7  1  0.94238338  0.83669155  0.83669155  1
+  F  F8  1  0.49068110  0.25414231  0.25414231  1
+  F  F9  1  0.50000000  0.30252747  0.69747253  1
+  F  F10  1  0.50000000  0.69747253  0.30252747  1
+  F  F11  1  0.50931890  0.74585769  0.74585769  1

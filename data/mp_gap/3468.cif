@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_U2Mo2C3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13643143
+_cell_length_b   5.56565107
+_cell_length_c   5.99281024
+_cell_angle_alpha   105.16635389
+_cell_angle_beta   105.16994044
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Mo2C3
+_chemical_formula_sum   'U2 Mo2 C3'
+_cell_volume   97.18668367
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.60350857  0.82970512  0.20701713  1
+  U  U1  1  0.39649143  0.17029488  0.79298287  1
+  Mo  Mo2  1  0.84538693  0.63282313  0.69077387  1
+  Mo  Mo3  1  0.15461307  0.36717687  0.30922613  1
+  C  C4  1  0.00000000  0.50000000  0.00000000  1
+  C  C5  1  0.25195488  0.76094999  0.50390976  1
+  C  C6  1  0.74804512  0.23905001  0.49609024  1

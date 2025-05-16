@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ScFeB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.22708056
+_cell_length_b   5.76754020
+_cell_length_c   11.13355879
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeB4
+_chemical_formula_sum   'Sc4 Fe4 B16'
+_cell_volume   207.22132396
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.62843188  0.35010508  1
+  Sc  Sc1  1  -0.00000000  0.37156812  0.64989492  1
+  Sc  Sc2  1  0.00000000  0.12843188  0.14989492  1
+  Sc  Sc3  1  -0.00000000  0.87156812  0.85010508  1
+  Fe  Fe4  1  -0.00000000  0.63455083  0.08943164  1
+  Fe  Fe5  1  0.00000000  0.36544917  0.91056836  1
+  Fe  Fe6  1  -0.00000000  0.13455083  0.41056836  1
+  Fe  Fe7  1  0.00000000  0.86544917  0.58943164  1
+  B  B8  1  0.50000000  0.78816296  0.18534476  1
+  B  B9  1  0.50000000  0.21183704  0.81465524  1
+  B  B10  1  0.50000000  0.28816296  0.31465524  1
+  B  B11  1  0.50000000  0.71183704  0.68534476  1
+  B  B12  1  0.50000000  0.86488951  0.03104050  1
+  B  B13  1  0.50000000  0.13511049  0.96895950  1
+  B  B14  1  0.50000000  0.36488951  0.46895950  1
+  B  B15  1  0.50000000  0.63511049  0.53104050  1
+  B  B16  1  0.50000000  0.88607495  0.45187416  1
+  B  B17  1  0.50000000  0.11392505  0.54812584  1
+  B  B18  1  0.50000000  0.38607495  0.04812584  1
+  B  B19  1  0.50000000  0.61392505  0.95187416  1
+  B  B20  1  0.50000000  0.97702112  0.30622177  1
+  B  B21  1  0.50000000  0.02297888  0.69377823  1
+  B  B22  1  0.50000000  0.47702112  0.19377823  1
+  B  B23  1  0.50000000  0.52297888  0.80622177  1

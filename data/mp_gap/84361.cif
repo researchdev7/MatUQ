@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuIn4Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59866515
+_cell_length_b   7.42451455
+_cell_length_c   8.81476360
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.12051416
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuIn4Cu
+_chemical_formula_sum   'Eu2 In8 Cu2'
+_cell_volume   290.54171893
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.87887266  0.75000000  0.75774532  1
+  Eu  Eu1  1  0.12112734  0.25000000  0.24225468  1
+  In  In2  1  0.50000000  0.50000000  -0.00000000  1
+  In  In3  1  0.50000000  0.00000000  -0.00000000  1
+  In  In4  1  0.07266456  0.75000000  0.14532911  1
+  In  In5  1  0.92733544  0.25000000  0.85467089  1
+  In  In6  1  0.68542454  0.55015333  0.37084907  1
+  In  In7  1  0.31457546  0.44984667  0.62915093  1
+  In  In8  1  0.68542454  0.94984667  0.37084907  1
+  In  In9  1  0.31457546  0.05015333  0.62915093  1
+  Cu  Cu10  1  0.22988296  0.75000000  0.45976592  1
+  Cu  Cu11  1  0.77011704  0.25000000  0.54023408  1

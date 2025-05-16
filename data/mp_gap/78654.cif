@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2Ce(CuS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99533918
+_cell_length_b   7.50343608
+_cell_length_c   7.55380481
+_cell_angle_alpha   109.19255890
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   105.44028851
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ce(CuS2)2
+_chemical_formula_sum   'K2 Ce1 Cu2 S4'
+_cell_volume   205.19348681
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.86325523  0.72651047  0.43735554  1
+  K  K1  1  0.13674477  0.27348953  0.56264446  1
+  Ce  Ce2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.67928795  0.35857590  0.98582205  1
+  Cu  Cu4  1  0.32071205  0.64142410  0.01417795  1
+  S  S5  1  0.79915885  0.59831770  0.82785326  1
+  S  S6  1  0.20084115  0.40168230  0.17214674  1
+  S  S7  1  0.52128121  0.04256242  0.76465271  1
+  S  S8  1  0.47871879  0.95743758  0.23534729  1

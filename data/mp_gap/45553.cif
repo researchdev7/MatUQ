@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_U4Si3Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30666506
+_cell_length_b   7.98952051
+_cell_length_c   7.98952051
+_cell_angle_alpha   83.66788211
+_cell_angle_beta   70.60361632
+_cell_angle_gamma   70.60361632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U4Si3Mo
+_chemical_formula_sum   'U8 Si6 Mo2'
+_cell_volume   301.37752567
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.09691581  0.13444252  0.67172586  1
+  U  U1  1  0.90308419  0.86555748  0.32827414  1
+  U  U2  1  0.76864167  0.32827414  0.13444252  1
+  U  U3  1  0.40308419  0.32827414  0.86555748  1
+  U  U4  1  0.23135833  0.67172586  0.86555748  1
+  U  U5  1  0.59691581  0.67172586  0.13444252  1
+  U  U6  1  0.73135833  0.86555748  0.67172586  1
+  U  U7  1  0.26864167  0.13444252  0.32827414  1
+  Si  Si8  1  0.14686571  0.50000000  0.20626858  1
+  Si  Si9  1  0.85313429  0.50000000  0.79373142  1
+  Si  Si10  1  0.35313429  0.79373142  0.50000000  1
+  Si  Si11  1  0.64686571  0.20626858  0.50000000  1
+  Si  Si12  1  0.25000000  0.00000000  -0.00000000  1
+  Si  Si13  1  0.75000000  0.00000000  -0.00000000  1
+  Mo  Mo14  1  0.25000000  0.50000000  0.50000000  1
+  Mo  Mo15  1  0.75000000  0.50000000  0.50000000  1

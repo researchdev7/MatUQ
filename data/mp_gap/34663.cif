@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LaFe8Si5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81988598
+_cell_length_b   7.79836848
+_cell_length_c   8.02014916
+_cell_angle_alpha   60.89830190
+_cell_angle_beta   60.81033290
+_cell_angle_gamma   89.97793491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFe8Si5
+_chemical_formula_sum   'La2 Fe16 Si10'
+_cell_volume   354.64136514
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25220930  0.25220930  0.49558139  1
+  La  La1  1  0.74779070  0.74779070  0.50441861  1
+  Fe  Fe2  1  0.19973350  0.94978560  0.35503306  1
+  Fe  Fe3  1  0.44523343  0.69518133  0.35503306  1
+  Fe  Fe4  1  0.95091274  0.44876456  0.35397002  1
+  Fe  Fe5  1  0.69511724  0.19726542  0.35397002  1
+  Fe  Fe6  1  0.80026650  0.05021440  0.64496694  1
+  Fe  Fe7  1  0.55476657  0.30481867  0.64496694  1
+  Fe  Fe8  1  0.04908726  0.55123544  0.64602998  1
+  Fe  Fe9  1  0.30488276  0.80273458  0.64602998  1
+  Fe  Fe10  1  0.00000000  0.50000000  -0.00000000  1
+  Fe  Fe11  1  0.50000000  0.00000000  -0.00000000  1
+  Fe  Fe12  1  0.19963254  0.06923128  -0.00000000  1
+  Fe  Fe13  1  0.80036746  0.93076872  -0.00000000  1
+  Fe  Fe14  1  0.44013229  0.31056963  0.00000000  1
+  Fe  Fe15  1  0.55986771  0.68943037  -0.00000000  1
+  Fe  Fe16  1  0.93003637  0.19907440  -0.00000000  1
+  Fe  Fe17  1  0.06996363  0.80092560  0.00000000  1
+  Si  Si18  1  0.71017850  0.55235174  0.24952891  1
+  Si  Si19  1  0.04029259  0.19811935  0.24952891  1
+  Si  Si20  1  0.54652757  0.03764552  0.24950946  1
+  Si  Si21  1  0.20396297  0.71284502  0.24950946  1
+  Si  Si22  1  0.28982150  0.44764826  0.75047109  1
+  Si  Si23  1  0.95970741  0.80188065  0.75047109  1
+  Si  Si24  1  0.45347243  0.96235448  0.75049054  1
+  Si  Si25  1  0.79603703  0.28715498  0.75049054  1
+  Si  Si26  1  0.29043746  0.56724897  0.00000000  1
+  Si  Si27  1  0.70956254  0.43275103  0.00000000  1

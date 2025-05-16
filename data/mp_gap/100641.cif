@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GaTeCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16141595
+_cell_length_b   5.98308766
+_cell_length_c   15.90599825
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaTeCl
+_chemical_formula_sum   'Ga4 Te4 Cl4'
+_cell_volume   396.02939618
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.50000000  0.24077998  0.91650897  1
+  Cl  Cl1  1  0.00000000  0.74077998  0.58349103  1
+  Cl  Cl2  1  0.50000000  0.75922002  0.08349103  1
+  Cl  Cl3  1  0.00000000  0.25922002  0.41650897  1
+  Ga  Ga4  1  0.50000000  0.52838623  0.19113706  1
+  Ga  Ga5  1  0.00000000  0.97161377  0.69113706  1
+  Ga  Ga6  1  0.00000000  0.02838623  0.30886294  1
+  Ga  Ga7  1  0.50000000  0.47161377  0.80886294  1
+  Te  Te8  1  0.50000000  0.24669665  0.66419634  1
+  Te  Te9  1  0.00000000  0.74669665  0.83580366  1
+  Te  Te10  1  0.00000000  0.25330335  0.16419634  1
+  Te  Te11  1  0.50000000  0.75330335  0.33580366  1

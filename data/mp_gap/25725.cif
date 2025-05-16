@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Al4InAgS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36590636
+_cell_length_b   7.27816189
+_cell_length_c   7.27816189
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   119.60672237
+_cell_angle_gamma   119.60672237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al4InAgS8
+_chemical_formula_sum   'Al4 In1 Ag1 S8'
+_cell_volume   277.53056387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.87423083  0.62474361  0.62474361  1
+  Al  Al1  1  0.49395516  0.47712776  0.00841370  1
+  Al  Al2  1  0.49395516  0.00841370  0.00841370  1
+  Al  Al3  1  0.49395516  0.00841370  0.47712776  1
+  In  In4  1  0.01232648  0.00410883  0.00410883  1
+  Ag  Ag5  1  0.11717245  0.37239082  0.37239082  1
+  S  S6  1  0.28127589  0.78181188  0.24973200  1
+  S  S7  1  0.28127589  0.24973200  0.24973200  1
+  S  S8  1  0.28127589  0.24973200  0.78181188  1
+  S  S9  1  0.71451129  0.23817043  0.23817043  1
+  S  S10  1  0.72743629  0.23048293  0.74847668  1
+  S  S11  1  0.72743629  0.74847668  0.74847668  1
+  S  S12  1  0.72743629  0.74847668  0.23048293  1
+  S  S13  1  0.27375694  0.75791898  0.75791898  1

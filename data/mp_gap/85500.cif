@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_GdSnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07185527
+_cell_length_b   7.55746360
+_cell_length_c   7.56291260
+_cell_angle_alpha   119.97616727
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdSnPt
+_chemical_formula_sum   'Gd3 Sn3 Pt3'
+_cell_volume   201.60084947
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.50000000  0.58970693  1.00000000  1
+  Gd  Gd1  1  0.50000000  0.41007454  0.40999130  1
+  Gd  Gd2  1  0.50000000  0.00008324  0.59000870  1
+  Sn  Sn3  1  -0.00000000  0.25526702  0.00000000  1
+  Sn  Sn4  1  0.00000000  0.74472857  0.74465189  1
+  Sn  Sn5  1  -0.00000000  0.00007668  0.25534811  1
+  Pt  Pt6  1  -0.00000000  0.33323686  0.66656963  1
+  Pt  Pt7  1  -0.00000000  0.66666723  0.33343037  1
+  Pt  Pt8  1  0.50000000  0.00005894  0.00000000  1

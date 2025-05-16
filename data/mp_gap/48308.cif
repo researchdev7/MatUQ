@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_PrCdCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05772486
+_cell_length_b   7.66433152
+_cell_length_c   7.66406843
+_cell_angle_alpha   120.00113953
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrCdCu
+_chemical_formula_sum   'Pr3 Cd3 Cu3'
+_cell_volume   206.41530527
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.50000000  0.58752444  -0.00000000  1
+  Pr  Pr1  1  0.50000000  0.41257396  0.41272216  1
+  Pr  Pr2  1  0.50000000  -0.00014821  0.58727784  1
+  Cd  Cd3  1  -0.00000000  0.24692302  -0.00000000  1
+  Cd  Cd4  1  -0.00000000  0.75309693  0.75312147  1
+  Cd  Cd5  1  -0.00000000  0.99997546  0.24687853  1
+  Cu  Cu6  1  -0.00000000  0.33338056  0.66676931  1
+  Cu  Cu7  1  -0.00000000  0.66661125  0.33323069  1
+  Cu  Cu8  1  0.50000000  0.99996260  -0.00000000  1

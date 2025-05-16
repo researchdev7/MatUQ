@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Fe(WCl5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30075726
+_cell_length_b   9.02911238
+_cell_length_c   12.92983992
+_cell_angle_alpha   86.87735435
+_cell_angle_beta   81.01806243
+_cell_angle_gamma   69.57912633
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(WCl5)2
+_chemical_formula_sum   'Fe2 W4 Cl20'
+_cell_volume   680.90095324
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.94274448  0.61451105  0.25000000  1
+  Fe  Fe1  1  0.05725552  0.38548895  0.75000000  1
+  W  W2  1  0.57099151  0.35801699  0.25000000  1
+  W  W3  1  0.42900849  0.64198301  0.75000000  1
+  W  W4  1  0.72799523  0.04400953  0.25000000  1
+  W  W5  1  0.27200477  0.95599047  0.75000000  1
+  Cl  Cl6  1  0.22362931  0.79958444  0.61999518  1
+  Cl  Cl7  1  0.47678626  0.79958444  0.88000482  1
+  Cl  Cl8  1  0.77637069  0.20041556  0.38000482  1
+  Cl  Cl9  1  0.52321374  0.20041556  0.11999518  1
+  Cl  Cl10  1  0.10526465  0.60671682  0.85358536  1
+  Cl  Cl11  1  0.78801854  0.60671682  0.64641464  1
+  Cl  Cl12  1  0.89473535  0.39328318  0.14641464  1
+  Cl  Cl13  1  0.21198146  0.39328318  0.35358536  1
+  Cl  Cl14  1  0.92373610  0.98556668  0.85085566  1
+  Cl  Cl15  1  0.59069722  0.98556668  0.64914434  1
+  Cl  Cl16  1  0.07626390  0.01443332  0.14914434  1
+  Cl  Cl17  1  0.40930278  0.01443332  0.35085566  1
+  Cl  Cl18  1  0.39089529  0.42863521  0.64792550  1
+  Cl  Cl19  1  0.68046950  0.42863521  0.85207450  1
+  Cl  Cl20  1  0.60910471  0.57136479  0.35207450  1
+  Cl  Cl21  1  0.31953050  0.57136479  0.14792550  1
+  Cl  Cl22  1  0.05516915  0.17963593  0.64182712  1
+  Cl  Cl23  1  0.26519492  0.17963593  0.85817288  1
+  Cl  Cl24  1  0.94483085  0.82036407  0.35817288  1
+  Cl  Cl25  1  0.73480508  0.82036407  0.14182712  1

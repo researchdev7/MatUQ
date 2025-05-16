@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_EuCrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47861165
+_cell_length_b   5.55654133
+_cell_length_c   7.73189119
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCrO3
+_chemical_formula_sum   'Eu4 Cr4 O12'
+_cell_volume   235.37525271
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.50955844  0.54319823  0.25000000  1
+  Eu  Eu1  1  0.99044156  0.04319823  0.25000000  1
+  Eu  Eu2  1  0.49044156  0.45680177  0.75000000  1
+  Eu  Eu3  1  0.00955844  0.95680177  0.75000000  1
+  Cr  Cr4  1  0.00000000  0.50000000  0.00000000  1
+  Cr  Cr5  1  0.50000000  0.00000000  0.50000000  1
+  Cr  Cr6  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr7  1  0.50000000  0.00000000  0.00000000  1
+  O  O8  1  0.41464177  0.97630519  0.25000000  1
+  O  O9  1  0.08535823  0.47630519  0.25000000  1
+  O  O10  1  0.58535823  0.02369481  0.75000000  1
+  O  O11  1  0.91464177  0.52369481  0.75000000  1
+  O  O12  1  0.79384053  0.79261710  0.04501308  1
+  O  O13  1  0.70615947  0.29261710  0.45498692  1
+  O  O14  1  0.20615947  0.20738290  0.54501308  1
+  O  O15  1  0.29384053  0.70738290  0.95498692  1
+  O  O16  1  0.20615947  0.20738290  0.95498692  1
+  O  O17  1  0.29384053  0.70738290  0.54501308  1
+  O  O18  1  0.79384053  0.79261710  0.45498692  1
+  O  O19  1  0.70615947  0.29261710  0.04501308  1

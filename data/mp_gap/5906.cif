@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NdH3(CO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32876384
+_cell_length_b   6.32876384
+_cell_length_c   6.32876384
+_cell_angle_alpha   115.42230020
+_cell_angle_beta   115.42230021
+_cell_angle_gamma   115.42230018
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdH3(CO2)3
+_chemical_formula_sum   'Nd1 H3 C3 O6'
+_cell_volume   136.25159728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.27709633  0.76097323  0.76097323  1
+  H  H1  1  0.76097323  0.76097323  0.27709633  1
+  H  H2  1  0.76097323  0.27709633  0.76097323  1
+  C  C3  1  0.52563448  0.98516103  0.52563448  1
+  C  C4  1  0.98516103  0.52563448  0.52563448  1
+  C  C5  1  0.52563448  0.52563448  0.98516103  1
+  O  O6  1  0.85270410  0.25429165  0.25429165  1
+  O  O7  1  0.54977212  0.80420548  0.54977212  1
+  O  O8  1  0.54977212  0.54977212  0.80420548  1
+  O  O9  1  0.25429165  0.85270410  0.25429165  1
+  O  O10  1  0.25429165  0.25429165  0.85270410  1
+  O  O11  1  0.80420548  0.54977212  0.54977212  1
+  Nd  Nd12  1  0.13959012  0.13959012  0.13959012  1

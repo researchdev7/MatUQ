@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_GdAlCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09954060
+_cell_length_b   7.04365323
+_cell_length_c   7.04943810
+_cell_angle_alpha   119.96127439
+_cell_angle_beta   89.98098287
+_cell_angle_gamma   89.97990698
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdAlCu
+_chemical_formula_sum   'Gd3 Al3 Cu3'
+_cell_volume   176.35490018
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.49996565  0.58557930  0.00047314  1
+  Gd  Gd1  1  0.50000694  0.41478739  0.41510672  1
+  Gd  Gd2  1  0.50004482  -0.00059044  0.58462291  1
+  Al  Al3  1  -0.00000351  0.23251914  0.00025385  1
+  Al  Al4  1  -0.00003424  0.76710592  0.76700830  1
+  Al  Al5  1  -0.00001228  -0.00005198  0.23247632  1
+  Cu  Cu6  1  0.00002044  0.33035382  0.66300093  1
+  Cu  Cu7  1  0.00003363  0.66877179  0.33715413  1
+  Cu  Cu8  1  0.49997856  0.00142507  -0.00009630  1

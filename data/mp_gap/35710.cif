@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3Cu2SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35164837
+_cell_length_b   5.35164836
+_cell_length_c   5.95539540
+_cell_angle_alpha   103.36154894
+_cell_angle_beta   103.36154889
+_cell_angle_gamma   113.36567709
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Cu2SbO6
+_chemical_formula_sum   'Na3 Cu2 Sb1 O6'
+_cell_volume   142.04350349
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.03236455  0.36086131  0.22645607  1
+  O  O1  1  0.25413871  0.25413871  0.83177706  1
+  O  O2  1  0.74586129  0.74586129  0.16822294  1
+  O  O3  1  0.36086131  0.03236455  0.22645607  1
+  O  O4  1  0.96763545  0.63913869  0.77354393  1
+  O  O5  1  0.63913869  0.96763545  0.77354393  1
+  Na  Na6  1  0.82741012  0.17258988  0.50000000  1
+  Na  Na7  1  0.17258988  0.82741012  0.50000000  1
+  Na  Na8  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu9  1  0.33338117  0.66661883  0.00000000  1
+  Cu  Cu10  1  0.66661883  0.33338117  0.00000000  1
+  Sb  Sb11  1  0.00000000  0.00000000  0.00000000  1

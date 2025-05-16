@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Fe(RhSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67351249
+_cell_length_b   6.26576419
+_cell_length_c   6.48655086
+_cell_angle_alpha   115.87166519
+_cell_angle_beta   73.62361427
+_cell_angle_gamma   90.06467555
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(RhSe2)2
+_chemical_formula_sum   'Fe1 Rh2 Se4'
+_cell_volume   127.59760322
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.72218777  0.29473224  0.51832508  1
+  Rh  Rh1  1  0.24392169  0.70649966  0.46989279  1
+  Rh  Rh2  1  0.97683840  -0.00106770  0.00949237  1
+  Se  Se3  1  0.09975193  0.54078879  0.76451542  1
+  Se  Se4  1  0.86207425  0.45114800  0.23271153  1
+  Se  Se5  1  0.61750376  0.02349293  0.72675196  1
+  Se  Se6  1  0.34272221  0.98440608  0.27831085  1

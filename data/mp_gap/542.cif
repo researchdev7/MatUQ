@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Fe2Si2SbO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24652849
+_cell_length_b   5.24652849
+_cell_length_c   8.05580028
+_cell_angle_alpha   96.17702580
+_cell_angle_beta   96.17702580
+_cell_angle_gamma   119.18123419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2Si2SbO9
+_chemical_formula_sum   'Fe2 Si2 Sb1 O9'
+_cell_volume   189.17620180
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.65319101  0.32798516  0.99151913  1
+  Fe  Fe1  1  0.32798516  0.65319101  0.99151913  1
+  Si  Si2  1  0.87204975  0.53159236  0.64011697  1
+  Si  Si3  1  0.53159236  0.87204975  0.64011697  1
+  Sb  Sb4  1  0.07643551  0.07643551  0.24200268  1
+  O  O5  1  0.03002683  0.37576018  0.13080222  1
+  O  O6  1  0.37576018  0.03002683  0.13080222  1
+  O  O7  1  0.70024399  0.70024399  0.13571627  1
+  O  O8  1  0.95078267  0.57983008  0.84751278  1
+  O  O9  1  0.57983008  0.95078267  0.84751278  1
+  O  O10  1  0.33989066  0.33989066  0.86110361  1
+  O  O11  1  0.17542390  0.67716628  0.55929385  1
+  O  O12  1  0.67716628  0.17542390  0.55929385  1
+  O  O13  1  0.68062161  0.68062161  0.57228751  1

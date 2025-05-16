@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TiGaCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27857853
+_cell_length_b   4.27857853
+_cell_length_c   5.53846761
+_cell_angle_alpha   89.94806841
+_cell_angle_beta   90.05193159
+_cell_angle_gamma   120.10732026
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiGaCu
+_chemical_formula_sum   'Ti2 Ga2 Cu2'
+_cell_volume   87.70984713
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.99990616  0.00009384  0.76300166  1
+  Ti  Ti1  1  0.00009384  0.99990616  0.23699834  1
+  Ga  Ga2  1  0.33344479  0.66655521  0.47799578  1
+  Ga  Ga3  1  0.66655521  0.33344479  0.52200422  1
+  Cu  Cu4  1  0.66659443  0.33340557  0.99815709  1
+  Cu  Cu5  1  0.33340557  0.66659443  0.00184291  1

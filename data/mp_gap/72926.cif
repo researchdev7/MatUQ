@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba2NaUO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11176268
+_cell_length_b   6.21414817
+_cell_length_c   8.71594737
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NaUO6
+_chemical_formula_sum   'Ba4 Na2 U2 O12'
+_cell_volume   331.02644172
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99831814  0.48935414  0.25778119  1
+  Ba  Ba1  1  0.99831814  0.51064586  0.74221881  1
+  Ba  Ba2  1  0.49831814  0.98935414  0.24221881  1
+  Ba  Ba3  1  0.49831814  0.01064586  0.75778119  1
+  Na  Na4  1  0.00118372  -0.00000000  0.00000000  1
+  Na  Na5  1  0.50118372  0.50000000  0.50000000  1
+  U  U6  1  0.00355205  -0.00000000  0.50000000  1
+  U  U7  1  0.50355205  0.50000000  0.00000000  1
+  O  O8  1  0.50390818  0.52796337  0.23514302  1
+  O  O9  1  0.50390818  0.47203663  0.76485698  1
+  O  O10  1  0.00390818  0.02796337  0.26485698  1
+  O  O11  1  0.00390818  0.97203663  0.73514302  1
+  O  O12  1  0.23731726  0.23704996  0.51094828  1
+  O  O13  1  0.23731726  0.76295004  0.48905172  1
+  O  O14  1  0.73731726  0.73704996  0.98905172  1
+  O  O15  1  0.73731726  0.26295004  0.01094828  1
+  O  O16  1  0.27418853  0.25891062  0.00928414  1
+  O  O17  1  0.27418853  0.74108938  0.99071586  1
+  O  O18  1  0.77418853  0.75891062  0.49071586  1
+  O  O19  1  0.77418853  0.24108938  0.50928414  1

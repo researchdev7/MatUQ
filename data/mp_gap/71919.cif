@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2NaGaP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54069393
+_cell_length_b   6.84836634
+_cell_length_c   9.41879343
+_cell_angle_alpha   111.31824919
+_cell_angle_beta   110.31707027
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaGaP2
+_chemical_formula_sum   'Cs4 Na2 Ga2 P4'
+_cell_volume   364.70875329
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.32805738  0.56739124  0.65611476  1
+  Cs  Cs1  1  0.67194262  0.43260876  0.34388524  1
+  Cs  Cs2  1  0.82805738  0.08872352  0.65611476  1
+  Cs  Cs3  1  0.17194262  0.91127648  0.34388524  1
+  Na  Na4  1  0.25000000  0.50000000  0.00000000  1
+  Na  Na5  1  0.75000000  0.50000000  0.00000000  1
+  Ga  Ga6  1  0.25000000  -0.00000000  0.00000000  1
+  Ga  Ga7  1  0.75000000  0.00000000  -0.00000000  1
+  P  P8  1  0.08034992  0.27725226  0.16069985  1
+  P  P9  1  0.91965008  0.72274774  0.83930015  1
+  P  P10  1  0.58034992  0.88344759  0.16069985  1
+  P  P11  1  0.41965008  0.11655241  0.83930015  1

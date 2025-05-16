@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyCdIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88436922
+_cell_length_b   4.88436922
+_cell_length_c   7.41708022
+_cell_angle_alpha   89.99794715
+_cell_angle_beta   90.00205285
+_cell_angle_gamma   120.02503235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCdIn
+_chemical_formula_sum   'Dy2 Cd2 In2'
+_cell_volume   153.20430789
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00007728  0.99992272  0.73753794  1
+  Dy  Dy1  1  0.99992272  0.00007728  0.26246206  1
+  Cd  Cd2  1  0.66673658  0.33326342  0.52617205  1
+  Cd  Cd3  1  0.33326342  0.66673658  0.47382795  1
+  In  In4  1  0.33339497  0.66660503  0.05214635  1
+  In  In5  1  0.66660503  0.33339497  0.94785365  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuFe2Co2B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01422990
+_cell_length_b   4.99899515
+_cell_length_c   6.84280059
+_cell_angle_alpha   90.00803698
+_cell_angle_beta   89.98535418
+_cell_angle_gamma   119.88893294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuFe2Co2B
+_chemical_formula_sum   'Lu2 Fe4 Co4 B2'
+_cell_volume   148.70871743
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  -0.00000976  -0.00004198  0.00284659  1
+  Lu  Lu1  1  -0.00000347  0.00004894  0.49405187  1
+  Fe  Fe2  1  0.49991334  -0.00004381  0.71394495  1
+  Fe  Fe3  1  0.49995163  0.50003875  0.71373367  1
+  Fe  Fe4  1  0.33546845  0.66733810  0.00314042  1
+  Fe  Fe5  1  0.66451504  0.33261536  0.00314717  1
+  Co  Co6  1  -0.00004116  0.49999741  0.28637438  1
+  Co  Co7  1  0.50008270  0.00007449  0.28768101  1
+  Co  Co8  1  0.50004458  0.49995827  0.28810899  1
+  Co  Co9  1  -0.00006367  0.50002436  0.71259532  1
+  B  B10  1  0.33050029  0.66547714  0.49716609  1
+  B  B11  1  0.66944203  0.33451297  0.49720954  1

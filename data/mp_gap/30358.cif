@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49100019
+_cell_length_b   5.51572717
+_cell_length_c   7.79842039
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.03125304
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrNiO3
+_chemical_formula_sum   'Sr4 Ni4 O12'
+_cell_volume   236.18962312
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00087820  0.99466772  0.74999266  1
+  Sr  Sr1  1  0.49912180  0.49466772  0.75000734  1
+  Sr  Sr2  1  0.50087820  0.50533228  0.24999266  1
+  Sr  Sr3  1  0.99912180  0.00533228  0.25000734  1
+  Ni  Ni4  1  -0.00000000  0.50000000  0.50000000  1
+  Ni  Ni5  1  -0.00000000  0.50000000  -0.00000000  1
+  Ni  Ni6  1  0.50000000  -0.00000000  0.50000000  1
+  Ni  Ni7  1  0.50000000  -0.00000000  -0.00000000  1
+  O  O8  1  0.01204280  0.50675261  0.24996737  1
+  O  O9  1  0.23916789  0.23927187  0.99358497  1
+  O  O10  1  0.23910945  0.23915352  0.50654259  1
+  O  O11  1  0.26089055  0.73915352  0.99345741  1
+  O  O12  1  0.26083211  0.73927187  0.50641503  1
+  O  O13  1  0.48795720  0.00675261  0.25003263  1
+  O  O14  1  0.51204280  0.99324739  0.74996737  1
+  O  O15  1  0.73916789  0.26072813  0.49358497  1
+  O  O16  1  0.73910945  0.26084648  0.00654259  1
+  O  O17  1  0.76089055  0.76084648  0.49345741  1
+  O  O18  1  0.76083211  0.76072813  0.00641503  1
+  O  O19  1  0.98795720  0.49324739  0.75003263  1

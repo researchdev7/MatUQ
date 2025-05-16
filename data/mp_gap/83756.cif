@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr2FeCuSO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94926975
+_cell_length_b   3.94926975
+_cell_length_c   15.74076822
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2FeCuSO3
+_chemical_formula_sum   'Sr4 Fe2 Cu2 S2 O6'
+_cell_volume   245.50453645
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.75000100  0.75000100  0.56852560  1
+  O  O1  1  0.25000000  0.25000000  0.43147440  1
+  O  O2  1  0.25000000  0.75000100  0.71215888  1
+  O  O3  1  0.25000000  0.75000100  0.28784112  1
+  O  O4  1  0.75000100  0.25000000  0.28784112  1
+  O  O5  1  0.75000100  0.25000000  0.71215888  1
+  S  S6  1  0.75000100  0.75000100  0.91034076  1
+  S  S7  1  0.25000000  0.25000000  0.08965824  1
+  Fe  Fe8  1  0.25000000  0.25000000  0.30937690  1
+  Fe  Fe9  1  0.75000100  0.75000100  0.69062210  1
+  Cu  Cu10  1  0.25000000  0.75000100  0.00000000  1
+  Cu  Cu11  1  0.75000100  0.25000000  0.00000000  1
+  Sr  Sr12  1  0.75000100  0.75000100  0.18391995  1
+  Sr  Sr13  1  0.25000000  0.25000000  0.81607905  1
+  Sr  Sr14  1  0.75000100  0.75000100  0.41212433  1
+  Sr  Sr15  1  0.25000000  0.25000000  0.58787467  1

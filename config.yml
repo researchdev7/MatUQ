@@ -1,0 +1,388 @@
+Models:
+    CGCNN:
+        model: "CGCNN"
+        atom_fea_len: 64
+        h_fea_len: 128
+        n_h: 1
+        n_conv: 3
+        evidential: "True"
+        coeff: 0.01
+        epochs: 500
+        lr: 0.01
+        lr_milestones: [100]
+        momentum: 0.9
+        weight_decay: 0
+        batch_size: 128
+        optimizer: "SGD"
+        scheduler: "MultiStepLR"
+    MEGNet:
+        model: "MEGNet"
+        dim_node_embedding: 16
+        dim_edge_embedding: 100
+        dim_state_embedding: 2
+        hidden_layer_sizes_input: [64, 32]
+        hidden_layer_sizes_conv: [64, 64, 32]
+        nblocks: 3
+        nlayers_set2set: 1
+        niters_set2set: 2
+        hidden_layer_sizes_output: [32, 16]
+        cutoff: 8.0
+        gauss_width: 0.5
+        mc_dropout: 0.1
+        evidential: "True"
+        coeff: 0.01
+        epochs: 500
+        lr: 0.001
+        weight_decay: 0.0
+        batch_size: 128
+        optimizer: "Adam"
+        amsgrad: "False"
+        scheduler: "CosineAnnealingLR"
+        T_max: 1000
+        decay_alpha: 0.01
+    SchNet:
+        model: "SchNet"
+        n_atom_basis: 128
+        n_interactions: 6
+        n_rbf: 20
+        cutoff: 8.0
+        mc_dropout: 0.1
+        evidential: "True"
+        coeff: 0.01
+        lr: 0.0005
+        weight_decay: 0.0
+        optimizer: "AdamW"
+        scheduler: "ReduceLROnPlateau"
+        batch_size: 32
+        epochs: 500
+        factor: 0.5
+        patience: 75
+        threshold: 0.0
+        cooldown: 10
+    DeeperGATGNN:
+        model: "DeeperGATGNN"
+        graph_max_radius: 8.0
+        graph_max_neighbors: 12
+        edge_features: "True"
+        graph_edge_length: 50
+        verbose: "True"
+        model_setting:
+            dim1: 64
+            dim2: 150
+            pre_fc_count: 1
+            gc_count: 20
+            post_fc_count: 0
+            pool: "global_mean_pool"
+            pool_order: "early"
+            batch_norm: "True"
+            batch_track_stats: "True"
+            act: "softplus"
+            dropout_rate: 0.0
+        evidential: "True"
+        coeff: 0.01
+        epochs: 500
+        lr: 0.005
+        weight_decay: 0.0
+        batch_size: 100
+        optimizer: "AdamW"
+        scheduler: "ReduceLROnPlateau"
+        scheduler_cfg:
+            "mode": "min"
+            "factor": 0.8
+            "patience": 10
+            "min_lr": 0.00001
+            "threshold": 0.0002
+    ALIGNN:
+        model: "ALIGNN"
+        cutoff: 8.0
+        cutoff_extra: 3.0
+        max_neighbors: 12
+        use_canonize: True
+        batch_size: 64
+        epochs: 300
+        lr: 0.001
+        weight_decay: 0.00001
+        optimizer: "AdamW"
+        scheduler: "onecycle"
+        evidential: "True"
+        coeff: 0.01
+        warmup_steps: 2000
+        model_setting:
+            alignn_layers: 4
+            gcn_layers: 4
+            atom_input_features: 92
+            edge_input_features: 80
+            triplet_input_features: 40
+            embedding_features: 64
+            hidden_features: 256
+    DimeNetPP:
+        model: "DimeNetPP"
+        batch_size: 32
+        epochs: 500
+        optimizer: "Adam"
+        amsgrad: "True"
+        lr: 0.001
+        weight_decay: 0.0
+        #ema_decay: 0.999
+        #warmup_steps: 3000
+        decay_rate: 0.01
+        step_size: 100
+        gamma: 0.3
+        #decay_steps: 4000000
+        scheduler: "ExponentialLR"
+        evidential: "True"
+        coeff: 0.01
+        model_setting:
+            hidden_channels: 128
+            num_blocks: 4
+            int_emb_size: 64
+            basis_emb_size: 8
+            out_emb_channels: 256
+            num_spherical: 7
+            num_radial: 6
+            cutoff: 8.0
+            max_num_neighbors: 32
+            envelope_exponent: 5
+            num_before_skip: 1
+            num_after_skip: 2
+            num_output_layers: 3
+            output_initializer: "zeros"
+    SODNet:
+        model: "SODNet"
+        batch_size: 64
+        epochs: 500
+        optimizer: "AdamW"
+        feature_type: "crystalnet"
+        weight_decay: 0.005
+        lr: 0.00005
+        scheduler: "cosine"
+        evidential: "True"
+        coeff: 0.01
+        model_setting:
+            irreps_in: "100x0e"
+            max_radius: 8.0
+            number_of_basis: 128
+        scheduler_cfg:
+            sched: "cosine"
+            num_epochs: 500
+            decay_epochs: 30
+            decay_milestones: [30, 60]
+            warmup_epochs: 5
+            cooldown_epochs: 10
+            warmup_lr: 0.000001
+            min_lr: 0.000001
+            noise_seed: 0
+    Matformer:
+        model: "Matformer"
+        batch_size: 64
+        epochs: 300
+        optimizer: "AdamW"
+        weight_decay: 0.00001
+        lr: 0.001
+        scheduler: "onecycle"
+        evidential: "True"
+        coeff: 0.01
+        atom_features: "cgcnn"
+        neighbor_strategy: "k-nearest"
+        warmup_steps: 2000
+        cutoff: 8.0
+        max_neighbors: 12
+        model_setting:
+            conv_layers: 5
+            edge_layers: 0
+            atom_input_features: 92
+            edge_features: 128
+            triplet_input_features: 40
+            node_features: 128
+            fc_features: 128
+            output_features: 1
+            node_layer_head: 4
+            edge_layer_head: 4
+    PotNet:
+        model: "PotNet"
+        batch_size: 64
+        epochs: 500
+        optimizer: "AdamW"
+        weight_decay: 0.0
+        lr: 0.001
+        scheduler: "onecycle"
+        warmup_steps: 2000
+        evidential: "True"
+        coeff: 0.01
+        atom_features: "cgcnn"
+        infinite_funcs: ["zeta", "zeta", "exp"]
+        infinite_params: [0.5, 3.0, 3.0]  # Coulomb, London dispersion, Pauli
+        R: 3  # half of the grid length
+        model_setting:
+            conv_layers: 3
+            atom_input_features: 92
+            inf_edge_features: 64
+            fc_features: 256
+            output_dim: 256
+            rbf_min: -4.0
+            rbf_max: 4.0
+            potentials: [-0.801, -0.074, 0.145]
+            charge_map: False
+            transformer: False
+    ComFormer:
+        model: "ComFormer"
+        name: "eComFormer"
+        batch_size: 64
+        epochs: 500
+        max_neighbors: 25
+        cutoff: 4.0
+        optimizer: "AdamW"
+        weight_decay: 0.00001
+        lr: 0.001
+        scheduler: "onecycle"
+        warmup_steps: 2000
+        evidential: "True"
+        coeff: 0.01
+        atom_features: "cgcnn"
+        i_model_setting:
+            conv_layers: 4
+            atom_input_features: 92
+            edge_features: 256
+            triplet_input_features: 256
+            node_features: 256
+            fc_features: 256
+            output_features: 1
+            node_layer_head: 1
+        e_model_setting:
+            conv_layers: 3
+            atom_input_features: 92
+            edge_features: 256
+            node_features: 256
+            fc_features: 256
+            output_features: 1
+            node_layer_head: 1
+    DimeNetPP_TF:
+        model: "DimeNetPP_TF"
+        batch_size: 16
+        epochs: 500
+        model_setting:
+            name: "DimeNetPP_TF"
+            emb_size: 128
+            out_emb_size: 256
+            int_emb_size: 64
+            basis_emb_size: 8
+            num_blocks: 4
+            num_spherical: 7
+            num_radial: 6
+            cutoff: 8.0
+            envelope_exponent: 5
+            num_before_skip: 1
+            num_after_skip: 2
+            num_dense_output: 3
+            num_targets: 4
+            output_init: "zeros"
+            activation: "swish"
+            output_embedding: "graph"
+    CrystalFramer:
+        model: "CrystalFramer"
+        batch_size: 256
+        epochs: 500
+        optimizer: "AdamW"
+        weight_decay: 0.00001
+        lr: 0.0005
+        scheduler: "LambdaLR"
+        sch_params: [4000.0]
+        adam_betas: [0.9, 0.98]
+        clip_norm: 1.0
+        clip_grad: 0.0
+        evidential: "True"
+        coeff: 0.01
+        swa_epochs: 50
+        lattice_params:
+            domain: "real"
+            lattice_range: 2
+            minimum_range: true
+            adaptive_cutoff_sigma: -3.5
+            gauss_lb_real: 0.5
+            gauss_lb_reci: 0.5
+            scale_real: [1.4]
+            scale_reci: [2.2]
+            value_pe_dist_real: 64
+            value_pe_dist_coef: 1.0
+            value_pe_dist_max: -10.0
+            value_pe_dist_wscale: 1.0
+            value_pe_wave_real: 0
+            value_pe_dist_reci: 0
+            value_pe_wave_reci: 0
+            value_pe_angle_real: 64
+            value_pe_angle_coef: 1.0
+            value_pe_angle_wscale: 4.0
+            positive_func_beta: 0.1
+            layer_index: -1
+            gauss_state: "q"
+            frame_method: "max"
+            frame_mode: "both"
+            cos_abs: 0,
+            symm_break_noise: 0.00001
+        model_setting:
+            embedding_dim: [128]
+            num_layers: 4
+            model_dim: 128
+            ff_dim: 512
+            pooling: "avr"
+            pre_pooling_op: "no"
+            head_num: 8
+            k_dim: 0
+            v_dim: 0
+            norm_type: "no"
+            scale_grad: 0.0
+            t_activation: "relu"
+    CrystalFramer_MAE:
+        model: "CrystalFramer"
+        batch_size: 256
+        epochs: 500
+        optimizer: "AdamW"
+        weight_decay: 0.00001
+        lr: 0.0005
+        scheduler: "LambdaLR"
+        sch_params: [4000.0]
+        adam_betas: [0.9, 0.98]
+        clip_norm: 1.0
+        clip_grad: 0.0
+        evidential: "False"
+        coeff: 0.0
+        swa_epochs: 50
+        lattice_params:
+            domain: "real"
+            lattice_range: 2
+            minimum_range: true
+            adaptive_cutoff_sigma: -3.5
+            gauss_lb_real: 0.5
+            gauss_lb_reci: 0.5
+            scale_real: [1.4]
+            scale_reci: [2.2]
+            value_pe_dist_real: 64
+            value_pe_dist_coef: 1.0
+            value_pe_dist_max: -10.0
+            value_pe_dist_wscale: 1.0
+            value_pe_wave_real: 0
+            value_pe_dist_reci: 0
+            value_pe_wave_reci: 0
+            value_pe_angle_real: 64
+            value_pe_angle_coef: 1.0
+            value_pe_angle_wscale: 4.0
+            positive_func_beta: 0.1
+            layer_index: -1
+            gauss_state: "q"
+            frame_method: "max"
+            frame_mode: "both"
+            cos_abs: 0,
+            symm_break_noise: 0.00001
+        model_setting:
+            embedding_dim: [128]
+            num_layers: 4
+            model_dim: 128
+            ff_dim: 512
+            pooling: "avr"
+            pre_pooling_op: "no"
+            head_num: 8
+            k_dim: 0
+            v_dim: 0
+            norm_type: "no"
+            scale_grad: 0.0
+            t_activation: "relu"

@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_NaLi2(RuO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.75967427
+_cell_length_b   9.57260374
+_cell_length_c   9.57236640
+_cell_angle_alpha   120.01060370
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi2(RuO2)6
+_chemical_formula_sum   'Na1 Li2 Ru6 O12'
+_cell_volume   218.97343798
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75000000  0.99987101  0.99989633  1
+  Li  Li1  1  0.75000000  0.33339529  0.66667501  1
+  Li  Li2  1  0.25000000  0.66675470  0.33338600  1
+  Ru  Ru3  1  0.75000000  0.34147381  0.98248708  1
+  Ru  Ru4  1  0.75000000  0.01751962  0.35917219  1
+  Ru  Ru5  1  0.75000000  0.64096405  0.65849377  1
+  Ru  Ru6  1  0.25000000  0.65856742  0.01737272  1
+  Ru  Ru7  1  0.25000000  0.98257238  0.64111991  1
+  Ru  Ru8  1  0.25000000  0.35880879  0.34143155  1
+  O  O9  1  0.75000000  0.58875388  0.13301407  1
+  O  O10  1  0.75000000  0.86699862  0.45576137  1
+  O  O11  1  0.75000000  0.54419012  0.41121262  1
+  O  O12  1  0.25000000  0.41154334  0.86734069  1
+  O  O13  1  0.25000000  0.13266945  0.54432295  1
+  O  O14  1  0.25000000  0.45570689  0.58835292  1
+  O  O15  1  0.75000000  0.10714561  0.81115088  1
+  O  O16  1  0.75000000  0.18875605  0.29579511  1
+  O  O17  1  0.75000000  0.70410572  0.89296093  1
+  O  O18  1  0.25000000  0.89475872  0.18717746  1
+  O  O19  1  0.25000000  0.81289956  0.70769991  1
+  O  O20  1  0.25000000  0.29254497  0.10517655  1

@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ba4Na(FeAs)10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.74091803
+_cell_length_b   8.91648427
+_cell_length_c   8.73916674
+_cell_angle_alpha   60.66711439
+_cell_angle_beta   89.97967983
+_cell_angle_gamma   119.33934009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4Na(FeAs)10
+_chemical_formula_sum   'Ba4 Na1 Fe10 As10'
+_cell_volume   491.04731971
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.19789074  1.00000000  0.60536914  1
+  Ba  Ba1  1  0.39463722  1.00000000  0.19784712  1
+  Ba  Ba2  1  0.60536278  0.00000000  0.80215288  1
+  Ba  Ba3  1  0.80210926  0.00000000  0.39463086  1
+  Na  Na4  1  0.00000000  -0.00000000  -0.00000000  1
+  Fe  Fe5  1  0.35044486  0.50043287  0.54916454  1
+  Fe  Fe6  1  0.54936245  0.49951782  0.15019662  1
+  Fe  Fe7  1  0.74993587  0.49987174  0.75006413  1
+  Fe  Fe8  1  0.95015537  0.49951782  0.35028556  1
+  Fe  Fe9  1  0.14998801  0.50043287  0.95040259  1
+  Fe  Fe10  1  0.45063755  0.50048218  0.84980338  1
+  Fe  Fe11  1  0.64955514  0.49956713  0.45083546  1
+  Fe  Fe12  1  0.85001199  0.49956713  0.04959741  1
+  Fe  Fe13  1  0.04984463  0.50048218  0.64971444  1
+  Fe  Fe14  1  0.25006413  0.50012826  0.24993587  1
+  As  As15  1  0.45071352  0.30412894  0.74871046  1
+  As  As16  1  0.65327241  0.30654483  0.34672759  1
+  As  As17  1  0.85341543  0.30412894  0.94716060  1
+  As  As18  1  0.05222938  0.30455782  0.54900293  1
+  As  As19  1  0.25232845  0.30455782  0.14643924  1
+  As  As20  1  0.34672759  0.69345517  0.65327241  1
+  As  As21  1  0.54928648  0.69587106  0.25128954  1
+  As  As22  1  0.74767155  0.69544218  0.85356076  1
+  As  As23  1  0.94777062  0.69544218  0.45099707  1
+  As  As24  1  0.14658457  0.69587106  0.05283940  1

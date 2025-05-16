@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Lu(CoGe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05898372
+_cell_length_b   5.05914110
+_cell_length_c   7.84577702
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99897815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu(CoGe)6
+_chemical_formula_sum   'Lu1 Co6 Ge6'
+_cell_volume   173.90462759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.99998379  1.00000000  0.00000000  1
+  Co  Co1  1  0.49999744  1.00000000  0.24971747  1
+  Co  Co2  1  0.49999403  0.50000392  0.24971734  1
+  Co  Co3  1  0.99999011  0.49999608  0.24971734  1
+  Co  Co4  1  0.49999744  1.00000000  0.75028253  1
+  Co  Co5  1  0.49999403  0.50000392  0.75028266  1
+  Co  Co6  1  0.99999011  0.49999608  0.75028266  1
+  Ge  Ge7  1  0.33330791  0.66667716  0.00000000  1
+  Ge  Ge8  1  0.66663075  0.33332284  0.00000000  1
+  Ge  Ge9  1  0.33330500  0.66668236  0.50000000  1
+  Ge  Ge10  1  0.66662263  0.33331764  0.50000000  1
+  Ge  Ge11  1  0.99999338  1.00000000  0.34362745  1
+  Ge  Ge12  1  0.99999338  1.00000000  0.65637255  1

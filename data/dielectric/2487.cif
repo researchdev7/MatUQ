@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce(Ni2Sn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71216233
+_cell_length_b   6.71216200
+_cell_length_c   6.71216180
+_cell_angle_alpha   106.89491971
+_cell_angle_beta   110.77452989
+_cell_angle_gamma   110.77452659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(Ni2Sn)2
+_chemical_formula_sum   'Ce2 Ni8 Sn4'
+_cell_volume   232.43957496
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.50000000  0.50000000  0.00000000  1
+  Ce  Ce1  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni2  1  0.27997785  0.22619853  0.22260744  1
+  Ni  Ni3  1  0.00359108  0.77739256  0.05737040  1
+  Ni  Ni4  1  0.99640892  0.05377932  0.77380147  1
+  Ni  Ni5  1  0.72002215  0.94262960  0.94622068  1
+  Ni  Ni6  1  0.72002215  0.27739256  0.27380147  1
+  Ni  Ni7  1  0.27997785  0.55377932  0.55737040  1
+  Ni  Ni8  1  0.99640892  0.44262960  0.72260744  1
+  Ni  Ni9  1  0.00359108  0.72619853  0.44622068  1
+  Sn  Sn10  1  0.68251528  0.59125764  0.59125764  1
+  Sn  Sn11  1  0.00000000  0.40874236  0.09125764  1
+  Sn  Sn12  1  1.00000000  0.09125764  0.40874236  1
+  Sn  Sn13  1  0.31748472  0.90874236  0.90874236  1

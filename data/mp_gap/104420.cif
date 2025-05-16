@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_La2(ZnGe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02518690
+_cell_length_b   6.02837875
+_cell_length_c   12.90710170
+_cell_angle_alpha   103.50496129
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2(ZnGe2)3
+_chemical_formula_sum   'La4 Zn6 Ge12'
+_cell_volume   455.85032720
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25000000  0.10558188  0.21116376  1
+  La  La1  1  0.75000000  0.60538825  0.21077651  1
+  La  La2  1  0.25000000  0.39461175  0.78922349  1
+  La  La3  1  0.75000000  0.89441812  0.78883624  1
+  Zn  Zn4  1  0.00000000  0.76065542  0.00000000  1
+  Zn  Zn5  1  0.25000000  0.66105028  0.32210055  1
+  Zn  Zn6  1  0.50000000  0.76065542  0.00000000  1
+  Zn  Zn7  1  0.75000000  0.33894972  0.67789945  1
+  Zn  Zn8  1  0.00000000  0.23934458  1.00000000  1
+  Zn  Zn9  1  0.50000000  0.23934458  1.00000000  1
+  Ge  Ge10  1  0.96479784  0.41610527  0.40305888  1
+  Ge  Ge11  1  0.46479784  0.58389473  0.59694112  1
+  Ge  Ge12  1  0.96479784  0.98695361  0.40305888  1
+  Ge  Ge13  1  0.03520216  0.58389473  0.59694112  1
+  Ge  Ge14  1  0.75000000  0.06610997  0.13221994  1
+  Ge  Ge15  1  0.46479784  0.01304639  0.59694112  1
+  Ge  Ge16  1  0.25000000  0.55868631  0.11737261  1
+  Ge  Ge17  1  0.53520216  0.98695361  0.40305888  1
+  Ge  Ge18  1  0.03520216  0.01304639  0.59694112  1
+  Ge  Ge19  1  0.25000000  0.93389003  0.86778006  1
+  Ge  Ge20  1  0.75000000  0.44131369  0.88262739  1
+  Ge  Ge21  1  0.53520216  0.41610527  0.40305888  1

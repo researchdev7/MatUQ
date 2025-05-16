@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Dy(FeSn)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41210259
+_cell_length_b   8.95086031
+_cell_length_c   10.36990037
+_cell_angle_alpha   115.56779981
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy(FeSn)6
+_chemical_formula_sum   'Dy2 Fe12 Sn12'
+_cell_volume   453.15641734
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.75000000  0.12715926  0.25431852  1
+  Dy  Dy1  1  0.25000000  0.87284074  0.74568148  1
+  Fe  Fe2  1  0.00000000  -0.00000000  0.50000000  1
+  Fe  Fe3  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe4  1  0.50000000  -0.00000000  0.50000000  1
+  Fe  Fe5  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe6  1  -0.00000000  0.75385459  0.00000000  1
+  Fe  Fe7  1  0.50000000  0.75385459  0.00000000  1
+  Fe  Fe8  1  -0.00000000  0.24614541  1.00000000  1
+  Fe  Fe9  1  0.50000000  0.24614541  1.00000000  1
+  Fe  Fe10  1  0.25000000  0.87825008  0.25058523  1
+  Fe  Fe11  1  0.75000000  0.62766485  0.74941477  1
+  Fe  Fe12  1  0.75000000  0.12174992  0.74941477  1
+  Fe  Fe13  1  0.25000000  0.37233515  0.25058523  1
+  Sn  Sn14  1  0.75000000  0.78706808  0.24870425  1
+  Sn  Sn15  1  0.25000000  0.53836383  0.75129575  1
+  Sn  Sn16  1  0.25000000  0.21293192  0.75129575  1
+  Sn  Sn17  1  0.75000000  0.46163617  0.24870425  1
+  Sn  Sn18  1  0.25000000  0.04312035  0.08624070  1
+  Sn  Sn19  1  0.75000000  0.95687965  0.91375930  1
+  Sn  Sn20  1  0.25000000  0.54212663  0.08425326  1
+  Sn  Sn21  1  0.75000000  0.45787337  0.91574674  1
+  Sn  Sn22  1  0.25000000  0.21128488  0.42256976  1
+  Sn  Sn23  1  0.75000000  0.78871512  0.57743024  1
+  Sn  Sn24  1  0.25000000  0.70571950  0.41143900  1
+  Sn  Sn25  1  0.75000000  0.29428050  0.58856100  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mn5Fe5(SiC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34903920
+_cell_length_b   6.34903920
+_cell_length_c   7.40899735
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.46400730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn5Fe5(SiC)2
+_chemical_formula_sum   'Mn10 Fe10 Si4 C4'
+_cell_volume   290.45066788
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.80626237  0.51079522  0.86197658  1
+  Mn  Mn1  1  0.51079522  0.80626237  0.86197658  1
+  Mn  Mn2  1  0.19373763  0.48920478  0.36197658  1
+  Mn  Mn3  1  0.48920478  0.19373763  0.36197658  1
+  Mn  Mn4  1  0.81541694  0.51746817  0.48639203  1
+  Mn  Mn5  1  0.51746817  0.81541694  0.48639203  1
+  Mn  Mn6  1  0.18458306  0.48253183  0.98639203  1
+  Mn  Mn7  1  0.48253183  0.18458306  0.98639203  1
+  Mn  Mn8  1  0.54047104  0.54047104  0.15151581  1
+  Mn  Mn9  1  0.45952896  0.45952896  0.65151581  1
+  Fe  Fe10  1  0.93769631  0.69352658  0.17864143  1
+  Fe  Fe11  1  0.69352658  0.93769631  0.17864143  1
+  Fe  Fe12  1  0.06230369  0.30647342  0.67864143  1
+  Fe  Fe13  1  0.30647342  0.06230369  0.67864143  1
+  Fe  Fe14  1  0.11729029  0.87080207  0.92579632  1
+  Fe  Fe15  1  0.87080207  0.11729029  0.92579632  1
+  Fe  Fe16  1  0.88270971  0.12919793  0.42579632  1
+  Fe  Fe17  1  0.12919793  0.88270971  0.42579632  1
+  Fe  Fe18  1  0.85002684  0.85002684  0.67451473  1
+  Fe  Fe19  1  0.14997316  0.14997316  0.17451473  1
+  Si  Si20  1  0.17590244  0.67155401  0.67478684  1
+  Si  Si21  1  0.67155401  0.17590244  0.67478684  1
+  Si  Si22  1  0.82409756  0.32844599  0.17478684  1
+  Si  Si23  1  0.32844599  0.82409756  0.17478684  1
+  C  C24  1  0.79609209  0.79609209  0.96903053  1
+  C  C25  1  0.20390791  0.20390791  0.46903053  1
+  C  C26  1  0.81215060  0.81215060  0.38875254  1
+  C  C27  1  0.18784940  0.18784940  0.88875254  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Re2Ni(MoS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82542571
+_cell_length_b   6.82542571
+_cell_length_c   6.82542571
+_cell_angle_alpha   89.93880499
+_cell_angle_beta   60.57542820
+_cell_angle_gamma   120.50773037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re2Ni(MoS4)2
+_chemical_formula_sum   'Re2 Ni1 Mo2 S8'
+_cell_volume   224.93014467
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.79165069  0.18679881  0.60485188  1
+  Re  Re1  1  0.20834931  0.60349743  0.60485188  1
+  Ni  Ni2  1  -0.00000000  -0.00022821  0.00022821  1
+  Mo  Mo3  1  0.20698085  0.60275471  0.19026444  1
+  Mo  Mo4  1  0.79301915  0.60275471  0.60422613  1
+  S  S5  1  0.72680683  0.86901148  0.40418169  1
+  S  S6  1  0.27319317  0.86901148  0.85779536  1
+  S  S7  1  0.26448403  0.40111229  0.86337174  1
+  S  S8  1  0.73551597  0.87214423  0.86337174  1
+  S  S9  1  0.73131425  0.36261461  0.90607114  1
+  S  S10  1  0.26868575  0.36261461  0.36869964  1
+  S  S11  1  0.27283559  0.90679252  0.36604307  1
+  S  S12  1  0.72716441  0.36112134  0.36604307  1

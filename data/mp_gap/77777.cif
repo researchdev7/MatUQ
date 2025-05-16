@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na5IO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70013178
+_cell_length_b   5.74851450
+_cell_length_c   5.74851450
+_cell_angle_alpha   119.35260991
+_cell_angle_beta   100.40326721
+_cell_angle_gamma   100.40326721
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5IO6
+_chemical_formula_sum   'Na5 I1 O6'
+_cell_volume   153.32103887
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.83340679  0.16659321  1
+  Na  Na1  1  0.00000000  0.16659321  0.83340679  1
+  Na  Na2  1  0.50000000  0.67061293  0.32938707  1
+  Na  Na3  1  0.50000000  0.32938707  0.67061293  1
+  Na  Na4  1  0.50000000  0.00000000  0.00000000  1
+  I  I5  1  0.00000000  0.50000000  0.50000000  1
+  O  O6  1  0.78537591  0.43054672  0.15432540  1
+  O  O7  1  0.21462409  0.56945328  0.84567460  1
+  O  O8  1  0.21462409  0.84567460  0.56945328  1
+  O  O9  1  0.78537591  0.15432540  0.43054672  1
+  O  O10  1  0.79752964  0.70229101  0.70229101  1
+  O  O11  1  0.20247036  0.29770899  0.29770899  1

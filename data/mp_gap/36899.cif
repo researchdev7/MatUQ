@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_InCu(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08392190
+_cell_length_b   7.67551843
+_cell_length_c   7.67551911
+_cell_angle_alpha   100.93500801
+_cell_angle_beta   91.41827886
+_cell_angle_gamma   91.41827826
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InCu(WO4)2
+_chemical_formula_sum   'In2 Cu2 W4 O16'
+_cell_volume   293.85142508
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.75000000  0.16744020  0.83255980  1
+  In  In1  1  0.25000000  0.83255980  0.16744020  1
+  Cu  Cu2  1  0.75000000  0.65028647  0.34971353  1
+  Cu  Cu3  1  0.25000000  0.34971353  0.65028647  1
+  W  W4  1  0.25590596  0.34070702  0.17009025  1
+  W  W5  1  0.74409404  0.65929298  0.82990975  1
+  W  W6  1  0.75590596  0.17009025  0.34070702  1
+  W  W7  1  0.24409404  0.82990975  0.65929298  1
+  O  O8  1  0.89704792  0.68898876  0.05503492  1
+  O  O9  1  0.44427168  0.30460588  0.40504668  1
+  O  O10  1  0.05572832  0.59495332  0.69539412  1
+  O  O11  1  0.40498409  0.56709835  0.19508072  1
+  O  O12  1  0.59501591  0.43290165  0.80491928  1
+  O  O13  1  0.90498409  0.19508072  0.56709835  1
+  O  O14  1  0.39704792  0.05503492  0.68898876  1
+  O  O15  1  0.93221723  0.90935060  0.80311564  1
+  O  O16  1  0.94427168  0.40504668  0.30460588  1
+  O  O17  1  0.06778277  0.09064940  0.19688436  1
+  O  O18  1  0.55572832  0.69539412  0.59495332  1
+  O  O19  1  0.60295208  0.94496508  0.31101124  1
+  O  O20  1  0.10295208  0.31101124  0.94496508  1
+  O  O21  1  0.43221723  0.80311564  0.90935060  1
+  O  O22  1  0.09501591  0.80491928  0.43290165  1
+  O  O23  1  0.56778277  0.19688436  0.09064940  1

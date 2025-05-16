@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Rb2CuPb(NO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70296955
+_cell_length_b   7.70296942
+_cell_length_c   7.70799363
+_cell_angle_alpha   119.20214077
+_cell_angle_beta   119.20214048
+_cell_angle_gamma   91.35109461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CuPb(NO2)6
+_chemical_formula_sum   'Rb2 Cu1 Pb1 N6 O12'
+_cell_volume   327.30485215
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75000000  0.25000000  0.50000000  1
+  Rb  Rb1  1  0.25000000  0.75000000  0.50000000  1
+  Cu  Cu2  1  0.00000000  -0.00000000  -0.00000000  1
+  Pb  Pb3  1  0.50000000  0.50000000  -0.00000000  1
+  N  N4  1  0.79783473  0.79783473  0.59567047  1
+  N  N5  1  0.20216527  0.20216527  0.40432953  1
+  N  N6  1  0.20207167  0.79792833  1.00000000  1
+  N  N7  1  0.79792833  0.20207167  0.00000000  1
+  N  N8  1  0.19378019  0.19378019  1.00000000  1
+  N  N9  1  0.80621981  0.80621981  0.00000000  1
+  O  O10  1  0.84406771  0.64873766  1.00000000  1
+  O  O11  1  0.35126234  0.15593229  0.00000000  1
+  O  O12  1  0.15593229  0.35126234  0.00000000  1
+  O  O13  1  0.16391035  0.64125112  0.80516146  1
+  O  O14  1  0.64125112  0.16391035  0.80516146  1
+  O  O15  1  0.35874888  0.83608965  0.19483854  1
+  O  O16  1  0.16149721  0.16149721  0.52275992  1
+  O  O17  1  0.63873729  0.63873729  0.47724008  1
+  O  O18  1  0.83850279  0.83850279  0.47724008  1
+  O  O19  1  0.36126271  0.36126271  0.52275992  1
+  O  O20  1  0.83608965  0.35874888  0.19483854  1
+  O  O21  1  0.64873766  0.84406771  1.00000000  1

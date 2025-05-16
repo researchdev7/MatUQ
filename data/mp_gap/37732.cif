@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_CdBi8(Cl5O4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52106920
+_cell_length_b   5.52078548
+_cell_length_c   18.45503114
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   81.39731676
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdBi8(Cl5O4)2
+_chemical_formula_sum   'Cd1 Bi8 Cl10 O8'
+_cell_volume   556.19242258
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  -0.00000000  0.50000000  0.00000000  1
+  Bi  Bi1  1  0.11171448  0.00000000  0.77657104  1
+  Bi  Bi2  1  0.61171098  0.50000000  0.77657804  1
+  Bi  Bi3  1  0.38828902  0.50000000  0.22342196  1
+  Bi  Bi4  1  0.88828552  -0.00000000  0.22342896  1
+  Bi  Bi5  1  0.31842649  -0.00000000  0.36314703  1
+  Bi  Bi6  1  0.81772275  0.50000000  0.36455450  1
+  Bi  Bi7  1  0.18227725  0.50000000  0.63544550  1
+  Bi  Bi8  1  0.68157351  0.00000000  0.63685297  1
+  Cl  Cl9  1  0.42506470  -0.00000000  0.14987061  1
+  Cl  Cl10  1  0.92582327  0.50000000  0.14835346  1
+  Cl  Cl11  1  0.07417673  0.50000000  0.85164654  1
+  Cl  Cl12  1  0.57493530  0.00000000  0.85012939  1
+  Cl  Cl13  1  0.50000000  0.50000000  0.00000000  1
+  Cl  Cl14  1  -0.00000000  -0.00000000  0.00000000  1
+  Cl  Cl15  1  0.21918592  -0.00000000  0.56162815  1
+  Cl  Cl16  1  0.71917221  0.50000000  0.56165558  1
+  Cl  Cl17  1  0.28082779  0.50000000  0.43834442  1
+  Cl  Cl18  1  0.78081408  0.00000000  0.43837185  1
+  O  O19  1  0.39550830  0.25127220  0.70645952  1
+  O  O20  1  0.89803218  0.74872780  0.70645952  1
+  O  O21  1  0.89803218  0.25127220  0.70645952  1
+  O  O22  1  0.39550830  0.74872780  0.70645952  1
+  O  O23  1  0.10196782  0.25127220  0.29354048  1
+  O  O24  1  0.60449170  0.74872780  0.29354048  1
+  O  O25  1  0.60449170  0.25127220  0.29354048  1
+  O  O26  1  0.10196782  0.74872780  0.29354048  1

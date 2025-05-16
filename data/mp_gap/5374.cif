@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaMgCrFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49842692
+_cell_length_b   5.34908679
+_cell_length_c   7.62917400
+_cell_angle_alpha   89.76050983
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMgCrFeO6
+_chemical_formula_sum   'La2 Mg2 Cr2 Fe2 O12'
+_cell_volume   224.38397019
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.03407700  0.99001780  0.24866323  1
+  La  La1  1  0.46592300  0.49001780  0.74866323  1
+  Mg  Mg2  1  0.55542091  0.53019502  0.25095067  1
+  Mg  Mg3  1  0.94457909  0.03019502  0.75095067  1
+  Cr  Cr4  1  0.50454641  -0.00012587  0.49673399  1
+  Cr  Cr5  1  0.99545359  0.49987413  0.99673399  1
+  Fe  Fe6  1  0.49694347  0.99864117  0.00063069  1
+  Fe  Fe7  1  0.00305653  0.49864117  0.50063069  1
+  O  O8  1  0.01870116  0.62944203  0.75785200  1
+  O  O9  1  0.19811888  0.19455288  0.94051943  1
+  O  O10  1  0.20790904  0.18743968  0.55832624  1
+  O  O11  1  0.29209096  0.68743968  0.05832624  1
+  O  O12  1  0.30188112  0.69455288  0.44051943  1
+  O  O13  1  0.48129884  0.12944203  0.25785100  1
+  O  O14  1  0.54179280  0.92279197  0.74366837  1
+  O  O15  1  0.73335450  0.27045226  0.55594356  1
+  O  O16  1  0.73660720  0.27659207  0.94671183  1
+  O  O17  1  0.76339280  0.77659207  0.44671183  1
+  O  O18  1  0.76664550  0.77045226  0.05594356  1
+  O  O19  1  0.95820720  0.42279197  0.24366837  1

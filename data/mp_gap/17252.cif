@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiMg6Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12110733
+_cell_length_b   6.22973187
+_cell_length_c   4.88675942
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.58879149
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMg6Cu
+_chemical_formula_sum   'Li1 Mg6 Cu1'
+_cell_volume   160.41447356
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.16647315  0.83323608  0.25000000  1
+  Mg  Mg1  1  0.66843805  0.33528727  0.25000000  1
+  Mg  Mg2  1  0.66843805  0.83314977  0.25000000  1
+  Mg  Mg3  1  0.32447994  0.16746297  0.75000000  1
+  Mg  Mg4  1  0.32447994  0.65701797  0.75000000  1
+  Mg  Mg5  1  0.84282189  0.17141144  0.75000000  1
+  Mg  Mg6  1  0.83713353  0.66856727  0.75000000  1
+  Cu  Cu7  1  0.16773546  0.33386723  0.25000000  1

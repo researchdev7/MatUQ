@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrPr3(FeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55027316
+_cell_length_b   5.61141772
+_cell_length_c   7.85616881
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.17690381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPr3(FeO3)4
+_chemical_formula_sum   'Sr1 Pr3 Fe4 O12'
+_cell_volume   244.67843495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50587814  0.53121167  0.25000000  1
+  Pr  Pr1  1  0.98675253  0.04311561  0.25000000  1
+  Pr  Pr2  1  0.49216260  0.45528681  0.75000000  1
+  Pr  Pr3  1  0.00780100  0.95896737  0.75000000  1
+  Fe  Fe4  1  0.50007702  0.99723371  0.00131989  1
+  Fe  Fe5  1  0.99878278  0.50078522  0.49892805  1
+  Fe  Fe6  1  0.50007702  0.99723371  0.49868011  1
+  Fe  Fe7  1  0.99878278  0.50078522  0.00107195  1
+  O  O8  1  0.79526677  0.79448158  0.03563228  1
+  O  O9  1  0.72072188  0.28076717  0.46785642  1
+  O  O10  1  0.21686291  0.21612532  0.54478376  1
+  O  O11  1  0.28439705  0.71425577  0.95292831  1
+  O  O12  1  0.21686291  0.21612532  0.95521624  1
+  O  O13  1  0.28439705  0.71425577  0.54707169  1
+  O  O14  1  0.79526677  0.79448158  0.46436772  1
+  O  O15  1  0.72072188  0.28076717  0.03214358  1
+  O  O16  1  0.41813655  0.99181473  0.25000000  1
+  O  O17  1  0.05864194  0.47951444  0.25000000  1
+  O  O18  1  0.57607854  0.01481504  0.75000000  1
+  O  O19  1  0.92233190  0.51797677  0.75000000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrCa2In2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89301163
+_cell_length_b   12.23369220
+_cell_length_c   14.17781856
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa2In2Ge
+_chemical_formula_sum   'Sr4 Ca8 In8 Ge4'
+_cell_volume   848.67852253
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75000000  0.41074971  0.25000000  1
+  Sr  Sr1  1  0.75000000  0.08925029  0.75000000  1
+  Sr  Sr2  1  0.25000000  0.91074971  0.25000000  1
+  Sr  Sr3  1  0.25000000  0.58925029  0.75000000  1
+  Ca  Ca4  1  0.75403481  0.12043082  0.40486554  1
+  Ca  Ca5  1  0.74596519  0.12043082  0.09513446  1
+  Ca  Ca6  1  0.24596519  0.87956918  0.59513446  1
+  Ca  Ca7  1  0.74596519  0.37956918  0.90486554  1
+  Ca  Ca8  1  0.75403481  0.37956918  0.59513446  1
+  Ca  Ca9  1  0.25403481  0.62043082  0.09513446  1
+  Ca  Ca10  1  0.25403481  0.87956918  0.90486554  1
+  Ca  Ca11  1  0.24596519  0.62043082  0.40486554  1
+  In  In12  1  0.24789577  0.16515590  0.58061128  1
+  In  In13  1  0.75210423  0.83484410  0.41938872  1
+  In  In14  1  0.75210423  0.66515590  0.58061128  1
+  In  In15  1  0.74789577  0.83484410  0.08061128  1
+  In  In16  1  0.74789577  0.66515590  0.91938872  1
+  In  In17  1  0.25210423  0.33484410  0.08061128  1
+  In  In18  1  0.24789577  0.33484410  0.41938872  1
+  In  In19  1  0.25210423  0.16515590  0.91938872  1
+  Ge  Ge20  1  0.25000000  0.19075281  0.25000000  1
+  Ge  Ge21  1  0.75000000  0.80924719  0.75000000  1
+  Ge  Ge22  1  0.75000000  0.69075281  0.25000000  1
+  Ge  Ge23  1  0.25000000  0.30924719  0.75000000  1

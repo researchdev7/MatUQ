@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfMnAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09125275
+_cell_length_b   5.12276048
+_cell_length_c   8.36483419
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.20374142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMnAl
+_chemical_formula_sum   'Hf4 Mn4 Al4'
+_cell_volume   188.54776529
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.66970357  0.33480815  0.55317710  1
+  Hf  Hf1  1  0.34231343  0.67114050  0.42542282  1
+  Hf  Hf2  1  0.34231343  0.67114050  0.07457718  1
+  Hf  Hf3  1  0.66970357  0.33480815  0.94682290  1
+  Mn  Mn4  1  0.66638425  0.83336789  0.75000000  1
+  Mn  Mn5  1  0.81462417  0.63360514  0.25000000  1
+  Mn  Mn6  1  0.81450051  0.18090923  0.25000000  1
+  Mn  Mn7  1  0.35085000  0.17541717  0.25000000  1
+  Al  Al8  1  0.98916419  0.99455123  0.48593501  1
+  Al  Al9  1  0.98916419  0.99455123  0.01406499  1
+  Al  Al10  1  0.17565109  0.34284172  0.75000000  1
+  Al  Al11  1  0.17562758  0.83285911  0.75000000  1

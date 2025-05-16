@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho3(FeGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19254189
+_cell_length_b   6.71701151
+_cell_length_c   7.83821638
+_cell_angle_alpha   115.37102495
+_cell_angle_beta   105.51212390
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3(FeGe)4
+_chemical_formula_sum   'Ho3 Fe4 Ge4'
+_cell_volume   190.50843280
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.87135419  0.37135419  0.74270838  1
+  Ho  Ho1  1  0.12864581  0.62864581  0.25729162  1
+  Ho  Ho2  1  0.00000000  -0.00000000  -0.00000000  1
+  Fe  Fe3  1  0.32502351  0.00585023  0.65004703  1
+  Fe  Fe4  1  0.67497649  0.99414977  0.34995297  1
+  Fe  Fe5  1  0.32502351  0.64419680  0.65004703  1
+  Fe  Fe6  1  0.67497649  0.35580320  0.34995297  1
+  Ge  Ge7  1  0.22060920  0.22060920  0.44121840  1
+  Ge  Ge8  1  0.77939080  0.77939080  0.55878160  1
+  Ge  Ge9  1  0.50000000  0.30416393  1.00000000  1
+  Ge  Ge10  1  0.50000000  0.69583607  0.00000000  1

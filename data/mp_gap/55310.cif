@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_H2SeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02270649
+_cell_length_b   5.20389201
+_cell_length_c   5.98397673
+_cell_angle_alpha   102.64614953
+_cell_angle_beta   90.57235515
+_cell_angle_gamma   99.50658121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H2SeO3
+_chemical_formula_sum   'H4 Se2 O6'
+_cell_volume   150.34356119
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.72935998  0.53736817  0.18085589  1
+  H  H1  1  0.16957991  0.22260772  0.89012362  1
+  H  H2  1  0.81585970  0.39645209  0.70635372  1
+  H  H3  1  0.33195892  0.79477008  0.39473476  1
+  Se  Se4  1  0.80292279  0.17435553  0.33004535  1
+  Se  Se5  1  0.29737328  0.79940373  0.78147016  1
+  O  O6  1  0.11208429  0.53890217  0.85661068  1
+  O  O7  1  0.08914129  0.03726428  0.90169891  1
+  O  O8  1  0.17260429  0.74132613  0.48785677  1
+  O  O9  1  0.59986031  0.88061820  0.24613726  1
+  O  O10  1  0.65696808  0.30037672  0.59756253  1
+  O  O11  1  0.64418716  0.34595517  0.15325034  1

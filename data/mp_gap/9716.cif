@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CoNi(PS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79827216
+_cell_length_b   5.79790020
+_cell_length_c   6.70652716
+_cell_angle_alpha   81.71992807
+_cell_angle_beta   73.26140060
+_cell_angle_gamma   59.99787452
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoNi(PS3)2
+_chemical_formula_sum   'Co1 Ni1 P2 S6'
+_cell_volume   186.97584178
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.33325563  0.33348873  1.00000000  1
+  Ni  Ni1  1  0.66734346  0.66531307  0.00000000  1
+  P  P2  1  0.94252489  0.00010030  0.16985276  1
+  P  P3  1  0.05737481  0.00010030  0.83014724  1
+  S  S4  1  0.93605166  0.64376101  0.22843066  1
+  S  S5  1  0.56663141  0.34369527  0.22801602  1
+  S  S6  1  0.08967333  0.34369527  0.77198398  1
+  S  S7  1  0.42018733  0.64376101  0.77156934  1
+  S  S8  1  0.26734376  0.01304252  0.22801598  1
+  S  S9  1  0.71961372  0.01304252  0.77198402  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2CePr(MoO4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32237341
+_cell_length_b   5.32237341
+_cell_length_c   11.53725520
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CePr(MoO4)4
+_chemical_formula_sum   'Li2 Ce1 Pr1 Mo4 O16'
+_cell_volume   326.82342782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.75000000  0.12505388  1
+  Li  Li1  1  0.00000000  0.25000000  0.62494612  1
+  Ce  Ce2  1  0.00000000  0.75000000  0.37500000  1
+  Pr  Pr3  1  0.50000000  0.25000000  0.87500000  1
+  Mo  Mo4  1  0.00000000  0.25000000  0.12530367  1
+  Mo  Mo5  1  0.50000000  0.75000000  0.62469633  1
+  Mo  Mo6  1  0.50000000  0.25000000  0.37500000  1
+  Mo  Mo7  1  0.00000000  0.75000000  0.87500000  1
+  O  O8  1  0.85419596  0.49297469  0.21160383  1
+  O  O9  1  0.35346314  0.99230885  0.71115531  1
+  O  O10  1  0.14580404  0.00702531  0.21160383  1
+  O  O11  1  0.64653686  0.50769115  0.71115531  1
+  O  O12  1  0.74601213  0.39945402  0.45864868  1
+  O  O13  1  0.24560164  0.89845176  0.95889022  1
+  O  O14  1  0.25398787  0.10054598  0.45864868  1
+  O  O15  1  0.75439836  0.60154824  0.95889022  1
+  O  O16  1  0.64945402  0.00398787  0.29135132  1
+  O  O17  1  0.14845176  0.50439836  0.79110978  1
+  O  O18  1  0.35054598  0.49601213  0.29135132  1
+  O  O19  1  0.85154824  0.99560164  0.79110978  1
+  O  O20  1  0.75769115  0.10346314  0.03884469  1
+  O  O21  1  0.25702531  0.60419596  0.53839617  1
+  O  O22  1  0.24230885  0.39653686  0.03884469  1
+  O  O23  1  0.74297469  0.89580404  0.53839617  1

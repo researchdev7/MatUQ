@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Be4CrMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34384098
+_cell_length_b   4.34389105
+_cell_length_c   7.10305309
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00003505
+_cell_angle_gamma   59.99961879
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be4CrMo
+_chemical_formula_sum   'Be8 Cr2 Mo2'
+_cell_volume   116.07183935
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.00000000  -0.00000000  0.50000000  1
+  Be  Be1  1  0.00000000  -0.00000000  -0.00000000  1
+  Be  Be2  1  0.83001627  0.33997203  0.74200288  1
+  Be  Be3  1  0.33997362  0.83001319  0.74200332  1
+  Be  Be4  1  0.83001627  0.83001169  0.74200288  1
+  Be  Be5  1  0.16998373  0.66002797  0.25799712  1
+  Be  Be6  1  0.66002638  0.16998681  0.25799668  1
+  Be  Be7  1  0.16998373  0.16998831  0.25799712  1
+  Cr  Cr8  1  0.33334175  0.33332913  0.55984156  1
+  Cr  Cr9  1  0.66665825  0.66667087  0.44015844  1
+  Mo  Mo10  1  0.66671739  0.66664130  0.06579407  1
+  Mo  Mo11  1  0.33328261  0.33335870  0.93420593  1

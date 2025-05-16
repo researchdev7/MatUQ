@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Tb2SiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91189916
+_cell_length_b   4.32852227
+_cell_length_c   5.76170358
+_cell_angle_alpha   67.93683106
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2SiGe
+_chemical_formula_sum   'Tb2 Si1 Ge1'
+_cell_volume   90.41704705
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.25000000  0.86172598  0.27654805  1
+  Tb  Tb1  1  0.75000000  0.13975938  0.72048123  1
+  Si  Si2  1  0.75000000  0.41900574  0.16198853  1
+  Ge  Ge3  1  0.25000000  0.57950890  0.84098219  1

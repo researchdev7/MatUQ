@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbCdAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94437215
+_cell_length_b   5.90874392
+_cell_length_c   9.34380563
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.20534013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbCdAg
+_chemical_formula_sum   'Yb4 Cd4 Ag4'
+_cell_volume   283.63070548
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.66464306  0.32928305  0.55038074  1
+  Yb  Yb1  1  0.33219421  0.66444828  0.43377315  1
+  Yb  Yb2  1  0.33219421  0.66444828  0.06622685  1
+  Yb  Yb3  1  0.66464306  0.32928305  0.94961926  1
+  Cd  Cd4  1  0.16862764  0.33717039  0.75000000  1
+  Cd  Cd5  1  0.16842815  0.83164332  0.75000000  1
+  Cd  Cd6  1  0.66322093  0.83160152  0.75000000  1
+  Cd  Cd7  1  0.83274810  0.66552936  0.25000000  1
+  Ag  Ag8  1  0.83047069  0.17265264  0.25000000  1
+  Ag  Ag9  1  0.34219386  0.17264124  0.25000000  1
+  Ag  Ag10  1  0.00031804  0.00064944  0.49671823  1
+  Ag  Ag11  1  0.00031804  0.00064944  0.00328177  1

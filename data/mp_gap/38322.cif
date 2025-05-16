@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NbCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60523674
+_cell_length_b   6.60523674
+_cell_length_c   7.88204822
+_cell_angle_alpha   72.68310720
+_cell_angle_beta   107.31689280
+_cell_angle_gamma   95.16043338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCrO4
+_chemical_formula_sum   'Nb4 Cr4 O16'
+_cell_volume   313.41858407
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.22155892  0.77844108  0.85816543  1
+  Nb  Nb1  1  0.22120188  0.22120188  0.50000000  1
+  Nb  Nb2  1  0.77879812  0.77879812  0.50000000  1
+  Nb  Nb3  1  0.77844108  0.22155892  0.14183457  1
+  Cr  Cr4  1  0.18261545  0.81738455  0.34433595  1
+  Cr  Cr5  1  0.18277309  0.18277309  0.00000000  1
+  Cr  Cr6  1  0.81722691  0.81722691  0.00000000  1
+  Cr  Cr7  1  0.81738455  0.18261545  0.65566405  1
+  O  O8  1  0.15151197  0.84848803  0.58041940  1
+  O  O9  1  0.14627228  0.85372772  0.07015108  1
+  O  O10  1  0.50715049  0.81741933  0.92425011  1
+  O  O11  1  0.18258067  0.49284951  0.92425011  1
+  O  O12  1  0.18322343  0.50695253  0.41792922  1
+  O  O13  1  0.49304747  0.81677657  0.41792922  1
+  O  O14  1  0.84720370  0.85441231  0.74506647  1
+  O  O15  1  0.14558769  0.15279630  0.74506647  1
+  O  O16  1  0.85441231  0.84720370  0.25493353  1
+  O  O17  1  0.15279630  0.14558769  0.25493353  1
+  O  O18  1  0.50695253  0.18322343  0.58207078  1
+  O  O19  1  0.81677657  0.49304747  0.58207078  1
+  O  O20  1  0.81741933  0.50715049  0.07574989  1
+  O  O21  1  0.49284951  0.18258067  0.07574989  1
+  O  O22  1  0.85372772  0.14627228  0.92984892  1
+  O  O23  1  0.84848803  0.15151197  0.41958060  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_In2Ga(CuSe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09582061
+_cell_length_b   7.09582061
+_cell_length_c   13.00124847
+_cell_angle_alpha   79.38135400
+_cell_angle_beta   100.61864600
+_cell_angle_gamma   70.68615854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Ga(CuSe2)3
+_chemical_formula_sum   'In4 Ga2 Cu6 Se12'
+_cell_volume   585.59784153
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.75026155  0.75026155  0.50000000  1
+  In  In1  1  0.83375847  0.16677993  0.66835373  1
+  In  In2  1  0.49992948  0.49992948  0.00000000  1
+  In  In3  1  0.16677993  0.83375847  0.33164627  1
+  Ga  Ga4  1  0.41683681  0.08347772  0.83325769  1
+  Ga  Ga5  1  0.08347772  0.41683681  0.16674231  1
+  Cu  Cu6  1  0.25135819  0.25135819  0.50000000  1
+  Cu  Cu7  1  0.91641171  0.58208094  0.83495175  1
+  Cu  Cu8  1  0.58208094  0.91641171  0.16504825  1
+  Cu  Cu9  1  0.33507375  0.66492211  0.66798813  1
+  Cu  Cu10  1  0.99995194  0.99995194  0.00000000  1
+  Cu  Cu11  1  0.66492211  0.33507375  0.33201187  1
+  Se  Se12  1  0.10358531  0.63584002  0.99916705  1
+  Se  Se13  1  0.76988742  0.97968079  0.32177633  1
+  Se  Se14  1  0.43630726  0.30287250  0.66466419  1
+  Se  Se15  1  0.63584002  0.10358531  0.00083295  1
+  Se  Se16  1  0.30287250  0.43630726  0.33533581  1
+  Se  Se17  1  0.97968079  0.76988742  0.67822367  1
+  Se  Se18  1  0.05034266  0.21145932  0.84427490  1
+  Se  Se19  1  0.71609987  0.54551696  0.17651068  1
+  Se  Se20  1  0.36419961  0.88336567  0.51060216  1
+  Se  Se21  1  0.88336567  0.36419961  0.48939784  1
+  Se  Se22  1  0.54551696  0.71609987  0.82348932  1
+  Se  Se23  1  0.21145932  0.05034266  0.15572510  1

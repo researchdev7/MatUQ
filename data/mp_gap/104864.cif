@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba2LiFe2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79779506
+_cell_length_b   6.80630484
+_cell_length_c   6.80630484
+_cell_angle_alpha   119.47094384
+_cell_angle_beta   90.84407168
+_cell_angle_gamma   90.84407177
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiFe2N3
+_chemical_formula_sum   'Ba4 Li2 Fe4 N6'
+_cell_volume   274.04795843
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25000000  0.80700187  0.19299813  1
+  Li  Li1  1  0.75000000  0.19299813  0.80700187  1
+  N  N2  1  0.25000000  0.39670672  0.60329328  1
+  N  N3  1  0.75000000  0.60329328  0.39670672  1
+  N  N4  1  0.49550054  0.00714738  0.71202663  1
+  N  N5  1  0.99550054  0.71202663  0.00714738  1
+  N  N6  1  0.50449946  0.99285262  0.28797337  1
+  N  N7  1  0.00449946  0.28797337  0.99285262  1
+  Fe  Fe8  1  0.89874848  0.56791527  0.16080359  1
+  Fe  Fe9  1  0.10125152  0.43208473  0.83919641  1
+  Fe  Fe10  1  0.60125152  0.83919641  0.43208473  1
+  Fe  Fe11  1  0.39874848  0.16080359  0.56791527  1
+  Ba  Ba12  1  0.10064615  0.82612224  0.68071809  1
+  Ba  Ba13  1  0.39935385  0.31928191  0.17387776  1
+  Ba  Ba14  1  0.89935385  0.17387776  0.31928191  1
+  Ba  Ba15  1  0.60064615  0.68071809  0.82612224  1

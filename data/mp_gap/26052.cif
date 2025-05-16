@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36922391
+_cell_length_b   3.36955216
+_cell_length_c   11.94425532
+_cell_angle_alpha   89.99992184
+_cell_angle_beta   89.99975762
+_cell_angle_gamma   120.00264105
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeO3
+_chemical_formula_sum   'Sc2 Fe2 O6'
+_cell_volume   117.43031068
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000497  0.99997760  0.00031881  1
+  Sc  Sc1  1  0.00000422  0.99999433  0.49968248  1
+  Fe  Fe2  1  0.33328791  0.66662393  0.75000041  1
+  Fe  Fe3  1  0.66671503  0.33332877  0.25000122  1
+  O  O4  1  0.00000216  0.99997469  0.24999840  1
+  O  O5  1  0.00000705  0.99998232  0.74999895  1
+  O  O6  1  0.33331230  0.66664165  0.58136299  1
+  O  O7  1  0.33330998  0.66662931  0.91863777  1
+  O  O8  1  0.66668074  0.33332905  0.41819187  1
+  O  O9  1  0.66667564  0.33331835  0.08180710  1

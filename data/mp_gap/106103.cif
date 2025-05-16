@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KAgCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20457022
+_cell_length_b   7.20457052
+_cell_length_c   7.20457003
+_cell_angle_alpha   60.54654394
+_cell_angle_beta   60.54654263
+_cell_angle_gamma   60.54654761
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAgCl3
+_chemical_formula_sum   'K2 Ag2 Cl6'
+_cell_volume   267.69429324
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.26450767  0.26450767  0.26450767  1
+  K  K1  1  0.76450767  0.76450767  0.76450767  1
+  Ag  Ag2  1  0.00390186  0.00390186  0.00390186  1
+  Ag  Ag3  1  0.50390186  0.50390186  0.50390186  1
+  Cl  Cl4  1  0.25261226  0.80285524  0.70462296  1
+  Cl  Cl5  1  0.80285524  0.70462296  0.25261226  1
+  Cl  Cl6  1  0.70462296  0.25261226  0.80285524  1
+  Cl  Cl7  1  0.20462296  0.30285524  0.75261226  1
+  Cl  Cl8  1  0.75261226  0.20462296  0.30285524  1
+  Cl  Cl9  1  0.30285524  0.75261226  0.20462296  1

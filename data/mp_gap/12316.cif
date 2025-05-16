@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ZnCr(GeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49872292
+_cell_length_b   6.85115377
+_cell_length_c   6.85115348
+_cell_angle_alpha   85.26020513
+_cell_angle_beta   79.08177137
+_cell_angle_gamma   79.08176425
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCr(GeO3)2
+_chemical_formula_sum   'Zn2 Cr2 Ge4 O12'
+_cell_volume   248.54850167
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.75000000  0.24814266  0.75185734  1
+  Zn  Zn1  1  0.25000000  0.75185734  0.24814266  1
+  Cr  Cr2  1  0.75000000  0.90235784  0.09764216  1
+  Cr  Cr3  1  0.25000000  0.09764216  0.90235784  1
+  Ge  Ge4  1  0.74702831  0.38971432  0.21336222  1
+  Ge  Ge5  1  0.75297169  0.78663778  0.61028568  1
+  Ge  Ge6  1  0.25297169  0.61028568  0.78663778  1
+  Ge  Ge7  1  0.24702831  0.21336222  0.38971432  1
+  O  O8  1  0.52902740  0.29935665  0.41542184  1
+  O  O9  1  0.97097260  0.58457816  0.70064336  1
+  O  O10  1  0.47097260  0.70064335  0.58457816  1
+  O  O11  1  0.02902740  0.41542184  0.29935664  1
+  O  O12  1  0.10718152  0.14395244  0.63134507  1
+  O  O13  1  0.39281848  0.36865493  0.85604756  1
+  O  O14  1  0.89281848  0.85604756  0.36865493  1
+  O  O15  1  0.60718152  0.63134507  0.14395244  1
+  O  O16  1  0.83683005  0.20219651  0.03659199  1
+  O  O17  1  0.66316995  0.96340801  0.79780349  1
+  O  O18  1  0.16316995  0.79780349  0.96340801  1
+  O  O19  1  0.33683005  0.03659199  0.20219651  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaGa(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05806919
+_cell_length_b   5.81914694
+_cell_length_c   9.96868457
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.46747695
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGa(WO4)2
+_chemical_formula_sum   'Na2 Ga2 W4 O16'
+_cell_volume   293.40498505
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75000000  0.67253642  0.50000000  1
+  Na  Na1  1  0.25000000  0.32746358  0.50000000  1
+  Ga  Ga2  1  0.75000000  0.65903425  -0.00000000  1
+  Ga  Ga3  1  0.25000000  0.34096575  -0.00000000  1
+  W  W4  1  0.24382687  0.82547446  0.76680924  1
+  W  W5  1  0.75617313  0.17452554  0.23319076  1
+  W  W6  1  0.25617313  0.82547446  0.23319076  1
+  W  W7  1  0.74382687  0.17452554  0.76680924  1
+  O  O8  1  0.62099577  0.37231380  0.64710463  1
+  O  O9  1  0.37900423  0.62768620  0.35289537  1
+  O  O10  1  0.87900423  0.37231380  0.35289537  1
+  O  O11  1  0.12099577  0.62768620  0.64710463  1
+  O  O12  1  0.56002634  0.90531032  0.67374098  1
+  O  O13  1  0.43997366  0.09468968  0.32625902  1
+  O  O14  1  0.93997366  0.90531032  0.32625902  1
+  O  O15  1  0.06002634  0.09468968  0.67374098  1
+  O  O16  1  0.92266574  0.87592333  0.87809352  1
+  O  O17  1  0.07733426  0.12407667  0.12190648  1
+  O  O18  1  0.57733426  0.87592333  0.12190648  1
+  O  O19  1  0.42266574  0.12407667  0.87809352  1
+  O  O20  1  0.91300165  0.37903753  0.89386849  1
+  O  O21  1  0.08699835  0.62096247  0.10613151  1
+  O  O22  1  0.58699835  0.37903753  0.10613151  1
+  O  O23  1  0.41300165  0.62096247  0.89386849  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li2SnTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01320711
+_cell_length_b   5.28490014
+_cell_length_c   8.63693868
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2SnTeO6
+_chemical_formula_sum   'Li4 Sn2 Te2 O12'
+_cell_volume   228.82963547
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.30350486  1
+  Li  Li1  1  0.50000000  0.50000000  0.80350486  1
+  Li  Li2  1  0.50000000  0.00000000  0.19049011  1
+  Li  Li3  1  0.00000000  0.50000000  0.69049011  1
+  O  O4  1  0.79527449  0.83877604  0.07438010  1
+  O  O5  1  0.70472551  0.33877604  0.57438010  1
+  O  O6  1  0.29527449  0.66122396  0.57438010  1
+  O  O7  1  0.73377864  0.33894765  0.25219093  1
+  O  O8  1  0.76622136  0.83894765  0.75219093  1
+  O  O9  1  0.23377864  0.16105235  0.75219093  1
+  O  O10  1  0.79371196  0.31141093  0.91119102  1
+  O  O11  1  0.26622136  0.66105235  0.25219093  1
+  O  O12  1  0.29371196  0.18858907  0.41119102  1
+  O  O13  1  0.20628804  0.68858907  0.91119102  1
+  O  O14  1  0.70628804  0.81141093  0.41119102  1
+  O  O15  1  0.20472551  0.16122396  0.07438010  1
+  Sn  Sn16  1  0.50000000  0.00000000  0.59563219  1
+  Sn  Sn17  1  0.00000000  0.50000000  0.09563219  1
+  Te  Te18  1  0.00000000  0.00000000  0.90474875  1
+  Te  Te19  1  0.50000000  0.50000000  0.40474875  1

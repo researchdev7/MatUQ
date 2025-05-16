@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CuAuClO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76650631
+_cell_length_b   8.25143512
+_cell_length_c   8.45086037
+_cell_angle_alpha   47.38948219
+_cell_angle_beta   142.59988545
+_cell_angle_gamma   148.60783922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAuClO2
+_chemical_formula_sum   'Cu2 Au2 Cl2 O4'
+_cell_volume   171.34066317
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.99357081  0.99348845  0.00034694  1
+  Cu  Cu1  1  0.98875245  0.49095381  0.49794277  1
+  Au  Au2  1  0.65231990  0.37329321  0.98897903  1
+  Au  Au3  1  0.35478452  0.63445283  0.00871368  1
+  Cl  Cl4  1  0.10390761  0.33200802  0.26183255  1
+  Cl  Cl5  1  0.91905787  0.68421857  0.74052611  1
+  O  O6  1  0.15006472  0.27675536  0.76348747  1
+  O  O7  1  0.47529158  0.83615251  0.74775525  1
+  O  O8  1  0.84877663  0.72249151  0.24451536  1
+  O  O9  1  0.51347291  0.15618675  0.24589983  1

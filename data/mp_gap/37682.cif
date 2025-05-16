@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgAlFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88408681
+_cell_length_b   5.88408681
+_cell_length_c   5.88408681
+_cell_angle_alpha   90.36352888
+_cell_angle_beta   59.66003475
+_cell_angle_gamma   120.08041584
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAlFeO4
+_chemical_formula_sum   'Mg2 Al2 Fe2 O8'
+_cell_volume   143.59124925
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.25000000  0.87500000  0.37500000  1
+  Mg  Mg1  1  0.75000000  0.37500000  0.37500000  1
+  Al  Al2  1  0.75000000  0.37500000  0.87500000  1
+  Al  Al3  1  0.25000000  0.37500000  0.37500000  1
+  Fe  Fe4  1  0.50000000  0.74150850  0.75849150  1
+  Fe  Fe5  1  0.00000000  0.00849150  0.99150850  1
+  O  O6  1  0.25846458  0.14600664  0.59552878  1
+  O  O7  1  0.74153542  0.14600664  0.11245793  1
+  O  O8  1  0.72482635  0.59932760  0.12549875  1
+  O  O9  1  0.27517365  0.14967489  0.12549875  1
+  O  O10  1  0.24153542  0.60399336  0.15447122  1
+  O  O11  1  0.75846458  0.60399336  0.63754207  1
+  O  O12  1  0.77517365  0.15067240  0.62450125  1
+  O  O13  1  0.22482635  0.60032511  0.62450125  1

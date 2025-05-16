@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Na2Ca(Ge3O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93114661
+_cell_length_b   8.24461907
+_cell_length_c   8.28638368
+_cell_angle_alpha   59.83228794
+_cell_angle_beta   90.00000001
+_cell_angle_gamma   89.85812220
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Ca(Ge3O7)2
+_chemical_formula_sum   'Na2 Ca1 Ge6 O14'
+_cell_volume   291.25672782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00004654  0.57678881  0.00059787  1
+  Na  Na1  1  0.99995346  0.42321119  0.57738668  1
+  Ca  Ca2  1  0.00000000  1.00000000  0.42127852  1
+  Ge  Ge3  1  0.49802506  0.24631604  0.00111658  1
+  Ge  Ge4  1  0.50197494  0.75368396  0.24743263  1
+  Ge  Ge5  1  0.50000000  0.00000000  0.75565094  1
+  Ge  Ge6  1  1.00000000  1.00000000  0.99701571  1
+  Ge  Ge7  1  0.48386424  0.33183986  0.33436763  1
+  Ge  Ge8  1  0.51613576  0.66816014  0.66620750  1
+  O  O9  1  0.23575762  0.87174980  0.91335256  1
+  O  O10  1  0.23632848  0.21386891  0.87374867  1
+  O  O11  1  0.23230251  0.91128035  0.21651260  1
+  O  O12  1  0.76424238  0.12825020  0.78510235  1
+  O  O13  1  0.76769749  0.08871965  0.12779295  1
+  O  O14  1  0.76367152  0.78613109  0.08761758  1
+  O  O15  1  0.82799135  0.31260592  0.34007128  1
+  O  O16  1  0.17200865  0.68739408  0.65267720  1
+  O  O17  1  0.68084713  0.85168439  0.68860597  1
+  O  O18  1  0.67237139  0.46037802  0.84768162  1
+  O  O19  1  0.68294489  0.70410676  0.45666320  1
+  O  O20  1  0.31915287  0.14831561  0.54029036  1
+  O  O21  1  0.31705511  0.29589324  0.16076996  1
+  O  O22  1  0.32762861  0.53962198  0.30805965  1

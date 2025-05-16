@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ti2MnFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16934699
+_cell_length_b   5.16934794
+_cell_length_c   5.62579301
+_cell_angle_alpha   89.99999997
+_cell_angle_beta   62.64949046
+_cell_angle_gamma   119.99999945
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2MnFeO6
+_chemical_formula_sum   'Ti2 Mn1 Fe1 O6'
+_cell_volume   110.36159760
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.29075415  0.14537708  0.56386877  1
+  Ti  Ti1  1  0.70607015  0.85303507  0.44089478  1
+  Mn  Mn2  1  0.28241951  0.64120976  0.07637073  1
+  Fe  Fe3  1  0.71456375  0.35728188  0.92815437  1
+  O  O4  1  0.17577012  0.21319608  0.26317161  1
+  O  O5  1  0.77425435  0.56105827  0.26317161  1
+  O  O6  1  0.52363230  0.96257404  0.26317161  1
+  O  O7  1  0.82750700  0.77274399  0.73373217  1
+  O  O8  1  0.21150482  0.43876083  0.73373217  1
+  O  O9  1  0.49352384  0.05476301  0.73373217  1

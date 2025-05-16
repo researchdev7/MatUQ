@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Tb2Ga3(Fe7C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52055675
+_cell_length_b   6.52629608
+_cell_length_c   6.52055675
+_cell_angle_alpha   83.39924415
+_cell_angle_beta   82.99194000
+_cell_angle_gamma   83.39924415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Ga3(Fe7C)2
+_chemical_formula_sum   'Tb2 Ga3 Fe14 C2'
+_cell_volume   272.14702050
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.65325690  0.66025102  0.65325690  1
+  Tb  Tb1  1  0.34674310  0.33974898  0.34674310  1
+  Ga  Ga2  1  0.00000000  0.50000000  0.00000000  1
+  Ga  Ga3  1  0.50000000  -0.00000000  0.00000000  1
+  Ga  Ga4  1  0.00000000  -0.00000000  0.50000000  1
+  Fe  Fe5  1  0.90880556  0.90691732  0.90880556  1
+  Fe  Fe6  1  0.09119444  0.09308268  0.09119444  1
+  Fe  Fe7  1  0.34862923  0.84681181  0.34862923  1
+  Fe  Fe8  1  0.84749159  0.34889324  0.34971402  1
+  Fe  Fe9  1  0.34971402  0.34889324  0.84749159  1
+  Fe  Fe10  1  0.65137077  0.15318819  0.65137077  1
+  Fe  Fe11  1  0.15250841  0.65110676  0.65028598  1
+  Fe  Fe12  1  0.65028598  0.65110676  0.15250841  1
+  Fe  Fe13  1  0.70913312  -0.00000000  0.29086688  1
+  Fe  Fe14  1  -0.00016442  0.28522803  0.71387731  1
+  Fe  Fe15  1  0.28612269  0.71477197  0.00016442  1
+  Fe  Fe16  1  0.00016442  0.71477197  0.28612269  1
+  Fe  Fe17  1  0.71387731  0.28522803  -0.00016442  1
+  Fe  Fe18  1  0.29086688  -0.00000000  0.70913312  1
+  C  C19  1  0.00000000  0.50000000  0.50000000  1
+  C  C20  1  0.50000000  0.50000000  0.00000000  1

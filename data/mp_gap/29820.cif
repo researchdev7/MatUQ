@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba3Fe3Se7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.02010854
+_cell_length_b   11.02010813
+_cell_length_c   7.35335925
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Fe3Se7
+_chemical_formula_sum   'Ba6 Fe6 Se14'
+_cell_volume   773.37145450
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.37185432  0.18592716  0.50402132  1
+  Ba  Ba1  1  0.62814568  0.81407284  1.00402132  1
+  Ba  Ba2  1  0.18592716  0.37185432  1.00402132  1
+  Ba  Ba3  1  0.18592716  0.81407284  1.00402132  1
+  Ba  Ba4  1  0.81407284  0.62814568  0.50402132  1
+  Ba  Ba5  1  0.81407284  0.18592716  0.50402132  1
+  Fe  Fe6  1  0.25486546  0.74513454  0.48859056  1
+  Fe  Fe7  1  0.74513454  0.49026908  0.98859056  1
+  Fe  Fe8  1  0.25486546  0.50973092  0.48859056  1
+  Fe  Fe9  1  0.49026908  0.74513454  0.48859056  1
+  Fe  Fe10  1  0.50973092  0.25486546  0.98859056  1
+  Fe  Fe11  1  0.74513454  0.25486546  0.98859056  1
+  Se  Se12  1  0.72543431  0.86271715  0.57603437  1
+  Se  Se13  1  0.45484254  0.54515746  0.31467497  1
+  Se  Se14  1  0.13728285  0.86271715  0.57603437  1
+  Se  Se15  1  0.66666700  0.33333300  0.24753635  1
+  Se  Se16  1  0.33333300  0.66666700  0.74753635  1
+  Se  Se17  1  0.45484254  0.90968508  0.31467497  1
+  Se  Se18  1  0.86271715  0.72543431  0.07603437  1
+  Se  Se19  1  0.54515746  0.09031492  0.81467497  1
+  Se  Se20  1  0.13728285  0.27456569  0.57603437  1
+  Se  Se21  1  0.27456569  0.13728285  0.07603437  1
+  Se  Se22  1  0.90968508  0.45484254  0.81467497  1
+  Se  Se23  1  0.54515746  0.45484254  0.81467497  1
+  Se  Se24  1  0.09031492  0.54515746  0.31467497  1
+  Se  Se25  1  0.86271715  0.13728285  0.07603437  1

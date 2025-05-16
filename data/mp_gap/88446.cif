@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsLaCdTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71615052
+_cell_length_b   8.97687259
+_cell_length_c   12.30546364
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   105.22934436
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLaCdTe3
+_chemical_formula_sum   'Cs2 La2 Cd2 Te6'
+_cell_volume   502.67228811
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.46557656  0.93115312  0.75000000  1
+  Cd  Cd1  1  0.53442344  0.06884688  0.25000000  1
+  Te  Te2  1  0.62292005  0.24584010  0.44370263  1
+  Te  Te3  1  0.37707995  0.75415990  0.55629737  1
+  Te  Te4  1  0.37707995  0.75415990  0.94370263  1
+  Te  Te5  1  0.62292005  0.24584010  0.05629737  1
+  Te  Te6  1  0.06634990  0.13269980  0.75000000  1
+  Te  Te7  1  0.93365010  0.86730020  0.25000000  1
+  Cs  Cs8  1  0.74978338  0.49956677  0.75000000  1
+  Cs  Cs9  1  0.25021662  0.50043323  0.25000000  1
+  La  La10  1  0.00000000  0.00000000  0.50000000  1
+  La  La11  1  0.00000000  0.00000000  0.00000000  1

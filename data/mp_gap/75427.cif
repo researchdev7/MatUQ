@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CeCu5Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04740935
+_cell_length_b   8.23893227
+_cell_length_c   10.36649408
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCu5Ag
+_chemical_formula_sum   'Ce4 Cu20 Ag4'
+_cell_volume   431.09339072
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.24250980  0.93572369  1
+  Ce  Ce1  1  0.75000000  0.74250980  0.56427631  1
+  Ce  Ce2  1  0.25000000  0.75749020  0.06427631  1
+  Ce  Ce3  1  0.25000000  0.25749020  0.43572369  1
+  Cu  Cu4  1  0.75000000  0.68526712  0.24791836  1
+  Cu  Cu5  1  0.75000000  0.18526712  0.25208164  1
+  Cu  Cu6  1  0.25000000  0.31473288  0.75208164  1
+  Cu  Cu7  1  0.25000000  0.81473288  0.74791836  1
+  Cu  Cu8  1  0.75000000  0.94440836  0.10509184  1
+  Cu  Cu9  1  0.75000000  0.44440836  0.39490816  1
+  Cu  Cu10  1  0.25000000  0.05559164  0.89490816  1
+  Cu  Cu11  1  0.25000000  0.55559164  0.60509184  1
+  Cu  Cu12  1  0.75000000  0.59029848  0.01615721  1
+  Cu  Cu13  1  0.75000000  0.09029848  0.48384279  1
+  Cu  Cu14  1  0.25000000  0.40970152  0.98384279  1
+  Cu  Cu15  1  0.25000000  0.90970152  0.51615721  1
+  Cu  Cu16  1  0.99861559  0.06509674  0.68752518  1
+  Cu  Cu17  1  0.50138441  0.56509674  0.81247482  1
+  Cu  Cu18  1  0.49861559  0.93490326  0.31247482  1
+  Cu  Cu19  1  0.00138441  0.43490326  0.18752518  1
+  Cu  Cu20  1  0.00138441  0.93490326  0.31247482  1
+  Cu  Cu21  1  0.49861559  0.43490326  0.18752518  1
+  Cu  Cu22  1  0.50138441  0.06509674  0.68752518  1
+  Cu  Cu23  1  0.99861559  0.56509674  0.81247482  1
+  Ag  Ag24  1  0.75000000  0.35922155  0.63924704  1
+  Ag  Ag25  1  0.75000000  0.85922155  0.86075296  1
+  Ag  Ag26  1  0.25000000  0.64077845  0.36075296  1
+  Ag  Ag27  1  0.25000000  0.14077845  0.13924704  1

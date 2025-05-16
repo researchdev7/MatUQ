@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ti2Co3Sn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25460004
+_cell_length_b   4.25460004
+_cell_length_c   7.29922949
+_cell_angle_alpha   73.05571625
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Co3Sn2
+_chemical_formula_sum   'Ti2 Co3 Sn2'
+_cell_volume   107.75203801
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.24618611  0.49237223  0.26144166  1
+  Ti  Ti1  1  0.75302456  0.50604913  0.74092631  1
+  Co  Co2  1  0.87754747  0.75509494  0.36735759  1
+  Co  Co3  1  0.37173580  0.74347160  0.88479260  1
+  Co  Co4  1  0.62482466  0.24964932  0.12552601  1
+  Sn  Sn5  1  0.00502127  0.01004253  0.98493620  1
+  Sn  Sn6  1  0.49666012  0.99332025  0.51001963  1

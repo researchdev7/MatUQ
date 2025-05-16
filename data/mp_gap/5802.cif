@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Pr2Si3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08030834
+_cell_length_b   4.08012114
+_cell_length_c   8.47612750
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.97445134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Si3Ni
+_chemical_formula_sum   'Pr2 Si3 Ni1'
+_cell_volume   122.23790640
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.99994362  0.00002377  0.00893692  1
+  Pr  Pr1  1  0.99994362  0.00002377  0.49106308  1
+  Si  Si2  1  0.33343995  0.66657720  0.75000000  1
+  Si  Si3  1  0.66666090  0.33331690  0.25000000  1
+  Si  Si4  1  0.66657325  0.33331684  0.75000000  1
+  Ni  Ni5  1  0.33323865  0.66674152  0.25000000  1

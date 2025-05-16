@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_YCu3(AgO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72919164
+_cell_length_b   6.72811901
+_cell_length_c   6.73064422
+_cell_angle_alpha   109.49526706
+_cell_angle_beta   109.49157099
+_cell_angle_gamma   109.45578824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCu3(AgO3)4
+_chemical_formula_sum   'Y1 Cu3 Ag4 O12'
+_cell_volume   234.49625884
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.99999546  0.99999160  0.99999527  1
+  Cu  Cu1  1  0.49999918  0.99999698  0.50000077  1
+  Cu  Cu2  1  0.49999886  0.49999698  0.99999645  1
+  Cu  Cu3  1  0.00000036  0.49999751  0.49999958  1
+  Ag  Ag4  1  0.50000154  0.00000369  0.00000173  1
+  Ag  Ag5  1  0.99999384  0.99999764  0.49999687  1
+  Ag  Ag6  1  0.00000329  0.49999764  0.00000061  1
+  Ag  Ag7  1  0.49999511  0.49999436  0.49999512  1
+  O  O8  1  0.84467554  0.30978804  0.15512361  1
+  O  O9  1  0.15532793  0.69021886  0.84488079  1
+  O  O10  1  0.84483411  0.68974472  0.53484840  1
+  O  O11  1  0.31002090  0.46522011  0.15506575  1
+  O  O12  1  0.46513390  0.15523314  0.31036907  1
+  O  O13  1  0.15500135  0.84472349  0.30984149  1
+  O  O14  1  0.69001159  0.84514785  0.15516754  1
+  O  O15  1  0.53486673  0.84476824  0.68963066  1
+  O  O16  1  0.15516687  0.31025758  0.46515906  1
+  O  O17  1  0.68998619  0.53478642  0.84493831  1
+  O  O18  1  0.84500084  0.15527807  0.69016123  1
+  O  O19  1  0.30998840  0.15485708  0.84482669  1

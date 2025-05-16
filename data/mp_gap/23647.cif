@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Fe2CuRh3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83817846
+_cell_length_b   6.83817846
+_cell_length_c   6.80764978
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.85154384
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2CuRh3S8
+_chemical_formula_sum   'Fe2 Cu1 Rh3 S8'
+_cell_volume   224.58714598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.76333271  0.38166636  0.85500093  1
+  Fe  Fe1  1  0.50188718  0.75094359  0.74716923  1
+  Cu  Cu2  1  0.99920131  0.99960065  0.00119804  1
+  Rh  Rh3  1  0.24309249  0.38042055  0.37648697  1
+  Rh  Rh4  1  0.24309249  0.86267194  0.37648697  1
+  Rh  Rh5  1  0.76084109  0.38042055  0.37648697  1
+  S  S6  1  0.26778942  0.13389471  0.59831586  1
+  S  S7  1  0.73429597  0.14128016  0.12442387  1
+  S  S8  1  0.73429597  0.59301581  0.12442387  1
+  S  S9  1  0.28256031  0.14128016  0.12442387  1
+  S  S10  1  0.25025403  0.62512702  0.12461895  1
+  S  S11  1  0.74367055  0.61600795  0.64032149  1
+  S  S12  1  0.74367055  0.12766260  0.64032149  1
+  S  S13  1  0.23201590  0.61600795  0.64032149  1

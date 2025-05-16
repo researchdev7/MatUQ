@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbCrNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36995940
+_cell_length_b   7.32057055
+_cell_length_c   7.35151524
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.08275130
+_cell_angle_gamma   119.77856686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCrNiF6
+_chemical_formula_sum   'Rb2 Cr2 Ni2 F12'
+_cell_volume   281.74477017
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75965769  0.37982885  0.37017115  1
+  Rb  Rb1  1  0.24034231  0.62017115  0.62982885  1
+  Cr  Cr2  1  -0.00000000  -0.00000000  0.50000000  1
+  Cr  Cr3  1  -0.00000000  -0.00000000  -0.00000000  1
+  Ni  Ni4  1  0.50000000  0.50000000  -0.00000000  1
+  Ni  Ni5  1  0.50000000  -0.00000000  -0.00000000  1
+  F  F6  1  0.86644976  0.93322488  0.31677512  1
+  F  F7  1  0.64926435  0.32463217  0.92536783  1
+  F  F8  1  0.24469225  0.93051105  0.92599521  1
+  F  F9  1  0.24469225  0.31418120  0.32931254  1
+  F  F10  1  0.24469225  0.31418120  0.92599521  1
+  F  F11  1  0.24469225  0.93051105  0.32931254  1
+  F  F12  1  0.13355024  0.06677512  0.68322488  1
+  F  F13  1  0.35073565  0.67536783  0.07463217  1
+  F  F14  1  0.75530775  0.06948895  0.07400479  1
+  F  F15  1  0.75530775  0.68581880  0.67068746  1
+  F  F16  1  0.75530775  0.68581880  0.07400479  1
+  F  F17  1  0.75530775  0.06948895  0.67068746  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbZnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18253387
+_cell_length_b   7.09408853
+_cell_length_c   7.92693655
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbZnPt
+_chemical_formula_sum   'Yb4 Zn4 Pt4'
+_cell_volume   235.20223940
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.25000000  0.65002359  0.42747933  1
+  Zn  Zn1  1  0.25000000  0.15002359  0.07252067  1
+  Zn  Zn2  1  0.75000000  0.34997641  0.57252067  1
+  Zn  Zn3  1  0.75000000  0.84997641  0.92747933  1
+  Yb  Yb4  1  0.75000000  0.47623014  0.18647339  1
+  Yb  Yb5  1  0.25000000  0.02376986  0.68647339  1
+  Yb  Yb6  1  0.75000000  0.97623014  0.31352661  1
+  Yb  Yb7  1  0.25000000  0.52376986  0.81352661  1
+  Pt  Pt8  1  0.25000000  0.77399420  0.11533357  1
+  Pt  Pt9  1  0.25000000  0.27399420  0.38466643  1
+  Pt  Pt10  1  0.75000000  0.72600580  0.61533357  1
+  Pt  Pt11  1  0.75000000  0.22600580  0.88466643  1

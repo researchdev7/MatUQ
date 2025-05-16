@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaSbTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41133341
+_cell_length_b   4.44935491
+_cell_length_c   19.45316220
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSbTe
+_chemical_formula_sum   'La4 Sb4 Te4'
+_cell_volume   381.81865233
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.74999900  0.76283448  0.13964094  1
+  La  La1  1  0.25000000  0.26283448  0.36035906  1
+  La  La2  1  0.74999900  0.73716552  0.63964094  1
+  La  La3  1  0.25000000  0.23716552  0.86035906  1
+  Sb  Sb4  1  0.74999900  0.27946846  0.00108540  1
+  Sb  Sb5  1  0.25000000  0.77946946  0.49891460  1
+  Sb  Sb6  1  0.74999900  0.22052954  0.50108540  1
+  Sb  Sb7  1  0.25000000  0.72052954  0.99891460  1
+  Te  Te8  1  0.25000000  0.26214960  0.18630899  1
+  Te  Te9  1  0.74999900  0.76214760  0.31369101  1
+  Te  Te10  1  0.25000000  0.23785040  0.68630899  1
+  Te  Te11  1  0.74999900  0.73785040  0.81369101  1

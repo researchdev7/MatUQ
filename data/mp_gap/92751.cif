@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NdNiSnH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38504845
+_cell_length_b   7.24421308
+_cell_length_c   8.46944320
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdNiSnH
+_chemical_formula_sum   'Nd4 Ni4 Sn4 H4'
+_cell_volume   269.04224118
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.24276419  0.01303809  0.31109755  1
+  Nd  Nd1  1  0.74276419  0.98696191  0.68890245  1
+  Nd  Nd2  1  0.74276419  0.48696191  0.81109755  1
+  Nd  Nd3  1  0.24276419  0.51303809  0.18890245  1
+  Ni  Ni4  1  0.24281866  0.77926470  0.90065471  1
+  Ni  Ni5  1  0.74281866  0.22073530  0.09934529  1
+  Ni  Ni6  1  0.74281866  0.72073530  0.40065471  1
+  Ni  Ni7  1  0.24281866  0.27926470  0.59934529  1
+  Sn  Sn8  1  0.24275255  0.65826513  0.56915693  1
+  Sn  Sn9  1  0.74275255  0.34173487  0.43084307  1
+  Sn  Sn10  1  0.74275255  0.84173487  0.06915693  1
+  Sn  Sn11  1  0.24275255  0.15826513  0.93084307  1
+  H  H12  1  0.74276460  0.44101752  0.08051838  1
+  H  H13  1  0.24276460  0.55898248  0.91948162  1
+  H  H14  1  0.24276460  0.05898248  0.58051838  1
+  H  H15  1  0.74276460  0.94101752  0.41948162  1

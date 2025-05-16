@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaFeNi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96339122
+_cell_length_b   5.03489192
+_cell_length_c   5.04237583
+_cell_angle_alpha   119.94482277
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFeNi4
+_chemical_formula_sum   'La1 Fe1 Ni4'
+_cell_volume   87.18949042
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.99999374  0.00005187  1
+  Fe  Fe1  1  0.00000000  0.33334779  0.66659144  1
+  Ni  Ni2  1  0.00000000  0.66655402  0.33330213  1
+  Ni  Ni3  1  0.50000000  0.50028786  0.00057146  1
+  Ni  Ni4  1  0.50000000  0.50028407  0.49975577  1
+  Ni  Ni5  1  0.50000000  0.99943252  0.49972732  1

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Te2Pd7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.97532226
+_cell_length_b   8.96253582
+_cell_length_c   8.97532226
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   120.04720455
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te2Pd7
+_chemical_formula_sum   'Te6 Pd21'
+_cell_volume   510.15925733
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.24398497  0.11597746  0.12800751  1
+  Te  Te1  1  0.75601503  0.88402254  0.87199249  1
+  Te  Te2  1  0.50000000  0.00000000  0.50000000  1
+  Te  Te3  1  0.50000000  0.50000000  0.50000000  1
+  Te  Te4  1  0.00000000  0.50000000  -0.00000000  1
+  Te  Te5  1  0.00000000  0.50000000  0.50000000  1
+  Pd  Pd6  1  0.73186085  0.86746315  0.38406957  1
+  Pd  Pd7  1  0.76977585  0.37864864  0.86511207  1
+  Pd  Pd8  1  0.25153272  0.86746315  0.86439771  1
+  Pd  Pd9  1  0.24376072  0.37864864  0.39112721  1
+  Pd  Pd10  1  0.24376072  0.37864864  0.86511207  1
+  Pd  Pd11  1  0.25153272  0.86746315  0.38406957  1
+  Pd  Pd12  1  0.26813915  0.13253685  0.61593043  1
+  Pd  Pd13  1  0.23022415  0.62135136  0.13488793  1
+  Pd  Pd14  1  0.74846728  0.13253685  0.13560229  1
+  Pd  Pd15  1  0.75623928  0.62135136  0.60887279  1
+  Pd  Pd16  1  0.75623928  0.62135136  0.13488793  1
+  Pd  Pd17  1  0.74846728  0.13253685  0.61593043  1
+  Pd  Pd18  1  0.01466732  0.77200099  0.24266634  1
+  Pd  Pd19  1  0.02481065  0.24553724  0.23759468  1
+  Pd  Pd20  1  0.48313192  0.24553724  0.77927340  1
+  Pd  Pd21  1  0.48313192  0.24553724  0.23759468  1
+  Pd  Pd22  1  0.98533268  0.22799901  0.75733366  1
+  Pd  Pd23  1  0.97518935  0.75446276  0.76240532  1
+  Pd  Pd24  1  0.51686808  0.75446276  0.22072660  1
+  Pd  Pd25  1  0.51686808  0.75446276  0.76240532  1
+  Pd  Pd26  1  0.50000000  0.50000000  -0.00000000  1

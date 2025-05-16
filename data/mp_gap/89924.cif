@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Y(Al5Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75854371
+_cell_length_b   6.75854370
+_cell_length_c   8.97543475
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.20199444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(Al5Fe)2
+_chemical_formula_sum   'Y2 Al20 Fe4'
+_cell_volume   406.74453085
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.58541155  0.86564569  0.75000000  1
+  Al  Al1  1  0.41458845  0.13435431  0.25000000  1
+  Al  Al2  1  0.86564569  0.58541155  0.25000000  1
+  Al  Al3  1  0.13435431  0.41458845  0.75000000  1
+  Al  Al4  1  0.47818225  0.21984090  0.75000000  1
+  Al  Al5  1  0.52181775  0.78015910  0.25000000  1
+  Al  Al6  1  0.21984090  0.47818225  0.25000000  1
+  Al  Al7  1  0.78015910  0.52181775  0.75000000  1
+  Al  Al8  1  0.15837261  0.84162739  0.40282847  1
+  Al  Al9  1  0.84162739  0.15837261  0.90282847  1
+  Al  Al10  1  0.84162739  0.15837261  0.59717153  1
+  Al  Al11  1  0.15837261  0.84162739  0.09717153  1
+  Al  Al12  1  0.37478020  0.62521980  0.95108767  1
+  Al  Al13  1  0.62521980  0.37478020  0.45108767  1
+  Al  Al14  1  0.62521980  0.37478020  0.04891233  1
+  Al  Al15  1  0.37478020  0.62521980  0.54891233  1
+  Al  Al16  1  0.22736580  0.22736580  0.00000000  1
+  Al  Al17  1  0.77263420  0.77263420  0.50000000  1
+  Al  Al18  1  0.77263420  0.77263420  0.00000000  1
+  Al  Al19  1  0.22736580  0.22736580  0.50000000  1
+  Fe  Fe20  1  0.50000000  0.00000000  0.00000000  1
+  Fe  Fe21  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe22  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe23  1  0.00000000  0.50000000  0.50000000  1
+  Y  Y24  1  0.12584053  0.87415947  0.75000000  1
+  Y  Y25  1  0.87415947  0.12584053  0.25000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CeAg(PSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76337228
+_cell_length_b   7.50100963
+_cell_length_c   9.97029504
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   88.05388432
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeAg(PSe3)2
+_chemical_formula_sum   'Ce2 Ag2 P4 Se12'
+_cell_volume   505.52245970
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.96059259  0.11178139  0.75532577  1
+  Ce  Ce1  1  0.46059259  0.38821861  0.25532577  1
+  Ag  Ag2  1  0.54988553  0.57214874  0.73906468  1
+  Ag  Ag3  1  0.04988553  0.92785126  0.23906468  1
+  P  P4  1  0.06475257  0.60898697  0.56494268  1
+  P  P5  1  0.43352283  0.10611261  0.93828993  1
+  P  P6  1  0.93352283  0.39388739  0.43828993  1
+  P  P7  1  0.56475257  0.89101303  0.06494268  1
+  Se  Se8  1  0.81447762  0.79736500  0.58496812  1
+  Se  Se9  1  0.66017970  0.32184114  0.93824988  1
+  Se  Se10  1  0.16017970  0.17815886  0.43824988  1
+  Se  Se11  1  0.31447762  0.70263500  0.08496812  1
+  Se  Se12  1  0.31498984  0.71182487  0.44223526  1
+  Se  Se13  1  0.16167645  0.20898776  0.04270407  1
+  Se  Se14  1  0.66167645  0.29101224  0.54270407  1
+  Se  Se15  1  0.81498984  0.78817513  0.94223526  1
+  Se  Se16  1  0.14487966  0.48467172  0.75948431  1
+  Se  Se17  1  0.38384321  0.98159270  0.74122529  1
+  Se  Se18  1  0.88384321  0.51840730  0.24122529  1
+  Se  Se19  1  0.64487966  0.01532828  0.25948431  1

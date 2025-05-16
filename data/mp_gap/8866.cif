@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Co(NiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81183250
+_cell_length_b   6.83064726
+_cell_length_c   6.06240014
+_cell_angle_alpha   106.26803487
+_cell_angle_beta   55.81894492
+_cell_angle_gamma   119.90892477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(NiS2)2
+_chemical_formula_sum   'Co2 Ni4 S8'
+_cell_volume   202.27595533
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.22645086  0.50000000  0.50000000  1
+  Co  Co1  1  0.47645086  -0.00000000  0.00000000  1
+  Ni  Ni2  1  0.98666909  0.51661599  0.04726310  1
+  Ni  Ni3  1  0.51731620  0.48338401  0.95273690  1
+  Ni  Ni4  1  0.22005310  0.98338401  0.54726310  1
+  Ni  Ni5  1  0.78393219  0.01661599  0.45273690  1
+  S  S6  1  0.05069018  0.84592258  0.27484582  1
+  S  S7  1  0.07553600  0.34592258  0.22515418  1
+  S  S8  1  0.53048706  0.82410830  0.25239640  1
+  S  S9  1  0.53288347  0.32410830  0.24760360  1
+  S  S10  1  0.45637777  0.67589170  0.75239640  1
+  S  S11  1  0.47961242  0.15407742  0.72515418  1
+  S  S12  1  0.95476660  0.65407742  0.77484582  1
+  S  S13  1  0.95877417  0.17589170  0.74760360  1

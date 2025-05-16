@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cs2Hg2H2I4Br2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.82912846
+_cell_length_b   9.14384246
+_cell_length_c   14.02451088
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   93.01692685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Hg2H2I4Br2O
+_chemical_formula_sum   'Cs4 Hg4 H4 I8 Br4 O2'
+_cell_volume   1002.59963234
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.36093109  0.68340312  0.80143886  1
+  Cs  Cs1  1  0.36093109  0.18340312  0.19856114  1
+  Cs  Cs2  1  0.91123491  0.05485501  0.67585754  1
+  Cs  Cs3  1  0.91123491  0.55485501  0.32414246  1
+  Hg  Hg4  1  0.81166797  0.40895207  0.92903026  1
+  Hg  Hg5  1  0.81166797  0.90895207  0.07096974  1
+  Hg  Hg6  1  0.81746389  0.54792509  0.64416310  1
+  Hg  Hg7  1  0.81746389  0.04792509  0.35583690  1
+  H  H8  1  0.37508359  0.01138532  0.62710351  1
+  H  H9  1  0.37508359  0.51138532  0.37289649  1
+  H  H10  1  0.38527358  0.10006463  0.72102079  1
+  H  H11  1  0.38527358  0.60006463  0.27897921  1
+  I  I12  1  0.58152292  0.53181959  0.04332756  1
+  I  I13  1  0.58152292  0.03181959  0.95667244  1
+  I  I14  1  0.11311807  0.28412858  0.90458983  1
+  I  I15  1  0.11311807  0.78412858  0.09541017  1
+  I  I16  1  0.59751124  0.71325033  0.54000560  1
+  I  I17  1  0.59751124  0.21325033  0.45999440  1
+  I  I18  1  0.11086790  0.42722014  0.57993619  1
+  I  I19  1  0.11086790  0.92722014  0.42006381  1
+  Br  Br20  1  0.61751556  0.34359142  0.75595869  1
+  Br  Br21  1  0.61751556  0.84359142  0.24404131  1
+  Br  Br22  1  0.89054632  0.70912973  0.81095452  1
+  Br  Br23  1  0.89054632  0.20912973  0.18904548  1
+  O  O24  1  0.33259196  0.01077496  0.69245654  1
+  O  O25  1  0.33259196  0.51077496  0.30754346  1

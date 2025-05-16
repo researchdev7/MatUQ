@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CeRe2SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99339099
+_cell_length_b   5.84791877
+_cell_length_c   7.32112997
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.96444453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeRe2SiC
+_chemical_formula_sum   'Ce2 Re4 Si2 C2'
+_cell_volume   160.69601076
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.45508928  0.91017857  0.25000000  1
+  Ce  Ce1  1  0.54491072  0.08982143  0.75000000  1
+  Re  Re2  1  0.17312788  0.34625577  0.06216662  1
+  Re  Re3  1  0.82687212  0.65374423  0.93783338  1
+  Re  Re4  1  0.82687212  0.65374423  0.56216662  1
+  Re  Re5  1  0.17312788  0.34625577  0.43783338  1
+  Si  Si6  1  0.73458436  0.46916872  0.25000000  1
+  Si  Si7  1  0.26541564  0.53083128  0.75000000  1
+  C  C8  1  -0.00000000  0.00000000  -0.00000000  1
+  C  C9  1  -0.00000000  0.00000000  0.50000000  1

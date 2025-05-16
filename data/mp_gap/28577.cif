@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiMnAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92398693
+_cell_length_b   4.97308722
+_cell_length_c   8.13530468
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.32437514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMnAl
+_chemical_formula_sum   'Ti4 Mn4 Al4'
+_cell_volume   171.95649286
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66868276  0.33430797  0.55336969  1
+  Ti  Ti1  1  0.34327893  0.67165165  0.42503711  1
+  Ti  Ti2  1  0.34327893  0.67165165  0.07496289  1
+  Ti  Ti3  1  0.66868276  0.33430797  0.94663031  1
+  Mn  Mn4  1  0.66566756  0.83278226  0.75000000  1
+  Mn  Mn5  1  0.81651823  0.64040194  0.25000000  1
+  Mn  Mn6  1  0.81662641  0.17615752  0.25000000  1
+  Mn  Mn7  1  0.35010808  0.17513285  0.25000000  1
+  Al  Al8  1  0.98640754  0.99322124  0.48992683  1
+  Al  Al9  1  0.98640754  0.99322124  0.01007317  1
+  Al  Al10  1  0.17718879  0.34470907  0.75000000  1
+  Al  Al11  1  0.17715246  0.83245465  0.75000000  1

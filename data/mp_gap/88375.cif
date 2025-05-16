@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErGaCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08057487
+_cell_length_b   6.67198046
+_cell_length_c   7.62891502
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErGaCo
+_chemical_formula_sum   'Er4 Ga4 Co4'
+_cell_volume   207.70114640
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.75000000  0.22888040  0.38066239  1
+  Co  Co1  1  0.25000000  0.77111960  0.61933761  1
+  Co  Co2  1  0.75000000  0.72888040  0.11933761  1
+  Co  Co3  1  0.25000000  0.27111960  0.88066239  1
+  Ga  Ga4  1  0.75000000  0.34730238  0.06366291  1
+  Ga  Ga5  1  0.25000000  0.15269762  0.56366291  1
+  Ga  Ga6  1  0.25000000  0.65269762  0.93633709  1
+  Ga  Ga7  1  0.75000000  0.84730238  0.43633709  1
+  Er  Er8  1  0.25000000  0.52656662  0.31557512  1
+  Er  Er9  1  0.25000000  0.02656662  0.18442488  1
+  Er  Er10  1  0.75000000  0.97343338  0.81557512  1
+  Er  Er11  1  0.75000000  0.47343338  0.68442488  1

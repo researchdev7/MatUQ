@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tb5CuBi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41715400
+_cell_length_b   9.34306755
+_cell_length_c   9.34038687
+_cell_angle_alpha   120.00949695
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5CuBi3
+_chemical_formula_sum   'Tb10 Cu2 Bi6'
+_cell_volume   484.93762170
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.50000011  0.33333639  0.66669766  1
+  Tb  Tb1  1  0.50000011  0.66663874  0.33330234  1
+  Tb  Tb2  1  0.00000011  0.66666361  0.33330234  1
+  Tb  Tb3  1  0.00000011  0.33336126  0.66669766  1
+  Tb  Tb4  1  0.74999482  0.25576544  1.00000000  1
+  Tb  Tb5  1  0.75000310  0.74434764  0.74444031  1
+  Tb  Tb6  1  0.75000310  0.99990733  0.25555969  1
+  Tb  Tb7  1  0.24999482  0.74423456  0.00000000  1
+  Tb  Tb8  1  0.25000310  0.25565236  0.25555969  1
+  Tb  Tb9  1  0.25000310  0.00009267  0.74444031  1
+  Cu  Cu10  1  0.50000020  0.99998765  0.00000000  1
+  Cu  Cu11  1  0.00000020  0.00001235  -0.00000000  1
+  Bi  Bi12  1  0.74999935  0.61486515  0.00000000  1
+  Bi  Bi13  1  0.74999961  0.38520261  0.38518345  1
+  Bi  Bi14  1  0.74999961  0.00001916  0.61481655  1
+  Bi  Bi15  1  0.24999935  0.38513485  1.00000000  1
+  Bi  Bi16  1  0.24999961  0.61479739  0.61481655  1
+  Bi  Bi17  1  0.24999961  -0.00001916  0.38518345  1

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_BaAu2(SO4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72509120
+_cell_length_b   6.72509120
+_cell_length_c   9.29624695
+_cell_angle_alpha   74.65026438
+_cell_angle_beta   74.65026438
+_cell_angle_gamma   86.76063113
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAu2(SO4)4
+_chemical_formula_sum   'Ba1 Au2 S4 O16'
+_cell_volume   390.93752544
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  -0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  -0.00000000  0.00000000  0.50000000  1
+  Au  Au2  1  0.50000000  0.50000000  0.50000000  1
+  S  S3  1  0.91312393  0.41244998  0.27692209  1
+  S  S4  1  0.41244998  0.91312393  0.27692209  1
+  S  S5  1  0.08687607  0.58755002  0.72307791  1
+  S  S6  1  0.58755002  0.08687607  0.72307791  1
+  O  O7  1  0.67762798  0.37348588  0.33441537  1
+  O  O8  1  0.37348588  0.67762798  0.33441537  1
+  O  O9  1  0.32237202  0.62651412  0.66558463  1
+  O  O10  1  0.62651412  0.32237202  0.66558463  1
+  O  O11  1  0.97910055  0.30927756  0.15380277  1
+  O  O12  1  0.30927756  0.97910055  0.15380277  1
+  O  O13  1  0.02089945  0.69072244  0.84619723  1
+  O  O14  1  0.69072244  0.02089945  0.84619723  1
+  O  O15  1  0.00907699  0.31257696  0.41283423  1
+  O  O16  1  0.31257696  0.00907699  0.41283423  1
+  O  O17  1  0.99092301  0.68742304  0.58716577  1
+  O  O18  1  0.68742304  0.99092301  0.58716577  1
+  O  O19  1  0.96328047  0.63000511  0.23854795  1
+  O  O20  1  0.63000511  0.96328047  0.23854795  1
+  O  O21  1  0.03671953  0.36999489  0.76145205  1
+  O  O22  1  0.36999489  0.03671953  0.76145205  1

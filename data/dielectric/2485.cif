@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2PtSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75050226
+_cell_length_b   5.75838256
+_cell_length_c   11.45483782
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.00531591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PtSe2
+_chemical_formula_sum   'Na4 Pt2 Se4'
+_cell_volume   233.90261595
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.43651660  0.87303319  0.86918495  1
+  Na  Na1  1  0.56348340  0.12696681  0.36918495  1
+  Na  Na2  1  0.82524710  0.65049421  0.59935725  1
+  Na  Na3  1  0.17475290  0.34950579  0.09935725  1
+  Se  Se4  1  0.55227505  0.10455011  0.63055508  1
+  Se  Se5  1  0.44772495  0.89544989  0.13055508  1
+  Se  Se6  1  0.71939839  0.43879677  0.87204525  1
+  Se  Se7  1  0.28060161  0.56120323  0.37204525  1
+  Pt  Pt8  1  0.13597004  0.27194008  0.75115748  1
+  Pt  Pt9  1  0.86402996  0.72805992  0.25115748  1

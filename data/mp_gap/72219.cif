@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na2Ga2Se3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.71027729
+_cell_length_b   26.09777271
+_cell_length_c   16.91408302
+_cell_angle_alpha   13.55109371
+_cell_angle_beta   23.17532366
+_cell_angle_gamma   26.65650700
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Ga2Se3
+_chemical_formula_sum   'Na4 Ga4 Se6'
+_cell_volume   354.54768106
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000115  -0.00005807  0.00008727  1
+  Na  Na1  1  0.99999400  0.33339158  -0.00008577  1
+  Na  Na2  1  0.99999498  0.66666754  0.00000034  1
+  Na  Na3  1  0.50000261  0.66666310  0.50000446  1
+  Ga  Ga4  1  0.45078904  0.33356010  0.45133825  1
+  Ga  Ga5  1  0.54920467  0.33356144  0.54797820  1
+  Ga  Ga6  1  0.45079375  0.99976755  0.45202699  1
+  Ga  Ga7  1  0.54920613  0.99977182  0.54866616  1
+  Se  Se8  1  0.24826064  0.00899133  0.24332966  1
+  Se  Se9  1  0.24826814  0.32434289  0.27029950  1
+  Se  Se10  1  0.75173418  0.00899165  0.72970073  1
+  Se  Se11  1  0.26849319  0.66666660  0.24648522  1
+  Se  Se12  1  0.75173696  0.32434358  0.75667041  1
+  Se  Se13  1  0.73152056  0.66667190  0.75349858  1

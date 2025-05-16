@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_EuDyTi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24996896
+_cell_length_b   7.22404515
+_cell_length_c   7.26695871
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   59.92244986
+_cell_angle_gamma   119.88178672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuDyTi2O7
+_chemical_formula_sum   'Eu2 Dy2 Ti4 O14'
+_cell_volume   269.28969514
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.50000000  0.50000000  -0.00000000  1
+  Eu  Eu1  1  0.50000000  0.00000000  -0.00000000  1
+  Dy  Dy2  1  0.00000000  0.00000000  0.50000000  1
+  Dy  Dy3  1  0.00000000  0.00000000  -0.00000000  1
+  Ti  Ti4  1  0.50000000  0.00000000  0.50000000  1
+  Ti  Ti5  1  0.50000000  0.50000000  0.50000000  1
+  Ti  Ti6  1  0.00000000  0.50000000  -0.00000000  1
+  Ti  Ti7  1  0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.65753184  0.82876592  0.42123408  1
+  O  O9  1  0.84764283  0.42382142  0.82617858  1
+  O  O10  1  0.24729740  0.82787834  0.82731332  1
+  O  O11  1  0.24729740  0.41941905  0.42538929  1
+  O  O12  1  0.24729740  0.41941905  0.82731332  1
+  O  O13  1  0.24729740  0.82787834  0.42538929  1
+  O  O14  1  0.34246816  0.17123408  0.57876592  1
+  O  O15  1  0.15235717  0.57617858  0.17382142  1
+  O  O16  1  0.75270260  0.17212166  0.17268668  1
+  O  O17  1  0.75270260  0.58058095  0.57461071  1
+  O  O18  1  0.75270260  0.58058095  0.17268668  1
+  O  O19  1  0.75270260  0.17212166  0.57461071  1
+  O  O20  1  0.23831075  0.11915537  0.13084463  1
+  O  O21  1  0.76168925  0.88084463  0.86915537  1

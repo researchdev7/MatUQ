@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li(Fe3Ge2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12417027
+_cell_length_b   7.12417055
+_cell_length_c   7.12417094
+_cell_angle_alpha   41.49420173
+_cell_angle_beta   41.49419919
+_cell_angle_gamma   41.49420158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(Fe3Ge2)2
+_chemical_formula_sum   'Li1 Fe6 Ge4'
+_cell_volume   143.42914391
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  -0.00000000  -0.00000000  0.00000000  1
+  Fe  Fe1  1  0.88640843  0.39978499  0.39978499  1
+  Fe  Fe2  1  0.60021501  0.11359157  0.60021501  1
+  Fe  Fe3  1  0.60021501  0.60021501  0.11359157  1
+  Fe  Fe4  1  0.11359157  0.60021501  0.60021501  1
+  Fe  Fe5  1  0.39978499  0.39978499  0.88640843  1
+  Fe  Fe6  1  0.39978499  0.88640843  0.39978499  1
+  Ge  Ge7  1  0.12726023  0.12726023  0.12726023  1
+  Ge  Ge8  1  0.33159311  0.33159311  0.33159311  1
+  Ge  Ge9  1  0.66840689  0.66840689  0.66840689  1
+  Ge  Ge10  1  0.87273977  0.87273977  0.87273977  1

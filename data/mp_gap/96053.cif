@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SmAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65857700
+_cell_length_b   3.65865764
+_cell_length_c   12.53514738
+_cell_angle_alpha   90.00160467
+_cell_angle_beta   89.99936262
+_cell_angle_gamma   119.99886643
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAgO2
+_chemical_formula_sum   'Sm2 Ag2 O4'
+_cell_volume   145.31117297
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00002450  0.00007247  0.99998554  1
+  Sm  Sm1  1  0.99998746  0.99994239  0.50000750  1
+  Ag  Ag2  1  0.33333285  0.66670719  0.25000133  1
+  Ag  Ag3  1  0.66666546  0.33333949  0.75000134  1
+  O  O4  1  0.33332282  0.66669365  0.08422162  1
+  O  O5  1  0.33331619  0.66669903  0.41577994  1
+  O  O6  1  0.66667552  0.33339687  0.58424219  1
+  O  O7  1  0.66667520  0.33334791  0.91575954  1

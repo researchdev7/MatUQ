@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NdZnPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99151588
+_cell_length_b   7.46471081
+_cell_length_c   7.46492481
+_cell_angle_alpha   119.99904388
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdZnPd
+_chemical_formula_sum   'Nd3 Zn3 Pd3'
+_cell_volume   192.62431277
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  -0.00000000  0.59123956  1.00000000  1
+  Nd  Nd1  1  -0.00000000  0.40876085  0.40876550  1
+  Nd  Nd2  1  0.00000000  0.99999534  0.59123450  1
+  Zn  Zn3  1  0.50000000  0.24230010  0.00000000  1
+  Zn  Zn4  1  0.50000000  0.75769511  0.75769632  1
+  Zn  Zn5  1  0.50000000  -0.00000121  0.24230368  1
+  Pd  Pd6  1  -0.00000000  0.00000433  1.00000000  1
+  Pd  Pd7  1  0.50000000  0.33329894  0.66669195  1
+  Pd  Pd8  1  0.50000000  0.66660699  0.33330805  1

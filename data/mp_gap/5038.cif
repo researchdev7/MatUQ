@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cu(HO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83180204
+_cell_length_b   5.83180204
+_cell_length_c   5.24399527
+_cell_angle_alpha   90.70075582
+_cell_angle_beta   89.29924418
+_cell_angle_gamma   29.37335856
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu(HO)2
+_chemical_formula_sum   'Cu2 H4 O4'
+_cell_volume   87.37752160
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.13548601  0.22074948  0.28460700  1
+  Cu  Cu1  1  0.77925052  0.86451399  0.78460700  1
+  H  H2  1  0.48237077  0.55561722  0.42896897  1
+  H  H3  1  0.44438278  0.51762923  0.92896897  1
+  H  H4  1  0.76548466  0.96572660  0.30447172  1
+  H  H5  1  0.03427340  0.23451534  0.80447172  1
+  O  O6  1  0.53441281  0.58544795  0.26184857  1
+  O  O7  1  0.41455205  0.46558719  0.76184857  1
+  O  O8  1  0.73706972  0.84525673  0.21162473  1
+  O  O9  1  0.15474327  0.26293028  0.71162473  1

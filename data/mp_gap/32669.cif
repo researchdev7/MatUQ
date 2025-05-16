@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaCd(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32749875
+_cell_length_b   5.32777654
+_cell_length_c   6.79620536
+_cell_angle_alpha   66.93950170
+_cell_angle_beta   66.94077525
+_cell_angle_gamma   90.03862373
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCd(WO4)2
+_chemical_formula_sum   'Ca1 Cd1 W2 O8'
+_cell_volume   160.57786820
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.37726267  0.62726267  0.24547467  1
+  Cd  Cd1  1  0.62778444  0.37778444  0.74443112  1
+  W  W2  1  0.87723431  0.12723431  0.24553138  1
+  W  W3  1  0.12756906  0.87756906  0.74486187  1
+  O  O4  1  0.20922436  0.37017534  0.06887458  1
+  O  O5  1  0.72190106  0.06095008  0.06887458  1
+  O  O6  1  0.37227907  0.72393067  0.56823918  1
+  O  O7  1  0.05948175  0.20783015  0.56823918  1
+  O  O8  1  0.79768329  0.63213807  0.92344959  1
+  O  O9  1  0.27886712  0.94441235  0.92344959  1
+  O  O10  1  0.63368970  0.28098935  0.42328713  1
+  O  O11  1  0.94302317  0.79572351  0.42328713  1
