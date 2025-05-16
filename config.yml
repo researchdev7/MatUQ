@@ -7,7 +7,7 @@ Models:
         n_conv: 3
         evidential: "True"
         coeff: 0.01
-        epochs: 500
+        epochs: 1000
         lr: 0.01
         lr_milestones: [100]
         momentum: 0.9
@@ -31,7 +31,7 @@ Models:
         mc_dropout: 0.1
         evidential: "True"
         coeff: 0.01
-        epochs: 500
+        epochs: 1000
         lr: 0.001
         weight_decay: 0.0
         batch_size: 128
@@ -54,7 +54,7 @@ Models:
         optimizer: "AdamW"
         scheduler: "ReduceLROnPlateau"
         batch_size: 32
-        epochs: 500
+        epochs: 1000
         factor: 0.5
         patience: 75
         threshold: 0.0
@@ -80,7 +80,7 @@ Models:
             dropout_rate: 0.0
         evidential: "True"
         coeff: 0.01
-        epochs: 500
+        epochs: 1000
         lr: 0.005
         weight_decay: 0.0
         batch_size: 100
@@ -99,7 +99,7 @@ Models:
         max_neighbors: 12
         use_canonize: True
         batch_size: 64
-        epochs: 300
+        epochs: 1000
         lr: 0.001
         weight_decay: 0.00001
         optimizer: "AdamW"
@@ -118,7 +118,7 @@ Models:
     DimeNetPP:
         model: "DimeNetPP"
         batch_size: 32
-        epochs: 500
+        epochs: 1000
         optimizer: "Adam"
         amsgrad: "True"
         lr: 0.001
@@ -150,7 +150,7 @@ Models:
     SODNet:
         model: "SODNet"
         batch_size: 64
-        epochs: 500
+        epochs: 1000
         optimizer: "AdamW"
         feature_type: "crystalnet"
         weight_decay: 0.005
@@ -175,7 +175,7 @@ Models:
     Matformer:
         model: "Matformer"
         batch_size: 64
-        epochs: 300
+        epochs: 1000
         optimizer: "AdamW"
         weight_decay: 0.00001
         lr: 0.001
@@ -201,7 +201,7 @@ Models:
     PotNet:
         model: "PotNet"
         batch_size: 64
-        epochs: 500
+        epochs: 1000
         optimizer: "AdamW"
         weight_decay: 0.0
         lr: 0.001
@@ -228,7 +228,7 @@ Models:
         model: "ComFormer"
         name: "eComFormer"
         batch_size: 64
-        epochs: 500
+        epochs: 1000
         max_neighbors: 25
         cutoff: 4.0
         optimizer: "AdamW"
@@ -259,7 +259,7 @@ Models:
     DimeNetPP_TF:
         model: "DimeNetPP_TF"
         batch_size: 16
-        epochs: 500
+        epochs: 1000
         model_setting:
             name: "DimeNetPP_TF"
             emb_size: 128
@@ -281,7 +281,7 @@ Models:
     CrystalFramer:
         model: "CrystalFramer"
         batch_size: 256
-        epochs: 500
+        epochs: 1000
         optimizer: "AdamW"
         weight_decay: 0.00001
         lr: 0.0005
@@ -335,7 +335,7 @@ Models:
     CrystalFramer_MAE:
         model: "CrystalFramer"
         batch_size: 256
-        epochs: 500
+        epochs: 1000
         optimizer: "AdamW"
         weight_decay: 0.00001
         lr: 0.0005
