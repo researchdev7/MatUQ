@@ -30,7 +30,6 @@ conda activate matuq
 ## Data Processing and Preparation
 MatUQ leverages datasets from six materials databases. 
 
-```
 
 ## Running Experiments
 
